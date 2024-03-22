@@ -1,0 +1,656 @@
+{
+  "auteurs": [
+    {
+      "id_auteur": 1,
+      "nom_auteur": "Rakotonjanahary"
+    },
+    {
+      "id_auteur": 2,
+      "nom_auteur": "Rajoelison"
+    },
+    {
+      "id_auteur": 3,
+      "nom_auteur": "M. Randriamiarana"
+    },
+    {
+      "id_auteur": 4,
+      "nom_auteur": "A. Raoeliarijaona"
+    },
+    {
+      "id_auteur": 5,
+      "nom_auteur": "Jeanne Ratsirison"
+    },
+    {
+      "id_auteur": 6,
+      "nom_auteur": "J. P. Randriamahefa"
+    },
+    {
+      "id_auteur": 7,
+      "nom_auteur": "A. Emiliarison"
+    },
+    {
+      "id_auteur": 8,
+      "nom_auteur": "(Tsy fantatra)"
+    },
+    {
+      "id_auteur": 9,
+      "nom_auteur": "Ramahandry"
+    },
+    {
+      "id_auteur": 10,
+      "nom_auteur": "F. Ramanantsialonina"
+    },
+    {
+      "id_auteur": 11,
+      "nom_auteur": "Maintimolaly"
+    },
+    {
+      "id_auteur": 12,
+      "nom_auteur": "Josué A. Rabarison"
+    },
+    {
+      "id_auteur": 13,
+      "nom_auteur": "A. R. Marnoël"
+    },
+    {
+      "id_auteur": 14,
+      "nom_auteur": "Samoely Lala James"
+    },
+    {
+      "id_auteur": 15,
+      "nom_auteur": "D. Razakaria"
+    },
+    {
+      "id_auteur": 16,
+      "nom_auteur": "Rajaonimaria"
+    },
+    {
+      "id_auteur": 17,
+      "nom_auteur": "D. Rasolonjatovo"
+    },
+    {
+      "id_auteur": 18,
+      "nom_auteur": "T. Rowlands"
+    },
+    {
+      "id_auteur": 19,
+      "nom_auteur": "S. Razanajatovo"
+    },
+    {
+      "id_auteur": 20,
+      "nom_auteur": "R. Baron"
+    },
+    {
+      "id_auteur": 21,
+      "nom_auteur": "Rowlands sy Peake"
+    },
+    {
+      "id_auteur": 22,
+      "nom_auteur": "D. O. Jones"
+    },
+    {
+      "id_auteur": 23,
+    "nom_auteur": "Raymond B. Rakotondrainibe"
+    },
+    {
+      "id_auteur": 24,
+      "nom_auteur": "J. Ramahaisahy"
+    },
+    {
+      "id_auteur": 25,
+      "nom_auteur": "R. Rabenasolo"
+    },
+    {
+      "id_auteur": 26,
+      "nom_auteur": "M. Randriamiandriray"
+    },
+    {
+      "id_auteur": 27,
+      "nom_auteur": "J. Hiran'ala Andrianavony"
+    },
+    {
+      "id_auteur": 28,
+      "nom_auteur": "R. Tovoarimino"
+    },
+    {
+      "id_auteur": 29,
+      "nom_auteur": "J. Rakotomananjanahary"
+    },
+    {
+      "id_auteur": 30,
+      "nom_auteur": "N. Ravoninjatovo"
+    },
+    {
+      "id_auteur": 31,
+      "nom_auteur": "R. G. Hartley"
+    },
+    {
+      "id_auteur": 32,
+      "nom_auteur": "L. Stueland sy M. J. Meeg"
+    },
+    {
+      "id_auteur": 33,
+      "nom_auteur": "A. Rakotovao"
+    },
+    {
+      "id_auteur": 34,
+      "nom_auteur": "Esther Bary"
+    },
+    {
+      "id_auteur": 35,
+      "nom_auteur": "G. Torvik"
+    },
+    {
+      "id_auteur": 36,
+      "nom_auteur": "V. Andersen"
+    },
+    {
+      "id_auteur": 37,
+      "nom_auteur": "Hira anglikana"
+    },
+    {
+      "id_auteur": 38,
+      "nom_auteur": "Rajaobelina"
+    },
+    {
+      "id_auteur": 39,
+      "nom_auteur": "J. Andrianaivoravelona"
+    },
+    {
+      "id_auteur": 40,
+      "nom_auteur": "Rabenadimby"
+    },
+    {
+      "id_auteur": 41,
+      "nom_auteur": "J. Rabarijoël"
+    },
+    {
+      "id_auteur": 42,
+      "nom_auteur": "L. J. Raharijaona"
+    },
+    {
+      "id_auteur": 43,
+      "nom_auteur": "B. Andriantsizafy"
+    },
+    {
+      "id_auteur": 44,
+      "nom_auteur": "Razanaka"
+    },
+    {
+      "id_auteur": 45,
+      "nom_auteur": "James Ratsirison"
+    },
+    {
+      "id_auteur": 46,
+      "nom_auteur": "J. Ratsimihahy"
+    },
+    {
+      "id_auteur": 47,
+      "nom_auteur": "B. Rajorotahiana"
+    },
+    {
+      "id_auteur": 48,
+      "nom_auteur": "J. Richardson"
+    },
+    {
+      "id_auteur": 49,
+      "nom_auteur": "Raobijaona"
+    },
+    {
+      "id_auteur": 50,
+      "nom_auteur": "Rajelison"
+    },
+    {
+      "id_auteur": 51,
+      "nom_auteur": "L. D. Randriamampandry"
+    },
+    {
+      "id_auteur": 52,
+      "nom_auteur": "B. Ranorohanta"
+    },
+    {
+      "id_auteur": 53,
+      "nom_auteur": "R. Tsimaitoarivo"
+    },
+    {
+      "id_auteur": 54,
+      "nom_auteur": "A. Razaka"
+    },
+    {
+      "id_auteur": 55,
+      "nom_auteur": "Suzette Ratsimba"
+    },
+    {
+      "id_auteur": 56,
+      "nom_auteur": "Ramasitera"
+    },
+    {
+      "id_auteur": 57,
+      "nom_auteur": "Rajaobelina, M. J. Meeg, J. Johnson"
+    },
+    {
+      "id_auteur": 58,
+      "nom_auteur": "W. E. Cousin"
+    },
+    {
+      "id_auteur": 59,
+      "nom_auteur": "E. Andrianjafitrimo"
+    },
+    {
+      "id_auteur": 60,
+      "nom_auteur": "S. Razafindrakoto"
+    },
+    {
+      "id_auteur": 61,
+      "nom_auteur": "A. M. Fredoux Peake"
+    },
+    {
+      "id_auteur": 62,
+      "nom_auteur": "E. Rakotoson"
+    },
+    {
+      "id_auteur": 63,
+      "nom_auteur": "W. E. Cousins"
+    },
+    {
+      "id_auteur": 64,
+      "nom_auteur": "E. E. Cousins"
+    },
+    {
+      "id_auteur": 65,
+      "nom_auteur": "J. A. Houlder"
+    },
+    {
+      "id_auteur": 66,
+      "nom_auteur": "Randriavoavonjy"
+    },
+    {
+      "id_auteur": 67,
+      "nom_auteur": "Rasamoelina"
+    },
+    {
+      "id_auteur": 68,
+      "nom_auteur": "D. Razafindramanana"
+    },
+    {
+      "id_auteur": 69,
+      "nom_auteur": "E. Razakarivony"
+    },
+    {
+      "id_auteur": 70,
+      "nom_auteur": "D. Rabarijoël"
+    },
+    {
+      "id_auteur": 71,
+      "nom_auteur": "Deara Arson"
+    },
+    {
+      "id_auteur": 72,
+      "nom_auteur": "J. Rajoely"
+    },
+    {
+      "id_auteur": 73,
+      "nom_auteur": "G. Raterarison"
+    },
+    {
+      "id_auteur": 74,
+      "nom_auteur": "Andrianaivoravelona"
+    },
+    {
+      "id_auteur": 75,
+      "nom_auteur": "J. Andrianaivoravelona zanany"
+    },
+    {
+      "id_auteur": 76,
+      "nom_auteur": "G. Mondain"
+    },
+    {
+      "id_auteur": 77,
+      "nom_auteur": "A. E. Brockway"
+    },
+    {
+      "id_auteur": 78,
+      "nom_auteur": "Rabary sy Rakoto"
+    },
+    {
+      "id_auteur": 79,
+      "nom_auteur": "Samoela Lala James"
+    },
+    {
+      "id_auteur": 80,
+      "nom_auteur": "G. Raharinjatovo"
+    },
+    {
+      "id_auteur": 81,
+      "nom_auteur": "R. Randriamiandriray"
+    },
+    {
+      "id_auteur": 82,
+      "nom_auteur": "Johanesa"
+    },
+    {
+      "id_auteur": 83,
+      "nom_auteur": "L. Dahle"
+    },
+    {
+      "id_auteur": 84,
+      "nom_auteur": "C. Borchgrevink"
+    },
+    {
+      "id_auteur": 85,
+      "nom_auteur": "Rabary"
+    },
+    {
+      "id_auteur": 86,
+      "nom_auteur": "Ch. Rasoanaivo"
+    },
+    {
+      "id_auteur": 87,
+      "nom_auteur": "J. Ratsiminah"
+    },
+    {
+      "id_auteur": 88,
+      "nom_auteur": "Razafimahefa"
+    },
+    {
+      "id_auteur": 89,
+      "nom_auteur": "Rafiringa"
+    },
+    {
+      "id_auteur": 90,
+      "nom_auteur": "A. R. Marnoë"
+    },
+    {
+      "id_auteur": 91,
+      "nom_auteur": "G. Cousins"
+    },
+    {
+      "id_auteur": 92,
+      "nom_auteur": "J. Randrianarison"
+    },
+    {
+      "id_auteur": 93,
+      "nom_auteur": "J. H. Andrianjafy"
+    },
+    {
+      "id_auteur": 94,
+      "nom_auteur": "Ramala, Andriamampihantona, Rajaobelona, C. Borchgrevink"
+    },
+    {
+      "id_auteur": 95,
+      "nom_auteur": "Ranjoanina"
+    },
+    {
+      "id_auteur": 96,
+      "nom_auteur": "Philippe Rajoanesa"
+    },
+    {
+      "id_auteur": 97,
+      "nom_auteur": "H. S. Thompson"
+    },
+    {
+      "id_auteur": 98,
+      "nom_auteur": "J. David Ranaivo"
+    },
+    {
+      "id_auteur": 99,
+      "nom_auteur": "A. Rabenasolo"
+    },
+    {
+      "id_auteur": 100,
+      "nom_auteur": "Ratany"
+    },
+    {
+      "id_auteur": 101,
+      "nom_auteur": "Dera Arson"
+    },
+    {
+      "id_auteur": 102,
+      "nom_auteur": "I. A. Ramboniarisoa"
+    },
+    {
+      "id_auteur": 103,
+      "nom_auteur": "D. Razafinadramanana"
+    },
+    {
+      "id_auteur": 104,
+      "nom_auteur": "Rakoto sy Rabary"
+    },
+    {
+      "id_auteur": 105,
+      "nom_auteur": "H. Rabehasy"
+    },
+    {
+      "id_auteur": 106,
+      "nom_auteur": "E. Razafiniavo"
+    },
+    {
+      "id_auteur": 107,
+      "nom_auteur": "J. T. Price"
+    },
+    {
+      "id_auteur": 108,
+      "nom_auteur": "Ramboatiana"
+    },
+    {
+      "id_auteur": 109,
+      "nom_auteur": "Rainizafimanga"
+    },
+    {
+      "id_auteur": 110,
+      "nom_auteur": "Mrs J. H. Peake"
+    },
+    {
+      "id_auteur": 111,
+      "nom_auteur": "Rajaonina"
+    },
+    {
+      "id_auteur": 112,
+      "nom_auteur": "Iary Ramboniarisoa"
+    },
+    {
+      "id_auteur": 113,
+      "nom_auteur": "J. S. Sewell"
+    },
+    {
+      "id_auteur": 114,
+      "nom_auteur": "J. J. Randrianantenaina"
+    },
+    {
+      "id_auteur": 115,
+      "nom_auteur": "Razafimahafaly"
+    },
+    {
+      "id_auteur": 116,
+      "nom_auteur": "V. Rasamoelina"
+    },
+    {
+      "id_auteur": 117,
+      "nom_auteur": "W. Rakotondranaivo"
+    },
+    {
+      "id_auteur": 118,
+      "nom_auteur": "Esthe Bary"
+    },
+    {
+      "id_auteur": 119,
+      "nom_auteur": "M. Rakotonirainy"
+    },
+    {
+      "id_auteur": 120,
+      "nom_auteur": "Ratovondrahety"
+    },
+    {
+      "id_auteur": 121,
+      "nom_auteur": "Ravonjizafy"
+    },
+    {
+      "id_auteur": 122,
+      "nom_auteur": "E. Rakotonirina"
+    },
+    {
+      "id_auteur": 123,
+      "nom_auteur": "Andriamboavonjiarinaivo"
+    },
+    {
+      "id_auteur": 124,
+      "nom_auteur": "N. Marc Ravalison"
+    },
+    {
+      "id_auteur": 125,
+      "nom_auteur": "A. Rabefarison"
+    },
+    {
+      "id_auteur": 126,
+      "nom_auteur": "B. Rasolotahiana"
+    },
+    {
+      "id_auteur": 127,
+      "nom_auteur": "Vololomiamina"
+    },
+    {
+      "id_auteur": 128,
+      "nom_auteur": "Kotonjanahary (By)"
+    },
+    {
+      "id_auteur": 129,
+      "nom_auteur": "J. Ratsimihah"
+    },
+    {
+      "id_auteur": 130,
+      "nom_auteur": "R. Raterarivelo"
+    },
+    {
+      "id_auteur": 131,
+      "nom_auteur": "Raoeliarijaona"
+    },
+    {
+      "id_auteur": 132,
+      "nom_auteur": "Raterarivelo"
+    },
+    {
+      "id_auteur": 133,
+      "nom_auteur": "A. Mananirina"
+    },
+    {
+      "id_auteur": 134,
+      "nom_auteur": "J. Faustin S."
+    },
+    {
+      "id_auteur": 135,
+      "nom_auteur": "J. F. Saïd"
+    },
+    {
+      "id_auteur": 136,
+      "nom_auteur": "Rabehiandrana"
+    },
+    {
+      "id_auteur": 137,
+      "nom_auteur": "Rabarijoël"
+    },
+    {
+      "id_auteur": 138,
+      "nom_auteur": "D. Raveloson"
+    },
+    {
+      "id_auteur": 139,
+      "nom_auteur": "E. Ratovondrahety"
+    },
+    {
+      "id_auteur": 140,
+      "nom_auteur": "A. Rajoeliarison"
+    },
+    {
+      "id_auteur": 141,
+      "nom_auteur": "B. Andriatsizafy"
+    },
+    {
+      "id_auteur": 142,
+      "nom_auteur": "J. Rabarioël"
+    },
+    {
+      "id_auteur": 143,
+      "nom_auteur": "R. Raveloson"
+    },
+    {
+      "id_auteur": 144,
+      "nom_auteur": "Tita & Antso Razakaria"
+    },
+    {
+      "id_auteur": 145,
+      "nom_auteur": "Rakotomananjanahary Julien"
+    },
+    {
+      "id_auteur": 146,
+      "nom_auteur": "Andrianantenaina Mandimby D."
+    },
+    {
+      "id_auteur": 147,
+      "nom_auteur": "Josué A. Rabarison & Franck Rakotozafy"
+    },
+    {
+      "id_auteur": 148,
+      "nom_auteur": "Moïse Randriamboavonjy"
+    },
+    {
+      "id_auteur": 149,
+      "nom_auteur": "Mahefa Hantalalao"
+    },
+    {
+      "id_auteur": 150,
+      "nom_auteur": "Rasolofoniaina Joseph"
+    },
+    {
+      "id_auteur": 151,
+      "nom_auteur": "Rajaonia Zaka"
+    },
+    {
+      "id_auteur": 152,
+      "nom_auteur": "S. Lala-James"
+    },
+    {
+      "id_auteur": 153,
+      "nom_auteur": "Rasamizafy Vonjiniaina"
+    },
+    {
+      "id_auteur": 154,
+      "nom_auteur": "Emiliarion"
+    },
+    {
+      "id_auteur": 155,
+      "nom_auteur": "R. Ralambo Alison"
+    },
+    {
+      "id_auteur": 156,
+      "nom_auteur": "Seth Arison"
+    },
+    {
+      "id_auteur": 157,
+      "nom_auteur": "Tantely Ravelomanantsoa"
+    },
+    {
+      "id_auteur": 158,
+      "nom_auteur": "Tita Razakaria"
+    },
+    {
+      "id_auteur": 159,
+      "nom_auteur": "Harlala sy Rajo"
+    },
+    {
+      "id_auteur": 160,
+      "nom_auteur": "Ramambavola William"
+    },
+    {
+      "id_auteur": 161,
+      "nom_auteur": "Samoelina Ranaivoharivony"
+    },
+    {
+      "id_auteur": 162,
+      "nom_auteur": "Norbert Raharisoa & Rahajason"
+    },
+    {
+      "id_auteur": 163,
+      "nom_auteur": "RAMIARISON Gilbert"
+    }
+  ]
+}
