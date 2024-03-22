@@ -11,6 +11,8 @@ if($connection->connect_error) {
     echo 'There was an error';
 }
 
+$exact = true;
+
 $authorsFileName = 'fihirana-json/auteur.json';
 $authorsFile = fopen($authorsFileName, 'r');
 $authorsJson = fread($authorsFile, filesize($authorsFileName));
@@ -79,6 +81,8 @@ function insertSong($song, $connection) {
     $stmt = $connection->prepare("INSERT INTO song(id, number, title, author_id, tonality, topic_id, details, favorite) VALUES(?, ?, ?, ?, ?, ?, ?, ?)");
     $stmt->bind_param("iisisisi", $id, $number, $title, $author_id, $tonality, $topic_id, $details, $favorite);
     $stmt->execute();
+
+    createParts($id, $details, $connection);
 }
 
 function createTables($connection) {
@@ -90,11 +94,33 @@ function createTables($connection) {
 
     $sql = "CREATE TABLE song(id INT NOT NULL, number INT, title VARCHAR(255), author_id INT, tonality VARCHAR(255), topic_id INT, details LONGTEXT, favorite TINYINT NOT NULL DEFAULT 0, PRIMARY KEY(id), FOREIGN KEY (author_id) REFERENCES author(id), FOREIGN KEY (topic_id) REFERENCES topic(id));";
     $connection->query($sql);
+
+    $sql = "CREATE TABLE verse(id INT NOT NULL AUTO_INCREMENT, verse_key VARCHAR(255), verse_text VARCHAR(255), song_id INT, PRIMARY KEY(id), FOREIGN KEY (song_id) REFERENCES song(id));";
+    $connection->query($sql);
 }
 
-function createParts($connection) {
-    $partSeparators = ["/\d+\./", "Réf", "ISAN'ANDININY", "FEON'OLON-TOKANA"];
+function createParts($song_id, $details, $connection) {
+    global $exact;
+    $partSeparators = ["\d+\.", "Réf", "ISAN'ANDININY", "FEON'OLON-TOKANA"];
+
+    $result = [];
+    $startPos = 0;
+
+    $pattern = '/\d+\.|Réf|ISAN\'ANDININY|FEON\'OLON-TOKANA/';
+    $patternMatches = [];
+    $patternMatchesNumber = preg_match_all($pattern, $details, $patternMatches);
+    $matches = preg_split($pattern, $details, -1, PREG_SPLIT_NO_EMPTY);
+
+    $matches = $matches ? $matches : [];
+
+    for ($i = 0; $i < count($patternMatches[0]); $i++) {
+        $stmt = $connection->prepare("INSERT INTO verse(verse_key, verse_text, song_id) VALUES(?, ?, ?)");
+        $stmt->bind_param('ssi', $patternMatches[0][$i], $matches[$i], $song_id);
+        $stmt->execute();
+    }
 }
+
+var_dump($exact);
 
 $connection->close();
 ?>
