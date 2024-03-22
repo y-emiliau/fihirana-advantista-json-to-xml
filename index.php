@@ -11,8 +11,6 @@ if($connection->connect_error) {
     echo 'There was an error';
 }
 
-$exact = true;
-
 $authorsFileName = 'fihirana-json/auteur.json';
 $authorsFile = fopen($authorsFileName, 'r');
 $authorsJson = fread($authorsFile, filesize($authorsFileName));
@@ -28,18 +26,28 @@ $songsFile = fopen($songsFileName, 'r');
 $songsJson = fread($songsFile, filesize($songsFileName));
 $songArray = json_decode($songsJson)->hiras;
 
-createTables($connection);
+main();
 
-foreach($authorArray as $author) {
-    insertAuthor($author, $connection);
-}
+function main() {
 
-foreach($topicArray as $topic) {
-    insertTopic($topic, $connection);
-}
+    global $connection, $authorArray, $topicArray, $songArray;
+    // remove before executing
+    dropTables($connection);
+    createTables($connection);
 
-foreach($songArray as $song) {
-    insertSong($song, $connection);
+    foreach($authorArray as $author) {
+        insertAuthor($author, $connection);
+    }
+    
+    foreach($topicArray as $topic) {
+        insertTopic($topic, $connection);
+    }
+    
+    foreach($songArray as $song) {
+        insertSong($song, $connection);
+    }
+
+    createXML($connection);
 }
 
 function insertAuthor($author, $connection) {
@@ -95,32 +103,155 @@ function createTables($connection) {
     $sql = "CREATE TABLE song(id INT NOT NULL, number INT, title VARCHAR(255), author_id INT, tonality VARCHAR(255), topic_id INT, details LONGTEXT, favorite TINYINT NOT NULL DEFAULT 0, PRIMARY KEY(id), FOREIGN KEY (author_id) REFERENCES author(id), FOREIGN KEY (topic_id) REFERENCES topic(id));";
     $connection->query($sql);
 
-    $sql = "CREATE TABLE verse(id INT NOT NULL AUTO_INCREMENT, verse_key VARCHAR(255), verse_text VARCHAR(255), song_id INT, PRIMARY KEY(id), FOREIGN KEY (song_id) REFERENCES song(id));";
+    $sql = "CREATE TABLE verse(id INT NOT NULL AUTO_INCREMENT, verse_key VARCHAR(255), verse_text LONGTEXT, song_id INT, PRIMARY KEY(id), FOREIGN KEY (song_id) REFERENCES song(id));";
+    $connection->query($sql);
+}
+
+function dropTables($connection) {
+    $sql = "DROP TABLE verse;";
+    $connection->query($sql);
+    $sql = "DROP TABLE song;";
+    $connection->query($sql);
+    $sql = "DROP TABLE topic;";
+    $connection->query($sql);
+    $sql = "DROP TABLE author;";
     $connection->query($sql);
 }
 
 function createParts($song_id, $details, $connection) {
-    global $exact;
-    $partSeparators = ["\d+\.", "Réf", "ISAN'ANDININY", "FEON'OLON-TOKANA"];
+    $chorusHead = ["Réf", "ISAN'ANDININY", "ISAN'ANDINY"];
 
-    $result = [];
-    $startPos = 0;
-
-    $pattern = '/\d+\.|Réf|ISAN\'ANDININY|FEON\'OLON-TOKANA/';
+    $pattern = '/\d+\.|Réf|ISAN\'ANDININY|FEON\'OLON-TOKANA|ISAN\'ANDINY/';
     $patternMatches = [];
     $patternMatchesNumber = preg_match_all($pattern, $details, $patternMatches);
     $matches = preg_split($pattern, $details, -1, PREG_SPLIT_NO_EMPTY);
 
-    $matches = $matches ? $matches : [];
-
     for ($i = 0; $i < count($patternMatches[0]); $i++) {
+        $verseKey = $patternMatches[0][$i];
+        if(in_array($verseKey, $chorusHead)) {
+            $verseKey = "c1";
+        } else if ($verseKey == "FEON'OLON-TOKANA") {
+            $verseKey = "o1";
+        } else {
+            $verseKey = str_replace('.', '', $verseKey);
+            $verseKey = "v" . $verseKey;
+        }
         $stmt = $connection->prepare("INSERT INTO verse(verse_key, verse_text, song_id) VALUES(?, ?, ?)");
-        $stmt->bind_param('ssi', $patternMatches[0][$i], $matches[$i], $song_id);
+        $stmt->bind_param('ssi', $verseKey, $matches[$i], $song_id);
         $stmt->execute();
     }
 }
 
-var_dump($exact);
+function createXML($connection) {
+    $songsSql = "SELECT * FROM song";
+    $songResults = $connection->query($songsSql);
+
+    while($row = $songResults->fetch_assoc()) {
+
+        foreach ($row as $key => $value) {
+            $$key = $value;
+        }
+
+        $authorSql = "SELECT * FROM author WHERE id = " . $author_id;
+        $authorResults = $connection->query($authorSql);
+        $author = $authorResults->fetch_assoc()['name'];
+        
+        $topicSql = "SELECT * FROM topic WHERE id = " . $topic_id;
+        $topicResults = $connection->query($topicSql);
+        $topic = $topicResults->fetch_assoc()['name'];
+
+        $versesSql = "SELECT * FROM verse WHERE song_id = " . $id;
+        $versesResults = $connection->query($versesSql);
+        $verses = [];
+        while($verse = $versesResults->fetch_assoc()) {
+            $verses[] = $verse;
+        }
+
+        $verseKeys = array_map(function ($verse) {
+            return $verse['verse_key'];
+        }, $verses);
+
+        $verseOrder = orderVerses($verseKeys);
+
+        $docD = new DOMDocument('1.0', 'UTF-8');
+        $docD->formatOutput = true;
+
+        $songD = $docD->createElementNS('http://openlyrics.info/namespace/2009/song', 'song');
+        $songD->setAttribute('version', '0.8');
+        $songD->setAttribute('createdIn', 'OpenLP 3.0.2');
+        $songD->setAttribute('modifiedIn', 'OpenLP 3.0.2');
+        $songD->setAttribute('modifiedDate', date('Y-m-d\TH:i:s'));
+
+        $propertiesD = $docD->createElement('properties');
+        $titlesD = $docD->createElement('titles');
+        $titleD = $docD->createElement('title', htmlspecialchars($title));
+        
+        $titlesD->appendChild($titleD);
+        $propertiesD->appendChild($docD->createElement('copyright', htmlspecialchars('© 2024')));
+        $propertiesD->appendChild($docD->createElement('verseOrder', htmlspecialchars($verseOrder)));
+        $propertiesD->appendChild($docD->createElement('ccliNo', htmlspecialchars($number)));
+
+        $authorsD = $docD->createElement('authors');
+        $authorD = $docD->createElement('author', htmlspecialchars($author));
+        $authorsD->appendChild($authorD);
+        $propertiesD->appendChild($authorsD);
+
+        $songbooksD = $docD->createElement('songbooks');
+        $songbookD = $docD->createElement('songbook');
+        $songbookD->setAttribute('name', htmlspecialchars('Fihirana Advantista'));
+        $songbooksD->appendChild($songbookD);
+        $propertiesD->appendchild($songbooksD);
+
+        $themesD = $docD->createElement('themes');
+        $themeD = $docD->createElement('theme', htmlspecialchars($topic));
+        $themesD->appendChild($themeD);
+        $propertiesD->appendChild($themesD);
+
+        $songD->appendChild($propertiesD);
+
+
+
+        // last
+        $docD->appendChild($songD);
+        echo $docD->saveXML();
+
+        die();
+
+    }
+}
+
+function orderVerses($verseArray) {
+        
+    $verseOrder = "";
+    $hasChorus = false;
+
+    if (in_array('c1', $verseArray)) {
+        $hasChorus = true;
+    }
+
+    if ($verseArray[0] == 'c1') {
+        $verseOrder = 'c1 ';
+    }
+
+    foreach ($verseArray as $verse) {
+        if($verse === 'c1') {
+            continue;
+        }
+
+        $verseOrder .= $verse . " ";
+
+        if(substr($verse, 0, 1) === 'v' && $hasChorus) {
+            $verseOrder .= " c1";
+        }
+    }
+
+    $verseOrder = trim($verseOrder);
+
+    return $verseOrder;
+}
 
 $connection->close();
+
+echo "\nSuccess\n";
+
 ?>
