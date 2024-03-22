@@ -185,8 +185,9 @@ function createXML($connection) {
         $propertiesD = $docD->createElement('properties');
         $titlesD = $docD->createElement('titles');
         $titleD = $docD->createElement('title', htmlspecialchars($title));
-        
         $titlesD->appendChild($titleD);
+        $propertiesD->appendChild($titlesD);
+        
         $propertiesD->appendChild($docD->createElement('copyright', htmlspecialchars('© 2024')));
         $propertiesD->appendChild($docD->createElement('verseOrder', htmlspecialchars($verseOrder)));
         $propertiesD->appendChild($docD->createElement('ccliNo', htmlspecialchars($number)));
@@ -209,14 +210,22 @@ function createXML($connection) {
 
         $songD->appendChild($propertiesD);
 
+        $lyricsD = $docD->createElement('lyrics');
+        foreach ($verses as $verse) {
+            $verseD = $docD->createElement('verse');
+            $verseD->setAttribute('name', htmlspecialchars($verse['verse_key']));
+            $text = trim($verse['verse_text']);
+            $text = str_replace("\n", '<br/>', $text);
 
+            $linesD = $docD->createElement('lines', htmlspecialchars($text));
+            $verseD->appendChild($linesD);
+            $lyricsD->appendChild($verseD);
+        }
 
-        // last
+        $songD->appendChild($lyricsD);
         $docD->appendChild($songD);
-        echo $docD->saveXML();
 
-        die();
-
+        createXMLSong($number, $docD->saveXML());
     }
 }
 
@@ -241,13 +250,24 @@ function orderVerses($verseArray) {
         $verseOrder .= $verse . " ";
 
         if(substr($verse, 0, 1) === 'v' && $hasChorus) {
-            $verseOrder .= " c1";
+            $verseOrder .= "c1 ";
         }
     }
 
     $verseOrder = trim($verseOrder);
 
     return $verseOrder;
+}
+
+function createXMLSong($number, $xml) {
+    $directory = 'fihirana-xml';
+    if(!file_exists($directory)) {
+        mkdir($directory, 0777, true);
+    }
+    $filepath = $directory . '/' . $number . '.xml';
+    $file = fopen($filepath, 'w');
+    fwrite($file, $xml);
+    fclose($file);
 }
 
 $connection->close();
