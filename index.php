@@ -188,7 +188,7 @@ function createXML($connection) {
         $titlesD->appendChild($titleD);
         $propertiesD->appendChild($titlesD);
         
-        $propertiesD->appendChild($docD->createElement('copyright', htmlspecialchars('© 2024')));
+        $propertiesD->appendChild($docD->createElement('copyright', htmlspecialchars('2024')));
         $propertiesD->appendChild($docD->createElement('verseOrder', htmlspecialchars($verseOrder)));
         $propertiesD->appendChild($docD->createElement('ccliNo', htmlspecialchars($number)));
 
