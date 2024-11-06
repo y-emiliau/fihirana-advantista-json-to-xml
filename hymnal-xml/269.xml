@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>269 - Come, Holy Spirit</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>269</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, Holy Spirit, heavenly Dove,<br/>With all Thy quickening powers;<br/>Kindle a flame of sacred love<br/>In these cold hearts of ours.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O raise our thoughts from things below,<br/>From vanities and toys!<br/>Then shall we with fresh courage go<br/>To reach eternal joys.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Awake our souls to joyful songs;<br/>Let pure devotions rise;<br/>Till praise employs our thankful tongues,<br/>And doubt forever dies.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Father, we would no longer live<br/>At this poor, dying rate;<br/>To Thee our thankful love we give,<br/>For Thine to us is great.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come, Holy Spirit, heavenly Dove,<br/>With all Thy quickening powers;<br/>Come, shed abroad a Savior’s love,<br/>And that shall kindle ours.</lines>
+    </verse>
+  </lyrics>
+</song>

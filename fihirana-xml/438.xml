@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HE SAMBATRA NY FO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>438</ccliNo>
+    <authors>
+      <author>J. David Ranaivo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He ! sambatra ny fo<br/>Izay matoky Anao, Jeso,<br/>Fa tsy mba manana ahiahy<br/>Na fijaliana koa.<br/>Ny zava-tsarotra,<br/>Manjary fitahiana soa.<br/>He ! sambatra aho,<br/>He ! sambatra aho<br/>Manompo Anao, ry Jeso.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Ô ! tsy matahotra aho<br/>Raha miaraka Aminao<br/>Ka ny voady entina :<br/>" Ho Anao mandrakizay "</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha tojo ny tafiotra mafy,<br/>Mila ho kivy fo,<br/>matoky fa ny sandrinao,<br/>Jeso, anilako.<br/>Mampahery ny fo,<br/>Manolo-pitahiana koa.<br/>He ! sambatra aho,<br/>He ! sambatra aho<br/>Manompo Anao, ry Jeso ô !<br/>Ô ! tsy matahotra aho, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

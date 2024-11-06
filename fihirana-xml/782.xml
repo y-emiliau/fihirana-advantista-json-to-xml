@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ANDRIAMANITRA ô, FAINGàNA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v1 v2</verseOrder>
+    <ccliNo>782</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fanombohana sy famaranana<br/>isaky ny andininy:<br/>Andriamanitra ô, faingàna<br/>ka avia hamonjy ahy;<br/>Andriamanitra ô, faingàna<br/>ka avia hanafaka ahy;<br/>Horohoro tebiteby<br/>no mameno ny fanahy.<br/>Andriamanitra ô, faingàna, ô faingàna<br/>Mba hanafaka ahiahy.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ray ô! ianao no antenaiko,<br/>Ray ô! mba hanavotra ny aiko.<br/>Ray ô! aza ela malakia,<br/>Tompo tia ô! Avia.<br/>Ianao no antenaiko.<br/>Tompo tia ô! Faingàna!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ray ô! mitanondrika ny foko,<br/>Ray ô! torotoro mitoloko;<br/>Ray ô! ny fitiavanao mahery<br/>Tsy hamela ahy ho very;<br/>Ianao no antenaiko,<br/>Tompo tia ô! Faingàna!</lines>
+    </verse>
+  </lyrics>
+</song>

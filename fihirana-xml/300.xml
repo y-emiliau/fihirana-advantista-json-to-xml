@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY OLOM-BERY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>300</ccliNo>
+    <authors>
+      <author>J. Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-BERY<br/>1<br/>Ry olom-bery,<br/>Tsy manan-kery,<br/>Fatoram-pahotana izao,<br/>He ! misy vonjy,<br/>Maty ho famonjena anao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Avia izao,<br/>Sao neninao.<br/>He ! indro mbola mivoha<br/>Ny lanitra, hidiranao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha efa resy<br/>Misesisesy<br/>Ka kivy ny fanahinaol,<br/>He ! misy vonjy !<br/>Ao ny Mpamonjy.<br/>Manolo-pandresena anao.<br/>Avia izao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raha toa Satana<br/>Mila hitana<br/>Anao ho babony izao,<br/>He ! misy vonjy,<br/>Kristy Mpamonjy<br/>Anao ho babony izao,<br/>Avia izao, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tsy ela intsony<br/>ho ao ambony<br/>No hampidirana anao,<br/>Ka mifalia,<br/>Ny Rainao tia<br/>Hamafa ranomasonao.<br/>Ho sambatra,<br/>haharitra,<br/>Tsy hisy intsony ny ota<br/>Voavelany ny helokao.</lines>
+    </verse>
+  </lyrics>
+</song>

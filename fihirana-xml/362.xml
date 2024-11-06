@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>EFA ELA NO NIKASA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>362</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Efa ela no nikasa mba handao.<br/>Ka hanadino ireo lasa izay fanao<br/>Kanjo indrisy hatrizao<br/>Ao anaty tratrako ao<br/>Tsy afaka ao<br/>Mbola ao anatiko ao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Mba vonjeo, ry Ray<br/>'Ty mahantra kely ity.<br/>Hiasanao, ry Ray<br/>Tsy hifikitra ety.<br/>Ka manomboka anio<br/>Ho voasasanao madio,<br/>Madio, madio.<br/>Ho tena zanakao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Efa ela no nizotra tao an-johy<br/>Ka dia tsy afaka nipoitra, toa nafoy<br/>Haizim-pito tsy mba roa<br/>No nandrakotra ny fo<br/>Ka endrey fa nirepirepy tao.<br/>Mba vonjeo, ry Ray, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

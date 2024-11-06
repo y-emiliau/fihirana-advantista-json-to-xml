@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NY HATANORANA DIA TOA VONINKAZO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>605</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ny hatanorana dia toa voninkazo.<br/>Raozy mivelatra, manitra ery.<br/>Nefa ho vasoka sady halazo,<br/>Fa ny maharitra dia ny ary.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Eo anilanao no irirko 'zao<br/>Akaiky Anao Jeso Mpamonjiko<br/>Eo anilanao, eto ka hatrao.<br/>Anilanao, ry hany Tokiko.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny fifaliana dia, indro, mandalo<br/>Tsy misy mantsy mateza ety<br/>Maro mpisopatra, be fahavalo:<br/>Rahoviana re no ho tody ary.<br/>Eo anilanao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny faniriako, ry Mpamonjy Tsara,<br/>Hanompo Anao, raha mbola ety,<br/>Rahatrizay dia handray 'lay anjara<br/>'Zay voatahiry an-danitra ary.<br/>Eo anilanao, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ny hahita Anao no iriko 'zao,<br/>Hahita Anao eo anilan'ny Ray<br/>Eny,n hahita Anao dieny ety izao;<br/>INdrindra ary, sy ho mandrakizay !<br/>Eo anilanao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

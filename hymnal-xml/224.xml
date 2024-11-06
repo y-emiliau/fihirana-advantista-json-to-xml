@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>224 - Seek Ye First the Kingdom</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>224</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seek ye first the kingdom,<br/>‘Tis your Father’s will.<br/>So the voice of Jesus<br/>bids us follow still.<br/>Savior, we would hear Thee,<br/>Follow, find, and see;<br/>And in life’s adventure<br/>Thy disciples be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As for hidden treasure,<br/>Or for matchless pearl,<br/>When at last discovered,<br/>some will sell their all;<br/>So, when breaks the vision<br/>of that kingdom fair,<br/>Ours shall be its riches<br/>And its beauty rare.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As the silent leaven<br/>works its secret way,<br/>Or as grows the seed grain<br/>through the night and day;<br/>Lord, so be the increase,<br/>peaceable but sure,<br/>Of Thy word within us,<br/>And Thy kingdom’s power.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As the tender seedling<br/>grows up tall and strong,<br/>And the birds of heaven<br/>to its branches throng;<br/>So shall all God’s children,<br/>from the east and west,<br/>Gather to His kingdom,<br/>In its shadow rest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Humblest shall be greatest,<br/>poor in spirit reign;<br/>Home shall come the childlike,<br/>born through Thee again;<br/>Eager hearts arrive there<br/>on the pilgrim’s road,<br/>Hail! The kingdom glorious<br/>of the living God!</lines>
+    </verse>
+  </lyrics>
+</song>

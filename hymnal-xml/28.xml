@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>028 - Praise We the Lord</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>28</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise we the Lord, who made all beauty<br/>For all our senses to enjoy;<br/>Owe we our humble thanks and duty<br/>That simple pleasures never cloy;<br/>Praise we the Lord, who made all beauty<br/>For all our senses to enjoy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise Him who loves to see young lovers,<br/>Fresh hearts that swell with youthful pride;<br/>Thank Him who sends the sun above us,<br/>As bridegroom fit to meet his bride;<br/>Praise Him who loves to see young lovers,<br/>Fresh hearts that swell with youthful pride.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise Him who by a simple flower<br/>Lifts up our hearts to things above;<br/>Thank Him who gives to each one power<br/>To find a friend to know and love;<br/>Praise Him who by a simple flower<br/>Lifts up our hearts to things above.</lines>
+    </verse>
+  </lyrics>
+</song>

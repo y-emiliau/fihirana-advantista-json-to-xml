@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>098 - Can You Count the Stars</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>98</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Can you count the stars that brightly<br/>Twinkle in the midnight sky?<br/>Can you count the clouds, so lightly<br/>O’er the meadows floating by?<br/>God, the Lord, doth mark their number<br/>With His eyes that never slumber;<br/>He hath made every one,<br/>He hath made them every one.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Can you count the wings now flashing<br/>In the sunshine’s golden light?<br/>Can you count the fishes splashing<br/>In the cooling waters bright?<br/>God, the Lord, a name hath given,<br/>To all creatures under heaven;<br/>He hath named them every one,<br/>He hath named them every one.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do you know how many children<br/>Rise each morning blithe and gay?<br/>Can you count their jolly voices,<br/>Singing sweetly day by day?<br/>God hears all the happy voices,<br/>In their merry songs rejoices;<br/>And He loves them, every one,<br/>And He loves them, every one.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>576 - Awake, Awake to Love and Work</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>576</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Awake, awake to love and work!<br/>The lark is in the sky;<br/>The fields are wet with diamond dew;<br/>The worlds awake to cry<br/>Their blessings on the Lord of life,<br/>As He goes meekly by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come, let thy voice be one with theirs,<br/>Shout with their shout of praise;<br/>See how the giant sun soars up,<br/>Great lord of years and days!<br/>So let the love of Jesus come<br/>And set thy soul ablaze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To give and give, and give again,<br/>What God hath given thee;<br/>To spend thyself nor count the cost;<br/>To serve right gloriously<br/>The God who gave all worlds that are,<br/>And all that are to be.</lines>
+    </verse>
+  </lyrics>
+</song>

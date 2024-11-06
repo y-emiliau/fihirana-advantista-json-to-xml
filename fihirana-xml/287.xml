@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>EFA MADIVA HIFARANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>287</ccliNo>
+    <authors>
+      <author>R. Rabenasolo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Efa madiva hifarana re<br/>Ny tantaran'ity tanintsika.<br/>'Reo disadisa, antambo maro,<br/>Ady sy loza ho tapitra e !<br/>Indro havaozin'ny Tompontsika<br/>Izao rehetra ary izao (kanefa)<br/>Moa fantatrao ve fa kaly sisa,<br/>Hilaozanao ny ady mafy ety ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tsy vita mora ny famonjena ;<br/>Kanefa kosa indro omena.<br/>Raiso anio dia ho tsapanao<br/>Fa sarobidy tokoa ianao.<br/>Ny lanitra no ho lovanao,<br/>Ny fahoriana tsy ho fantatrao (Valio re)?<br/>Moa sitrakao ve ny ho tafita ?<br/>Ekeo ny famonjena efa vita.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mila finoana ny famonjena,<br/>Safidinao fa tsy terena.<br/>Ilaina koa ny faharetanao.<br/>O ! aza kivy, ho mpandresy ianao.<br/>Hifarana izao rehetra izao,<br/>Hitsangana tokoa ianao (Hidera).<br/>Ka hanansra-peo sy hankalaza :<br/><<Indro fa tonga Ilay nandrasana.>></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AO AM-POKO RY JESO NY FITIAVANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>360</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ao am-poko ry Jeso ny fitiavanao.<br/>Ao am-poko mamboatra ny fomba ho vao.<br/>Tsy hohaiko intsony ny hiaina ety,<br/>Raha tsy ahy tokoa ilay fitia(vanao).<br/>Hasambarana mamy no mameno ny fo,<br/>Hasambarana mamy dia mamy tokoa.<br/>O ! anjarako hatramin'izao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Jesosy ô, ny fitiavanao,<br/>Efa iainako tokoa, Jeso<br/>Ny fitiavanao.<br/>Tsy mba manam-paharoa<br/>Tsy manam-petra koa<br/>Ny fitiavanao.<br/>Ivelomako hatrizao Jeso<br/>Ny fitiavanao.<br/>Hatrizao, ho doria, doria.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ho masoandro hanazava ny fitiavanao,<br/>Hampisava ny rahona izay mitatao,<br/>Ho fanilon'ny foko mba hamirata ery<br/>Ka hiraiko tokoa ilay fitiavanao.<br/>Hafaliana no heno mameno ny fo,<br/>Hafaliana no tonga manjaka ao am-po,<br/>Hasambarako hatramin'izao.<br/>Jesosy ô, ny fitiavanao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tsy ho haiko hadinoina ny fitiavanao<br/>Fa fitia 'zay mambabo ny fo tsotra izao<br/>Hokoboniko mafy ao anaty satria,<br/>He ! fitia tsy mba roe 'lay fitiavanao.<br/>Haravoana tsy hay tantaraina tokoa,<br/>Haravoana tsy roa aman-tany, tsy roa,<br/>He ! mangeja ahy hatramin'izao.<br/>Jesosy ô, ny fitiavanao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

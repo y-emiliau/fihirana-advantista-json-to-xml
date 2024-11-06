@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HITADY ANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>684</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hitady Anao Jehovah Tompo ô !<br/>Hipetraka eo anilanao<br/>Rahoviana re hahita Anao tokoa<br/>Hialokaloka eo an-tratranao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Tompo ô ! (Ô fidio)<br/>Ho zanakao (Ho madio)<br/>Raiso re (raiso re)<br/>Raiso re (raiso re)<br/>Na tsy mendrika<br/>Dia ho Anao ny fo<br/>Raiso mba ho Anao doria tokoa<br/>Hitady Anao Jehovah ô<br/>Tsy mionona raha tsy eo anilanao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha lavitra Anao ny zanakao<br/>Tantano Ray mba tsy hania<br/>Sasao madio ny fo ka anjakao<br/>Ry Tompo ô, avia ka manampia.<br/>Tompo ô, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ry Tompo ô, Mpamonjy ny fanahy<br/>Mba mitariha ny zanakao.<br/>Ka atanjaho ho tena lehilahy<br/>Ho vonona hiady ho Anao.<br/>Tompo ô, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

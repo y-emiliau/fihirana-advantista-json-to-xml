@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>026 - Praise the Lord! You Heavens Adore Him</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>26</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise the Lord! you heavens, adore Him;<br/>Praise Him, angels in the height;<br/>Sun and moon, rejoice before Him,<br/>Praise Him, all you stars of light.<br/>Praise the Lord, for He has spoken;<br/>World His mighty voice obeyed;<br/>Laws which never shall be broken<br/>For their guidance He has made.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise the Lord! for He is glorious;<br/>Never shall HIs promise fail.<br/>God has made His saints victorious;<br/>Sin and death shall not prevail.<br/>Praise the God of our salvation!<br/>Hosts on high, His power proclaim;<br/>Heaven and earth and all creation,<br/>Laud and magnify His name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Worship, honor, glory, blessing,<br/>Lord, we offer as our gift.<br/>Young and old, Your praise expressing,<br/>Our glad songs to You we lift.<br/>All the saints in heaven adore You,<br/>We would join their glad acclaim;<br/>As Your angels serve before You,<br/>So on earth we praise Your name.</lines>
+    </verse>
+  </lyrics>
+</song>

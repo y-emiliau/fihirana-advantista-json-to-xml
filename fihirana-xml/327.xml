@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NY MPAMONJY TE HIDITRA AM-PONAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>327</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-PONAO<br/>1<br/>Ny Mpamonjy te hiditra am-ponao.<br/>O ! mba vohay Izy izao.<br/>Raha misy misakana anao tsy hamoha,<br/>Reseo re, raiso Jeso.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Efa ela no niandrasany teo.<br/>Izao dia mbola miantso.<br/>Ny misakana anao tsy handre ny feo,<br/>Reseo ka raiso Jeso.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Iriny tokoa re ny hamohanao<br/>Ny varavaran'ny fo.<br/>Iriny ny hanjaka sy honina ao<br/>Ekeo re, raiso Jeso.<br/>Efa ela, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

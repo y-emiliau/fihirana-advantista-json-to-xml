@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TSAROAKO ANIO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>734</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tsaroako anio, Jeso,<br/>Ny fanavotanao ;<br/>Fa tao an-davaka aho<br/>No nakarinao.<br/>Ny sandrinao mahery<br/>No natsotranao<br/>Hitarika ahy ho eo anilanao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>'Zao no voady ataoko aminao<br/>(Jesosy ô),<br/>Voadiko anio, mandrakizay :<br/>Tsy hisy hahasaraka ahy<br/>Tsy hitoetra eo anilanao<br/>Ho eo an-tongotrao, akaikinao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He ! sambatra aho, Jeso,<br/>Satria voasasanao.<br/>Nyheloko rehetra<br/>Dia voavelanao.<br/>Ny fiainako tontolo<br/>Dia nohavaozinao<br/>Ho mendrika tokoa ny lapanao<br/>'Zao no voady, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Endrey ny hafaliako<br/>Manana Anao.<br/>Ny lanitra no hamboarinao<br/>Ho tranoko.<br/>Ireo anjely maro<br/>'Zay mydera Anao<br/>No hiaraka amiko eo akaikinao.<br/>'Zao no voady, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>011 - The God of Abraham Praise</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>11</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The God of Abraham praise,<br/>Who reigns enthroned above;<br/>Ancient of everlasting days,<br/>And God of love;<br/>Jehovah! Great I AM!<br/>By earth and heaven confessed;<br/>I bow and bless the sacred name,<br/>Forever blest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The God of Abraham praise,<br/>At whose supreme command<br/>From earth I rise, and seek the joys<br/>At His right hand;<br/>I all on earth forsake,<br/>Its wisdom, fame and power;<br/>And Him my only portion make,<br/>My shield and tower.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The whole triumphant host<br/>Give thanks to God on high;<br/>“Hail, Father, Son, and Holy Ghost!”<br/>They ever cry;<br/>Hail, Abraham’s God and mine!<br/>I join the heavenly lays;<br/>All might and majesty are Thine,<br/>And endless praise.</lines>
+    </verse>
+  </lyrics>
+</song>

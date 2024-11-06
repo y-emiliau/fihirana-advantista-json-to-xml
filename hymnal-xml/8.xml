@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>008 - We Gather Together</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>8</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We gather together to ask<br/>the Lord’s blessing;<br/>He chastens and hastens<br/>His will to make known.<br/>The wicked oppressing<br/>now cease from distressing.<br/>Sing praises to His Name;<br/>He forgets not His own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beside us to guide us,<br/>our God with us joining,<br/>Ordaining, maintaining<br/>His kingdom divine;<br/>So from the beginning<br/>the fight we were winning;<br/>Thou, Lord, were at our side,<br/>all glory be Thine!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We all do extol Thee,<br/>Thou leader triumphant,<br/>And pray that Thou still<br/>our defender wilt be.<br/>Let Thy congregation<br/>escape tribulation;<br/>Thy name be ever praised!<br/>O Lord, make us free!</lines>
+    </verse>
+  </lyrics>
+</song>

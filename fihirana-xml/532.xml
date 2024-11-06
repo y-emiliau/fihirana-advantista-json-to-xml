@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>'NDRAY ANDRO ANY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>532</ccliNo>
+    <authors>
+      <author>D. Razakaria</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Ndray andro any<br/>Ho reko ny antsonao<br/>Hiditra any an-tany vaovao,<br/>Hiakatra ho anay an-danitra.<br/>Jeso, Jeso, tena sambatra aho, Jeso.<br/>Hifarana hatreo ny haizina, Ny alahelo koa<br/>Ary ny manjo sy ny ranomasoko tety.<br/>Jeso, Jeso, tena sambatra aho, Jeso.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ho avy ilay maraina vaovao,<br/>'Lay mazava soa mandrakizay<br/>Hitoerako any aminao.<br/>Jeso, Jeso, tena sambatra aho, Jeso.<br/>Hifarana hatreo ny haizina,<br/>Ireo ota koa foana avokoa,<br/>Voasolo fiainam-baovao.<br/>Jeso, Jeso, tena sambatra aho, Jeso.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hifanatrika amiko Ianao,<br/>Ry Mpamonjy izay nanavotra ahy.<br/>Hofihiniko ny tananao.<br/>Jeso, Jeso, tena sambatra aho, Jeso.<br/>Hoderaiko ny fitiavanao.<br/>Saotra eram-po, no atolotro,<br/>Hiankohoka aho hihira hoe :<br/>Jeso, Jeso, tena sambatra aho, Jeso.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY MPANOTA MIJANONA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>308</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry mpanota mijanona :<br/>Haizim-be alehanao.<br/>Miverena, manatona<br/>An'ilay Mpamonjinao.<br/>Ry mpirenireny ory,<br/>Trotraka sy kivy fo,<br/>Tsy ho laviny akory<br/>Fa ho raisiny tokoa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ry mpanota mahonena,<br/>Antra ano ny Tomponao ;<br/>Fitiavan-tsy fefena<br/>No mitepo ho anao.<br/>Ry mpirenireny, ory,<br/>Sy mitebiteby fo !<br/>Tsy ho laviny akory,<br/>O ! horaisiny tokoa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ry mpanota mitomany<br/>Noho ny vesa-kelokao,<br/>Miverena fa ny rany<br/>Ampy hahadio anao.<br/>Ry mpirenireny, ory,<br/>Sy manahy ao am-po !<br/>Tsy ho laviny akory,<br/>Fa havelany tokoa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ry mpanota, aza ela,<br/>O ! faingana ianao ;<br/>Vonona tokoa hamela<br/>'Lay nanavotra anao.<br/>Ry mpirenireny, ory,<br/>Sy misalasala am-po !<br/>Tsy ho laviny akory,<br/>Manatona anio tokoa.</lines>
+    </verse>
+  </lyrics>
+</song>

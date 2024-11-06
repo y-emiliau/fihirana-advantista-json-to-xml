@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TAFATSANGANA TOKOA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>105</ccliNo>
+    <authors>
+      <author>(Tsy fantatra)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tafatsangana tokoa<br/>Haleloia !<br/>Jeso Kristy Tompo soa,<br/>Haleloia !<br/>Maty nefa velona,<br/>Haleloia !<br/>Mihirà, ry olona,<br/>Haleloia !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Foana ny fasana,<br/>Haleloia !<br/>Indro Jeso velona.<br/>Haleloia !<br/>Toky tsy mamitaka,<br/>Haleloia !<br/>Mihirà, ry olona,<br/>Haleloia !</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Andro lehibe tokoa,<br/>Haleloia !<br/>Andro fihobiana,<br/>Haleloia !<br/>Afaka ny tahotra,<br/>Haleloia !<br/>Mihirà, ry olona,<br/>Haleloia !</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Haja, laza, aterinay,<br/>Haleloia !<br/>Jeso ô, Mpanjakanay,<br/>Haleloia !<br/>Raiso re ny saotranay,<br/>Haleloia !<br/>Raiso koa ny tenanay,<br/>Haleloia !</lines>
+    </verse>
+  </lyrics>
+</song>

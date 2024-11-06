@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>433 - Ten Thousand Times Ten Thousand</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>433</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ten thousand times ten thousand,<br/>In sparkling raiment bright,<br/>The armies of the ransomed saints<br/>Throng up the steeps of light.<br/>‘Tis finished, all is finished,<br/>Their fight with death and sin.<br/>Fling open wide the golden gates,<br/>And let the victors in.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What rush of hallelujahs<br/>Fills all the earth and sky!<br/>The ringing of a thousand harps<br/>Proclaims the triumph high.<br/>O day for which creation<br/>And all its tribes were made!<br/>O joy, for all its former woes<br/>A thousandfold repaid!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O then what raptured greetings<br/>On Canaan’s happy shore!<br/>What knitting severed friendship where<br/>Death partings are no more!<br/>Then eyes with joy shall sparkle,<br/>That brimmed with tears of late;<br/>Orphans no longer fatherless,<br/>Nor widows desolate.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bring near Thy great salvation,<br/>Thou Lamb for sinners slain,<br/>Fill up the roll of Thine elect,<br/>Then take Thy power and reign!<br/>Appear, Desire of nations,<br/>Thine exiles long for home;<br/>Show in the heavens Thy promised sign;<br/>Thou Prince and Savior come!</lines>
+    </verse>
+  </lyrics>
+</song>

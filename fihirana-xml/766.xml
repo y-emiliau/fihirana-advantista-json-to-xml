@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAY Ô, INDRO RAISO NY FO (VAVAKA FANOLORAN-TENA)</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>766</ccliNo>
+    <authors>
+      <author>Josué A. Rabarison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ray ô, indro raiso ny fo<br/>fanahy sy saina<br/>Izay asandratra eo Aminao:<br/>«Mba ho mendrika».<br/>Vonona hanompo hiasa,<br/>hampandroso,<br/>Ekeo anio raha toa sitrakao,<br/>Raiso Tompo ô!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hamasino Ray ô,<br/>‘reto mpanomponao,<br/>Ho heniky ny hasoavanao,<br/>N’aiza n’aiza haleha.<br/>Fenoy ny Fanahy,<br/>tantano sy vimbino<br/>‘Ty zanakao Ray ô, ekeo,<br/>hamasino re.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hamafiso Ray ô,<br/>‘ty fanoloran-tena;<br/>Ny voady hanao izay sitrakao,<br/>«Ho mandrakizay.»<br/>Hiasa sy hanompo,<br/>hitarika ‘reo ondry<br/>Nankininao ho tantananay,<br/>ho any Aminao.</lines>
+    </verse>
+  </lyrics>
+</song>

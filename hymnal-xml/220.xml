@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>220 - When He Comes</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>220</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When He comes,<br/>When He comes,<br/>We shall see the Lord in glory<br/>when He comes!<br/>As I read the gospel story,<br/>We shall see the Lord in glory,<br/>We shall see the Lord in glory<br/>when He comes!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>With the alleluias ringing to the sky,<br/>With the alleluias ringing to the sky!<br/>As I read the gospel in glory,<br/>We shall see the Lord in glory,<br/>With the alleluias ringing in the sky!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When He comes,<br/>When He comes,<br/>We shall hear the trumpet sounded<br/>when He comes!<br/>We shall hear the trumpet sounded,<br/>See the Lord by saints surrounded,<br/>We shall hear the trumpet sounded<br/>when He comes!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When He comes,<br/>When He comes,<br/>We shall all rise up to meet Him<br/>when He comes!<br/>We shall all rise up to meet Him,<br/>When He calls His own to greet Him<br/>We shall all rise up to meet Him<br/>when He comes!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TE HIARAKA IRERY AMINAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>433</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te hiaraka irery aminao,<br/>Hiresaka aminao Jeso,<br/>Ny soa mahafaly omenao<br/>Tsy tapaka amiko tokoa.<br/>Esorinao ny tahotro<br/>Sy ny mahory,<br/>Hamaivaninao koa<br/>Ny entana entiko.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>He ! tiako loatra Jeso Tompo !<br/>Ao aminy aho tsy mba ory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tiako hiaraka irery aminy<br/>Izy no mba hareko ety<br/>Faly aho mandre ny tenniny :<br/>'Zaho tsy hamela anao 'rery<br/>'Zaho tsy handao Na hahafoy anao akory<br/>Homba anao aho<br/>Na aiza na aiza ianao mandeha.<br/>He ! tiako loatra, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesosy irery no hany soa.<br/>Hery Izy tsy mitandro<br/>Lilia an-dohasaha, Jeso,<br/>Ki ntana fitarikandro,<br/>Fialofana, tilikambo Sy vatolampy,<br/>Loharanom-pitahiana<br/>Ampy ho anao.<br/>He ! tiako loatra, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

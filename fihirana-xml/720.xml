@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TOMPO JESO NO MANDONA AO AM-PO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>720</ccliNo>
+    <authors>
+      <author>A. Razaka</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tompo Jeso no madona ao am-po ;<br/>Te hiditra ao izao anio izao.<br/>Nefa indrisy fa be sitrapo,<br/>Jeso, mamindrà fo (Jeso ô!)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Faniriako<br/>(Vohay ny fo anio tokoa)<br/>Ny hiditra ao am-ponao<br/>(Vohay ny fonao)<br/>Efa mandona ela<br/>(Mandona ao efa ela be)<br/>Miandry Anao Jeso.<br/>Tsy mba manery<br/>(Vohay ny fo anio tokoa)<br/>Ny sitraponao.<br/>(Vohay ny fonao)<br/>Ô ! mba vohay ny fonao<br/>(Ô ! mba vohay re ny fonao)<br/>Hoy ny Tomponao<br/>(Handrosoan'ny Tomponao).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tompo Jeso no madona ao am-po ;<br/>Sao efa niandry anao ela be ?<br/>Ho neninao raha toa ka tsy hamoha,<br/>Fa ho avy Izy re tsy ho ela<br/>Vohay ny fo, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tompo Jeso no madona ao am-po ;<br/>Henonao sa tsy manaitra anao ?<br/>Ny asa ratsy esory ao am-po<br/>Fa Jeso hiditra ao tokoa.<br/>Vohay ny fo, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

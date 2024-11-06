@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>671 - Now, Dear Lord, As We Pray</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>671</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now, dear Lord, as we pray,<br/>take our hearts and minds far away<br/>from the press of the world all around<br/>to your throne where grace does abound.<br/>May our lives be transformed by Your love,<br/>may our souls be refreshed from above.<br/>At this moment, let people everywhere<br/>join us now as we come to You in prayer.</lines>
+    </verse>
+  </lyrics>
+</song>

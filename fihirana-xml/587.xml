@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FALIFALY AVOKOA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>587</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>FALIFALY AVOKOA<br/>1<br/>Falifaly avokoa<br/>'Zao rehetra izao.<br/>Ary isika ankizy koa<br/>Dia samy hanandra-peo<br/>Fa Sabata ny andro anio,<br/>Fitsaharana madio.<br/>'Zay manaiky ny Tsitoha,<br/>Hovonjeny koa.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Mifalia, mihir?<br/>Noho izao Sabata izao,<br/>Mihobia, mider?,<br/>Fa Jesosy tia anao<br/>Hasambarana tokoa<br/>Ny eo akaikin'ny Tsitoha<br/>Fitahiana omena anao<br/>'Zao Sabata izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Any an-danitra any koa<br/>Rehefa eo Jeso,<br/>Dia hivory avokoa<br/>Raha Sabata toy izao<br/>'Reo voavonjy marobe<br/>Ka hihira mafy hoe :<br/>Voninahitra ho Anao<br/>Tompo lehibe.<br/>Mifalia, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

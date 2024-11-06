@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>353 - Father, Help Your People</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>353</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, help Your people in this world to build<br/>Something of Your kingdom and to do Your will,<br/>Lead us to discover partnership in love;<br/>Bless our ways of sharing and our pride remove.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord of desk and altar, bind our lives in one,<br/>That in work and worship love may set the tone.<br/>Give us grace to listen, clarity of speech;<br/>Make us truly thankful for the gifts of each.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy is the setting of each room and yard,<br/>Lecture hall and kitchen, office, shop, and ward.<br/>Holy is the rhythm of our working hours;<br/>Hallow then our purpose, energy, and pow’rs.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Strengthen, Lord, for service hand and heart and brain;<br/>Help us good relations daily to maintain.<br/>Let the living presence of the servant Christ<br/>Heighten our devotion, make our life a feast.</lines>
+    </verse>
+  </lyrics>
+</song>

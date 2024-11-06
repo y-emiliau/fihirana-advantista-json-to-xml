@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY VATOLAMPY MANDRAKIZAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>382</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Vatolampy mandrakizay,<br/>Nikorianan'ny aina ho anay,<br/>He! mora lavo aho, fantatrao.<br/>Mitolona, nefa resy koa.<br/>'Ty tamy aho ka raisonao,<br/>Ry Vatolampy mpanisy soa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Diovy ny fo, sasao, Tompo !<br/>Hamasino fa mahantra am-po.<br/>Mangovitra ny tanako foana<br/>Tsy manan-katolotra Anao,<br/>Ry Vatolampy manoloana,<br/>Fa miankina amin'ilay Rranao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raha ketraka aho, tohanonao<br/>Manda amin'ny loza koa Ianao,<br/>Ry Vatolampy 'Zay voakora<br/>Nefa tsy mihontsona tokoa.<br/>Isan'andro, isan'ora,<br/>Aminao no hieren'ny fo.</lines>
+    </verse>
+  </lyrics>
+</song>

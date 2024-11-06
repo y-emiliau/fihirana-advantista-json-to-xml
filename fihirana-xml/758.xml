@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AMINAO IRERY IHANY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>758</ccliNo>
+    <authors>
+      <author>Tita &amp; Antso Razakaria</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aminao irery ihany<br/>no hany tiako;<br/>Lehibe tsisy ohatra izany<br/>ny hafaliako,<br/>Hasambarana hatrany<br/>no mitoetra ao anaty,<br/>‘Lay mpanjaka lehibe<br/>fitiavana.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Raiso re ny tenako,<br/>Ho Anao ny fiainako,<br/>Efa fantatrao anie,<br/>ilay fo mitsotra re,<br/>Aza lavinao raha toa ka<br/>sitrakao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny hoaviko ‘zay sisa, ao<br/>Aminao,<br/>Ka ny lasa izay vita,<br/>ô! mba fafao.<br/>Ka manomboka izao,<br/>inty aho ampiasao<br/>Hankatò izay baiko nomenao.<br/>Raiso re ny tenako,sns.</lines>
+    </verse>
+  </lyrics>
+</song>

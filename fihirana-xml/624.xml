@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FANKATOAVANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>624</ccliNo>
+    <authors>
+      <author>R. Tsimaitoarivo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fankatoavana, fankatoavana<br/>Fankatoavana an'Andriamanitra<br/>No filamatra harahiko,<br/>Harahintsika rehetra.<br/>Fankatoavana, <br/>Fankatoavana an'Andriamanitra<br/>Mandroso amim-pahatokiana<br/>Mivelona amin'ny<br/>Tenin'Andriamanitra,<br/>Misotro ny ranon'aina<br/>Faneken'ny fo<br/>Mivavaka amin'Andriamanitra,<br/>Mampandroso an'i Jesosy,<br/>Mahari-po, mahery fo tokoa.</lines>
+    </verse>
+  </lyrics>
+</song>

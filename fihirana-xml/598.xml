@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TANORA VAO MIVELATRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>598</ccliNo>
+    <authors>
+      <author>Ratovondrahety</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tanora vao mivelatra<br/>Ho voninkazo manitra<br/>Masoandron'aina mamiratra<br/>No hery isandratany<br/>He ! tsara re, he, sambatra !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tanora misy bika soa,<br/>Mahery, hendry sy mahay ;<br/>Mibanjina sy mifantoka<br/>Aminareo ny masonay,<br/>Mirary soa, mivavaka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tanora misy tahotra<br/>An'Ilay Andriamanitra<br/>Nanao tempoly ny tenanao<br/>Hitoeran'ny Fanahiny<br/>Tandremonao, ambenonao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tanora ô, andraikitrao<br/>Ny fiangonan'i Kristy ;<br/>Ataovy asa manokana,<br/>Taomy ireo sakaizanao<br/>Hiditra ao, honina ao !</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>125 - Joy to the World</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>125</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joy to the world, the Lord is come!<br/>Let earth receive her King;<br/>Let every heart<br/>prepare Him room,<br/>And heaven and nature sing,<br/>And heaven and nature sing,<br/>And heaven, and heaven and nature sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Joy to the earth, the Savior reigns!<br/>Let men their songs employ;<br/>While fields and floods,<br/>rocks, hills, and plains,<br/>Repeat the sounding joy,<br/>Repeat the sounding joy,<br/>Repeat, repeat the sounding joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No more let sin and sorrow grow,<br/>Nor thorns infest the ground;<br/>He comes to make<br/>His blessings flow<br/>Far as the curse is found,<br/>Far as the curse is found,<br/>Far as, far as the curse is found.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He rules the world with truth and grace,<br/>And makes the nations prove<br/>The glories of<br/>His righteousness,<br/>And wonders of His love,<br/>And wonders of His love,<br/>And wonders, and wonders of His love.</lines>
+    </verse>
+  </lyrics>
+</song>

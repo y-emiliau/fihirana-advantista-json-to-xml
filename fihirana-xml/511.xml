@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AKAIKINAO RY JESO TOMPO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>511</ccliNo>
+    <authors>
+      <author>A. Rabenasolo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Akaikinao ry Jeso Tompo<br/>No iriko indrindra<br/>Akaikinao, akaikinao<br/>Ny fiainako mirindra.<br/>Akaikinao ry Jeso tia,<br/>No tena mahafa-po<br/>Akaikinao mampionona ahy<br/>Raha sendra ny manjo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny ho eo an-tongotrao Jeso<br/>No fifalian'ny foko.<br/>An-tongotrao, an-tongotrao<br/>Ny zioga ho zakako.<br/>An-tongotrao, ry Jeso tia,<br/>Eo no aroko izao,<br/>Ny eo an-tongotrao, Jeso,<br/>No herin-janakao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Akaikinao, anilanao<br/>Tsy hiala eo intsony.<br/>Anilanao, anilanao<br/>No tena mampitony,<br/>Anilanao, ry Jeso tia,<br/>No tena fiadanam-po<br/>Anilanao, akaikinao,<br/>Ry Jeso Tompo soa.</lines>
+    </verse>
+  </lyrics>
+</song>

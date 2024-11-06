@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>137 - We Three Kings</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>137</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We three kings of Orient are;<br/>Bearing gifts we traverse afar<br/>Field and fountain, moor and mountain,<br/>Following yonder star.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O star of wonder, star of night,<br/>Star with royal beauty bright,<br/>Westward leading, still proceeding,<br/>Guide us to Thy perfect light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Born a King on Bethlehem’s plain,<br/>Gold I bring to crown Him again,<br/>King forever, ceasing never<br/>Over us all to reign.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Frankincense to offer have I;<br/>Incense owns a Deity nigh;<br/>Prayer and praising all men raising,<br/>Worship Him, God on high.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Myrrh is mine; its bitter perfume<br/>Breathes a life of gathering gloom:<br/>Sorrowing, sighing, bleeding, dying,<br/>Sealed in the stonecold tomb.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Glorious now behold Him arise,<br/>King and God and sacrifice;<br/>Alleluia, Alleluia!<br/>Sounds through the earth and skies.</lines>
+    </verse>
+  </lyrics>
+</song>

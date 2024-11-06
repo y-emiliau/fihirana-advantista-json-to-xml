@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>460 - As Water to the Thirsty</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>460</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As water to the thirsty,<br/>As beauty to the eyes,<br/>As strength that follows weakness,<br/>As truth instead of lies;<br/>As song-time and springtime and summertime to be,<br/>So is my Lord, my living Lord,<br/>So is my Lord to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Like calm in place of clamor<br/>Like peace that follows pain,<br/>Like meeting after parting,<br/>Like sunshine after rain;<br/>Like moonlight and starlight and sunlight on the sea,<br/>So is my Lord, my living Lord,<br/>So is my Lord to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As sleep that follows fever,<br/>As gold instead of grey,<br/>As freedom after bondage,<br/>As sunrise to the day;<br/>As home to the trav’ler and all he longs to see,<br/>So is my Lord, my living Lord,<br/>So is my Lord to me.</lines>
+    </verse>
+  </lyrics>
+</song>

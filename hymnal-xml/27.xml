@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>027 - Rejoice Ye Pure in Heart!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>27</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejoice ye pure in heart!<br/>Rejoice, give thanks, and sing;<br/>Your festal banner wave on high,<br/>The cross of Christ your King.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Rejoice, rejoice, rejoice,<br/>Give thanks and sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With voice as full and strong<br/>As ocean’s surging praise,<br/>Send forth the sturdy hymns of old,<br/>The psalms of ancient days.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With all the angel choirs,<br/>With all the saints of earth,<br/>Pour out the strains of joy and bliss,<br/>True rapture, noblest mirth.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yes, on through life’s long path,<br/>Still chanting as ye go;<br/>From youth to age, by night and day,<br/>In gladness and in woe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Praise Him who reigns on high,<br/>The Lord whom we adore,<br/>The Father, Son and Holy Ghost,<br/>One God forever more.</lines>
+    </verse>
+  </lyrics>
+</song>

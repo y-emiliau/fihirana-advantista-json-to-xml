@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>192 - O Shepherd Divine</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>192</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Shepherd divine, I know Thou art mine;<br/>Thy search in the night was for me.<br/>This bleak world is cold, but warm is Thy fold;<br/>My Shepherd, I follow Thee.<br/>Thy beautiful lamp shineth bright o’er my way,<br/>Thy glorious light unto Thy perfect day.<br/>Thro’ pastures serene,<br/>Thro’ valleys of green,<br/>My Shepherd, I follow Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Shepherd divine, I know Thou art mine;<br/>Thy great heart was broken for me.<br/>Thy grace and Thy law I picture in awe;<br/>They kissed upon Calvary.<br/>Ah! Life that was given to ransom my soul,<br/>Ah! Heart that was broken to make sinners whole,<br/>This world is but loss<br/>In view of Thy cross,<br/>My Shepherd, I follow Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Shepherd divine, I know Thou art mine;<br/>I hear Thee say, “Follow thou Me.”<br/>Thy message today illumines my way;<br/>The Spirit of Prophecy.<br/>I thrill at Thy marvellous love to Thy sheep,<br/>The way Thou dost lead to the still waters deep,<br/>One staff and one rod,<br/>One fold and one God;<br/>My Shepherd, I follow Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

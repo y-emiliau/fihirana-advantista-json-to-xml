@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ALINA NY ANDRO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>653</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alina ny andro 'iay sambokely<br/>Natopatopan'ny onja izao ;<br/>Ny rivo-doza koa dia namely,<br/>Ô ! fahoriana, Jesosy tsy tao.<br/>Indro anefa, fa nisy mazava<br/>Nanelatrelatra tampoka e !<br/>Toy ny endrika izay nampisava<br/>Ny horohoron'ilay alim-be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Njao reny tsara, na mafy ny onja,<br/>Feo nampitony ny fon'izy ireo ;<br/>Tsy be akory, indraim-bava monja :<br/>'Zaho ihany, todiho, jereo !<br/><<Tompo malala asaivo mankeny 'ty mpianatrao>><br/>Hoy ny anankiray.<br/><<Avia hoy ny valin'ny teny,<br/>Miantoraha eo an-tsandrin'ny Ray>>.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nefa niahotra fa mafy loatra<br/>Ny fisafaoky ny ranobe :<br/><<Tompo vonjeo fa tsy afa-manoatra,<br/>Ny sandrinao, ô, ahinjiro re !>><br/>Avy hatrany, tsy nijery foana,<br/>Ilay Mpamonjy nandray azy 'zao :<br/>Nahoana re no dia kely finoana,<br/>Niahanahana re ianao ?>></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tompo tsy miova, ny fiainako koa<br/>Toa dia mahery manonja izao :<br/>He ! loza maro indray mahavoa<br/>Mila hanafotra 'lay tianao.<br/>Ampaherezo fa kely finoana ;<br/>Tazony mafy an-tananao re<br/>Raha sendra kivy, ô, aza hadinoina<br/>Rarao ny onja, savao ny alim-be.</lines>
+    </verse>
+  </lyrics>
+</song>

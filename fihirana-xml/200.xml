@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MIHIRA FIHIRAM-PIFALIANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>200</ccliNo>
+    <authors>
+      <author>F. Ramanantsialonina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mihirà fihiram-pifaliana<br/>Hankalaza Ilay Tomponao.<br/>Asandrato feo fiderana.<br/>Hoby, hosana no atao</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Derao (derao), derao (derao)<br/>Ny Tompo Mpanavotra anao<br/>Hirao (hirao), hobio (hirao)<br/>Jehovah Mpamorona anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ka aoka ny feo fifaliana<br/>Hisandratra ambony ao.<br/>Hanako ho re eran-tany,<br/>Hanambara fitia manavao.<br/>Derao, derao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isika dia olom-bonjena,<br/>Firenena 'zay voatokana,<br/>Navotana tao Gologota ;<br/>Jesosy no nanafaka.<br/>Derao, derao, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Namangy antsika tokoa<br/>Ny Tompon'ny lanitra soa.<br/>Nomeny ny fanantenana,<br/>Handova ilay tany vao.<br/>Derao, derao, sns.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ry Tompo Mpandahatra hendry<br/>Indreto 'zahay zanakao.<br/>Ho tena mpanompo voatendry<br/>Hanoa sy hanaraka Anao.<br/>Derao, derao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

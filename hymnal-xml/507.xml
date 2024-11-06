@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>507 - Moment by Moment</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>507</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dying with Jesus, by death reckoned mine,<br/>Living with Jesus, a new life divine,<br/>Looking to Jesus till glory doth shine,<br/>Moment by moment, O Lord, I am Thine.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Moment by moment I’m kept in His love;<br/>Moment by moment I’ve life from above;<br/>Looking to Jesus till glory doth shine;<br/>Moment by moment, O Lord, I am Thine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Never a trial that He is not there,<br/>Never a burden that He doth not bear,<br/>Never a sorrow that He doth not share,<br/>Moment by moment I’m under His care.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Never a heart-ache, and never a groan,<br/>Never a teardrop and never a moan;<br/>Never a danger but there on teh throne,<br/>Moment by moment He thinks of His own.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Never a weakness that He doth not feel,<br/>Never a sickness that He cannot heal;<br/>Moment by moment, in woe or in weal,<br/>Jesus, my Savior, abides with me still.</lines>
+    </verse>
+  </lyrics>
+</song>

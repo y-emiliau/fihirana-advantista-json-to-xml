@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>369 - Bringing in the Sheaves</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>369</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sowing in the morning, sowing seeds of kindness,<br/>Sowing in the noontide and the dewy eve,<br/>Waiting for the harvest and the time of reaping -<br/>We shall come rejoicing, bringing in the sheaves.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bringing in the sheaves, bringing in the sheaves,<br/>We shall come rejoicing, bringing in the sheaves.<br/>Bringing in the sheaves, bringing in the sheaves,<br/>We shall come rejoicing, bringing in the sheaves.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sowing in the sunshine, sowing in the shadows,<br/>Fearing neither clouds nor winter’s chilling breeze;<br/>By and by the harvest and the labor ended -<br/>We shall come rejoicing, bringin in the sheaves.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Going forth with weeping, sowing for the Master,<br/>Tho the loss sustained our spirit often grieves;<br/>When our weeping’s over He will bid us welcome -<br/>We shall come rejoicing, bringing in the sheaves</lines>
+    </verse>
+  </lyrics>
+</song>

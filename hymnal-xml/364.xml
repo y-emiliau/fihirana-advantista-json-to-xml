@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>364 - O Jesus Christ, to You</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>364</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jesus Christ, to You may hymns be rising<br/>In every city for Your love and care;<br/>Inspire our worship, grant the glad surprising<br/>That Your blest Spirit brings men everywhere.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Grant us new courage sacrificial humble<br/>Strong in Your strength to venture and to dare,<br/>To lift the fallen, guide the feet that stumble,<br/>Seek out the lonely &amp;amp;God’s mercy share</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Show us Your Spirit, brooding oér each city,<br/>As You did weep above Jerusalem,<br/>Seeking to gather all in love and pity,<br/>And healing those who touch Your garment’s hem.</lines>
+    </verse>
+  </lyrics>
+</song>

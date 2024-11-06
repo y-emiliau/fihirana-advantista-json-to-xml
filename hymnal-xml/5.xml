@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>005 - All My Hope on God Is Founded</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>5</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All my hope on God is founded;<br/>He doth still my trust renew.<br/>Me through change and chance He guideth,<br/>Only good and only true.<br/>God unknown, He alone<br/>Calls my heart to be His own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pride of man and earthly glory,<br/>Sword and crown betray his trust;<br/>What with care and toil he buildeth,<br/>Tower and temple fall to dust.<br/>But God’s power, hour by hour,<br/>Is my temple and my tower.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God’s great goodness aye endureth,<br/>Deep His wisdom, passing thought;<br/>Splendor, light and life attend Him,<br/>Beauty springeth out of naught.<br/>Love doth stand at His hand;<br/>Joy doth wait on His command.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Still from man to God eternal,<br/>Sacrifice of praise be done.<br/>High above all praises praising,<br/>For the gift of Christ His son.<br/>Christ doth call one and all:<br/>Ye who follow shall not fall.</lines>
+    </verse>
+  </lyrics>
+</song>

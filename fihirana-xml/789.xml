@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>SABATA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>789</ccliNo>
+    <authors>
+      <author>Tita Razakaria</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Andro iray nomen’ny Tompo,<br/>Andro tokana tsy miova,<br/>nohamasininy,<br/>Notahiny tena miavaka<br/>Mba ho famantarana ahy<br/>sy ‘lay Mpamorona;<br/>Dia nomeny ho ahy sy ho anao<br/>Mba ho fitsaharana,<br/>Ary mbola hitoetra,<br/>eny, ho mandrakizay.<br/>Izy mihitsy no niteny,<br/>nanao sonia:<br/>Io no famantarana amiko<br/>sy Ianao,<br/>Mbola hotsarovana,<br/>eny, na any an-danitra,<br/>Ny Sabata fitsaharana<br/>Tsy hiova fa haharitra.</lines>
+    </verse>
+  </lyrics>
+</song>

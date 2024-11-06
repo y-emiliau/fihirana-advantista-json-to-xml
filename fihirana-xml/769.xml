@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESOSY Ô! ANDROANY (MELOHIKO)</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>769</ccliNo>
+    <authors>
+      <author>Moïse Randriamboavonjy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesosy ô! androany no<br/>ambarako tsy miambatra<br/>Ny didim-pitsaran’ny foko<br/>ho fantatrao, (fantatrao)<br/>Melohiko mba ho faty avokoa<br/>‘Reo toetra ratsy nangeja<br/>ahy taloha,<br/>Tsy misy homeko<br/>ny famindrampo,<br/>Ry Tompo Tsitoha<br/>(Tompo Tsitoha).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fantatro fa tsy mora koa<br/>ny hanatanteraka, ampio,<br/>‘Ty didim-pitsaran’ny fo,<br/>ka mba ampio (ô! ampio)<br/>Fa Ianao, Jeso, no<br/>hianteherako,<br/>Hanampy ahy eo amin’ny<br/>toerako,<br/>Hamono ny ota nifoterako<br/>sy havelako (havelako)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fantatro fa ireo, Jeso,<br/>no efitra mampisaraka<br/>Ny lalako sy lalanao<br/>tsy mety ho tafaraka,<br/>Ka na dia hisy aza ireo hitoreo,<br/>Vao mainka asandratro mafy<br/>ny feo:<br/>Melohiko tsisy famindrampo<br/>Noho Ianao, Jeso, Mpamonjiko!</lines>
+    </verse>
+  </lyrics>
+</song>

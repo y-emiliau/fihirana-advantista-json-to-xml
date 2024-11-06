@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY ZANAKO MANIA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>595</ccliNo>
+    <authors>
+      <author>E. Andrianjafitrimo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>RY ZANAKO MANIA<br/>1<br/>Ry zanako mania !<br/>Henoinao izao.<br/>Izaho ba fitia<br/>Mangora-po anao ;<br/>Ry zanako ! modia<br/>Sao maty ianao,<br/>Fa be ny bibidia ;<br/>Modia re !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny zavatry ny tany<br/>Sao mahasimba anao<br/>Harena mety lany<br/>Tsy mahavonjy anao :<br/>Izaho irery ihany<br/>No hiadananao ;<br/>Ka mbola manontany :<br/>Tsy hody va ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mamiratra jerena<br/>Ny lalan-tsitrapo,<br/>Fa ankoso-bolamena,<br/>Mamitaka ny fo;<br/>Ny sitrapon'ny tena<br/>Mamery ny ainao,<br/>Ario ka miverena<br/>Modia re !</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Izaho Tompon'aina,<br/>Nijaly ho anao,<br/>Ka, he, nanolotr'aina,<br/>Mba hamonjena anao;<br/>Ny rako mitaraina,<br/>Modia ianao :<br/>Ka aza mba malaina,<br/>Modia re !</lines>
+    </verse>
+  </lyrics>
+</song>

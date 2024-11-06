@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>117 - The Advent of Our God</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>117</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The advent of our God<br/>With eager prayers we greet,<br/>And singing haste upon His road<br/>His coming reign to meet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The everlasting Son<br/>Was born to make us free;<br/>And He a servant’s form put on<br/>To gain our liberty.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As Judge, on clouds of light,<br/>He soon will come again,<br/>His scattered people to unite<br/>With them in heaven to reign.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise to the incarnate Son<br/>Who comes to set us free,<br/>With Father, Spirit, ever one,<br/>To all eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

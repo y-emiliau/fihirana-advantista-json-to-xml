@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>669 - The Lord Bless You and Keep You</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>669</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord bless you and keep you,<br/>the Lord life His countenance upon you,<br/>and give you peace;<br/>the Lord make His face to shine upon you,<br/>and be gracious unto you,<br/>be gracious,<br/>the Lord be gracious unto you.<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

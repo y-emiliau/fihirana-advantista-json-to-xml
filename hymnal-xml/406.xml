@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>406 - Love Consecrates the Humblest Act</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>406</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love consecrates the humblest act<br/>And haloes mercy’s deeds;<br/>It sheds a benediction sweet<br/>And hallows human needs.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When in the shadow of the cross<br/>Christ knelt and washed the feet<br/>Of His disciples, He gave us<br/>A sign of love complete.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love serves and willing, stoops to serve;<br/>What Christ in love so true<br/>Has freely done for one and all,<br/>Let us now gladly do!</lines>
+    </verse>
+  </lyrics>
+</song>

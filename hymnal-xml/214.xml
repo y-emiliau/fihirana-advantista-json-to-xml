@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>214 - We Have This Hope</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>214</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have this hope that burns within our heart,<br/>Hope in the coming of the Lord.<br/>We have this faith that Christ alone imparts,<br/>Faith in the promise of His Word.<br/>We believe the time is here,<br/>When the nations far and near<br/>Shall awake, and shout and sing<br/>Hallelujah! Christ is King!<br/>We have this hope that burns within our heart,<br/>Hope in the coming of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are united in Jesus Christ our Lord.<br/>We are united in His love.<br/>Love for the waiting people of the world,<br/>People who need our Savior’s love.<br/>Soon the heav’ns will open wide,<br/>Christ will come to claim His bride,<br/>All the universe will sing<br/>Hallelujah! Christ is King!<br/>We have this hope this faith, and God’s great love,<br/>We are united in Christ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JEHOVAH TOMPO O!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>568</ccliNo>
+    <authors>
+      <author>W. E. Cousins</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jehovah Tompo ô !<br/>Tahio sy hatsarao<br/>Ny taninay ;<br/>Tahio ny namanay<br/>Ho tia ny teninao<br/>Dia ampahazavao<br/>Ny nosinay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ovay ny fombanay<br/>Ho foin'ny taninay<br/>Ny sampiny ;<br/>Omeo fo marina<br/>Izao rehetra izao,<br/>Ka dia mba hiantrao<br/>Ny nosinay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jehovah Tompo ô !<br/>Tahio ny olonao<br/>Ny zanakay ;<br/>Tahio ho zanakao,<br/>Tahio ho marina,<br/>Ka dia ho taninao<br/>Ny nosinay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Izay mpitondra anay<br/>Tahio ho tia Anao,<br/>Jehovah ô !<br/>Omeo sai-marina<br/>Hanao ny sitrakao,<br/>Ka ampanompoy Anao<br/>Ny nosinay.</lines>
+    </verse>
+  </lyrics>
+</song>

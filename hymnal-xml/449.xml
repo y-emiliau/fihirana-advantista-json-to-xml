@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>449 - Never Part Again</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>449</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a land of pure delight,<br/>Where bliss eternal reigns,<br/>Infinite day excludes the night<br/>And pleasures banish pain.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We’re trav’ling to Immanuel’s land,<br/>We soon shall hear the trumpet sound,<br/>And soon we shall with Jesus reign,<br/>And never, never part again.<br/>What! Never part again? No, never part again,<br/>What! Never part again? No, never part again,<br/>And soon we shall with Jesus reign,<br/>And never, never part again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There everlasting spring abides,<br/>And never with’ring flowers,<br/>And but a little space divides<br/>This heav’nly land from ours.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Could we but stand where Moses stood,<br/>And view the landscape o’er,<br/>Not all this world’s pretended good<br/>Could ever charm us more.</lines>
+    </verse>
+  </lyrics>
+</song>

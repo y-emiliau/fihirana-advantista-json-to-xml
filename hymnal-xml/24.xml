@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>024 - Every Star Shall Sing a Carol</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>24</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every star shall sing a carol;<br/>Every creatures, high or low,<br/>Come and praise the King of heaven<br/>By whatever name you know.<br/>God above, Man below,<br/>Holy is the name I know.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the King of all creation<br/>Had a cradle on the earth,<br/>Holy was the human body,<br/>Holy was the human birth.<br/>God above, Man below,<br/>Holy is the name I know.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every star and every planet,<br/>Every creature, high or low,<br/>Come and praise the King of heaven<br/>By whatever name you know.<br/>God above, Man below,<br/>Holy is the name I know.</lines>
+    </verse>
+  </lyrics>
+</song>

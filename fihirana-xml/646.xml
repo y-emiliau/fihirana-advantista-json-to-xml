@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MIAINGA, MIASA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>646</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miaingà, miasà, Mandrosoa<br/>(Eo aloha)<br/>Marobe ireo vokatra<br/>Ao an-tsaha<br/>Mila anao, ka miasà.<br/>Milonjehitra izao<br/>Ireo vokatra ho anao<br/>Misehoa mba ho sahy<br/>Momba anao (ny Fanahy).<br/>Voka-tsoa sesehena<br/>Miandry anao<br/>Aza kivy miasà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ô ! avia mitoria, matokia<br/>(Mifalia)<br/>Momba anao Ilay Tompo tia anao<br/>Ka ny tahotra ialao<br/>Sesehena tokoa,<br/>Ireo reraka ao am-po<br/>Maneke, mamonje 'reo fanahy<br/>(Marobe)<br/>Diadema no miandry anao ary<br/>Aza kivy mitoria.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Zay rehetra mandre, maneke<br/>(Mba handeha)<br/>Miaraha na ny vavy na ny lahy<br/>Mba ho famonjem-panahy<br/>Iaraha-mahita<br/>Izao fitoriana izao<br/>Mazotoa ho tafita, ny Ray<br/>(Momba anao)<br/>Hafalian-dehiba doria doria<br/>Miandry anao ka mitoria.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>262 - Sweet, Sweet Spirit</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>262</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s a sweet,<br/>sweet spirit in this place,<br/>And I know that it’s<br/>the spirit of the Lord;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There are sweet<br/>expressions on each face,<br/>And I know they feel<br/>the presence of the Lord.<br/>Chorus<br/>Sweet Holy Spirit,<br/>Sweet Heavenly Dove,<br/>Stay right here with us,<br/>Filling us with Your love,<br/>And for these blessings<br/>We lift our hearts in praise,<br/>Without a doubt we’ll know<br/>That we have been revived<br/>When we shall leave this place.</lines>
+    </verse>
+  </lyrics>
+</song>

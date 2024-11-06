@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AINA NO FETRA, RY TOMPO MPANJAKA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>263</ccliNo>
+    <authors>
+      <author>J. Andrianaivoravelona zanany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aina no fetra, ry Tompo Mpanjaka !<br/>Aina no fetra hanarahana Anao,<br/>Ka ny faneva tsy maintsy ho zaka,<br/>Ny fanompoana tsy maintsy hatao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Indreto izahay hilanja faneva :<br/>Ilay hazo izay<br/>Nanavotana anay.<br/>An-tsitrapo no anoloranay tena,<br/>Ka tano mba ho Anao izahay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aina no fetra ho enti-manoa<br/>Ilay Zanak'ondry nisolo anay ;<br/>Fandavan-tena sy fanaovan-tsoa<br/>No fianarana atolotra anay.<br/>Indreto izahay, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aina no fetra, ry Tompo malala !<br/>Aina no fetran'ny fitiavanay ;<br/>Ka sanatria izay handao na hiala ;<br/>Mandrakizay ho Anao izahay.<br/>Indreto izahay, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aina no fetr, ny nofo anefa<br/>Mora mirona ka lavo indray,<br/>Ka manampia, ry Mpandresy mahefa !<br/>O ! ùba tantano, hazony izahay.<br/>Indreto izahay, sns.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aina no fetra, ka ampio ry Fanahy !<br/>Aina no fetra, Vonjeo e, ry Ray !<br/>Aina no fetra, izahay re no sahy ;<br/>Aina no fetra, hadresy izahay.<br/>Indreto izahay, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

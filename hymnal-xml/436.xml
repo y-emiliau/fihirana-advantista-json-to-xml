@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>436 - The Homeland</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>436</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The homeland! O the homeland!<br/>The land of the free born!<br/>There’s no night in the homeland,<br/>But aye the fadeless morn;<br/>I’m sighing for homeland,<br/>My heart is aching here;<br/>There is no pain in the homeland<br/>To which I’m drawing near;<br/>There is no pain in the homeland<br/>To which I’m drawing near.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Lord is in the homeland,<br/>With angels bright and fair;<br/>There’s no sin in the homeland,<br/>And no temptation there;<br/>The music of the homeland<br/>Is ringing in my ears;<br/>And when I think of the homeland<br/>My eyes are filled with tears;<br/>And when I think of the homeland<br/>My ears are filled with tears.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The dwellers in the homeland<br/>Are beckoning me to come,<br/>Where neither death nor sorrow<br/>Invades their holy name;<br/>O dear, dear native country!<br/>O rest and peace above!<br/>Christ bring us all to the homeland<br/>Of Thy redeeming love;<br/>Christ bring us all to the homeland<br/>Of Thy redeeming love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MIHIRA FIHIRAM-BAOVAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v3</verseOrder>
+    <ccliNo>49</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mihirà fihiram-baovao<br/>Ho an'Ilay nanao<br/>Izao rehetra izao, rehetra izao.<br/>Ilay Tompo tena tia<br/>Mpiaro ny mania.<br/>No nitarika ny diafa tena tia.<br/>Ny fahazavany be<br/>Amin'ny alim-be.<br/>No indro fa nanome fiainana e.<br/>Mihirà, hira vaovao<br/>Ho an'Ilay nanao<br/>Izao rehetra izao, rehetra izao.<br/>Hajao ny fitsipiny sy ny didiny<br/>Fa izay no sitrapony, ka sitrany<br/>Andrandrao ny loha<br/>Ka mba jereo tokoa<br/>Ireo kintana maro soa<br/>Masoandro koa<br/>'Reo tendrombohitra,<br/>Havoana lavitra<br/>Dia samy manolotra fisaorana<br/>Mihirà, hira vaovao<br/>Ho an'Ilay nanao<br/>Izao rehetra izao, rehetra izao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Derao ny fitiavany sy ny lazany<br/>Omeo ny laza sy hajany<br/>Ny rano lalina, ny ranomasina<br/>No he manamarina<br/>'Lay masina.<br/>Andeha venteso anio<br/>Ny Haleloia hobio<br/>Ka ny Hosana madio<br/>Hobio, Hobio<br/>Ho an'Ilay nanao<br/>Izao rehetra izao, rehetra izao.</lines>
+    </verse>
+  </lyrics>
+</song>

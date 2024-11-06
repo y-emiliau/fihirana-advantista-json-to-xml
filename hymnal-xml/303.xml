@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>303 - Beneath the Cross of Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>303</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beneath the cross of Jesus<br/>I fain would take my stand,<br/>the shadow of a mighty rock<br/>within a weary land;<br/>a home within the wilderness,<br/>a rest upon the way,<br/>from the burning of the noontide heat,<br/>and the burden of the day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Upon that cross of Jesus<br/>mine eye at times can see<br/>the very dying form of One<br/>who suffered there for me;<br/>and from my stricken heart with tears<br/>two wonders I confess:<br/>the wonders of redeeming love<br/>and my unworthiness.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I take, O cross, thy shadow<br/>for my abiding place;<br/>I ask no other sunshine than<br/>the sunshine of his face;<br/>content to let the world go by,<br/>to know no gain nor loss,<br/>my sinful self my only shame,<br/>my glory all the cross.</lines>
+    </verse>
+  </lyrics>
+</song>

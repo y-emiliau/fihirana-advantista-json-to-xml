@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>123 - As With Gladness Men of Old</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>123</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As with gladness men of old<br/>Did the guiding star behold,<br/>As with joy they hailed its light,<br/>Leading onward, beaming bright,<br/>So, most gracious Lord, may we<br/>Evermore be led to Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As with joyful steps they sped<br/>To that lowly manger bed,<br/>There to bend the knee before<br/>Him whom heav’n and earth adore,<br/>So may we with willing feet<br/>Ever seek Thy mercy seat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As they offered gifts most rare<br/>At that manger rude and bare,<br/>So may we with holy joy,<br/>Pure, and free from sin’s alloy,<br/>All our costliest treasures bring,<br/>Christ, to Thee our heav’nly King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy Jesus, every day<br/>Keep us in the narrow way;<br/>And, when earthly things are past,<br/>Bring our ransomed souls at last<br/>Where they need no star to guide,<br/>Where no clouds Thy glory hide.</lines>
+    </verse>
+  </lyrics>
+</song>

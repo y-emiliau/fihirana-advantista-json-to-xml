@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TOMPO O! MBA TONEO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>238</ccliNo>
+    <authors>
+      <author>E. Razakarivony</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tompo ô, mba toneo re,<br/>'Zato tebitebin-tsaiko.<br/>Mila hampivadi-po<br/>Sady sarotra tsy haiko.<br/>Mampihorohoro lava<br/>Sy mandreraka ny fo ;<br/>Nefa raha tonenao<br/>Dia ho resy ny manjo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tompo ô ! ampangino re,<br/>'Zato herin'onja iainako<br/>Misamboaravoara<br/>Mila hanafotra ny fiainako.<br/>Izaho mantsy ra sy nofo,<br/>Olombelona ihany ;<br/>Ka ny heriko tsy ampy<br/>hanoherana izany.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tompo ô ! mba sitrano re,<br/>'Zato ratra ato am-poko ;<br/>Ka sosloy fifaliana<br/>Izany sento sy toloko.<br/>Fa izay sitraninao,<br/>Tsy ho orin-java-tsoa.<br/>Eny, sambatra aoka izany,<br/>Tena tretrika tokoa.</lines>
+    </verse>
+  </lyrics>
+</song>

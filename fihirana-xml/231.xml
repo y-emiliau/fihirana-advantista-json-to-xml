@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ANTSOY JESO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <ccliNo>231</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Antsoy Jeso, raha tonga ny maraina<br/>'Zay mampivelatra ny raozy soa.<br/>Antsoy Jeso fa Izy anton'aina<br/>Mamelona ny fo sy saina koa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Antsoy Jeso mba ho mpiara-dia<br/>An-dàlana izay diavinao ;<br/>Antsoy Jeso, Sakaiza tena tia,<br/>Ho aro, toky sady tanjakao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Antsoy Jeso, raha sendra ka tomany<br/>Tsindrin'ny ota be izay natao ;<br/>Antso Jeso, Ilay nitondra izany,<br/>Ka maty mba hanavotra anao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Antsoy Jeso, ny vavakao ho reny,<br/>Ny sentonao tsy miafina aminy ;<br/>Antsoy Jeso, inoy re ny Teny ;<br/>Ny zava-tsarotra halaminy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Antsoy Jeso, raha mila ho variana<br/>Amin'izao fiainana eto izao ;<br/>Antsoy Jeso fa Izy fifaliana,<br/>Harena soa sy tena lovanao.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Antsoy Jeso, raha tonga ny hariva,<br/>Manaloka ny haizim-pasana ;<br/>Ny masoandronao koa efa iva,<br/>Antsoy Jeso,  'zay Fitsanganana.</lines>
+    </verse>
+  </lyrics>
+</song>

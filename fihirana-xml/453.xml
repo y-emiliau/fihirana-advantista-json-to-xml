@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NITADY 'LAY MPIANDRY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>453</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nitady 'Lay Mpiandry<br/>Nitady ahy, re ;<br/>Ka tsy tafandry mandry<br/>Na dia alina e,<br/>Nijery tao am-bala,<br/>Ka indro fa tsy tao<br/>'Ty ondry 'zay malala.<br/>Niainga Izy 'zao.</lines>
+    </verse>
+  </lyrics>
+</song>

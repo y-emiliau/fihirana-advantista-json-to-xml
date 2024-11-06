@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>EO AN-TONGOTRAO, JESO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>790</ccliNo>
+    <authors>
+      <author>Harlala sy Rajo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eo an-tongotrao, Jeso,<br/>No iantorahako mpanomponao,<br/>F’eo no misy vonjy ho ahy<br/>Tena azo antoka;<br/>O! fifaliana omenao ahy<br/>Tsy ho tapitra mandrakizay,<br/>Fiadanana no tsapako<br/>Raha eo anilanao, Jeso!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fa nahoana moa no sahiko<br/>Ny mihira toy izao ô!<br/>Satria nomenao ahy ny lambam-pahamarinanao;<br/>Eny, sambatra aho itoeranao, Jeso malalako,<br/>Raiso (raiso re) ny saotra atolotro<br/>Fa tena vokatry ny fo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeso ô, atolotro<br/>Ho Anao ‘zao tenako izao,<br/>Na tsy mendrika aza re<br/>Atokany ho Anao,<br/>Fa vonona aho hanara-dia<br/>Na ho mora na ho sarotra,<br/>Ianao no ianteherako<br/>Ka tsy mba manan-tahotra aho.<br/>Fa nahoana moa sns.</lines>
+    </verse>
+  </lyrics>
+</song>

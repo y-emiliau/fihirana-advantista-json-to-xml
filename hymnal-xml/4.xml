@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>004 - Praise, My Soul, the King of Heaven</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>4</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise, my soul, the King of heaven;<br/>To his feet thy tribute bring;<br/>Ransomed, healed, restored, forgiven,<br/>Who like thee His praise should sing?<br/>Praise Him, praise Him, alleluia!<br/>Praise the everlasting King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise him for his grace and favor<br/>To our fathers in distress;<br/>Praise him still the same forever,<br/>Slow to chide and swift to bless:<br/>Praise Him, praise Him, alleluia!<br/>Glorious in His faithfulness.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tenderly He shields and spares us;<br/>Well our feeble frame he knows;<br/>In his hands He gently bears us,<br/>Rescues us from all our foes.<br/>Praise Him, praise Him, alleluia!<br/>Widely yet his mercy flows.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Angels, help us to adore him;<br/>Ye behold him face to face;<br/>Sun and moon, bow down before him,<br/>Dwellers all in time and space.<br/>Praise Him, praise Him, alleluia!<br/>Praise with us the God of grace.</lines>
+    </verse>
+  </lyrics>
+</song>

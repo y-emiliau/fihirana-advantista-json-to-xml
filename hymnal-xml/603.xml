@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>603 - Christian, Seek Not Repose</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>603</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christian, seek not yet repose,<br/>Cast thy dreams of ease away;<br/>Thou aret in teh midst of foes;<br/>Watch and pray!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gird thy heavenly armor on,<br/>Wear it ever, night and day;<br/>Ambushed lies the evil one;<br/>Watch and pray!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hear the victors who o’ercame;<br/>Still they mark each warrior’s way;<br/>All with one sweet voice exclaim:<br/>“Watch and pray!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hear, above all, hear thy Lord,<br/>Him thou lovest to obey;<br/>Hide within thy heart His word;<br/>“Watch and pray!”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Watch, as if on that alone Hung<br/>the issue of teh day;<br/>Pray that help may be send down;<br/>Watch and pray!</lines>
+    </verse>
+  </lyrics>
+</song>

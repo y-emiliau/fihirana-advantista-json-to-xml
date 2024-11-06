@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>195 - Showers of Blessing</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>195</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>“There shall be showers of blessing;”<br/>This is the promise of love;<br/>There shall be seasons refreshing,<br/>Sent from the Savior above.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Showers of blessing,<br/>Showers of blessing we need;<br/>Mercy drops round us are falling,<br/>But for the showers we plead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>“There shall be showers of blessing;”<br/>Precious reviving again;<br/>Over the hills and the valleys,<br/>Sound of abundance of rain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>“There shall be showers of blessing;”<br/>Send them upon us, O Lord;<br/>Grant to us now a refreshing;<br/>Come, and now honor Thy word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>“There shall be showers of blessing;”<br/>O that today they might fall,<br/>Now as to God were confessing,<br/>Now as on Jesus we call!</lines>
+    </verse>
+  </lyrics>
+</song>

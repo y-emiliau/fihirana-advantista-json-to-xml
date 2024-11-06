@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>084 - God the Omnipotent</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>84</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God the Omnipotent! King,<br/>who ordainest<br/>Great winds Thy clarions,<br/>the lightnings Thy sword;<br/>Show forth Thy pity<br/>on high where Thou reignest,<br/>Give to us peace,<br/>O most merciful Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God the all merciful!<br/>earth hath forsaken<br/>Thy precepts holy,<br/>and slighted Thy word;<br/>Bid not Thy wrath<br/>in its terrors awaken;<br/>Give to us peace,<br/>O most merciful Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God the all righteousness One!<br/>man hath defied Thee;<br/>Yet to eternity<br/>standeth Thy word;<br/>Falsehood and wrong<br/>shall not tarry beside Thee;<br/>Prosper the right,<br/>O most merciful Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So shall we render<br/>Thee thankful devotion,<br/>For Thy deliverance<br/>from peril and sword,<br/>Singing in chorus<br/>from ocean to ocean,<br/>“Thine is the power<br/>and the glory, O Lord.”</lines>
+    </verse>
+  </lyrics>
+</song>

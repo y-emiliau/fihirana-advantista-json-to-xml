@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>179 - The Wonders of Redeeming Love</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v05 v34 v0</verseOrder>
+    <ccliNo>179</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The wonders of redeeming love<br/>Our highest thoughts exceed;<br/>The Son of God comes from above<br/>For sinful man to bleed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He gives Himself, His life, His all,<br/>A sinless sacrifice.<br/>For man He drains the cup of gall,<br/>For man the victim dies.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And now before His Father’s face<br/>His precious blood He pleads;<br/>For those who seek the throne of grace<br/>His love still intercedes.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He knows the frailties of our frame,<br/>For He has borne our grief;<br/>Our great High Priest once felt the same,<br/>And He can send relief.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>His love will not be satisfied,<br/>Till He in glory sees<br/>The faithful ones for whom He died<br/>From sin forever free.<br/>Posted by HYMNS at</lines>
+    </verse>
+    <verse name="v05">
+      <lines>:</lines>
+    </verse>
+    <verse name="v34">
+      <lines/>
+    </verse>
+    <verse name="v0">
+      <lines>comments<br/>Labels: The Wonders of Redeeming Love</lines>
+    </verse>
+  </lyrics>
+</song>

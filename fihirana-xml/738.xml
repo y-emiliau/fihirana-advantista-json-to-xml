@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NIVEZIVEZY AHO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>738</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nivezivezy aho<br/>Tao anaty ali-maizim-be.<br/>Toa jamba fa tsy nahita<br/>Ny fahamarinana.<br/>IS1AN'ANDININY :<br/>Tampoka anefa indro Jeso.<br/>Izy tonga teo namonjy ahy.<br/>Ravo ny foko, faly tokoa.<br/>Tsapako teo fa tia ahy Jeso.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Izao tontolo ratsy izao,<br/>Nanintona ny fo,<br/>Ho bobongolo sady lao,<br/>Tsy nahitana soa.<br/>Tampoka anefa, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny fivavahako Jeso tia<br/>Dia noheverinao.<br/>Fa notantananao ny dia<br/>Sakaizako Ianao.<br/>Tampoka anefa, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

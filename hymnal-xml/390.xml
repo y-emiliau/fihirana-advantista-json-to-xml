@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>390 - We Love Thy Sabbath, Lord</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>390</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We love Thy Sabbath, Lord,<br/>And worship at Thy will;<br/>Oh may these hours sweet peace afford<br/>And deeper faith instill.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thine angels sang for joy<br/>Cration’s work to see;<br/>We too, this day, would raise our hearts<br/>In grateful praise to Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise for Thy wondrous love,<br/>That sealed this sacred day,<br/>A sign that all may understand<br/>We own Thy sovereign sway.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O great Creator King,<br/>Through Thy redeeming grace,<br/>Renew and sanctify our hearts<br/>That we may see Thy face.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And with the white-robed throng,<br/>Upon Mount Sion be,<br/>And joyful sing our Sabbath song<br/>Through all eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

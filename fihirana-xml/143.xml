@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AVY 'LAY MPANJAKANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>143</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Avy 'Lay Mpanjakanao ;<br/>Moa vonona ?<br/>Avy mba handray anao ;<br/>Moa vonona ?<br/>Vetivety foana<br/>Dia hanoloana.<br/>Voninahi-dehibe,<br/>Eo an-danitra e !<br/>Moa ve fantatrao ?<br/>Avy 'Lay Mpanjakanao ;<br/>Moa vonona ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Avy 'Lay Mpamonjinao ;<br/>Moa vonona ?<br/>Avy mba handray anao ;<br/>Moa vonona ?<br/>He ! ho lasa avokoa,<br/>Sento sy mahory koa,<br/>Fifalian-danitra<br/>Tsy ho tapitra.<br/>Moa ve fantatrao ?<br/>Avy 'Lay Mpanjakanao ;<br/>Moa vonona ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tompo ô, ampio 'zahay<br/>Mba ho vonona,<br/>Eny tsy hangahiahy<br/>Fa ho vonona<br/>O ! faingana Ianao<br/>Haka ny navotanao<br/>Honina finaritra<br/>Ao an-danitra,<br/>O ! avia Tomponay,<br/>Noho ny hasoavanao,<br/>Vonona izahay</lines>
+    </verse>
+  </lyrics>
+</song>

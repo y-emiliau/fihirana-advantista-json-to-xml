@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>107 - God Moves in a Mysterious Way</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>107</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God moves in a mysterious way<br/>His wonders to perform;<br/>He plants His footsteps in the sea,<br/>And rides upon the storm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ye fearful saints, fresh courage take;<br/>The clouds ye so much dread<br/>Are big with mercy, and shall break<br/>In blessings on your head.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Judge not the Lord by feeble sense,<br/>But trust Him for His grace;<br/>Behind a frowning providence<br/>He hides a smiling face.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His purposes will ripen fast,<br/>Unfolding every hour;<br/>The bud may have a bitter taste,<br/>But sweet will be the flower.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Blind unbelief is sure to err,<br/>And scan His work in vain;<br/>God is His own interpreter,<br/>And He will make it plain.</lines>
+    </verse>
+  </lyrics>
+</song>

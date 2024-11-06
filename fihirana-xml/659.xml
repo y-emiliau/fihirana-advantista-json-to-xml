@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TIAKO HO RE LALANDAVA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>659</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tiako ho re lalandava<br/>Jeso ô, 'Lay feonao,<br/>Fa Izy mahay mapisava<br/>Ny alahelo izao<br/>Feo manome famelana,<br/>Fahamarinana koa.<br/>'Ndrindra ny fanantenana<br/>'Zay mampitraka ny fo.<br/>Tiako ho re (tiako ho re)<br/>'Zany feonao Jesosy<br/>('Zany feonao ô ! ry Jeso)<br/>Fa tena soa (tena soa)<br/>'Zato fitiavanao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tiako ho hita tokoa<br/>Jeso ô, ny tavanao,<br/>'Zay hampisava avokoa<br/>Ny haizin'ny ota izao.<br/>Tavan'ny Tompo malala<br/>'Zay manambara fitia<br/>Tsy mba miova na miala<br/>Ahy hatrety sy sy doria !<br/>Mba misehoa Ianao, ry Jesosy<br/>(Mba misehoa, mba misehoa)<br/>'Zao Ianao, ô, ry Jeso<br/>Fa tena soa indrindra<br/>Ny tavanao !<br/>(Fa tena soa, tena soa)<br/>Tena soa indrindra ny tavanao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tiako hiara-mitepo<br/>Amin'ny Anao re ny fo,<br/>Dia hisava ny sento<br/>Ary ho lao ny manjo.<br/>Eny, hiara-mamindra<br/>Aminao, ka tsy hania,<br/>Ary rehefa hifindra<br/>Ho eo aminao,Tompo tia.<br/>Amin'izay Ianao, ry Jesosy,<br/>(Amin'izay, amin'izay)<br/>Dia Ianao ô, ry Jeso,<br/>No ho anjarako mandrakizay.<br/>(Ho ahy tokoa, hoa hy tokoa)<br/>Ahy tokoa, eny mandrakizay !</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>231 - Blest Be the King</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>231</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blest be the King whose coming<br/>Is in the name of God!<br/>For Him let doors be opened,<br/>No hearts against Him barred!<br/>Not robed in royal splendor,<br/>In power and pomp comes He;<br/>But clad as are the poorest,<br/>Such His humility.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blest be the King whose coming<br/>Is in the name of God!<br/>By those who truly listen<br/>His voice is truly heard;<br/>Pity the proud and haughty,<br/>Who have not learned to heed<br/>The Christ who is the promise,<br/>Who has atonement made.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blest be the King whose coming<br/>Is in the name of God!<br/>He only to the humble<br/>Reveals the face of God.<br/>All power is His, all glory!<br/>All things are in His hand,<br/>All ages and all peoples,<br/>‘Till time itself shall end.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blest be the King whose coming<br/>Is in the name of God!<br/>He offers to the burdened<br/>The rest and grace they need.<br/>Gentle is He and humble!<br/>And light his Yoke shall be,<br/>For He would have us bear it,<br/>So He can made us free!</lines>
+    </verse>
+  </lyrics>
+</song>

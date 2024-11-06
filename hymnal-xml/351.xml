@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>351 - Thy Hand, O God Has Guided</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>351</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thy hand, O God, has guided<br/>Thy flock from age to age;<br/>The wondrous tale is written<br/>Full clear on every page;<br/>Our fathers owned Thy goodness,<br/>And we their deeds record;<br/>And both of this bear witness,<br/>One church, one faith, one Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thy heralds brought glad tidings<br/>To greatest as to least;<br/>They bade men rise and hasten<br/>To share the great King’s feast:<br/>And this was all their teaching,<br/>In every deed and word,<br/>To all alike proclaiming<br/>One church, one faith, one Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When shadows thick were falling,<br/>And all seemed sunk in night,<br/>Thou, Lord, did send Thy servants,<br/>Thy chosen sons of light.<br/>On them and on Thy people<br/>Thy plenteous grace was poured,<br/>And this was still their message:<br/>One church, one faith, one Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thy mercy will not fail us,<br/>Nor leave Thy work undone;<br/>With Thy right hand to help us,<br/>The vict’ry shall be won;<br/>And then by men and angels<br/>Thy name shall be adored,<br/>And this shall be their anthem:<br/>One church, one faith, one Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

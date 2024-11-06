@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HIANAO RY JESO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <ccliNo>260</ccliNo>
+    <authors>
+      <author>G. Mondain</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hianao ry Jeso ô !<br/>No mba hatohinay,<br/>Tompon'ny aina<br/>Tompon'ny aina<br/>Mba mihainoa ka avia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mba ampangino re<br/>Ny ao anatinay,<br/>Tsy hisy renay<br/>Tsy hisy renay<br/>Rha tsy feonao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aoka izahay handray<br/>Ny fanavaozanao,<br/>Ka mba hitovy<br/>Ka mba hitovy<br/>Toe-tsina aminao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mafy ny adinay,<br/>Ka be ny tahotray ;<br/>Nefa tsy resy<br/>Nefa tsy resy<br/>'Zay miankina aminao.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dia tafionao<br/>Amin'ny herinao,<br/>Mba ho mpandresy<br/>Mba ho mpandresy<br/>'Zahay mpianatrao.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ny fonay hafanao<br/>Mba hirehetanay<br/>Amin'ny asa<br/>Amin'ny asa<br/>'Zay omenao hatao.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mba ho tanterakay<br/>'Zay tena anjaranay<br/>Ka manomeza<br/>Ka manomeza<br/>Fa miray aminao.</lines>
+    </verse>
+  </lyrics>
+</song>

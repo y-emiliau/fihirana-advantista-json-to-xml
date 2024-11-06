@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ARY RAHA NANDEHA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>265</ccliNo>
+    <authors>
+      <author>L. D. Randriamampandry</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ARY RAHA NANDEHA<br/>Ary raha nadeha teny an-dalana izy<br/>Dia tonga teny amin'izay nisy rano<br/>Ary hoy ilay tandapa : indro rano <br/>(indro rano)<br/>Ka inona moa no misakana ahy (no misakana ahy)<br/>No misakana ahy (no misakana ahy) tsy <br/>hatao batisa<br/>Dia nasainy nijanona (ny kalesy), ny kalesy<br/>Ary izy roa lahy dia Filipo sy ilay tandapa<br/>Nidina (nidina), nidina (nidina),<br/> Nidina teo amin'ny rano<br/>Dia natao batisa,<br/>Dia natao batisa,<br/>Dia natao batisa,<br/>Dia natao batisa izy.</lines>
+    </verse>
+  </lyrics>
+</song>

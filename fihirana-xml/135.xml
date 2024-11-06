@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FAINGANA RY MPANJAKA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>135</ccliNo>
+    <authors>
+      <author>J. Richardson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Faingàna ry Mpanjaka !<br/>Handray ny lovanao ;<br/>faingàna re mba haka<br/>Ny tany ho Anao ;<br/>Avia hampifaly<br/>Ny malahelo fo !<br/>Afaho ny mijaly<br/>Sy azon'ny manjo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Avia fa misento<br/>Aty ny olonao ;<br/>Ny fanjakana ento,<br/>Fa Tompo Ianao ;<br/>Tsy hisy hitomany<br/>Ao anatrehanao ;<br/>Hiadana ny tany<br/>Izay alehanao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny tendrombohitra avo,<br/>Ny lohasaha koa,<br/>Ho tonga ravoravo<br/>Sy tretrika avokoa ;<br/>Ny be tsy haka an-kery,<br/>Ny kely afa-po,<br/>Tsy hisy 'zay ho very,<br/>Tsy hisy 'zay hanjo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mpanjaka sy Mpiaro<br/>Mahery Ianao ;<br/>Ny firenena maro<br/>Hitoky Aminao ;<br/>Ho avy lalandava<br/>Izao rehetra izao<br/>Hitondra harem-bevava<br/>Ho eo an-tongotrao.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Faingàna ry Mpamonjy<br/>Ry Tompo be fitia ;<br/>Ny olonao tra-bonjy<br/>Miantso hoe : Avia !<br/>Anao ny fiderana,<br/>Anao ny laza be,<br/>Anao ny fanjakana<br/>Sy arahaba e !</lines>
+    </verse>
+  </lyrics>
+</song>

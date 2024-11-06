@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>254 - The Great Physician Now is Near</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>254</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The great Physician now is near,<br/>The sympathizing Jesus;<br/>He speaks the drooping heart to cheer,<br/>Oh! hear the voice of Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sweetest note in seraph song,<br/>Sweetest name on mortal tongue;<br/>Sweetest carol ever sung,<br/>Jesus, blessed Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your many sins are all forgiven,<br/>Oh! hear the voice of Jesus;<br/>Go on your way in peace to heaven,<br/>And wear a crown with Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All glory to the dying Lamb!<br/>I now believe in Jesus;<br/>I love the blessed Savior’s name,<br/>I love the name of Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His name dispels my guilt and fear,<br/>No other name but Jesus;<br/>Oh! how my soul delights to hear<br/>The charming name of Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

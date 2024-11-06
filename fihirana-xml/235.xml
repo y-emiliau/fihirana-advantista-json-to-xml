@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MBA MAMINDRA FO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>235</ccliNo>
+    <authors>
+      <author>D. Razafindramanana</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mba mamindrà fo aminay Tompo ô !<br/>Fa mila ho reraka ny fonay.<br/>He ! indro miankohoka <br/>Eo amin'ny tongotrao 'zahay,<br/>Mitady fiainana.<br/>Ny fitianao no hianteheranay izao.<br/>Mpanota izahay ka mibebaka<br/>Dia mangataka aminao ny hery,<br/>Mba mihainoa, Tompo ô !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha sendra ka diso ny alehanay,<br/>Tariho sy tantano ny dianay.<br/>Tsy mba misy izay itokianay ety<br/>Afa-tsy izay lazainao fa mendrika.<br/>Ny fitiavanao no hianteheranay izao.<br/>Mpanota izahay, ka tsy mendrika<br/>Ny hiantso ny Anaranao, Ray,<br/>Ekeo ny fivavakay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raha solafaka ety ny fiainanay<br/>Areno fa kely ny herinay.<br/>Eo aminao no miantoraka 'zahay, ry Jeso,<br/>Mifona fa meloka.<br/>Ny fitiavanao no hianteheranay izao.<br/>Raha avy Ianao, Ianao Jeso ô  !<br/>Aoka ho isan'ny voaomana tokoa,<br/>Ny mpanompokelinao.</lines>
+    </verse>
+  </lyrics>
+</song>

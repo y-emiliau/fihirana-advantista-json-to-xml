@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title> TAZONY AHO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>229</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tazony aho hatrizao<br/>Ho eo anilanao, ry Ray,<br/>Hanaraka ny dianao<br/>Anio mandrakizay ;<br/>He mora kivy 'zany fo<br/>Ka mba tohanonao tokoa<br/>Fikiro tsy hiala,<br/>fandrao misalasala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha sendra ka variana ety<br/>Sy mankafy ny tany<br/>Ka manadino ny ary,<br/>Tazony mafy ihany<br/>Lazao fa tsara lavitra<br/>'Lay toeram-boninahitra<br/>Miandry ao ambony<br/>Tsy misy ota intsony.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tsinjovinao ny diako izao,<br/>Arovy sy tantano<br/>O ! asehoy ny herinao<br/>Raha tondraka ny rano<br/>Tazony re ny tanako<br/>Ka andrandrao ny masoko<br/>Hibanjina hatrany<br/>Ilay Kanana any.</lines>
+    </verse>
+  </lyrics>
+</song>

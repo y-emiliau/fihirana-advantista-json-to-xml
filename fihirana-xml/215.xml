@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>IZAO ANIO IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>215</ccliNo>
+    <authors>
+      <author>Randriavoavonjy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Izao anio izao re,<br/>Jehovah Tomponay<br/>Sabata masinao e<br/>Ka ho tsaroanay.<br/>Ianao nanendry izany<br/>Mba hitsaharanay.<br/>Nohamasininao re<br/>Ka masina aminay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Zahay ankehitriny<br/>Mivory eto 'zao,<br/>Tahaka ny fahiny<br/>Nataon'ny zanakao.<br/>Misaotra Anao 'zahay re,<br/>Ry Andriamanitra ô,<br/>Henoy ny vavakay 'zao<br/>Anio Sabatanao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rahatrizay 'zahay<br/>Ary an-tranonao,<br/>O ! sambatra tokoa<br/>Hahita tava Anao.<br/>Haneho fanajana,<br/>Hiondrika aminao ;<br/>Hihira fiderana<br/>Sabata toy izao.</lines>
+    </verse>
+  </lyrics>
+</song>

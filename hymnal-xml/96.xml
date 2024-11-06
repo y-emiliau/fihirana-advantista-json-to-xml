@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>096 - The Spacious Firmament</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>96</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The spacious firmament on high,<br/>With all the blue, ethereal sky,<br/>And spangled heavens, a shining frame,<br/>Their great Original proclaim.<br/>Th’unwearied sun from day to day<br/>Does his Creator’s power display,<br/>And publishes to every land<br/>The work of an almighty hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Soon as the evening shades prevail,<br/>The moon takes up the wondrous tale;<br/>And nightly to the listening earth<br/>Repeats the story of her birth;<br/>While all the stars that round her burn,<br/>And all the planets in their turn,<br/>Confirm the tidings as they roll,<br/>And spread the truth from pole to pole</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What though in solemn silence all<br/>Move round the dark terrestrial ball?<br/>What though no real voice nor sound<br/>Amid their radiant orbs be found?<br/>In reason’s ear they all rejoice<br/>And utter forth a glorious voice,<br/>Forever singing as they shine,<br/>“The hand that made us is divine.”</lines>
+    </verse>
+  </lyrics>
+</song>

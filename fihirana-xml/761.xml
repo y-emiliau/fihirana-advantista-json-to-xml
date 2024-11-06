@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HARENAKO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>761</ccliNo>
+    <authors>
+      <author>Rakotomananjanahary Julien</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tsy ho azonao an-tsaina<br/>ny hafaliana anatiko ao,<br/>Satria tsy mba ivelany ihany, toy ny an’izao tontolo izao;<br/>Fa halafiana avy ao anaty, miorina tsy mety maty,<br/>Ambony ny finoako an’i Jeso.<br/>Na esorina amiko aza izay rehetra ananako,<br/>Raha mbola velona aho, izao ny ahy no tanako:<br/>Harenako Jesosy tia, fananako doria doria,<br/>Tsy misy atakaloko Azy, sanatria!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hanontany angamba ianao<br/>hoe: «Fa dia nahoana<br/>indrindra re?»<br/>Dia tsotra ihany no lazaiko<br/>valin’izany teninao:<br/>«Ny heloko dia nofafany,<br/>ny gadrako dia novahany,<br/>Ny fiainako dia nohavaoziny».<br/>Ilay fiadanam-pony,<br/>no indro fa nomeny ahy,<br/>Ary ny famindrampony<br/>injao mameno ny fanahy,<br/>Tsy misy raha ny toy izao,<br/>ny zavatra efa hitanao,<br/>Tena ambony ny fitiavan’i Jeso.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fanandramana ilaina<br/>hampitomboana herim-po<br/>‘Zay tsapa fa mihamirona<br/>latsaka ambany kokoa,<br/>Mila miarina raha lavo,<br/>miankina amin’Ilay Avo,<br/>Nanaiky ho faty teny Kalvary.<br/>Tsy ampy hery handresena<br/>ny ratsy nahazatra ianao,<br/>Fa Jesosy famonjena<br/>no antoka hanampy anao.<br/>«Ndeha eo ianao no miantoraha,<br/>Teo aho no nanao fampitaha<br/>Ny fitiavany tsy miova<br/>ho doria.»</lines>
+    </verse>
+  </lyrics>
+</song>

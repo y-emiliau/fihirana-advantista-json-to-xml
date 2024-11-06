@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HALELOIA ! MIDERA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>746</ccliNo>
+    <authors>
+      <author>B. Andriantsizafy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>:,: Haleloia (in-4)<br/>:,: Miderà An'Andriamanitra :,:<br/>(Feo 4) (Miderà an'Andriamanitra)<br/>Eo amin'ny fitoerany Masina :,:<br/>Miderà Azy.<br/>:,: Azy (in-4)<br/>Eo amin'ny habakabaky ny heriny :,:<br/>Miderà Azy.<br/>:,: Ary aoka :,:<br/>'Zay rehetra (in-3)<br/>Manam-pofon'aina<br/>Samy hidera an'i Jehovah<br/>Haleloia.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>594 - Heir of the Kingdom</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>594</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heir of the kingdom, O why dost thou slumber?<br/>Why art thou sleeping so near thy blest home?<br/>Wake thee, arouse thee, and gird on thine armor,<br/>Speed, for the moments are hurrying on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heir of the kingdom, say, why dost thou linger?<br/>How canst thou tarry in sight of the prize?<br/>Up, and adorn thee, the Savior is coming;<br/>Haste to receive Him descending the skies.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Earth’s mighty nations, in strife and commotion,<br/>Tremble with terror, and sink in dismay;<br/>Listen, ’tis nought but the chariot’s loud rumbling;<br/>Heir of the kingdom, no longer delay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Stay not, O stay not for earth’s vain allurements!<br/>See how its glory is passing away;<br/>Break the strong fetters the foe hath bound o’er thee;<br/>Heir of the kingdom, turn, turn thee away.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Keep the eye single, the head upward lifted;<br/>Watch for the glory of earth’s coming King;<br/>Lo! o’er the mountaintops light is now breaking;<br/>Heirs of the kingdom, rejoice ye and sing.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>101 - Children of the Heavenly Father</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>101</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Children of the heavenly Father<br/>Safely in His bossom gather;<br/>Nestling bird nor star in heaven<br/>Such a refuge e’er was given.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God His own doth tend and nourish,<br/>In His holy love they flourish;<br/>From all evil things He spares them,<br/>In His mighty arms He bears them.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Neither life nor death shall ever<br/>From the Lord His children sever;<br/>Unto them His grace He showeth,<br/>And their sorrows all He knoweth.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise the Lord in joyful numbers,<br/>Your Protector never slumbers;<br/>At the will of your Defender<br/>Every foe-man must surrender.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Though He giveth or He taketh,<br/>God His children ne’er forsaketh;<br/>His the loving purpose solely<br/>To preserve them pure and holy.</lines>
+    </verse>
+  </lyrics>
+</song>

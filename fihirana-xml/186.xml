@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JIRO MAZAVA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>186</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY TENYN'ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jiro mazava eo an-dalan-tery<br/>Ny teninao, ry Ray an-danitra !<br/>Mitarika ny dian'ny olom-bery<br/>Ho ao an-tany mahafinaritra.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sitrako indrindra<br/>Ny hamaky 'zany,<br/>Hanaraka ny toroheviny,<br/>Hampiely koa ny fahazavany<br/>Sy hanambara izao ny heriny.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fandrika maro<br/>No mivelatra eny<br/>An-dalana izay diaviko ;<br/>Nefa matoky<br/>Fa indro re ny Teny<br/>Dia mitsilo ny finoako.<br/>Sitrako indrindra, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raha mamely re ny fahoriana<br/>Ka kivy sady ketraka ny fo,<br/>Ny Teninao mitory fifaliana,<br/>Mitondra fiononana tokoa.<br/>Sitrako indrindra, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mandroso isan'andro<br/>Izao ny diako,<br/>Manitsy 'lay kanana ambony ao<br/>Ny fahazavana hany hitokiako,<br/>Tompo malala, dia ny Teninao.<br/>Sitrako indrindra, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

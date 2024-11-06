@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>496 - Eternal Love, We Have No Good</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>496</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eternal Love, we have no good to bring Thee,<br/>No single good of all our hands have wrought,<br/>No worthy music have we found to sing Thee,<br/>No jewelled word, no quick up soaring thought.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And yet we come; and when our faith would falter<br/>Show us, O Love, the quiet place of prayer,<br/>The golden censer and the golden altar,<br/>And the great angel waiting for us there.</lines>
+    </verse>
+  </lyrics>
+</song>

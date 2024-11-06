@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAHA AZOKO IZAO TANY IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>473</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raha azoko izao tany izao<br/>Nefa tsy azoko Jeso Mpamonjy,<br/>Dia ho aiza re no hisy ahy<br/>Raha ho rava izao tontolo izao ?<br/>Raha azoko izao tany izao<br/>Nefa tsy azoko Jeso Mpamonjy,<br/>Moa ny fifalian'izao tany izao<br/>Hitovy amin'ny an'i Jeso ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mahafaly ahy amin'i Jeso :<br/>Azoko ny zavatra rehetra.<br/>Ireo otako voavela tokoa,<br/>Ny alehako zakainy koa.<br/>Na tsy manana aho afa-tsy i Jeso,<br/>Tsy misy ilaiko intsony eto<br/>Fa ahy ny zavatra rehetra<br/>Ao amin'i Jeso Tompoko.</lines>
+    </verse>
+  </lyrics>
+</song>

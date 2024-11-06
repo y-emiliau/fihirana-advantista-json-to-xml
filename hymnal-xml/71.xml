@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>071 - Come Thou Almighty King</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>71</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, Thou almighty King,<br/>Help us Thy name to sing,<br/>Help us to praise!<br/>Father all glorious,<br/>O’er all victorious,<br/>Come, and reign over us,<br/>Ancient of Days!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come, Thou incarnate Word,<br/>Gird on Thy mighty sword,<br/>Our prayer attend;<br/>Come, and Thy people bless,<br/>And give Thy Word success;<br/>Spirit of holiness,<br/>On us descend!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come, holy Comforter,<br/>Thy sacred witness bear,<br/>In this glad hour:<br/>Thou who almighty art,<br/>Now rule in every heart,<br/>And ne’er from us depart,<br/>Spirit of power!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To Thee, great One in Three,<br/>Eternal praises be,<br/>Hence, evermore:<br/>Thy sovereign majesty<br/>May we in glory see,<br/>And to eternity<br/>Love and adore!</lines>
+    </verse>
+  </lyrics>
+</song>

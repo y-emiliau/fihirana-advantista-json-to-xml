@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>SADY MANANTENA NO MAMPAHAFAIGANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1</verseOrder>
+    <ccliNo>527</ccliNo>
+    <authors>
+      <author>A. Emiliarison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sady manantena<br/>No mampahafaingana<br/>Ny fiavian'ny Tompotsika<br/>(Ho avy)<br/>Koa mitsangana<br/>Mba hamonjy namana<br/>Fa ho avy 'Lay andrasantsika.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>:,: Mifohaza, miasà<br/>Mba hanafaingana<br/>Ny fiavian'ny Tompotsika<br/>(Ho avy)<br/>Mifohaza, miasà<br/>Mba hanafaingana<br/>Ny fiavian'Ilay Jesosintsika. :,:</lines>
+    </verse>
+  </lyrics>
+</song>

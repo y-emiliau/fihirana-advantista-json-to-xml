@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY TOMPO O! AMPIO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>245</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>RY TOMPO Ô ! AMPIO<br/>1<br/>Ry Tompo ô ampio<br/>Ny fiangonanao.<br/>Avia ka mba tahio<br/>Ny hery avy aminao<br/>Hitory teny soa,<br/>Hilaza ny hafatrao<br/>Ka hanafaingana tokoa<br/>Ny fiavianao.<br/>2<br/>Tohano ireo mpitory,<br/>Ry Tompo be fitia,<br/>Fa miasa mba hamory<br/>Ny ondry 'zay mania ;<br/>Raha sendra fahoriana<br/>Jereo fa irakao<br/>Ka mba ho fifaliana<br/>No hanompoany Anao.<br/>3Ry Tompo mitenena,<br/>Fohazy ny olonao<br/>Mba hisy hanolo-tena<br/>Fa vitsy ny mpanao.<br/>Ny fony hafanao,<br/>Ry Tompo lehibe,<br/>Ekeo ny voady 'zay atao<br/>Izaho koa handeha.</lines>
+    </verse>
+  </lyrics>
+</song>

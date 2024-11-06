@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>357 - Come, Labor On</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>357</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, labor on.<br/>Who dares stand idle on the harvest plain<br/>While all around him waves the golden grain?<br/>And to each servant does the Master say,<br/>“Go work today.”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come, labor on.<br/>Claim the high calling angels cannot share;<br/>To young and old the gospel gladness bear;<br/>Redeem the time; its hours too swiftly fly.<br/>The night draws nigh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come, labor on.<br/>No time for rest; till glows the western sky,<br/>Till the long shadows oér our pathway lie,<br/>And a glad sound comes with the setting sun,<br/>“Well done, well done!”</lines>
+    </verse>
+  </lyrics>
+</song>

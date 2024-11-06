@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>239 - Jesus, Priceless Treasure</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>239</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, priceless Treasure,<br/>Source of purest pleasure,<br/>Truest Friend to me:<br/>Ah! how long I’ve panted,<br/>And my heart has fainted,<br/>thirsting, Lord, for Thee.<br/>Thine I am, O spotless Lamb,<br/>I will suffer naught to hide Thee,<br/>Nought I ask beside Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Thine arms I rest me;<br/>foes who would molest me<br/>Cannot reach me here.<br/>Though the earth be shaking,<br/>Every heart be quaking,<br/>Jesus calms our fear.<br/>Sin and hell in conflict fell,<br/>With their bitter storms assail me,<br/>Jesus will not fail me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hence, all thought of sadness!<br/>For the Lord of gladness,<br/>Jesus, enters in.<br/>Those who love the Father,<br/>Though the storms may gather,<br/>still have peace within;<br/>Yea, whatever we here must bear,<br/>Still in Thee lies purest pleasure,<br/>Jesus, priceless Treasure!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>339 - God Is My Strong Salvation</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>339</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is my strong salvation,<br/>What foe have I to fear?<br/>In darkness and temptation,<br/>My Light, my Help, is near:<br/>Though hosts encamp around me,<br/>Firm in the fight I stand;<br/>What terror can confound me,<br/>With God at my right hand?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Place on the reliance;<br/>My soul with courage wait;<br/>His truth be thine affiance,<br/>When faint and desolate.<br/>His might thy heart shall strengthen,<br/>His love thy joy increase;<br/>Mercy thy days shall lengthen;<br/>The Lord will give thee peace.</lines>
+    </verse>
+  </lyrics>
+</song>

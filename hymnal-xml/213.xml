@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>213 - Jesus Is Coming Again</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>213</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift up the trumpet, and loud let it ring:<br/>Jesus is coming again!<br/>Cheer up, ye pilgrims, be joyful and sing:<br/>Jesus is coming again!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Coming again, coming again,<br/>Jesus is coming again!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Echo it, hilltops; proclaim it, ye plains:<br/>Jesus is coming again!<br/>Coming in glory, the Lamb that was slain;<br/>Jesus is coming again!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heavings of earth, tell the vast, wondering throng:<br/>Jesus is coming again!<br/>Tempests and whirlwinds, the anthem prolong;<br/>Jesus is coming again!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nations are angry-by this we do know<br/>Jesus is coming again!<br/>Knowledge increases; men run to and fro;<br/>Jesus is coming again!</lines>
+    </verse>
+  </lyrics>
+</song>

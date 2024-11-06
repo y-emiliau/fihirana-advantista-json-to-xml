@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>'LAY TANANA MASINA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>612</ccliNo>
+    <authors>
+      <author>Dera Arson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Lay tanàna masina<br/>Indro efa tazako eto izao.<br/>Mamirapiratra ery<br/>Tena mahamanina.<br/>Loharano mavana<br/>'Njao mandefa antso ho anao :<br/>Avia ianao hiala sasatra e !</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Andao hody e, andao hody e.<br/>Aza mba variana ety<br/>Fa misy anjaranao ary.<br/>Andao hody e ,<br/>An-tanàna masina.<br/>Misy anjara tranonao any e,<br/>Ka aza omenao olon-kafa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Lay tanàna masina<br/>Indro efa midina ho ety.<br/>'Lay Mpamonjy, 'Lay Mesia,<br/>Eo am-bavahady re,<br/>Miramirana ery<br/>Maika hampandroso anao izao.<br/>Ka moa ve efa tsinjonao ?<br/>Andao hody e, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Lay tanàna masina<br/>Tsy misy na sento na toreo,<br/>Tsy misy fijaliana,<br/>Tsy misy fahoriana<br/>'Ndeha isika izao hankeo<br/>Fa aza mba varimbariana ety<br/>O ! andao, Jeso miandry anao.<br/>Andao hody e, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

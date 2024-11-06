@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>397 - An Upper Room</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>397</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>An upper room did our Lord prepare<br/>For those loved until the end:<br/>And His disciples still gather there,<br/>To celebrate their risen Friend.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And after supper He washed their feet,<br/>For service, too, is sacrament.<br/>In Him our joy shall be made complete<br/>Sent out to serve, as He was sent.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A lasting gift Jesus gave His own:<br/>To share His bread, His loving cup.<br/>Whatever burdens may bow us down,<br/>He by His cross shall lift us up.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No end there is! we depart in peace.<br/>He loves beyond our uttermost:<br/>In every room in our Father’s house,<br/>He will be there, as Lord and host.</lines>
+    </verse>
+  </lyrics>
+</song>

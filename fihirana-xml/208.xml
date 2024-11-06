@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FANOMEZANA TONGALAFATRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>208</ccliNo>
+    <authors>
+      <author>Jeanne Ratsirison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fanomezana tongalafatra<br/>Natolotra mba ho fanatitra.<br/>Dia hanitra 'zay nentin'i Maria<br/>Nanosorany an'i Jeso tia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny saina nanosika hanome,<br/>Hanolotra ny fofo-manitra e,<br/>Dia he, tena ambony lavitra,<br/>Mendrika noho 'lay fanomezana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ry Tompo malala avia handra<br/>Ny fanatitra 'zay arotsakay.<br/>Na kely tsy mendrika, ô ekeo,<br/>Ny fonay manolotra no jereo.</lines>
+    </verse>
+  </lyrics>
+</song>

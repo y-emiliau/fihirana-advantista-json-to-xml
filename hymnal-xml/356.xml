@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>356 - All Who Love and Serve Your City</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>356</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All who love and serve your city,<br/>All who bear its daily stress,<br/>All who cry for peace and justice,<br/>All who curse and all who bless.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In your day of loss and sorrow,<br/>In your day of helpless strife,<br/>Honor, peace, and love retreating,<br/>Seek the Lord, who is your life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For all days are days of judgment,<br/>And the Lord is waiting still,<br/>Drawing near His friends who spurn Him,<br/>Off’ring peace from Calv’ry’s hill.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Risen Lord, shall yet the city<br/>Be the city of despair?<br/>Come today, our judge, our glory;<br/>Be its name “The Lord is there!”</lines>
+    </verse>
+  </lyrics>
+</song>

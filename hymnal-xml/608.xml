@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>608 - Faith Is the Victory</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>608</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Encamped along the hills of light,<br/>Ye Christian soldiers, rise,<br/>And press the battle ere the night<br/>Shall veil the glowing skies.<br/>Against the foe in vales below,<br/>Let all our strength be hurled;<br/>Faith is the victory, we know,<br/>That overcomes the world.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Faith is the victory!<br/>Faith is the victory!<br/>Oh, glorious victory<br/>That overcomes the world.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His banner over us in love,<br/>Our sword the Word of God;<br/>We tread the road the saints above<br/>With shouts of triumph trod.<br/>By faith they, like whirlwind’s breath,<br/>Swept on o’er ev’ry field;<br/>The faith by which they conquered death<br/>Is still our shining shield.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To him who overcomes the foe<br/>White raiment shall be giv’n;<br/>Before the angels he shall know<br/>His name confessed in heav’n.<br/>Then onward from the hills of light,<br/>Our hearts with love aflame;<br/>We’ll vanquish all the hosts of night,<br/>In Jesus’ conq’ring name.</lines>
+    </verse>
+  </lyrics>
+</song>

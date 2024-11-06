@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>IANAO, RY KRISTY TOMPO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>468</ccliNo>
+    <authors>
+      <author>J. Andrianaivoravelona zanany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ianao, ry Kristy Tompo,<br/>No hasiniko izao,<br/>Avy aho fa mpanompo<br/>Hiankohoka aminao,<br/>Raisonao ny dera, saotra<br/>Tena mendrika ho Anao ;<br/>He ! ny foko faly loatra,<br/>Faly mba hanaja Anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Zao no tena faniriako :<br/>Ny velona aminao,<br/>Ka hitoeranao ny foko,<br/>Fa tsy holalovanao ;<br/>Eny, Tompo ô ! monena,<br/>Mba monena ao tokoa,<br/>'Zay no tena famonjena,<br/>'Zay no mahafatra-po.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tsy ho orin-java-tsoa<br/>'Zay rehetra itoeranao,<br/>Tena sambatra tokoa,<br/>Raha ny fo no lapanao,<br/>Mandrosoa, fa vohako<br/>Ho anao ny foko 'zao ;<br/>Eny, Tompo, fa vohako,<br/>Koa midira Ianao.</lines>
+    </verse>
+  </lyrics>
+</song>

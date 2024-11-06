@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>387 - Come, O Sabbath Day</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>387</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Peace and healing on thy wing;<br/>And to every troubled breast<br/>Speak of the divine behest:<br/>Thou shalt rest, Thou shalt rest!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Earthly longings bid retire,<br/>Quench the passions’ hurtful fire;<br/>To the wayward, sin oppressed,<br/>Bring thou thy divine behest:<br/>Thou shalt rest, Thou shalt rest!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wipe from every cheek the tear,<br/>Banish care and silence fear;<br/>All things working for the best,<br/>Teach us the divine behest:<br/>Thou shalt rest, Thou shalt rest!</lines>
+    </verse>
+  </lyrics>
+</song>

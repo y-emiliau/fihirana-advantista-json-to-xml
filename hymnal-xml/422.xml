@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>422 - Marching to Zion</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>422</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, we that love the Lord,<br/>And let our joys be known;<br/>Join in a song with sweet accord,<br/>Join in a song with sweet accord,<br/>And thus surround the throne,<br/>And thus surround the throne.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We’re marching to Zion,<br/>Beautiful, beautiful Zion;<br/>We’re marching upward to Zion,<br/>The beautiful city of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let those refuse to sing<br/>Who never knew our God;<br/>But children of the heavenly King,<br/>But children of the heavenly King<br/>May speak their joys abroad,<br/>May speak their joys abroad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The hill of Zion yields<br/>A thousand sacred sweets<br/>Before we reach the heavenly fields,<br/>Before we reach the heavenly fields<br/>Or walk the golden streets,<br/>Or walk the golden streets.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then let our songs abound<br/>And every tear be dry;<br/>We’re marching through Immanuel’s ground,<br/>We’re marching through Immanuel’s ground<br/>To fairer worlds on high,<br/>To fairer worlds on high.</lines>
+    </verse>
+  </lyrics>
+</song>

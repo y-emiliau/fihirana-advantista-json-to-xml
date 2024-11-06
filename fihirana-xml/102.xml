@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ANAO NY LAZA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>102</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anao ny laza, ry Natsangana ô,<br/>Fa resy mazava<br/>Ilay rafinao.<br/>Anjely no tonga<br/>Nampihiratra,<br/>Ka nanakodia<br/>'Lay vaton'ny tsy tia</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Anao ny laza,<br/>Ry Natsangana ô,<br/>Fa resy mazava<br/>Ilay rafinao</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jereo fa Jeso<br/>No nitsangana ;<br/>Resy 'zao ny eso<br/>Sy ny fasana.<br/>Mihobia, ry tany<br/>Sy ry olona ô,<br/>Fa nadresy ihany<br/>Ny Mpamonjinao.<br/>Anao ny laza, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeso no zoky<br/>Sady santatra ;<br/>Ny mino matoky<br/>Dia ho sambatra.<br/>Na matory izy<br/>Ao am-pasany,<br/>Jeso hamoha azy<br/>Any am-parany.<br/>Anao ny laza, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

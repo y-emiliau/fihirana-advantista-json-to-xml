@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AINGOA NY HIRANAO RY FIANGONANA O!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>291</ccliNo>
+    <authors>
+      <author>Josué A. Rabarison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aingao ny herinao<br/>Ry fiangonana ô.<br/>Ny Tompo no mibaiko :<br/><<Efao ny adidinao,<br/>Esory ny ahiahy,<br/>Ario ny tahotrao,<br/>O ! raiso ny ampingan'<br/>Ny Tompo Tsitoha.>></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeso no miantso anao<br/>Ry fiangonana ô.<br/>Andeha re hafaingano<br/>'Lay andro lehibe.<br/>Aza misalasala,<br/>O, raiso ny anjara,<br/>Torio ny fiavian'<br/>Ny Mpanjaka Tsitoha.</lines>
+    </verse>
+  </lyrics>
+</song>

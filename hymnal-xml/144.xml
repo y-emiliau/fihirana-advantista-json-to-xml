@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>144 - O Sing a Song of Bethlehem</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>144</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O sing a song of Bethlehem,<br/>Of shepherds watching there,<br/>And of the news that came to them<br/>From angels in the air:<br/>The light that shone on Bethlehem<br/>Fills all the world today;<br/>Of Jesus’birth and peace on earth<br/>The angels sing alway.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O sing a song of Nazareth,<br/>Of sunny days of joy,<br/>O sing of fragrant flowers breath,<br/>And of the sinless Boy:<br/>For now the flowers of Nazareth<br/>In every heart may grow;<br/>Now spreads the fame of His dear name<br/>On all the winds that blow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O sing a song of Calvary,<br/>Its glory and dismay;<br/>Of Him who hung upon the tree,<br/>And took our sins away:<br/>For He who died on Calvary<br/>Is risen from the grave;<br/>And Christ, our Lord, by heaven adored,<br/>Is mighty now to save.</lines>
+    </verse>
+  </lyrics>
+</song>

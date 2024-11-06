@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AVY INDRAY TSY HO ELA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>741</ccliNo>
+    <authors>
+      <author>D. Razafindramanana</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Avy indray tsy ho ela<br/>'Lay Mpanjakanay<br/>'Zay andrasanay.<br/>Ka tsy kivy ny fonay<br/>Na dia mafy ny manjo ety ;<br/>Sarotra ny alehanay<br/>Nefa kosa,<br/>Ny tanany no miaro anay ;<br/>Izany no toky sy tanjakay,<br/>Fanoitra tsara<br/>Manan-kery<br/>Ho anao ety ...<br/>Ho avy indray tsy ho ela<br/>'Lay Mpanjaka soa,<br/>Vonona tokoa ny hamela<br/>Ireo fonao izay tsy mahasoa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Zaho tsy ho tafandry<br/>Na hatory koa.<br/>Na hirondrona.<br/>Fa hiasa hatrany<br/>Hanazava irei namako.<br/>Jesosy Tompo<br/>No anton'ny asa<br/>Ka mampientana ny fanahy<br/>Fa soa ny fanantenana<br/>Ny fanavotanao,<br/>Izay toky<br/>Hifaharanay tokoa.<br/>Ka 'zaho tsy mba hangina<br/>Na hatory koa,<br/>Fa handeha hiasa hatrany<br/>Hanambara fa avy Jeso.</lines>
+    </verse>
+  </lyrics>
+</song>

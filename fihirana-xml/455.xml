@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AZOKO ANIO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>455</ccliNo>
+    <authors>
+      <author>D. Razafinadramanana</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Azoko anio 'zao<br/>Ny famonjenao,<br/>Ry Tompo masina ô,<br/>Mpamonjy soa.<br/>Ny fanavotana vitanao<br/>Ho fifalian'ny fo.<br/>Atolotro Anao manokana<br/>Ny tenako ho fanatitra anio ;<br/>Kanefa indrisy, nofo malemy,<br/>Mora mirona, mora mania<br/>Ka ny herinao no andrasako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Izay alehako, jereo Jeso ô<br/>Fa saro-dalana, mahaketraka.<br/>Ny loza sy ny antambo koa<br/>Manampy trotraka.<br/>Korontam-bato, fiakaram-be,<br/>Hantsana lalina, hain'andro koa,<br/>Ny rivo-doza, ny onjan-drano<br/>Indray mitrena, mianjera koa<br/>Ka ny sandrinao no tanjako.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny fanantenako ny fiavianao<br/>No manazava ny aizin'ny fo ;<br/>Ary ny finoako izany re<br/>No manda mafiko.<br/>O! tsy ahoako ny eso manjo,<br/>Ny latsa sy fanenjehana koa.<br/>Fampahoriana an-tery setra,<br/>Tsy mahakivy ny olonao<br/>Fa ny tananao no tazoniko.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Zao no fivavako, Jeso, henoinao,<br/>Sento mangina ao am-poko izao :<br/>Na sarotra aza re ny aleha,<br/>Tohizako ny dia.<br/>Enga anie ka ny sitraponao<br/>No ho ekeko manomboka anio.<br/>Na maro aza ireo mpankahala,<br/>'Zaho jeso ô ! hanaraka anao.<br/>Manomboka anio, ho mandrakizay.<br/>Amena !</lines>
+    </verse>
+  </lyrics>
+</song>

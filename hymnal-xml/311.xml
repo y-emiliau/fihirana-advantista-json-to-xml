@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>311 - I Would Be Like Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>311</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Earthly pleasures vainly call me;<br/>I would be like Jesus;<br/>Nothing worldly shall enthrall me;<br/>I would be like Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Be like Jesus, this my song,<br/>In the home and in the throng;<br/>Be like Jesus, all day long!<br/>I would be like Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He has broken every fetter,<br/>I would be like Jesus;<br/>That my soul may serve Him better,<br/>I would be like Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All the way from earth to glory,<br/>I would be like Jesus;<br/>Telling o’er and o’er the story,<br/>I would be like Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That in Heaven He may meet me,<br/>I would be like Jesus;<br/>That His words “Well done” may greet me,<br/>I would be like Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

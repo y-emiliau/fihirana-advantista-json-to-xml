@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ZIONA O, MIFOHAZA IANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>286</ccliNo>
+    <authors>
+      <author>N. Ravoninjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ziona ô ! mifohaza ianao<br/>Tafionao ny herinao izao<br/>He ! maizina izao tontolo izao<br/>O ! mirotsaha amin'ny asa izao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>O ! mitsangàna ka mihazavà,<br/>Ny Tompo momba anao<br/>Hamonjy anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ziona ô ! mifohaza ianao<br/>Ireo fatoranao vahao izao<br/>Ny fitafianao tsara tarehy<br/>Tafionao ankehitriny izao.<br/>O ! mitsangàna ka mihazavà, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ziona ô ! mifohaza ianao<br/>O ! mitsangàna ka mihazavà,<br/>Indro ny voninahitr'i Jehovah<br/>Efa miposaka aminao izao<br/>O ! mitsangàna ka mihazavà, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ziona ô ! mpitondra teny soa<br/>Endrey ny ho avy 'zay miandry anao<br/>Indro manatona ny firenena<br/>Mitady famonjena eo aminao.<br/>O ! mitsangàna ka mihazavà, sns.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ziona ô ! mifalia izao<br/>Indro fa tamy ny Mpampakatra<br/>Ho hitanao 'reo olom-boavonjy<br/>Hiaraka, hitsena an'i Kristy.<br/>O ! mitsangàna ka mihazavà, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

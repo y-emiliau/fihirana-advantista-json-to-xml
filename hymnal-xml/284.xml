@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>284 - For You I Am Praying</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>284</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have a Savior,<br/>He’s pleading in glory,<br/>A dear, loving Savior,<br/>though earth friends be few;<br/>And now He is watching<br/>in tenderness o’er me,<br/>But oh that my Savior<br/>were your Savior, too.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For you I am praying,<br/>For you I am Praying,<br/>For you am I praying,<br/>I’m praying for you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have a Father;<br/>to me He has given<br/>A hope for eternity,<br/>blessed and true;<br/>And soon He will call<br/>to meet Him in heaven,<br/>But oh that He’d let me<br/>bring you with me, too!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have a robe;<br/>’tis resplendent in whiteness,<br/>Awaiting in glory<br/>my wondering view;<br/>Oh, when I receive it,<br/>all shining in brightness,<br/>Dear friend, could I see you<br/>receiving one, too!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When Jesus has found you,<br/>tell others the story,<br/>That my loving Savior<br/>is your Savior, too;<br/>Then pray that your Savior<br/>will bring them to glory,<br/>And prayer will be answered<br/>’twas answered for you!</lines>
+    </verse>
+  </lyrics>
+</song>

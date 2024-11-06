@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>384 - Safely Through Another Week</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>384</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Safely through another week<br/>God has brought us on our way;<br/>Let us now a blessing seek,<br/>Waiting in His courts today;<br/>Day of all the week the best,<br/>Emblem of eternal rest:<br/>Day of all the week the best,<br/>Emblem of eternal rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>While we seek supplies of grace,<br/>Thro’ the dear Redeemer’s name,<br/>Show Thy reconciling face;<br/>Take away the sin and shame:<br/>From our worldly cares set free,<br/>May we rest this day in Thee:<br/>From our worldly cares set free,<br/>May we rest this day in Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the more shall bid us rise,<br/>May we feel Thy presence near;<br/>May Thy glory meet our eyes,<br/>While we in Thy house appear:<br/>Here afford us, Lord, a taste<br/>Of our everlasting feast:<br/>Here afford us, Lord, a taste<br/>Of our everlasting feast.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May the gospel’s joyful sound<br/>Conquer sinners, comfort saints;<br/>Make the fruits of grace abound,<br/>Bring relief to all complaints:<br/>Thus may all our Sabbaths be,<br/>Till we we rise to reign with Thee.<br/>Thus may all our Sabbaths be,<br/>Till we we rise to reign with Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

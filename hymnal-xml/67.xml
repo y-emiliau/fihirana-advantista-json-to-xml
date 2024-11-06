@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>067 - O Lord, Now Let Your Servant</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>67</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, now let Your servant<br/>Depart in heav’nly peace,<br/>For I have seen the glory<br/>Of Your redeeming grace:<br/>A light to lead the Gentiles<br/>Unto Your holy hill,<br/>The glory of Your people,<br/>Your chosen Israel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then grant that I may follow Your gleam,<br/>O glorious Light,<br/>Till earthly shadows scatter,<br/>And faith is changed to sight;<br/>Till raptured saints shall gather<br/>Upon that shining shore,<br/>Where Christ, the blessed Day star,<br/>Shall light them evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

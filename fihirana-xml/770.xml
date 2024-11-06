@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>EFA ANTOMOTRA NY ANDRON’I JEHOVAH</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>770</ccliNo>
+    <authors>
+      <author>A. Emiliarison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Efa antomotra ny andron’i<br/>Jehovah,<br/>Eny antomotra sy mihafaingana.<br/>‘Njay fa re ny feon’ny andron’i Jehovah,<br/>Moa ve ianao mba efa niomana?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mitomania ianareo mahery,<br/>(Mitomania mafy ianareo)<br/>Fa tonga ny andro fahatezerana.<br/>(Fa tonga ny andro fahatezerana)<br/>Androm-pahoriana andron’alahelo,<br/>Fandravana ary fanafoanana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Avy ny andro toy ny fatana mandoro,<br/>Ny mpirehareha hofongorana.<br/>Ny mpanao ratsy dia ho vody vary,<br/>Ka ny fakany tsy hisy miangana.<br/>Mitomania ianareo mahery, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Efa antomotra ny andron’i<br/>Jehovah,<br/>Fanafahana ary fifaliana,<br/>Ho an’ireo ‘zay nijoro ho mahatoky,<br/>‘Zay nijaly noho ny fahamarinana.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Koa mifalia ianareo, ry mino,<br/>(Koa mifalia mafy ianareo)<br/>Fa tonga ny andro fanavotana.<br/>(Fa tonga ny andro fanavotana.)<br/>Hisehoan’Ilay nandrasantsika ela,<br/>Kristy hanome fahasambarana.</lines>
+    </verse>
+  </lyrics>
+</song>

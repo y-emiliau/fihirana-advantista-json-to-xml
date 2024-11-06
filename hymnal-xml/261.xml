@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>261 - The Spirit of the Lord Revealed</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>261</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Spirit of the Lord revealed<br/>His will to saints of old;<br/>Their heart and mind lips unsealed<br/>His glory to unfold.<br/>Amid the gloom of ancient night<br/>They hailed the dawning Word,<br/>And in the coming of the light<br/>Proclaimed the coming Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The prophets passed; at length there came<br/>To sojourn and abide,<br/>The Word incarnate, to whose name<br/>The prophets testified;<br/>And He, the twilight overpast,<br/>Himself, the Light of light,<br/>As man with man, revealed at last<br/>The Father to our sight.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eternal Spirit, who dost speak<br/>To mind and conscience still,<br/>That we in this our day, may seek<br/>To do our Father’s will,<br/>To us the word of life impart,<br/>Of Christ, the living way;<br/>Give us the quiet, humble heart<br/>To hear and to obey.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>127 - Infant Holy, Infant Lowly</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>127</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Infant holy, infant lowly,<br/>For His bed a cattle stall;<br/>Oxen lowing, little knowing<br/>Christ the babe is Lord of all;<br/>Swift are winging angels singing,<br/>Noels ringing, tidings bringing,<br/>Christ the babe is Lord of all,<br/>Christ the babe is Lord of all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Flocks were sleeping, shepherds keeping<br/>Vigil till the morning new;<br/>Saw the glory, heard the story,<br/>Tidings of the gospel true;<br/>Thus rejoicing, free from sorrow,<br/>Praises voicing greet the morrow,<br/>Christ the babe was born for you,<br/>Christ the babe was born for you.</lines>
+    </verse>
+  </lyrics>
+</song>

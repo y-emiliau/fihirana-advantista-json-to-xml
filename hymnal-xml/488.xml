@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>488 - At First I Prayed for Light</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>488</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>At first I prayed for light:<br/>Could I but see the way,<br/>How gladly, swiftly would I walk<br/>To everlasting day!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And next I prayed for strength:<br/>That I might tread the road<br/>With firm, unfaltering feet, and win<br/>The heaven’s serene abode.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And then I asked for faith:<br/>Could I but trust my God,<br/>I’d live infolded in His peace,<br/>Though foes were all abroad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>But now I pray for love:<br/>Deep love to God and man;<br/>A living love that will not fail,<br/>However dark His plan.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And light and strength and faith<br/>Are opening everywhere!<br/>God waited patiently until<br/>I prayed the larger prayer.</lines>
+    </verse>
+  </lyrics>
+</song>

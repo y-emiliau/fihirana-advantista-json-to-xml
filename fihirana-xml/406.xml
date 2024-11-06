@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NY MIARAKA AMINAO RY TOMPO TSARA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>406</ccliNo>
+    <authors>
+      <author>Jeanne Ratsirison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ny miaraka aminao,<br/>Ry Tompo tsara,<br/>No tena hasambarako izao.<br/>Izaho sy ianao<br/>mamaky ny tantara<br/>Izay voarakitry ny teninao<br/>Ianao no hany namana itokiako,<br/>Mihaino ny tsiambarateloko.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amin'ireo fotoana<br/>mamy indrindra,<br/>'Njay reko any mikarantsana<br/>Ny feonao kanto sy mirindra,<br/>Mamelovelo ao an-tsofika.<br/>Manangana ahy<br/>Handray Anao Sakaiza<br/>'Zay mety hiara-dàlana amiko.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>tantara hotsarovako hatrany<br/>Ny drafitra nataon'ny lanitra,<br/>Manolo-pamonjena tena mamy<br/>Ho ahy 'zay nania lavitra.<br/>Tsy ahy samy irery nefa izay,<br/>Ho anao koa ny fitiavany.</lines>
+    </verse>
+  </lyrics>
+</song>

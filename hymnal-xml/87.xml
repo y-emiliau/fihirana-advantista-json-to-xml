@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>087 - God Who Spoke in the Beginning</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>87</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God who spoke in the beginning,<br/>Forming rock and shaping spar,<br/>Set all life and growth in motion,<br/>Earthly world and distant star;<br/>He who calls the earth to order<br/>Is the ground of what we are.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God who spoke thro’ men and nations,<br/>Thro’ events long past and gone,<br/>Showing still today His purpose,<br/>Speaks supremely through His Son;<br/>He who calls the earth to order<br/>Gives His word and it is done.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God whose speech becomes incarnate -<br/>Christ is servant, Christ is Lord -<br/>Calls us to a life of service,<br/>Heart and will to action stirred;<br/>He who uses man’s obedience<br/>Has the first and final word.</lines>
+    </verse>
+  </lyrics>
+</song>

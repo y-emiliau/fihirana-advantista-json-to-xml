@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HE FITIAVAN-TSY MBA MANAM-PETRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>62</ccliNo>
+    <authors>
+      <author>R. Tovoarimino</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He fitiavan-tsy mba manam-petra<br/>Fitia tsy mba miova fa mitoetra <br/>Ny fitiavanao, ry Jeso Tomponay ô,<br/>Dia fitia mandrakizay.<br/>Kao na inona re mety hitranga<br/>Na ho mainty re ny lanitra, na ho manga<br/>Ho hazoniko i Jeso tia<br/>Hatrizao ho mandrakizay doria.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He fitiavan-tsy mba mila tamby,<br/>Fitia tena feno, manana amby<br/>Ny fitiavanao, ry Jeso Zokinay ô.<br/>Ka fitia 'zay tena soa<br/>Koa na aiza na aiza no hitoetra,<br/>Ho mandritra ny andro iainanay rehetra<br/>Dia ho tiako Ianao, Jeso tia.<br/>Hatrizao ho mandrakizay doria.<br/>3He fitia tsy haiko tantaraina<br/>'lay fitia nihatra taman' aina<br/>Ny fitiavanao, ry Ilay Mpanjakanay ô,<br/>Mamy, tena mamiko.<br/>Ka na ory aho, Jeso, na faly,<br/>Hoventesiko ho hira mifamaly<br/>Ny ho tia Anao, ry Jeso tia.<br/>Hatrizao ho mandrakizay doria</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>247 - Come, My Way</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>247</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, my Way, my Truth, my Life:<br/>such a way as gives us breath,<br/>such a truth as ends all strife,<br/>such a life as killeth death.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come, my Light, my Feast, my Strength:<br/>such a light as shows a feast,<br/>such a feast as mends in length,<br/>such a strength as makes his guest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come, my Joy, my Love, my Heart:<br/>such a joy as none can move,<br/>such a love as none can part,<br/>such a heart as joys in love.</lines>
+    </verse>
+  </lyrics>
+</song>

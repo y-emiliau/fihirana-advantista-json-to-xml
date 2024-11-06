@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HENOY, HENOY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>323</ccliNo>
+    <authors>
+      <author>Esther Bary</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Henoy, henoy<br/>Injany feon'i Jeso tia<br/>Miantso antsika<br/>Mba hitsangana.<br/>Valio, valio, valio<br/>Ny antso hoe : <<Avia>><br/>Ka mandrosoa<br/>Ry mpanaraton'i Jeso.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Asandrato avo<br/>'Zany fanevantsika, asandrato<br/>Ny vaovao mahafaly<br/>Torio ho ren'izao tontolo izao,<br/>Mahereza afafazo 'zany voa<br/>Tanteraho ny baikon'ilay Tompo soa<br/>'Lay fanahy hitarika, avelao ny ahiahy,<br/>Jeso momba ny asa famonjem-panahy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeso, Jeso,<br/>Tefeo, amboary izahay<br/>Ho mendrika hitondra<br/>Ny hafatrao.<br/>Tendre, tendreo,<br/>Tendreo ny molotray<br/>Jeso mba ho ny teninao<br/>No ambaranay.<br/>Asandrato avo, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

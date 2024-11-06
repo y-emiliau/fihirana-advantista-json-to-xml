@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MOA VE JESO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>396</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moa ve Jeso, dia mihevitra<br/>Ny momba ny fiainako ?<br/>Moa jereny ve isan'andro e<br/>Izay lalan-kizorako</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>He, fantatro, he, fantatro<br/>Fa akaiky Izy 'zao.<br/>Izy tena tia anio, doria.<br/>Akaiky Izy 'zao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moa ve Jeso, dia mandre tokoa<br/>Ny feo fitarainako ?<br/>Moa henoiny ve ka valiany e<br/>'Zany antso sy sentom-po ?<br/>He, fantatro, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Moa ve Jeso dia manafaka<br/>Raha mafy ny ady ety ?<br/>Moa ampiany ve ka vonjeny e<br/>'Zao 'ty olo-mahantra ity ?<br/>He, fantatro, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Moa ve Jeso mahafantatra<br/>Olay ora farany ?<br/>Moa akaiky ve, hamikirana e<br/>'Zao ny sandrim-pitiavany ?<br/>He, fantatro, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

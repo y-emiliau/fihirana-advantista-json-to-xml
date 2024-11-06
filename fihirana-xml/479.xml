@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>O! MIJOROA FA JESOSY MPANJAKA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>479</ccliNo>
+    <authors>
+      <author>F. Ramanantsialonina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O ! mijoroa fa Jesosy Mpanjaka,<br/>No mampahery sy miaro anao.<br/>Ka na dia mafy ny ady ho zaka,<br/>Resy Satana, Jeso momba anao.<br/>Ka na dia mafy ny ady ho zaka,<br/>Resy Satana, Jeso momba anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O ! Miadia aza reraka akory<br/>Ary manàna finoana ianao<br/>Ka na dia be 'reo zava-mahory,<br/>Jeso antsoy mba hanafaka anao.<br/>Ka na dia be 'reo zava-mahory,<br/>Jeso antsoy mba hanafaka anao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Reo fahavalo manimba ny tena,<br/>Aza manahy fa Jeso no jereo<br/>Afaka hanampy anao amin-kery<br/>Mba handovana ilay tany vao.<br/>Afaka hanampy anao amin-kery<br/>Mba handovana ilay tany vao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O ! ry sakaiza mpitolona mafy<br/>Jeso Mpandresy sy miaro anao<br/>Izy niaritra sadi nihafy<br/>Koa aza ketraka foana ianao.<br/>Izy niaritra sadi nihafy<br/>Koa aza ketraka foana ianao.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>Ô ! JEHOVAH Ô, IANAO NO HIANDRY AHY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1</verseOrder>
+    <ccliNo>716</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ô ! Jehovah ô ! Ianao no hiandry ahy<br/>Raha mamakivaky irony lohasaha,<br/>Na mandia ny làlan-tsarotra aza aho ;<br/>Azo antoka fa hiandry ahy Ianao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>He ! Jehovah, he ! Jehovah hiandry ahy<br/>Tsy mba misy izay hatahorako<br/>Tsy mba misy zava-mahory ahy,<br/>Izy no Mpiandry Tsara, heriko.<br/>2<br/>He ! miovaova izao rehetra izao<br/>Fa ! Ianao, Jehovah, no maharitra.<br/>Ianao, Jehovah Tompo, tsy mandao<br/>Fa mitarika ahy hatrany ny Fanahy.<br/>He ! Jehovah, sns.<br/>3Volafotsy, volamena, haja koa,<br/>Voninahitra, harena, dia hikoa,<br/>Fa Ialay Mpiandry tsara, tokiko,<br/>Vatolampy tsy mivena, heriko.<br/>He ! Jehovah, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

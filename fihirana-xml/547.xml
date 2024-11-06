@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESO TOMPO BE FITIA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>547</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeso Tompo be fitia<br/>Tonga anatrehanao.<br/>'Reo zatovo hiara-dia<br/>Mila ho tantananao.<br/>Arotsahy eto anio<br/>Arotsahy eto anio<br/>Mba hameno 'zao ny fony<br/>'Lay fitiavana madio.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeso Tompo Fanekena,<br/>Ny voady 'zay natao<br/>Sitrapo fa tsy terena,<br/>Aoka ho hamafisinao.<br/>Akambano izy roa<br/>Akambano izy roa<br/>O, midina ao am-pony,<br/>Ampiraisonao tokoa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeso Tompo Vatolampy<br/>Azo ifaharana,<br/>Fiarovana 'zay ampy<br/>Sy ho fitsaharana.<br/>Aoreno aminao<br/>Aoreno aminao<br/>Dia hatoky 'zao ny fony<br/>Na mamely ny manjo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeso Tompo Fitahiana,<br/>Mba omeo raha sitrakao,<br/>zanaka ho fifaliana<br/>Atolory azy izao.<br/>Dia ho fantany tokoa<br/>Dia ho fantany tokoa<br/>Fa ho velona ao am-pony<br/>Ny afom-pitiavanao.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jeso Tompo Fandresena,<br/>Aoka ho tantananao,<br/>Tsy ho resy na hivena<br/>'Reto ondrikelinao.<br/>Ho tontosa anie ny dia<br/>Ho tontosa anie ny dia<br/>Tomoera ao am-pony<br/>Mandra-pahatonga ary.</lines>
+    </verse>
+  </lyrics>
+</song>

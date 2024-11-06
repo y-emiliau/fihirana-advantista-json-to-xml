@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>055 - Jesus, Tender Shepherd, Hear Me</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>55</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, tender Shepherd, hear me,<br/>Bless Thy little lamb tonight;<br/>Through the darkness be Thou near me;<br/>Watch my sleep till morning light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All this day Thy hand has led me,<br/>And I thank Thee for Thy care;<br/>Thou hast clothed me, warmed and fed me;<br/>Listen to my evening prayer.</lines>
+    </verse>
+  </lyrics>
+</song>

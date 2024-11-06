@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HE NY RANAO MIKORIANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>672</ccliNo>
+    <authors>
+      <author>J. Faustin S.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He ! ny ranao mikoriana<br/>Izay hosotroiko re anio<br/>Itony ratrako mangina<br/>Tsaboy ho tena voadio<br/>Ny onjan-tsentonao mipaka<br/>Aty am-poko ry tsy mandao<br/>Ho vonona aho hampanjaka<br/>Ny fitiavanao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jereko Jeso ny fantsika<br/>Milentika any anaty tokoa<br/>Indrisy re ny halemeko,<br/>Tsy mahatsapa izany koa,<br/>Ny lefona izay mitsatoka,<br/>Dia tsaroako loatra izao,<br/>Ry Tompo tia sy Mpanjaka,<br/>Ry Mpandefitra ô.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ilay nasiana, nororana,<br/>Ny nofonao 'zay noratrana<br/>Moa tsy milaza amiko izao,<br/>Fiaraha-mihinam-baovao.<br/>Firaisana mamy dia mamy,<br/>Ny latabatrao re ry Tompo,<br/>Mampianatra ahy hankamamy,<br/>Ny firaisana.</lines>
+    </verse>
+  </lyrics>
+</song>

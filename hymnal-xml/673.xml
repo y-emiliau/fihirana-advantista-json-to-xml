@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>673 - May God Be With You</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v2</verseOrder>
+    <ccliNo>673</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v2">
+      <lines>May God be with you Till we meet again,<br/>May God be with you, Keep you safe till then;<br/>And may His blessings Be within your heart,<br/>May God be with you While we’re apart,<br/>May God be with you.</lines>
+    </verse>
+  </lyrics>
+</song>

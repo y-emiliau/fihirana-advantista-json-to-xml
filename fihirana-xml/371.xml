@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>VELOMY MAFY MBA HO RE</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>371</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Velomy mafy mba ho re,<br/>Hanako eran-tany izao,<br/>'Lay antso mahafaly hoe :<br/>Jesosy no Mpamonjinao.<br/>Velomy mafy (velomy re)<br/>Mba ho re aty,<br/>Velomy mafy (velomy re)<br/>Mba hanako ary.<br/>Misy olona ory anie,<br/>Miandry sy misento e<br/>Anaty alim-be,<br/>Izy ta handre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Velomy mafy mba ho re,<br/>'Reo lakolosin-danitra,<br/>Fa, indro tafaverina e<br/>Ilay nania lavitra.<br/>Velomy mafy (velomy re)<br/>Mba ho re aty,<br/>Velomy mafy (velomy re)<br/>Mba hanako ary.<br/>Misy kivy fo anie,<br/>Resy, mitomany e,<br/>Anaty alim-be,<br/>Izy ta handre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Velomy mafy mba ho re,<br/>Fa, indro avy Kristy izao.<br/>Fanantenana mamy re ;<br/>Ho avy Izy haka anao.<br/>Velomy mafy (velomy re)<br/>Mba ho re aty,<br/>Velomy mafy (velomy re)<br/>Mba hanako ary.<br/>Misy izay sondriana anie<br/>Amin'ny mandalo e,<br/>Anaty alim-be,<br/>Aoka mba handre.</lines>
+    </verse>
+  </lyrics>
+</song>

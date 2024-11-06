@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY MPANOTA MANIA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>130</ccliNo>
+    <authors>
+      <author>R. Rabenasolo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry mpanota mania ô ! banjino Kristy.<br/>Fitiavana feno ho anao doria.<br/>Fony Izy tety dia nijaly ery ;<br/>Fa nigoka ny tena mangidy Izy<br/>He niaritra Izy raha teo Kalvary<br/>Noho ny otanao dia maty Kristy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Zaho naniasia tena very satria<br/>Voagejan'ny ratsy tsy hizotra ary.<br/>Moa ve 'zaho ity mbola tian'i Kristy<br/>Na dia efa niodina nivily dia ?<br/>Ianao ve Kristy mbola tia, tena tia<br/>Ny mpanota toa ahy 'zay efa nania ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ry mpanota mania, manatòna, avia !<br/>'Lay fitiavako feno tsy miova doria.<br/>'Zaho Tompo efa tia, eny, mbola ho tia,<br/>Mbola tia anao Aho, avia aty.<br/>Aza ela, avia fa 'lay Ray be fitia<br/>efa miandry anao ho tody ary.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>420 - Jerusalem, My Happy Home</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>420</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jerusalem, my happy home,<br/>O how I long for thee!<br/>When will my sorrows have an end,<br/>The joys when shall I see?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The walls are all of precious stone,<br/>Most glorious to behold;<br/>Thy gates are richly set with pearl,<br/>Thy streets are paved with gold.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thy garden and thy pleasant walks<br/>My study long have been;<br/>Such dazzling views by human sight<br/>Have never yet been seen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord, help us by Thy mighty grace,<br/>To keep in view the prize,<br/>Till Thou dost come to take us home<br/>To that blessed paradise.</lines>
+    </verse>
+  </lyrics>
+</song>

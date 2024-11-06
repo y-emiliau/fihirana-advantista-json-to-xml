@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>VALIO NY HATAKAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>173</ccliNo>
+    <authors>
+      <author>F. Ramanantsialonina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FANAHY MASINA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Valio ny hatakay re,<br/>Fanahy Masina ô<br/>'Zay hery sady tokinay,<br/>Sy fitahiana.<br/>Mamelona fanahy.<br/>Manala ahiahy.<br/>Fohazy, tsilovy,<br/>Arovinao 'zahay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha misy halemena<br/>Nitondra fietrena,<br/>Fanahy ô, midina<br/>Hitondra aim-baovao,<br/>Hanangana ny rava<br/>Ity mpanomponao.<br/>Ho tonga irakao re,<br/>Fanahy ! avotinao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reseo ny hevitray 'zao,<br/>Hanoa Anao indray.<br/>Fa kely tsy mahomby,<br/>Ampionao 'zahay.<br/>Izany fahotana<br/>'Zay manameloka<br/>Kosehonao hiala<br/>Fa aminay ny antranao.</lines>
+    </verse>
+  </lyrics>
+</song>

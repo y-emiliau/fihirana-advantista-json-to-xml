@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>526 - Because He Lives</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>526</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God sent His Son, they called Him Jesus,<br/>He came to love, heal, and forgive;<br/>He lived and died to buy my pardon,<br/>An empty grave is there to prove my Savior lives.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Because He lives I can face tomorrow,<br/>Because He lives all fear is gone;<br/>Because I know He holds the future.<br/>And life is worth the living just because He lives.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How sweet to hold a newborn baby,<br/>And feel the pride, and joy He gives;<br/>But greater still the calm assurance,<br/>This child can face uncertain days because He lives.</lines>
+    </verse>
+  </lyrics>
+</song>

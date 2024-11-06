@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY JESO ! MBA HENOINAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>195</ccliNo>
+    <authors>
+      <author>A. M. Fredoux Peake</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY TENYN'ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Jeso mba henoinao<br/>Ny feonay mpanomponao<br/>Izay mivavaka aminao,<br/>Mitady fitahiana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vokiso ny fanahinay,<br/>Ny teninao no haninay,<br/>Hahaizanay mamahana<br/>Ny reraka ao an-dalana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ampaherezonao izao<br/>Ny tananay mpanomponao,<br/>Hanohana ny olonao<br/>Miraviravy tanana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Omeo fo mazoto re !<br/>Tolory fahendrena be ;<br/>Tarihonao ny hevitray ;<br/>Tendreo koa ny molotray.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He ! tsinontsinona izahay,<br/>Malemy sady tsy mahay ;<br/>Ka dia ampaherezonao<br/>Hanaovanay ny sitrakao.</lines>
+    </verse>
+  </lyrics>
+</song>

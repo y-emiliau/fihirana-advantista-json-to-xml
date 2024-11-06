@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>288 - I Am Going to Calvary</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>288</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am going to Calvary,<br/>Would you like to come with Me<br/>All the way and back again?<br/>You must follow the Leader then.<br/>You must follow the Leader,<br/>You must follow the Leader,<br/>All the way and back again,<br/>You must follow the Leader.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If I want a thorny crown,<br/>If the soldiers knock me down<br/>Can I really be a king?<br/>Love will answer everything<br/>If you follow the Leader,<br/>If you follow the Leader,<br/>Love will answer everything,<br/>If you follow the Leader.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I go along the road,<br/>I shall lift a heavy load.<br/>I will carry a cross for you.<br/>You will learn to carry it too<br/>When you follow the Leader,<br/>When you follow the Leader,<br/>You will learn to carry it too<br/>When you follow the Leader.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am going to stretch My hands,<br/>Reaching out to all the lands.<br/>Can I really be a king?<br/>Love’s the lord of everything,<br/>When you follow the Leader,<br/>When you follow the Leader<br/>Love’s the lord of everything,<br/>When you follow the Leader.</lines>
+    </verse>
+  </lyrics>
+</song>

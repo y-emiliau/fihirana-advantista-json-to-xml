@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>529 - Under His Wings</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>529</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Under His wings I am safely abiding;<br/>Though the night deepens and tempests are wild,<br/>Still I can trust Him; I know He will keep me;<br/>he has redeemed me, and I am His child.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Under His wings, under His wings,<br/>Who from His love can sever?<br/>Under His wings, my soul shall abide,<br/>Safely abide forever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Under His wings, what a refuge in sorrow!<br/>How the heart yearningly turns to its rest!<br/>Often when earth has no balm for my healing,<br/>There I find comfort, and there I am blest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Under His wings, O what precious enjoyment!<br/>There will I hide till life’s trials are over;<br/>Sheltered, protected, no evil can harm me;<br/>Resting in Jesus I’m safe evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

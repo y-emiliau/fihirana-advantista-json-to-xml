@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>I JESO 'ZAY ZOKINTSIKA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>649</ccliNo>
+    <authors>
+      <author>J. Ratsimihah</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I Jeso 'zay Zokintsika<br/>Dia Mpamonjy mora fo<br/>Ka ny ota vitantsika<br/>Dia havelany tokoa,<br/>Rah mety hovonjeny<br/>Ka mandao ny sitrapo,<br/>Dia fiainana no omeny,<br/>Fiainana tsy mety lo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be ny zava-mahasondriana<br/>Toa mamiratra tokoa,<br/>Filibàna an-kamamiana,<br/>Nefa ange tsy mahasoa.<br/>Dia injao 'lay feo malemy<br/>Miangavy mitalaho<br/>Ô ! ry zandriko manjeny<br/>Ny ota avelao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ry tanora mahereza<br/>Mazotoa, miasà.<br/>E ! ny làlana mideza<br/>Ka sahia hitomban-dahy.<br/>Ilazao ireo tsy mino,<br/>Taomy koa ireo nania,<br/>Ka ny hafatra aza hadino :<br/>Ho avy indray Kristy.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>176 - Hail the Day That Sees Him Rise</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>176</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hail the day that sees Him rise, Alleluia!<br/>Glorious to His native skies; Alleluia!<br/>Christ, awhile to mortals giv’n, Alleluia!<br/>Enters now the highest heav’n! Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There the glorious triumph waits; Alleluia!<br/>Lift your heads, eternal gates! Alleluia!<br/>Wide unfold the radiant scene; Alleluia!<br/>Take the King of glory in! Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See! He lifts His hands above; Alleluia!<br/>See! He shows the prints of love: Alleluia!<br/>Hark! His gracious lips bestow, Alleluia!<br/>Blessings on His Church below. Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord beyond our mortal sight, Alleluia!<br/>Raise our hearts to reach Thy height, Alleluia!<br/>There Thy face unclouded see, Alleluia!<br/>Find our heav’n of heav’ns in Thee. Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>300 - Rock of Ages</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>300</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rock of Ages, cleft for me,<br/>Let me hide myself in Thee;<br/>Let the water and the blood,<br/>From Thy riven side which flowed,<br/>Be of sin the double cure,<br/>Cleanse me from its guilt and power.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not the labor of my hands<br/>Can fulfill Thy law’s demands;<br/>Could my zeal no respite know,<br/>Could my tears forever flow,<br/>All for sin could not atone;<br/>Thou must save, and Thou alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my pilgrimage I close;<br/>Victor o’er the last of foes,<br/>When I soar to worlds unknown,<br/>And behold Thee on Thy throne,<br/>Rock of Ages, cleft for me,<br/>Let me hide myself in Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

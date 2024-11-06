@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MIARA-DIA AMINY (MINO SY MANKATò)</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>786</ccliNo>
+    <authors>
+      <author>M. Randriamiandriray</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miara-dia Aminy,<br/>Dia Jeso Zanany;<br/>Voninahitra omeny anao,<br/>‘Ndeha isika hankatò,<br/>Izy homba tokoa<br/>Ka hiray, hino sy hankatò.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ravo ny fo, mino sy mankatò<br/>An’i Jesosy tia,<br/>mino sy mankatò.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rava ny aloka,<br/>Lasa ny rahona<br/>Noho ny herin’i Kristy ho anao;<br/>Foana koa ny ahiahy,<br/>Ny sento sy tomany<br/>Raha matoky sy mino ianao.<br/>Ravo ny fo, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tsy misy vesatra na koa fahoriana<br/>Omeny hery sy zotom-po,<br/>Foana ireo fangidiana<br/>Sy endri-pijaliana,<br/>Ho an’ireo izay niova fo.<br/>Ravo ny fo, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tsy hay ambara avokoa<br/>‘Lay fitia kanto, soa<br/>Raha tsy eo Ilay Tompo Tsitoha;<br/>Tombontsoa omeny,<br/>Hafaliana zarainy<br/>Ho an’ireo mino sy mankatò.<br/>Ravo ny fo, sns.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fifankatiavana eo amin’i Jeso<br/>Ka hiaraka Aminy doria,<br/>‘Ndreto isika handeha<br/>N’aiza n’aiza haleha<br/>Fa miaro antsika Kristy.<br/>Ravo ny fo, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY TANORA VONINKAZO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>610</ccliNo>
+    <authors>
+      <author>Andriamboavonjiarinaivo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry tanora voninkazo,<br/>Mavitrika sy sahy<br/>Tsy manana ahiahy,<br/>Moa mba fantatrao<br/>Fa zava-poana avokoa,<br/>'Zao rehetra ary izao.<br/>(Tanora ô).<br/>Tsy haharitra ny tany<br/>Fa toy ny voninkazo<br/>Ho simba sy halazo.<br/>Andrandrao ny tanjona ambony<br/>Dieny ety<br/>Ilay Kanana tsara ery<br/>(Kanana ery)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Hazavao ny taninao<br/>(Hazavao taninao)<br/>Andeha torio ny teny soa<br/>('Ndeha torio teny soa)<br/>Zotom-po sy hery koa<br/>(Zotom-po hery koa)<br/>No mendrika an'i Jeso tia<br/>(An'i Jeso tia anao)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ry tanora voninkazo,<br/>Mavitrika sy sahy<br/>Tsy manana ahiahy,<br/>'Ndeha hanatona<br/>'Zay nomena anao ety<br/>Fa hivaly soa ary, tanora ô !<br/>Tsy haharitra ny tany<br/>Fa toy ny voninkazo<br/>Ho simba sy halazo.<br/>Asandrato avo ny fanevan'i Jeso<br/>Mba ho hita tsara ety.<br/>(Ho hita re)<br/>Hazavao ny taninao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

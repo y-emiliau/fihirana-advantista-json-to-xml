@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TSY HO ELA DIA HIFALY IANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>485</ccliNo>
+    <authors>
+      <author>Jeanne Ratsirison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tsy ho ela dia ho faly ianao<br/>Hiditra ao an-tranon'ny Ray.<br/>Eo hifarana re 'zany dianao<br/>Any no hanjakanao indray.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Ao an-tany vaovao<br/>Tsy ho faty intsony re,<br/>Hazavana no lambanao<br/>Ka hihira rodobe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tsy ho ela dia hifaly ianao<br/>Ao tsy hisy alina intsony.<br/>Hafaliana tsy ho tapitra no ao<br/>Fa hitony ny sentom-ponao.<br/>Ao an-tany vaovao, sns</lines>
+    </verse>
+  </lyrics>
+</song>

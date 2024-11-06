@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>515 - The Lord Is My Light</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>515</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is my light; then why should I fear?<br/>By day and by night His presence is near;<br/>He is my salvation from sorrow and sin;<br/>This blessed persuasion the Spirit brings in.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The Lord is my light, my joy, and my song;<br/>By day and by night He leads me along;<br/>The Lord is my light, my joy, and my song;<br/>By day and by night He leads me along.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord is my light; though clods may arise,<br/>Faith, stronger than sight, looks up to the skies<br/>Where Jesus forever in glory doth reign:<br/>Then how can I ever in darkness remain?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord is my light, the Lord is my strength;<br/>I know in His might I’ll conquer at length;<br/>My weakness in mercy He covers with power,<br/>And, walking by faith, He upholds me each hour.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The lord is my light, my all and in all;<br/>There is in His sight no darkness at all;<br/>He is my Redeemer, my Savior and King;<br/>With saints and with angels His praises I sing.</lines>
+    </verse>
+  </lyrics>
+</song>

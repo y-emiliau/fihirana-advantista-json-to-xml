@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>198 - And Can It Be</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>198</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And can it be that I should gain<br/>an interest in the Savior’s blood!<br/>Died he for me? who caused his pain!<br/>For me? who him to death pursued?<br/>Amazing love! How can it be<br/>that thou, my God, shouldst die for me?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Amazing love! How can it be<br/>that thou, my God, shouldst die for me?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He left his Father’s throne above<br/>so free, so infinite his grace!;<br/>emptied himself of all but love,<br/>and bled for Adam’s helpless race.<br/>‘Tis mercy all, immense and free,<br/>for O my God, it found out me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Long my imprisoned sprit lay,<br/>fast bound in sin and nature’s night;<br/>thine eye diffused a quickening ray;<br/>I woke, the dungeon flamed with light;<br/>my chains fell off, my heart was free,<br/>I rose, went forth, and followed thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No condemnation now I dread;<br/>Jesus, and all in him, is mine;<br/>alive in him, my living Head,<br/>and clothed in righteousnes divine,<br/>bold I approach th’ eternal throne,<br/>and claim the crown, through Christ my own.</lines>
+    </verse>
+  </lyrics>
+</song>

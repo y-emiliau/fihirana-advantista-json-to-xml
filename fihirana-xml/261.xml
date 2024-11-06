@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAISO AHO TOMPO O!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <ccliNo>261</ccliNo>
+    <authors>
+      <author>A. E. Brockway</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raiso aho, Tompo ô !<br/>Fa te ho mpanomponao ;<br/>Raiso koa ny androko,<br/>Ka hanarano fo izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raiso re ny tanako<br/>Mba hanao ny asanao ;<br/>Raiso koa ny androko<br/>Ho fanirakirakao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raiso ny fahaizako<br/>Ento mba hanaja Anao ;<br/>Raiso koa ny volako<br/>Ho Anao tokoa izao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Raiso re ny vavako<br/>Hampiseho ny hafatrao ;<br/>Raiso koa ny feoko<br/>Ho mpanandratra Anao.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Raiso ny fanahiko<br/>Diovy ho tempolinao ;<br/>Raiso aho Tompo ô !<br/>Ho Anao mihintsy 'zao.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ho Anao manokana,<br/>Ry Mpamonjy, Tompo soa<br/>Ho Anao dia Anao tokoa,<br/>Ho Anao mandrakizay.</lines>
+    </verse>
+  </lyrics>
+</song>

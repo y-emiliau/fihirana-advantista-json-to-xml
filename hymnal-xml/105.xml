@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>105 - Sing to the Great Jehovah's Praise</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>105</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing to the great Jehovah’s praise!<br/>All praise to Him belongs;<br/>Who kindly lengthens out our days,<br/>In spires our choicest songs,<br/>Inspires our choicest songs.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His providence hath brought us through<br/>Another various year;<br/>We all, with vows and anthems new,<br/>Before our God appear,<br/>Before our God appear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O God, Thy mercies past we own,<br/>And Thy continued care;<br/>To Thee presenting through Thy Son<br/>What e’er we have and are,<br/>What e’er we have and are.</lines>
+    </verse>
+  </lyrics>
+</song>

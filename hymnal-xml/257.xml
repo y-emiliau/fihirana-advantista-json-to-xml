@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>257 - Come Down, O Love Divine</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>257</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come down, O Love divine,<br/>seek thou this soul of mine<br/>and visit it with thine<br/>own ardor glowing;<br/>O Comforter, draw near,<br/>within my heart appear,<br/>and kindle it,<br/>thy holy flame bestowing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O let it freely burn,<br/>till earthly passions turn<br/>to dust and ashes<br/>in its heat consuming;<br/>and let thy glorious light<br/>shine ever on my sight,<br/>and clothe me round,<br/>the while my path illuming.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let holy charity Mine<br/>outward vesture be,<br/>And lowliness become<br/>my inner clothing;<br/>True lowliness of heart<br/>which takes the humbler part,<br/>And o’er its own shortcomings<br/>weeps with loathing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And so the yearning strong<br/>with which the soul will long<br/>shall far out pass the power of human telling;<br/>for none can guess its grace, till Love create a place<br/>wherein the Holy Spirit makes a dwelling.</lines>
+    </verse>
+  </lyrics>
+</song>

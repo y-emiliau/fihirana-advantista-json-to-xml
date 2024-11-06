@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>SABATA MASINAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>220</ccliNo>
+    <authors>
+      <author>Rasamoelina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sabata Masinao,<br/>Andriamanitray,<br/>No nitsaharanao,<br/>Ka itsaharanay.<br/>Sabata Masinao,<br/>Ry Tompo tianay,<br/>Izao anio izao<br/>Ka ifalianay.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Sabata Masinao,<br/>Andriamanitray,<br/>No nitsaharanao,<br/>Ka itsaharanay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sabata Masinao,<br/>Jehovah Tompo soa.<br/>No voatahinao<br/>Ka maminay tokoa.<br/>Sabata Masinao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sabata Masinao,<br/>Ry Ray malalanay,<br/>Nohamasininao<br/>Ka hamasininay.<br/>Sabata Masinao, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sabata Masinao,<br/>Ry Jeso Tomponay,<br/>No tena andronao<br/>Ka ivavahanay.<br/>Sabata Masinao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

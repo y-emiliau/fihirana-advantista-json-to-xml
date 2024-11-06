@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>O! RY MPINO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>609</ccliNo>
+    <authors>
+      <author>E. Rakotonirina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O ! ry mpino izay nandray ny teny<br/>Miantso anao anio ny Tomponao.<br/>Miaingà re izao hilaza ireny<br/>Ho faminjena ireo namanao (Henoy)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Miantso anao izao Kristy Tompo<br/>Hovalinao ve, mamalia.<br/>O ! ekeo<br/>Raha toa mpanompo vonona<br/>Handova fiainana ary (ary)<br/>'Zay omen'i Jeso tia (Jeso tia).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O ! ry mpino, moa henonao<br/>'Lay antso feno fitiavana ?<br/>Koa faingàna mitory dieny izao<br/>Fa ity tany anie horavàna.<br/>Miantso anao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O ! ry mpino, mitsangàna izao,<br/>Hoy ny feon'Ilay Jeso Mpamonjy tia.<br/>Mahereza aingao ilay fanilonao<br/>Hampisinda ny haizina ety.<br/>Miantso anao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

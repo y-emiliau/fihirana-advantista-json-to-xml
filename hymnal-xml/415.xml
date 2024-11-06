@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>415 - Christ the Lord, All Power Possessing</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>415</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ, the Lord, all power possessing,<br/>Parting, mounted heaven’s height,<br/>Gracious hands outstretched in blessing,<br/>Clouds received His from their sight.<br/>Christ ascended, Christ ascended,<br/>Christ ascended on the clouds.<br/>(on the clouds)<br/>Christ ascended on the clouds.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daniel views earth’s judgment hour,<br/>Angels gathering open books.<br/>God enthroned inflaming power<br/>For His Son’s arrival looks.<br/>Christ approaches, Christ approaches,<br/>Christ approaches on the clouds.<br/>(on the clouds)<br/>Christ approaches on the clouds.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Revelation’s word fulfilling,<br/>Trumpet, voices pierce the air.<br/>Saint and sinner fainting, thrilling,<br/>Every eye behold Him there.<br/>Christ is coming, Christ is coming,<br/>Christ is coming on the clouds.<br/>(on the clouds)<br/>Christ is coming on the clouds.</lines>
+    </verse>
+  </lyrics>
+</song>

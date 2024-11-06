@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>591 - In Our Work and in Our Play</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>591</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In our work and in our play,<br/>Jesus, ever with us stay;<br/>May be always strive to be<br/>True and faithful unto Thee.<br/>Then we truthfully can sing,<br/>We are children of the King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May we in Thy strength subdue<br/>Evil tempers, words untrue,<br/>Thoughts impure, and deeds unkind,<br/>All things hateful to Thy mind.<br/>Then we truthfully can sing,<br/>We are children of the King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Children of the King are we!<br/>May we loyal to Him be;<br/>Try to please Him every day,<br/>In our work and in our play.<br/>Then we truthfully can sing,<br/>We are children of the King.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>359 - Hark! the Voice of Jesus Calling</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>359</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hark! the voice of Jesus calling,<br/>“Who will go and work today?<br/>Fields are white, the harvest waiting,<br/>Who will bear the sheaves away?”<br/>Loud and long the Master calleth,<br/>Rich reward He offers free;<br/>Who will answer, gladly saying,<br/>“Here am I, O Lord, send me”?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you cannot cross the ocean<br/>And the heathen lands explore,<br/>You can find the heathen nearer,<br/>You can help them at your door;<br/>If you cannot speak like angels,<br/>If you cannot preach like Paul,<br/>You can tell the love of Jesus,<br/>You can say He died for all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you cannot be the watchman,<br/>Standing high on Zion’s wall,<br/>Pointing out the path to heaven,<br/>Offering life and peace to all;<br/>With your prayers and with your bounties<br/>You can do what Heaven demands,<br/>You can be like faithful Aaron,<br/>Holding up the prophet’s hands.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>While the souls of men are dying,<br/>And the Master calls for you,<br/>Let none hear you idly saying,<br/>“There is nothing I can do!”<br/>Gladly take the task He gives you,<br/>Let His work your pleasure be;<br/>Answer quickly when He calleth,<br/>“Here am I, O Lord, send me.”</lines>
+    </verse>
+  </lyrics>
+</song>

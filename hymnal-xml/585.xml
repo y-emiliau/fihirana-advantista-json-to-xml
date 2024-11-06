@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>585 - When Christ Was Lifted From the Earth</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>585</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When Christ was lifted from the earth<br/>His arms stretched out above<br/>Through every culture, every birth,<br/>to draw an answering love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Still east and west His love extends<br/>and always, near or far,<br/>He calls and claims us as His friends<br/>and loves us as we are.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Where generation, class, or race<br/>divides us to our shame,<br/>He sees not labels but a face,<br/>a person and a name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thus freely loved, tho’ fully known,<br/>may I in Christ be free<br/>To welcome and accept His own<br/>as Christ accepted me.</lines>
+    </verse>
+  </lyrics>
+</song>

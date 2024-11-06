@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>O, TENY FIKASANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>230</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O ! Teny fikasana soa indrindra<br/>Kristy mitarika ny lalako<br/>Ny tanany no mampirindra<br/>Ny momba ny fiainako.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>He ! sambatra aho re<br/>Nametraka aminao 'zao<br/>Ny androko Mpamonjy tia<br/>Ny fiainako tontolo<br/>Satria Ianao nisolo<br/>'Reo fahotako marobe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny masonao mitazana ny diako<br/>Ny saina atolotrao, mitarika<br/>Any aminao no hitodiako,<br/>Ny lanitra no marika<br/>He ! sambatra aho re, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na dia tsy hitako izay hombana<br/>Fa maizina ny eo alohako<br/>Ny tananao no he ! mitana<br/>Tsy misy hatahorako.<br/>He ! sambatra aho re, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Endrey ny hasambarana sy toky<br/>mahampoka izao ny fiainako<br/>Fa manana Anao ho zoky<br/>Mandahatra ny lalako.<br/>He ! sambatra aho re, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

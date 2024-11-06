@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>APETRAKO EO AN-TANANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>363</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-TANANAO<br/>1<br/>Apetrako eo en-tananao<br/>Ny fiainako manontolo<br/>Ry Tompon'ny fanahiko<br/>Fa Ianao nisolo.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Tompo malala ô, tano ho Anao.<br/>Mba tsy hiala eo an-tananao.<br/>Tariho ny diako ho aminao<br/>Ny faniroako an-tananao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Endrey naniasia izao<br/>Ry Ray ny zanakao.<br/>Nanara-po sy nilalao<br/>He ! lavitra Anao.<br/>Tompo malala ô, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Izao rehetra hita izao<br/>He ! mahasondriana ahy.<br/>Nandositra ny tavanao<br/>'Lay Tompon'ny fanahy.<br/>Tompo malala ô, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tsy ho haiko intsony hatrizao<br/>handao ny làlanao.<br/>Tantano re, ampio aho<br/>tariho ny tananao.<br/>Tompo malala ô, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

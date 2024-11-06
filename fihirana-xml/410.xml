@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAHA MAIZINA NY ALEHAKO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>410</ccliNo>
+    <authors>
+      <author>Raymond B. Rakotondrainibe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raha maizina ny alehanao<br/>Ka manjombona aminao ny lanitra,<br/>Aza miondrika ianao<br/>Fa banjino kosa Andriamanitra</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Mbola ao ny Andriamanitra<br/>'Zay mijery sy miahy anao.<br/>Manatona Azy izao,<br/>Izy hanaisotra ny tahotrao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha saro-dàlana koa ianao<br/>Ka mivilivily, mety lavo koa ;<br/>Jesosy Tompo akaiky anao<br/>Izy handray anao an-tanan-droa.<br/>Mbola ao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tsy misy lova maharitra<br/>Ny eto an-tany na dia iray ;<br/>Fa mivonona hiatrika ilay lova soa<br/>Sy ho mandrakizay.<br/>Mbola ao, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Endrey izany fitiavana<br/>Izay asehonao aminay, ry Ray,<br/>Fa manome tsy mba tapaka<br/>Izay rehetra mety tadiavinay.<br/>Mbola ao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

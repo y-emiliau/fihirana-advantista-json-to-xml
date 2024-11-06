@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>346 - Lord, Who Dost Give to Thy Church</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>346</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, who dost give<br/>to Thy church for its healing<br/>Gifts, and the grace<br/>to sustain and renew,<br/>Hear as we pray that<br/>today and each morrow<br/>We to Thy purpose may<br/>show ourselves true.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Clear be the voices<br/>of preachers and prophets<br/>Fearlessly speaking<br/>the word of the Lord,<br/>Word of redemption<br/>thro‘ God’s Son incarnate,<br/>Blessing for cursing,<br/>and peace for the sword.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tender and wise be<br/>the hearts of the pastors,<br/>Guiding and guarding<br/>the souls in their care,<br/>Firm with the wayward,<br/>a strength to the doubting,<br/>Helping the needy<br/>their burdens to bear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May those who teach grow<br/>in knowledge and patience,<br/>Guiding to wisdom<br/>the young and the old,<br/>Training for worship<br/>and witness and service,<br/>Foes to all falsehood,<br/>in truthfulness bold.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord, ever give to us<br/>gifts in due measure,<br/>Each needing other,<br/>and all having worth;<br/>So to the Father,<br/>the Son, and the Spirit,<br/>Glory be shown by<br/>the church here on earth.</lines>
+    </verse>
+  </lyrics>
+</song>

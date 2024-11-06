@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>407 - Sent Forth by God's Blessing</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>407</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sent forth by God’s blessing,<br/>Our true faith confessing,<br/>The people of God from His dwelling take leave.<br/>The supper is ended.<br/>Oh, now be extended<br/>The fruits of this service in all who believe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The seed of His teaching,<br/>Receptive souls reaching,<br/>Shall blossom in action for God and for all.<br/>His grace did invite us,<br/>His love shall unite us<br/>To work for God’s kingdom and answer His call.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With praise and thanksgiving<br/>To God ever living,<br/>The tasks of our everyday life we will face.<br/>Our faith ever sharing,<br/>In love ever caring,<br/>Embracing His children of each tribe and race.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>With Your feast You feed us,<br/>With Your light now lead us;<br/>Unite us as one in this life that we share.<br/>Then may all the living<br/>With praise and thanks giving<br/>Give honor to Christ and His name that we bear.</lines>
+    </verse>
+  </lyrics>
+</song>

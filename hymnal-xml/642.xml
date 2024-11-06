@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>642 - We Praise Thee With Our Minds</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>642</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We praise Thee with our minds,<br/>O LordKept sharp think Thy thought;Come,<br/>Holy Ghost with grace outpoured,<br/>To teach what Christ hath taught.<br/>In all our learning may we seekThat wisdom from above<br/>Which comes to all: the brave,<br/>the meekWho ask in faith and love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We praise Thee thro’ our bodies,<br/>Lord,Kept strong to do Thy will;<br/>Thy Spirit’s temples, which afford<br/>A means to praise Thee still.<br/>We give ourselves, a sacrifice,<br/>To live as unto Thee;<br/>For Thou alone hast paid the priceTo bring salvation free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We praise Thee in our hearts,<br/>O king,Kept pure to know Thy ways;<br/>And raise to Thee a hymn to sing<br/>Eternally Thy praise.<br/>Altho adoring hearts will bow<br/>As age on ages roll;<br/>We praise Thee in our beings now,<br/>Mind, body, heart, and soul.</lines>
+    </verse>
+  </lyrics>
+</song>

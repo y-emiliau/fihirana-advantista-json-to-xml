@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>048 - Softly Now the Light of Day</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>48</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Softly now the light of day<br/>Fades upon out sight away:<br/>Free from care, from labor free,<br/>Lord, we would commune with Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou, whose allpervading eye<br/>Nought escapes, without, within,<br/>Pardon each infirmity,<br/>Open fault, and secret sin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soon from us the light of day<br/>Shall forever pass away;<br/>Then, from sin and sorrow free,<br/>Take us, Lord, to dwell with Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

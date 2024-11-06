@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY JESOSINAY O!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>48</ccliNo>
+    <authors>
+      <author>J. Hiran'ala Andrianavony</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>:,: Ry Jesosinay ô,<br/>'Ndreto izahay.<br/>Fanirianay<br/>Ny mba hidera Anao,<br/>Ka sasao sy diovinao re<br/>Ny fonay (mba)<br/>Hahafahanay midera Anao.<br/>Maminay ny fitiavanao (ka)<br/>Hanononanay<br/>Ny anaranao hoe :,:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ry Jesosy ô,<br/>Faly ny fonay.<br/>Notoloranao ny fitiavanao.<br/>Hira no ventesinay<br/>Mba hilaza<br/>Fa Mpamonjy tia tokoa Ianao.<br/>Maminay ny fitiavanao (ka)<br/>Hanononanay<br/>Ny anaranao hoe :,:</lines>
+    </verse>
+  </lyrics>
+</song>

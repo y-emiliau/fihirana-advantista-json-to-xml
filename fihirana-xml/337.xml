@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESOSY FITSAHARANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>337</ccliNo>
+    <authors>
+      <author>A. Emiliarison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesosy fitsaharana<br/>Mitady anao mpanota very dia<br/>Jesosy fitsaharana<br/>Miantso anao mpanota izay nania<br/>Jesosy fitsaharana<br/>Miantso, miangavy hoe : Avia<br/>Jesosy fitsaharana<br/>Omaly, anio,<br/>Mandrakizay doria.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Mankanesa aty amiko ianareo<br/>Izay miasa fatratra,<br/>Mavesatra entana<br/>Fa Izaho no hanome anareo<br/>Fitsaharana<br/>Jesosy 'Lay be fitia<br/>Miantso anao.<br/>Jesosy 'Lay be fitia<br/>Miantso anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesosy fitsaharana<br/>Dia tia anao<br/>Ho tonga zana-dRay<br/>Jesosy fitsaharana<br/>Maniry anao hateraka indray.<br/>Jesosy fitsaharana,<br/>Niaritra eso, latsa mahamay<br/>Jesosy fitsaharana,<br/>Ho fitsaharanao rahatrizay.<br/>Mankanesa aty amiko, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

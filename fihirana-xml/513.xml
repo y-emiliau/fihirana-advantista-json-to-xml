@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>IZA NO AMPY HAMPAHERY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>513</ccliNo>
+    <authors>
+      <author>A. Emiliarison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Iza no ampy hampahery<br/>raha ketraka ny fo<br/>Afa-tsy Jesosy irery,<br/>'Lay Tompo soa ?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Tsy ho haiko ny milaza<br/>Raha ety an-tany ety (ety)<br/>Ny fanahiko hankalaza<br/>'Lay Jesosy Tompo tia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tsy ho takatry ny saina<br/>Ny fitiavan'i Kristy ;<br/>Tsy vidiana fa zaraina :<br/>Ry mpanota mifalia.<br/>Tsy ho haiko, sns</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Izy no manome ahy<br/>'Zay rehetra ilaiko ety<br/>O ! tsy misy mampanahy,<br/>Azo antoka ny dia.<br/>Tsy ho haiko, sns</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hiaraka amin'ny voavonjy<br/>'Zaho koa hidera Anao<br/>Mba hisaotra Anao Mpamonjy<br/>Any an-tany vaovao.<br/>Tsy ho haiko, sns</lines>
+    </verse>
+  </lyrics>
+</song>

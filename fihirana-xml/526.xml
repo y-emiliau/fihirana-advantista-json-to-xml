@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TSY HAIKO RE RAHOVIANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>526</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tsy haiko re rahoviana<br/>No hahitako zavatra.<br/>'Zay tena tsy hay jerena :<br/>Fidirana an-danitra ;<br/>Kanefa re hiandry aho<br/>fa poa toy izay ho hitako.<br/>Fantatro koa fa raha hiseho<br/>Ny tavany, hatrehiko.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Ho hitako ny endriny<br/>Sy ny an'ny olo-masina.<br/>Ho hitako ny tavany,<br/>Izaho koa horaisina.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao ny ratsy, ao koa ny soa,<br/>Mivadibadika ny ety.<br/>Raha misy mahafaly fo<br/>Dia mba mihena ny manjo<br/>Kanefa tsy haharitra,<br/>Mihalina dia lasa indray.<br/>Rehefa any an-danitra<br/>No hisy ny mandrakizay.<br/>Ho hitako ny endriny, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

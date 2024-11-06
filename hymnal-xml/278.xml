@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>278 - Lord Jesus, Once You Spoke to Men</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>278</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord Jesus, once You spoke to men<br/>Upon the mountain and the plain,<br/>O help us listen now as then<br/>And wonder at Your words again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We all have secret fears to face,<br/>Our minds and motives to amend.<br/>We seek Your truth,<br/>We need your grace,<br/>Our living Lord and present friend.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The gospel speaks; and we receive<br/>Your light, Your love,<br/>Your own command.<br/>O help us live what we believe,<br/>In daily word of heart and hand.</lines>
+    </verse>
+  </lyrics>
+</song>

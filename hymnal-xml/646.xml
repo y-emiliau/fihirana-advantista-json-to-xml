@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>646 - To the Name That Brings Salvation</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>646</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To the name that brings salvation<br/>Let the nations bow the head;<br/>Let them kneel in adoration<br/>When this name of names is said;<br/>Let them pray for restoration<br/>Of all things in Christ the head.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He through every generation<br/>Rules in endless majesty;<br/>May the kings of every nation<br/>Now foreswear their enmity,<br/>And with humble veneration<br/>In the love of God agree.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, we pray for upright rulers:<br/>Guard them surely in their need<br/>From the vanity of power<br/>And the emptiness of greed;<br/>Let them see the truth of lowness,<br/>And on justice let them feed.</lines>
+    </verse>
+  </lyrics>
+</song>

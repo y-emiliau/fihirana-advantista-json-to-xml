@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>648 - I Vow to Thee, My Country</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>648</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I vow to thee, my country,<br/>all earthly things above,<br/>Entire and whole and perfect,<br/>the service of my love:<br/>The love that asks the reason,<br/>the love that stands the test,<br/>That lays upon the altar<br/>the dearest and the best;<br/>The love that never falters,<br/>the love that pays the price,<br/>The love that makes undaunted<br/>the final sacrifice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And there’s another country,<br/>I’ve heard of long ago,<br/>Most dear to them that love her,<br/>most great to them that know;<br/>We may not count her armies,<br/>we may not see her King;<br/>Her fortress is a faithful heart,<br/>her pride is suffering;<br/>And one by one and fervently<br/>we pray for her increase,<br/>And her ways are ways of gentleness,<br/>and all her paths are peace.</lines>
+    </verse>
+  </lyrics>
+</song>

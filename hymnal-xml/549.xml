@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>549 - Loving Shepherd of Thy Sheep</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>549</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Loving Shepherd of Thy sheep,<br/>Keep Thy lamb, in safety keep;<br/>Nothing can Thy power withstand;<br/>None can pluck me from Thy hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Loving Shepherd, ever near,<br/>Teach Thy lamb Thy voice to hear;<br/>Suffer not my steps to stray<br/>From the straight and narrow way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Where Thou leadest I would go,<br/>Walking in Thy steps below,<br/>Till within the heavenly fold<br/>I my Shepherd shall behold.</lines>
+    </verse>
+  </lyrics>
+</song>

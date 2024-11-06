@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>464 - When I Can Read My Title Clear</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>464</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I can read my title clear<br/>To mansions in the skies<br/>I’ll bid farewell to every fear,<br/>And wipe my weeping eyes;<br/>And wipe my weeping eyes,<br/>And wipe my weeping eyes,<br/>I’ll bid farewell to every fear,<br/>And wipe my weeping eyes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Should earth against my soul engage,<br/>And fiery darts be hurled,<br/>Then I can smile at Satan’s rage,<br/>And face a frowning world;<br/>And face a frowning world,<br/>And face a frowning world,<br/>Then I can smile at Satan’s rage,<br/>And face a frowning world.</lines>
+    </verse>
+  </lyrics>
+</song>

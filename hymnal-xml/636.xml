@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>636 - God, Whose Giving Knows No Ending</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>636</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God, whose giving knows no ending,<br/>From Your rich and endless store:<br/>Nature’s wonder, Jesus’ wisdom,<br/>Costly cross, grave’s shattered door.<br/>Gifted by You, we turn to You,<br/>Off’ring up ourselves in praise:<br/>Thankful song shall rise forever,<br/>Gracious donor of our days.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Skills and time are ours for pressing<br/>Toward the goals of Christ, Your Son:<br/>All at peace in health and freedom,<br/>Races joined, the church made one.<br/>Now direct our daily labor,<br/>Lest we strive for self alone:<br/>Born with talents, make us servants<br/>Fit to answer at Your throne.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Treasure, too, You have entrusted,<br/>Gain through pow’rs Your grace conferred:<br/>Ours to use for home and kindred,<br/>And to spread the Gospel Word.<br/>Open wide our hands in sharing,<br/>As we heed Christ’s ageless call.<br/>Healing, teaching, and reclaiming,<br/>Serving You by loving all.</lines>
+    </verse>
+  </lyrics>
+</song>

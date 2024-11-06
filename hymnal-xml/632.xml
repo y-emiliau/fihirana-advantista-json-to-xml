@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>632 - Until Then</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>632</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heart can sing when I pause to remember,<br/>A heartache here is but a stepping stone.<br/>Along a trail, thats winding always upward,<br/>This troubled world, is not my final home.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>But until then, my heart will go on singing,<br/>Until then, with joy I’ll carry on,<br/>Until the day my eyes behold the city,<br/>Until the day God calls me home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The things of earth will dim and lose their value,<br/>If we recall they’re borrowed for awhile;<br/>And things of earth that cause the heart to tremble,<br/>Remembered there, will only bring a smile.</lines>
+    </verse>
+  </lyrics>
+</song>

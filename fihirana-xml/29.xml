@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY ANDRIANANAHARINAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>29</ccliNo>
+    <authors>
+      <author>R. Baron</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Andriananaharinay<br/>Ny hamasinanao<br/>Dia tena lehibe tokoa<br/>Ka tsy hahita Anao 'zahay,<br/>Raha tsy mba masim-po</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny mason'ny anjelinao<br/>Mahita Anao tokoa,<br/>Ka tsy mba manjambena ireo<br/>Na dia mamirapiratra<br/>Ny hamasinanao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fa tsy nanota taminao<br/>Akory izy ireo,<br/>Tsy meloka, tsy menatra,<br/>Ka misy hahazoany<br/>Hijery tsara Anao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fa izahay, maloto fo<br/>Raha ta hahita anao,<br/>Tsy mana-mahamendrika<br/>Fa zanak'olombelona,<br/>Ahoana no hataoko ?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ry Andriananaharinay !<br/>Ny ran'ny zanakao<br/>Ny asan'ny Fanahy koa,<br/>No zava-mahamendrika anay<br/>Hahita Anao.</lines>
+    </verse>
+  </lyrics>
+</song>

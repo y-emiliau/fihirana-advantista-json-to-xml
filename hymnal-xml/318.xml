@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>318 - Whiter Than Snow</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>318</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord Jesus, I long<br/>to be perfectly whole;<br/>I want Thee forever<br/>to live in my soul;<br/>Break down every idol,<br/>cast out every foe;<br/>Now wash me, and I<br/>shall be whiter than snow.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Whiter than snow,<br/>yes, whiter than snow;<br/>Now wash me, and I<br/>shall be whiter than snow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord Jesus, look down<br/>from Thy throne in the skies,<br/>And help me to make<br/>a complete sacrifice;<br/>I give up myself,<br/>and whatever I know;<br/>Now wash me, and I<br/>shall be whiter than snow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord Jesus, for this<br/>I most humbly entreat;<br/>I wait, blessed Lord,<br/>at Thy crucified feet,<br/>By faith, for my cleansing;<br/>I see Thy blood flow;<br/>Now wash me, and I<br/>shall be whiter than snow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord Jesus, Thou seest<br/>I patiently wait;<br/>Come now, and within me<br/>a new heart create;<br/>To those who have sought Thee,<br/>Thou never said’st No;<br/>Now wash me, and I<br/>shall be whiter than snow.</lines>
+    </verse>
+  </lyrics>
+</song>

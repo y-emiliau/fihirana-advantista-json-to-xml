@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>173 - Good Christian Friends, Rejoice!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>173</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Good Christian friends, rejoice and sing!<br/>Now is the triumph of our King!<br/>To all the world glad news we bring:<br/>Alleluia! Alleluia! Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord of life is risen for aye;<br/>Bring flowers of song to strew His way;<br/>Let all mankind rejoice and say:<br/>Alleluia! Alleluia! Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise we in songs of victory<br/>That love, that life which cannot die,<br/>And sing with hearts uplifted high:<br/>Alleluia! Alleluia! Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thy name we bless, O risen Lord,<br/>And sing today with one accord<br/>The life laid down, the life restored:<br/>Alleluia! Alleluia! Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>333 - On Jordan's Banks the Baptist's Cry</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>333</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On Jordan’s banks the Baptist’s cry<br/>Announces that the Lord is nigh;<br/>Awake and hearken, for he brings<br/>Glad tidings of the King of kings!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then cleansed be every life from sin;<br/>Make straight the way for God within,<br/>And let us all our hearts prepare<br/>For Christ to come and enter there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We hail You as our Savior, Lord,<br/>Our refuge and our great reward;<br/>Without Your grace we waste away<br/>Like flow’rs that wither and decay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Stretch forth Your hand, our health restore,<br/>And make us rise to fall no more;<br/>Oh, let Your face upon us shine<br/>And fill the world with love divine.</lines>
+    </verse>
+  </lyrics>
+</song>

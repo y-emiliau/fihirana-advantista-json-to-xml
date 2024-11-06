@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>033 - Sing a New Song to the Lord</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>33</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing a new song to the Lord,<br/>He to whom wonders belong.<br/>Rejoice in His triumph and tell of His power.<br/>O sing a new song to the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now to the ends of the earth<br/>See His salvation is shown.<br/>And still He remembers His mercy and truth,<br/>Unchanging in love to His own.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing a new song and rejoice.<br/>Publish His praises abroad.<br/>Let voices in chorus with trumpet and horn,<br/>Resound for the joy of the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Join with the hills and the sea,<br/>Thunders of praise to prolong.<br/>In judgement and justice<br/>He comes to the earth<br/>O sing a new song to the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

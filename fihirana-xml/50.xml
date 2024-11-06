@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESOSY Ô ! ANILANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>50</ccliNo>
+    <authors>
+      <author>R. Tovoarimino</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesosy ô, anilanao ny toloko<br/>Lavitra ahy,<br/>Fa Ianao ao am-poko<br/>Ho sambatra ny fo sy fanahy.<br/>'Zay onenanao,<br/>Tsy misy izay mampanahy,<br/>Ny fanahinao anatiko ao<br/>Manery ahy<br/>Hihira hoe : (Haleloia)<br/>Dera sy lasa, hery sy haja,<br/>Jesosy ô !<br/>Fa nifidy ahy<br/>Tao amin'ny maro Ianao<br/>Ka dera, Haleloia, hatrizao<br/>Jeso ô, ho Anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesosy ô ! tazony aho ka tantano<br/>Amin'ny loza mba afaho<br/>Sy sakano<br/>He, tratrika aho, ry Jeso<br/>Raha Ianao<br/>No hitantana izao diako izao<br/>Ho tafita<br/>Hiaraka aminao hatreo<br/>Ka hatreny am-pita<br/>Hihira hoe : (Haleloia)<br/>Dera sy lasa, hery sy haja,<br/>Jesosy ô !<br/>Fa nifidy ahy<br/>Tao amin'ny maro Ianao<br/>Ka dera, Haleloia, hatrizao<br/>Jeso ô, ho Anao.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>205 - Gleams of the Golden Morning</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>205</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The golden morning is fast approaching;<br/>Jesus soon will come<br/>To take his faithful and happy children<br/>to their promised home</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, we see the gleams of the golden morning<br/>piercing thro’ this night of gloom!<br/>O, see the gleams of the golden morning<br/>that will burst the tomb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The gospel summons will soon be carried<br/>to the nations round;<br/>The Bridegroom then will cease to tarry<br/>and the trumpet sound.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Attended by all the shining angels,<br/>Down the flaming sky<br/>the Judge will come, and will take his people<br/>where they will not die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The lov’d of earth who have long been parted,<br/>Meet in that glad day;<br/>The tears of those who are broken hearted<br/>shall be wiped away.</lines>
+    </verse>
+  </lyrics>
+</song>

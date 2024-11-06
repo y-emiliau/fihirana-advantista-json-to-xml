@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>565 - For the Beauty of the Earth</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>565</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For the beauty of the earth,<br/>for the glory of the skies,<br/>for the love which from our birth<br/>over and around us lies;<br/>Lord of all, to Thee we raise<br/>this our grateful song of praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the joy of human love,<br/>brother, sister, parent, child,<br/>friends on earth and friends above,<br/>Pleasures pure and undefiled,<br/>Lord of all, to Thee we raise<br/>this our grateful song of praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For the gift of Thy dear Son,<br/>for the hope of heaven at last,<br/>for the Spirit’s victory won,<br/>For the crown when life is past,<br/>Lord of all, to Thee we raise<br/>Songs of gratitude and praise.</lines>
+    </verse>
+  </lyrics>
+</song>

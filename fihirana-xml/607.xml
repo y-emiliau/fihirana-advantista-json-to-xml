@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY TANORA VONINKAZO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>607</ccliNo>
+    <authors>
+      <author>Ravonjizafy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry tanora voninkazo,<br/>Feno hatsaran-tarehy,<br/>Faly sady ravoravo,<br/>Feno tsiky, mihomehy,<br/>Indro Ilay Mpanao anao,<br/>Miantso hoe avia ! avia !<br/>Anaka atolory 'zao<br/>Ny fonao mpaniasia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny mpamonjy no miantso<br/>Miandry anao hiara-dia,<br/>Manana ny teny kanto,<br/>Tsy ny eto fa ny ary.<br/><<Miomàna dieny izao<br/>Hiaraka amin'i Jeso,<br/>Omeo azy ny fonao,<br/>Dia ho sambatra doria>>.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ry tanora ô ! meteza,<br/>Iza no andrasanao ?<br/>Moa ve haharitra ela ?<br/>Nefa ny ora manindao,<br/>'Njay ny feo manao hoe :<br/><<Moa tia Ahy va ianao ?<br/>Jeso Tompo no miandry<br/>Atolory ny fonao>>.</lines>
+    </verse>
+  </lyrics>
+</song>

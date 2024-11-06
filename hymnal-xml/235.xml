@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>235 - Christ Is Made the Sure Foundation</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>235</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ is made the sure foundation,<br/>Christ the head and cornerstone,<br/>chosen of the Lord, and precious,<br/>binding all the Church in one;<br/>holy Zion’s help for ever,<br/>and her confidence alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All that dedicated city,<br/>dearly loved of God on high,<br/>in exultant jubilation<br/>pours perpetual melody;<br/>God the One in Three adoring<br/>in glad hymns eternally.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To this temple, where we call thee,<br/>come, O Lord of Hosts, today;<br/>with thy wonted loving-kindness<br/>hear thy servants as they pray,<br/>and thy fullest benediction<br/>shed within its walls alway.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Here vouchsafe to all thy servants<br/>what they ask of thee of gain;<br/>what they gain from thee, for ever<br/>with the blessed to retain,<br/>and hereafter in thy glory<br/>evermore with thee to reign.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Laud and honor to the Father,<br/>laud and honor to the Son,<br/>laud and honor to the Spirit,<br/>ever Three, and ever One,<br/>con-substantial, co-eternal,<br/>while unending ages run.</lines>
+    </verse>
+  </lyrics>
+</song>

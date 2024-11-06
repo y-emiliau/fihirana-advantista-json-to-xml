@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY ZIONA O, HIRAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>47</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Ziona ô, hirao<br/>Ny famonjena anao<br/> Ry Ziona ô, hirao<br/>Nivezivezy re<br/>tanaty alim-be.<br/> Ry Ziona ô, hirao<br/>Ny ota nahazatra anao,<br/>He afaka izao.<br/>Ka toetra masina sy vao<br/>No atafy anao.<br/> Ry Ziona ô, hirao<br/>Ny afamonjena anao.<br/> Ry Ziona ô, hirao</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ry Ziona ô, derao<br/>Ilay Mpanao anao<br/> Ry Ziona ô, hirao.<br/>He ! afaka ianao<br/>Ka tonga vaovao.<br/> Ry Ziona ô, hirao.<br/>Tsy mendrika ho anao,<br/>Ry Ziona ity tanàna ity<br/>Fa tany vaovao<br/>Omena ho anao ary.<br/>Ry Ziona ô, derao<br/>Ilay Mpanao anao<br/> Ry Ziona ô, hirao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O ! Tsy hanapaka ahy<br/>Ireo fakam-panahy<br/> Ry Ziona ô, hirao.<br/>O ! fandresena soa<br/>mahafaly ny fo<br/> Ry Ziona ô, hirao.<br/>He ! velona ny Tompoko<br/>Fitiavan-dehibe<br/>Tanteraka ny nofiko<br/>Voavonjy aho re<br/>O ! tsy hanapaka ahy<br/>Ireo fakam-panahy<br/> Ry Ziona ô, hirao.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HENOINAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>538</ccliNo>
+    <authors>
+      <author>Iary Ramboniarisoa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>:,: Henoinao anie<br/>(Mba henoinao anie)<br/>Ny feon'ny Tompo mandona<br/>Ao am-ponao izao<br/>Mitady anao<br/>Ka miangavy indrindra,<br/>Vohay izao<br/>Ny Tomponao.<br/>Na ela aza ianao no nandà<br/>tsarovy fa mbola tia anao koa.<br/>Ny fitiavany anao tokoa<br/>No nanekeny nijaly tety.<br/>Ny feony tia<br/>No miantso anao<br/>Ka valio ny Tomponao. :,:</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY TOMPO O, ATOLOTRO ANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v6 v7</verseOrder>
+    <ccliNo>452</ccliNo>
+    <authors>
+      <author>I. A. Ramboniarisoa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Tompo ô, atolotro Anao<br/>Ny tenako Anio ;<br/>Fa vonona hanompo Anao.<br/>Raiso ho Anao doria.<br/>2<br/>Ny masoko tariho, Jeso,<br/>Hijery tsara Anao,<br/>Hifidy lalana marina<br/>Izay tinendrinao.<br/>3Ny feoko havaozy anio,<br/>Hitory ny hafatrao.<br/>Ho fiderana ny herinao,<br/>Raiso ho Anao, Jeso.<br/>4<br/>Ny tanako atolotro koa.<br/>Hanao ny asanao.<br/>He ! sitrako ho tantananao,<br/>Raiso ho Anao anio.<br/>5<br/>Ny tongotro ho fanirakao,<br/>N'aiza n'aiza aleha<br/>Fa raha Ianao no Mpitarika<br/>Tsy misy tsy handeha.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ny heriko, ny fahaizako,<br/>Atolotro Anao<br/>Satria Ianao no heriko ety<br/>'Zay ifikirako.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ny fiainako, ekeko hatrizao<br/>Hitoeranao, Jeso,<br/>Fa anilanao dia mahasambatra<br/>Feno hafaliana.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HATRIZAY NANOMPOAKO IZAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>431</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hatrizay nanompoako izay,<br/>Nandraisako an'i Jeso,<br/>Sy nanarahako ny Ray,<br/>Dia tsy nihena Ny fitiavany ahy.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Araka ny anompoana Ny Tompo<br/>No itomboan'ny fitiavana Azy ;<br/>Ka isan'andro<br/>Miboika avy ao am-po,<br/>Mitombo hatrany<br/>Ny fitiavana Azy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Omeny izay mahasoa,<br/>Fahasoavan-dehibe<br/>Ka mazava ery ny diako,<br/>Araky ny anompoako isan'andro.<br/>Araka ny anompoana Ny Tompo. sns</lines>
+    </verse>
+  </lyrics>
+</song>

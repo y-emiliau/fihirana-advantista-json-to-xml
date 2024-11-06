@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY TOMPO O, TAHIO NY TENY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>279</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Tompo ô tahio ny Teny<br/>'Zay norenesinay<br/>Mba tsy hiala anie ireny<br/>Fa hotsarovanay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny herinao izay miasa<br/>Mba hanavao anay<br/>Matoky Anao 'zahay, fa lasa<br/>'Reo fahavalonay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny voa nafafinao mazàna<br/>Mba tsy mamaka koa,<br/>Ny fo mandalo fitsapana,<br/>Ny saina mora voa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Irinay, Tompo, mba hitoetra<br/>Am-po ny Teninao,<br/>Ho tonga hery hampivoatra<br/>Ny fo ho lapanao.</lines>
+    </verse>
+  </lyrics>
+</song>

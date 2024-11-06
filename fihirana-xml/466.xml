@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AMPANGINO NY IZAHO-KO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>466</ccliNo>
+    <authors>
+      <author>Dera Arson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ampangino ny izahoko, ry Tompo ô.<br/>Ampangino hihainoako ny feonao.<br/>Fa manelingelina ny hidiranao ato am-po.<br/>O ! ampangino tanteraka Tompo ô.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Ianao izay neken'ny rivotra Jeso ô,<br/>Ianao neken'ny ranomasina<br/>Ianao nibaiko ny afo<br/>O ! ampangino ny izahoko.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha mila te ho sosotra ilay izahoko,<br/>Dia teneno moramora re, ry Tompo ô.<br/>Mba hitandro voninahitra ho Anao irery e !<br/>Fa fihavanana no sitrakao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raha mila te hirehareha, Tompo ô,<br/>Te hanindrahindra 'reo talenta nomenao.<br/>Ampangino, ampangino ny izaho ato am-po<br/>Fa tsinontsinona aho re, Tompo ô.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Raha tia fanakianana aho, Tompo ô,<br/>Fanakianana tsy mba mamokatra ho Anao.<br/>Ampangino, aza avelanao hiteniteny re<br/>F'zaho koa tsy mahavita be.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Raha levona tanteraka ny izahoko<br/>Ka tsy izaho intsony re no velona ato am-po,<br/>Dia ny herinao anie hanosika ahy hankato<br/>O ! tanteraho 'zay sitrakao, Tompo ô.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HAREKO SADY LAZA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>95</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hareko sady laza<br/>No fifaliako koa<br/>Ny mino sy milaza<br/>Ny vonjin'i Jeso.<br/>Izaho feno toky<br/>Ka tsy matahotra.<br/>Fa mino sy matoky<br/>Anao Mpanavotra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tsy misy mahasasa<br/>Sy mahadio ny fo<br/>Afa-tsy irony ratra<br/>Niaretan'i Jeso.<br/>Ny rany sarobidy<br/>No manadio anay ;<br/>Ny sitrapo ovàny<br/>Ho toy ny an'ny Ray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ry tany ô, ry tany,<br/>Avia manantòna<br/>Ka ento ho sasany<br/>'Rony halotoana.<br/>Nandao ny lanitra Izy<br/>Nafoiny koa ny Ray;<br/>Tsy hanome va Izy<br/>Aina mandrakizay ?</lines>
+    </verse>
+  </lyrics>
+</song>

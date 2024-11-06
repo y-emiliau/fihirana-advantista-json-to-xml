@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>'ZAY MANDRESY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>629</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Zay mandresy, 'zay mandresy<br/>Hihira ny hiran'i Mosesy<br/>Sambatra (he sambatra),<br/>Tretrika (he tretrika)<br/>Ka tsy hitomany intsony.<br/>Fanjakana tsy ho rava<br/>Sy hiakanjo fotsy lava<br/>Midera an'i Jehovah<br/>(Hidera an'i Jehovah)<br/>Ao an-danitra ao ambony.<br/>(Ka hihira hoe : Haleloia)<br/>Haleloia, haleloia<br/>(Haleloia) haleloia<br/>He hosana (ka mihobia)<br/>Mihobia sy mihirà<br/>Mihirà irony hira hiderana.<br/>Resy izao ny fandozana<br/>Fongana ny fahotana<br/>Azontsika 'lay Kanana<br/>Ka hobio derao<br/>(Ô ! mifalia, mifalia)<br/>Mifalia, mihobia<br/>Mihirà sy miravoa, (miravoa)<br/>Asandrato ny Hosana mifanesy<br/>(Ka matokia, matokia),<br/>Matokia, miadia,<br/>Mandrosoa eo aloha,<br/>(Eo aloha)<br/>Fa handova an'ilay Kanana,<br/>'Zay mandresy.</lines>
+    </verse>
+  </lyrics>
+</song>

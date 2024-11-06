@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>266 - Spirit of God</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>266</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spirit of God,<br/>descend upon my heart;<br/>wean it from earth;<br/>through all its pulses move;<br/>stoop to my weakness,<br/>mighty as thou art,<br/>and make me love thee<br/>as I ought to love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I ask no dream,<br/>no prophet ecstasies,<br/>no sudden rending<br/>of the veil of clay,<br/>no angel visitant,<br/>no opening skies;<br/>but take the dimness<br/>of my soul away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Has thou not bid me love<br/>thee, God and King?<br/>All, all thine own, soul,<br/>heart and strength and mind.<br/>I see thy cross;<br/>there teach my heart to cling.<br/>O let me seek thee,<br/>and O let me find.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teach me to feel<br/>that thou art always nigh;<br/>teach me the struggles<br/>of the soul to bear.<br/>To check the rising doubt,<br/>the rebel sigh,<br/>teach me the patience<br/>of unanswered prayer.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Teach me to love thee<br/>as thine angels love,<br/>one holy passion<br/>filling all my frame;<br/>the kindling of the<br/>heaven-descended Dove,<br/>my heart an altar,<br/>and thy love the flame.</lines>
+    </verse>
+  </lyrics>
+</song>

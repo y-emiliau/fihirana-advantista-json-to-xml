@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>454 - Don't You See My Jesus Coming</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>454</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don’t you see my Jesus coming,<br/>See Him come in yonder cloud?<br/>With ten thousand angels round Him,<br/>How they do my Jesus crowd!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am bound for the kingdom,<br/>Will you go to glory with me?<br/>Hallelujah! O praise ye the Lord!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don’t you see the saints ascending,<br/>Hear them shouting thro’ the air.<br/>Jesus smiling, trumpets sounding,<br/>Now His glory they shall share.</lines>
+    </verse>
+  </lyrics>
+</song>

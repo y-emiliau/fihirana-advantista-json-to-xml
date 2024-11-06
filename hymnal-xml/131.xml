@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>131 - Lo, How a Rose E'er Blooming</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>131</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lo, how a rose e’re blooming<br/>From tenderstem hath sprung,<br/>Of Jesse’s lineage coming<br/>As men of old have sung.<br/>It came, a floweret bright,<br/>Amid the cold of winter<br/>When half spent was the night.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isaiah ’twas foretold it,<br/>The Rose I have in mind,<br/>With Mary we beheld it,<br/>The virgin mother kind.<br/>To show God’s love aright<br/>She bore to them a Savior,<br/>When half spent was the night.</lines>
+    </verse>
+  </lyrics>
+</song>

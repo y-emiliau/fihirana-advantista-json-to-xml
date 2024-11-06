@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESOSY O! MPAMONJY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>237</ccliNo>
+    <authors>
+      <author>Raobijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesosy ô ! Mpamonjy<br/>Ombay ny herinao<br/>Ny fiezahanay<br/>Hanatona Anao.<br/>Raha indro mafy ny ady<br/>Ka maizina ny dia,<br/>Ianao Jeso tia,<br/>Ianteheranay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha indro ka mahery<br/>'zany filan'ny nofo,<br/>O ! aza avela ho resy<br/>'Zahay mpanomponao.<br/>O ! aza afoinao re<br/>Fa osa izahay.<br/>Ianao manan-kery<br/>Mahavonjy anay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sasao madio ny fonay<br/>Mba hitoeranao,<br/>Ry Tompo tia any<br/>Ekeo hatrizao,<br/>Ka izahay mpanota<br/>Ho mendrika tokoa<br/>Handova famonjena<br/>Raha ho avy Ianao.</lines>
+    </verse>
+  </lyrics>
+</song>

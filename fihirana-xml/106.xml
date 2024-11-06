@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ERAN'NY TANY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>106</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eran'ny tany sy lanitra izao ny hoby<br/>Fa efa nitsangana izao Jeso,<br/>Fa efa nitsangana izao Jeso,<br/>Ny voninahitra sy Haleloia omena<br/>Ilay Mpanjaka lehibe, (Mpanjaka)<br/>Ny fandresena efa natolotra ho Azy<br/>Ka 'zao rehetra izao omena<br/>Ho fanjakany mandrakizay.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Fa nitsangana tokoa ny Tompo,<br/>Efa velona Jeso Mpanjaka,<br/>Voninahitra atolotra Azy<br/>'Zao tontolo izao ho fanjakany avokoa,<br/>(Ka derao).<br/>Dera sy laza omenay Anao, ry Tompo,<br/>Ho mandrakizay.<br/>Mandraisa ny fiderana ay ao am-po.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kristy no santatr'izay efa nodimandry<br/>Ka mbola hatsangana rahatrizay<br/>Ka mbola hatsangana rahatrizay<br/>Ho mafy orina indray ny finoantsika<br/>Ilay Mpanjaka lehibe (Mpanjaka)<br/>Fanantenana ho antsika ny fandreseny<br/>Fa isika izao hitafy ny fahamarinany rahatrizay<br/>Fa nitsangana, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

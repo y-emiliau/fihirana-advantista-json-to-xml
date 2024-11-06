@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MANIRY IZAHAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>514</ccliNo>
+    <authors>
+      <author>Mrs J. H. Peake</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Maniry izahay<br/>Ho any aminao.<br/>Jerosalema tanananay,<br/>Tanàna masina ;<br/>Ny trano lay aty<br/>Tsy maintsy rovitra,<br/>Kanefa tazanay ery<br/>'Lay tsara lavitra :<br/>Tazanay, tazanay<br/>Ny tany masina.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mba tanterahonao,<br/>Ry Tompo tia anay !<br/>Ny fikasan'ny zanakao<br/>Nataony taminay :<br/><<Ho any amiko<br/> Ilay nomenao ahy,<br/>Fa tiako ho hitany<br/>Ny voninahitro>><br/>Tazanay, tazanay<br/>Ny tany masina.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mankany aminao<br/>Izao ny dianay,<br/>Na sarotra ny lalana<br/>Mihira izahay ;<br/>Ny hasasaranay<br/>tsy misy intsony izao,<br/>Fa tazanay sahady re<br/>Ny tany masina :<br/>Tazanay, tazanay<br/>Ny tany masina.</lines>
+    </verse>
+  </lyrics>
+</song>

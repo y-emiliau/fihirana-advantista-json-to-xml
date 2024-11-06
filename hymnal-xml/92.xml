@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>092 - This Is My Father's World</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>92</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is my Father’s world,<br/>and to my listening ears<br/>all nature sings, and round me rings<br/>the music of the spheres.<br/>This is my Father’s world:<br/>I rest me in the thought<br/>of rocks and trees, of skies and seas;<br/>his hand the wonders wrought.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is my Father’s world,<br/>the birds their carols raise,<br/>the morning light, the lily white,<br/>declare their maker’s praise.<br/>This is my Father’s world:<br/>he shines in all that’s fair;<br/>in the rustling grass I hear him pass;<br/>he speaks to me everywhere.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This is my Father’s world.<br/>O let me ne’er forget<br/>that though the wrong seems oft so strong,<br/>God is the ruler yet.<br/>This is my Father’s world:<br/>why should my heart be sad?<br/>The Lord is King; let the heavens ring!<br/>God reigns; let the earth be glad!</lines>
+    </verse>
+  </lyrics>
+</song>

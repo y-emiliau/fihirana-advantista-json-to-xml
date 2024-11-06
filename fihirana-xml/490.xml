@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TSY HAIKO INTSONY, JESO TIA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>490</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tsy haiko intsony, Jeso tia<br/>'Zany handà ny antsonao.<br/>Indro, ny foko 'zay nania<br/>Fa atolotro ho Anao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Raiso Tompo, Anao tokoa,<br/>Ho fanananao hatrizao,<br/>Fa apetrako avokoa<br/>Ambony alitaranao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He! hitanao, Jeso malala,<br/>Fa be ny halemeko izao ;<br/>'Ndre maro koa ny mpankahala!<br/>Ô, tafio ny herinao !<br/>Raiso Tompo,sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raha fantatrao re fa ilaina<br/>Ny fitsapana ka hanjo,<br/>Mba hatanjaho 'zany saina,<br/>Fandrao dia mamoy fo !<br/>Raiso Tompo,sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ny tena iriko, Tompo tsara,<br/>Hanahaka ny endrikao ;<br/>Indrindra koa hanambara<br/>Ny hasoan'nyfitiavanao.<br/>Raisonao tontolo, doria,<br/>Anjakao manomboka anio,<br/>'Zao ny foko, Jesosy tia,<br/>Dia ento an-danitra madio !</lines>
+    </verse>
+  </lyrics>
+</song>

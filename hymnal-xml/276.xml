@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>276 - Thanks to God</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>276</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thanks to God whose Word was spoken<br/>In the deed that made the earth.<br/>His the voice that called a nation;<br/>His the fires that tried her worth.<br/>God has spoken;<br/>Praise Him For His open Word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thanks to God whose Word incarnate<br/>Glorified the flesh of man.<br/>Deeds and words and death and rising<br/>Tell the grace in heaven’s plan.<br/>God has spoken;<br/>Praise Him For His open Word</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thanks to God whose Word is answered<br/>By the Spirit’s voice within.<br/>Here we drink of joy unmeasured,<br/>Life redeemed from death and sin.<br/>God has spoken;<br/>Praise Him For His open Word</lines>
+    </verse>
+  </lyrics>
+</song>

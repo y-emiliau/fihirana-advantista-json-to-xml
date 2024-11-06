@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MIDERA ANAO 'ZAHAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>218</ccliNo>
+    <authors>
+      <author>B. Andriantsizafy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Midera Anao 'zahay,<br/>Ry Ray malala,<br/>Fa tratr'izao andro soa lehibe<br/>Dia ny Sabatanao<br/>'Zay fifalianay<br/>Ka dera saotra no atolotray.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Enga anie, Jeso,<br/>Hitohy hatrary<br/>'Zao fiderana izao<br/>'Zay entinay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny fitahianao,<br/>Ny herinao koa<br/>Nampanantenainao<br/>Homena anio,<br/>Mba arotsahy, Jeso,<br/>Aty am-ponay<br/>Ho hery manavao ny tenanay.<br/>Enga anie, Jeso, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Zay tadiavinay<br/>Anio, Jeso ô !<br/>Ny hitoeranay ao aminao ;<br/>Ny asa izay atao<br/>Aoka, Jeso ô !<br/>Ho eo ambany fitarihanao.<br/>Enga anie, Jeso, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ka ny Fanahinao<br/>Hitoetra am-ponay<br/>Hahaizanay mba hanaja Anao ;<br/>Sy hahatonga anay<br/>Mba ho mpandova<br/>'Lay lanitra ary ny tany vaovao<br/>Enga anie, Jeso, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

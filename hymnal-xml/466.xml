@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>466 - Wonderful Peace</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>466</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Far away in the depths of my spirit tonight,<br/>Rolls a melody sweeter than psalm;<br/>In celestial like strains it unceasingly falls<br/>O’er my soul like an infinite calm.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Peace! Peace! wonderful peace,<br/>Coming down from the Father above;<br/>Sweep over my spirit forever, I pray,<br/>In fathomless billows of love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What a treasure I have in this wonderful peace,<br/>Buried deep in my inner most soul,<br/>So secure that no power can mine it away,<br/>While the years of eternity roll!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I believe when I rise to that city of peace,<br/>Where the Author of peace I shall see,<br/>That one strain of the song which the ransomed will sing,<br/>In that heavenly kingdom will be-</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Weary soul, without gladness or comfort or rest,<br/>Passing down the rough pathway of time!<br/>Make the Savior your friend ere the shadows grow dark;<br/>O accept of this peace so sublime.</lines>
+    </verse>
+  </lyrics>
+</song>

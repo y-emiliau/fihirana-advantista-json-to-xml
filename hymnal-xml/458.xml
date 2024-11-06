@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>458 - More Love to Thee</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>458</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>More love to thee, O Christ,<br/>more love to thee!<br/>Hear thou the prayer<br/>I make on bended knee.<br/>This is my earnest plea:<br/>More love, O Christ, to thee;<br/>more love to thee,<br/>more love to thee!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Once earthly joy I craved,<br/>sought peace and rest;<br/>now thee alone I seek,<br/>give what is best.<br/>This all my prayer shall be:<br/>More love, O Christ, to thee;<br/>more love to thee,<br/>more love to thee!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let sorrow do its work,<br/>come grief and pain;<br/>sweet are thy messengers,<br/>sweet their refrain,<br/>when they can sing with me:<br/>More love, O Christ, to thee;<br/>more love to thee,<br/>more love to thee!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then shall my latest breath<br/>whisper thy praise;<br/>this be the parting cry<br/>my heart shall raise;<br/>this still its prayer shall be:<br/>More love, O Christ, to thee;<br/>more love to thee,<br/>more love to thee!</lines>
+    </verse>
+  </lyrics>
+</song>

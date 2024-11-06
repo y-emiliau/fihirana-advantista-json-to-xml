@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>432 - Shall We Gather at the River</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>432</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shall we gather at the river,<br/>where bright angel feet have trod,<br/>with its crystal tide forever<br/>flowing by the throne of God?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yes, we’ll gather at the river,<br/>the beautiful, the beautiful river;<br/>gather with the saints at the river<br/>that flows by the throne of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On the margin of the river,<br/>washing up its silver spray,<br/>we will walk and worship ever,<br/>all the happy golden day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ere we reach the shining river,<br/>lay we every burden down;<br/>grace our spirits will deliver,<br/>and provide a robe and crown.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Soon we’ll reach the shining river,<br/>soon our pilgrimage will cease;<br/>soon our happy hearts will quiver<br/>with the melody of peace.</lines>
+    </verse>
+  </lyrics>
+</song>

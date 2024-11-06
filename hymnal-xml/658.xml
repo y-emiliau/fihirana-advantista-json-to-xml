@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>658 - Heavenly Father, Hear Our Prayer</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>658</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heav’nly Father, hear our prayer<br/>As we bow before You:<br/>Bless them in the life they share,<br/>Humble we implore You.<br/>Be their guide in all endeavors,<br/>Be their hope that nothing severs;<br/>Constant source of love divine,<br/>Let Your love within them shine!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As they pledge their love this day<br/>Here before Your altar,<br/>May their hearts,, upon You stayed,<br/>Never fail or falter.<br/>Be their comfort in all sorrow;<br/>Be their reason for tomorrow.<br/>Grant them strength to live each hour<br/>Trusting solely in Your pow’r.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blest Creator, Lord of life,<br/>Hear our glad thanksgiving.<br/>Husband You have joined to wife<br/>For their earthly living.<br/>Justified by Jesus’ merit,<br/>Life eternal they inherit.<br/>When their days on earth have passed,<br/>Take them to Your home at last!</lines>
+    </verse>
+  </lyrics>
+</song>

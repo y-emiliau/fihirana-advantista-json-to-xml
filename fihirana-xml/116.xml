@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HE AMPY AHY IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>116</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He ampy ahy 'zao ny fitiavanao,<br/>Fa mamy indrindra, ry Ray.<br/>Mahery tokoa ka tokin'ny fo,<br/>Mitoetra mandrakizay.<br/>Fa indro nania ity ondrinao,<br/>Kanefa, ry Mpiandry, nokatsahinao !<br/>Fitia lehibe, tsy takatro re,<br/>Ka isaorako Anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He ampy tokoa ny famindram-po,<br/>Tsy haiko lazaina , ry Ray,<br/>Fa voasaronao sy navelanao<br/>Ny ota izay ela izay.<br/>O ! fahasoavana be dia be<br/>Omenao, ry Mpiandry, hatahotra ve ?<br/>Ekeko tokoa ny famindram-po<br/>Ka isaorako Anao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He  ampy, ry Ray, ho mandrakizay<br/>Ny fiainana ao Aminao :<br/>Mahavokatra be, mahasambatra re,<br/>Dieny ety izao.<br/>Kanefa ny fetra dia tsy mba ety,<br/>Tantano, ry Mpiandry, ho tonga ery.<br/>Ho tody indray am-balan'ny Ray,<br/>Hisaotra Anao. Amen !</lines>
+    </verse>
+  </lyrics>
+</song>

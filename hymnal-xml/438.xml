@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>438 - You Will See Your Lord A-Coming</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>438</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You will see your Lord a-coming,<br/>You will see your Lord a-coming,<br/>You will see your Lord a-coming<br/>In a few more days.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hear the band of music,<br/>Hear the band of music,<br/>Hear the band of music<br/>which is sounding thro’ the air.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gabriel sounds his mighty trumpet,<br/>Gabriel sounds his mighty trumpet,<br/>Gabriel sounds his mighty trumpet<br/>In a few more days.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You will see the saints arising,<br/>You will see the saints arising,<br/>You will see the saints arising<br/>In a few more days.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Angels bear them to the Savior,<br/>Angels bear them to the Savior,<br/>Angels bear them to the Savior<br/>In a few more days.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Then we’ll shout, our suff’ring over,<br/>Then we’ll shout, our suff’ring over,<br/>Then we’ll shout, our suff’ring over<br/>In a few more days.</lines>
+    </verse>
+  </lyrics>
+</song>

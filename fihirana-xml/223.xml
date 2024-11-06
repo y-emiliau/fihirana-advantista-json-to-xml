@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ANIO NO ANDRO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>223</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anio no andro natao ho anay<br/>Andro masina :<br/>Fihaonanay aminao, ry Ray,<br/>Hifandraisana.<br/>Ka faly izahay<br/>Tafahaona indray.<br/>Mihaona aminao, ry Ray,<br/>'Zao Sabata izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fa heniky ny fitiavanao<br/>Ny androm-piainanay<br/>Ka he tratr'izao<br/>Sabata izao<br/>Hitsaharanay.<br/>Tsaroanay soa tokoa<br/>Ny fitiavanao.<br/>Misaotra Anao 'zahay, ry Ray,<br/>Fa notahianao</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He ! andro notahianao anio,<br/>Tompo tsara ô,<br/>Ka diovy re ny fonay hadio<br/>Mba ho zanakao.<br/>Tompo tia, ô ! avia,<br/>Raiso re izao.<br/>Diovy re ny fonay hadio<br/>Dia ho lapanao.</lines>
+    </verse>
+  </lyrics>
+</song>

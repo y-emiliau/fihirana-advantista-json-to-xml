@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>309 - I Surrender All</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>309</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All to Jesus I surrender;<br/>all to him I freely give;<br/>I will ever love and trust him,<br/>in his presence daily live.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I surrender all, I surrender all,<br/>all to thee, my blessed Savior,<br/>I surrender all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All to Jesus I surrender;<br/>humbly at his feet I bow,<br/>worldly pleasures all forsaken;<br/>take me, Jesus, take me now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All to Jesus I surrender;<br/>make me, Savior, wholly thine;<br/>fill me with thy love and power;<br/>truly know that thou art mine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All to Jesus I surrender;<br/>now I feel the sacred flame.<br/>O the joy of full salvation!<br/>Glory, glory, to his name!</lines>
+    </verse>
+  </lyrics>
+</song>

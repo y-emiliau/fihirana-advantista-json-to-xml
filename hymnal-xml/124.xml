@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>124 - Away in a Manger</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>124</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Away in a manger,<br/>no crib for a bed,<br/>The little Lord Jesus<br/>laid down his sweet head.<br/>The stars in the sky<br/>looked down where he lay,<br/>The little Lord Jesus<br/>asleep in the hay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The cattle are lowing,<br/>the baby awakes,<br/>But little Lord Jesus<br/>no crying he makes.<br/>I love Thee, Lord Jesus,<br/>look down from the sky<br/>And stay by my cradle<br/>til morning is nigh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be near me, Lord Jesus,<br/>I ask Thee to stay<br/>Close by me forever,<br/>and love me, I pray.<br/>Bless all the dear children<br/>in thy tender care,<br/>And take us to heaven,<br/>to live with Thee there.</lines>
+    </verse>
+  </lyrics>
+</song>

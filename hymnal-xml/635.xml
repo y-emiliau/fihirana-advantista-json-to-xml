@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>635 - Lord of All Good</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>635</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of all good, our gifts we bring You now;<br/>Use them Your holy purpose to fulfill.<br/>Tokens of love and pledges they shall be<br/>That our whole life is offered to Your will.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We give our minds to understand Your ways;<br/>Hands, voices, eyes to serve Your great design;<br/>Hearts with the flame of your own love ablaze:<br/>Thus for Your glory all our pow’rs combine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Father, whose bounty all creation shows;<br/>Christ, by whose willing sacrifice we live;<br/>Spirit, from whom all life in fullness flows:<br/>To You with grateful hearts ourselves we give.</lines>
+    </verse>
+  </lyrics>
+</song>

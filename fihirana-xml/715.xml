@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FANTATRO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>715</ccliNo>
+    <authors>
+      <author>A. Rajoeliarison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fantatro fa nadona hatry ny ela<br/>Tat am-poko Ianao, Jesosy ô.<br/>Ary reko hatry ny ela koa<br/>Ny feona 'zay mitalaho<br/>Te hanolotra ho ahy<br/>Ny famonjena izay natao<br/>Ho an'ireo izay tia Anao<br/>Sy ireo nanetry ten<br/>Mba handraisana Anao<br/>Ô, ifonako tokoa ny heloko, Jesosy ô,<br/>Ka vohako anio ny fo<br/>Hitoeranao mandrakizay.<br/>Ny avonavona taloha,<br/>Ny fahotako hatrizay,<br/>Entiko eo an-tongotrao,<br/>Hodiovinao, handraisako<br/>Fanahy vaovao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mino aho fa ho sorona ho ahy<br/>No nijalianao, Jesosy ô,<br/>Ary inoako koa fa famonjena ho ahy<br/>Ny rà nalatsakao<br/>Ka ny hetahetam-po<br/>'Zay velona ao anatiko ao :<br/>Hiara-maty aminao<br/>Ka hatsanganao indray<br/>Hiara-hitoetra aminao.<br/>Mihainoa ankehitrio ny vavako,<br/>Jesosy ô,<br/>Fa atolotro Anao<br/>'zao tenako malemy 'zao.<br/>Atafio ahy anio, Jeso,<br/>Ny fahamarinanao<br/>Hiankohofako Aminao,<br/>Ka hitsenako Anao<br/>Raha ho avy Ianao rahatrizay.</lines>
+    </verse>
+  </lyrics>
+</song>

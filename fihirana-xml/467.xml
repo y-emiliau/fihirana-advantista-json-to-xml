@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>EO AM-PELATANANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>467</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-PELATANANAO<br/>Eo am-pelatananao, Ray ô,<br/>No apetrako izao.<br/>Ny fiainako tontolo<br/>Eo am-pelatananao.<br/>Marobe ny fahavalo<br/>Te hamotraka ahy izao ;<br/>Nefa ianao miaro<br/>Ny eo am-pelatananao.<br/>(An-tananao)<br/>Na ho mora na ho mafy<br/>'Zao fiainako izao,<br/>Dia vonona aho hihafy<br/>Fa am-pelatananao</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eo am-pelatananao, Ray ô,<br/>No apetrako tokoa.<br/>Ny fiainako rehetra,<br/>Na ho ratsy na ho soa.<br/>Eny, izao rehetra izao<br/>Miovaova sy mora lo;<br/>Ny eo am-pelatananao.<br/>No haharitra tokoa.<br/>(An-tananao)<br/>Na ho mamy na hangidy<br/>Ny fiainako (ety),<br/>Apetrako ny safidy<br/>Ho eo am-pelatananao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eo am-pelatananao, Ray ô,<br/>Ho anio sy rahatrizay.<br/>Ny eo am-pelatananao, Ray ô,<br/>Ray ô, tsy hangaihay.<br/>Na ny eso na ny latsa<br/>Tsy hampaninona ahy izao<br/>Fa ho sitrana ny ratra<br/>Eo am-pelatananao.<br/>(An-tananao)<br/>Hatrizao sy ho doria<br/>Ho anao dia ho anao,<br/>Mamy loatra ny fitia<br/>Eo am-pelatananao.</lines>
+    </verse>
+  </lyrics>
+</song>

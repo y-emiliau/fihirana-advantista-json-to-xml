@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>154 - When I Survey the Wondrous Cross</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>154</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I survey the wondrous cross<br/>on which the Prince of Glory died;<br/>my richest gain I count but loss,<br/>and pour contempt on all my pride.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Forbid it, Lord, that I should boast,<br/>save in the death of Christ, my God;<br/>all the vain things that charm me most,<br/>I sacrifice them to his blood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See, from his head, his hands, his feet,<br/>sorrow and love flow mingled down.<br/>Did e’er such love and sorrow meet,<br/>or thorns compose so rich a crown.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Were the whole realm of nature mine,<br/>that were an offering far too small;<br/>love so amazing, so divine,<br/>demands my soul, my life, my all.</lines>
+    </verse>
+  </lyrics>
+</song>

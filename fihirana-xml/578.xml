@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TSAROVY E! RANKIZY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>578</ccliNo>
+    <authors>
+      <author>Rainizafimanga</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tsarovy e ! rankizy<br/>Ilay Mpanao anao !<br/>Ka tadiavo Izy !<br/>Dieny hitanao ;<br/>Dieny mbola kely<br/>tsarovy rahateo,<br/>Ka aza manadino<br/>Ilay Mpanao anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tsarovy, ry zatovo.<br/>Ilay Mpanao anao.<br/>Ilaozy ny mpanota,<br/>Fandrao manimba anao,<br/>Tsarovy ny Jehovah<br/>namorona anao,<br/>Mampanantena lova<br/>Sy naha toy izao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tsarovy, ry sakaiza<br/>Jehovah Tomponao !<br/>Fa Izy no mitaiza<br/>Sy manasoa anao ;<br/>Koa aza manadino<br/>Ilay Mpanao anao ;<br/>Ny teniny araho,<br/>Fa Izy no Rainao.</lines>
+    </verse>
+  </lyrics>
+</song>

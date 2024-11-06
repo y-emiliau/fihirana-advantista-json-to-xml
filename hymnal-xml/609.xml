@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>609 - Am I a Soldier of the Cross</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <ccliNo>609</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Am I a soldier of the cross,<br/>a follower of the Lamb,<br/>and shall I fear to own his cause,<br/>or blush to speak his name?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Must I be carried to the skies<br/>on flowery beds of ease,<br/>while others fought to win the prize,<br/>and sailed through bloody seas?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Are there no foes for me to face?<br/>Must I not stem the flood?<br/>Is this vile world a friend to grace,<br/>to help me on to God?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sure I must fight, if I would reign;<br/>increase my courage, Lord<br/>I’ll bear the toil, endure the pain,<br/>supported by thy word</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thy saints in all this glorious war<br/>shall conquer though they die;<br/>they see the triumph from afar,<br/>by faith they bring it nigh</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When that illustrious day shall rise,<br/>and all thy armies shine<br/>in robes of victory through the skies,<br/>the glory shall be thine</lines>
+    </verse>
+  </lyrics>
+</song>

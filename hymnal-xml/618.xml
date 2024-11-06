@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>618 - Stand Up! Stand Up for Jesus!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>618</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stand up, stand up for Jesus!<br/>ye soldiers of the cross;<br/>Lift high His royal banner,<br/>it must not suffer loss:<br/>From vict’ry unto vict’ry,<br/>His army shall He lead,<br/>Till every foe is vanquished,<br/>and Christ is Lord indeed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stand up, stand up for Jesus!<br/>The trumpet call obey:<br/>Forth to the mighty conflict,<br/>in this His glorious day;<br/>Ye that are men now serve Him<br/>against unnumbered foes;<br/>Let courage rise with danger,<br/>and strength to strength oppose.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stand up, stand up for Jesus!<br/>Stand in His strength alone,<br/>The arm of flesh will fail you,<br/>ye dare not trust your own;<br/>Put on the gospel armor,<br/>and watching unto prayer,<br/>Where calls the voice of duty,<br/>be never wanting there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Stand up, stand up for Jesus!<br/>the strife will not be long;<br/>This day the noise of battle,<br/>the next the victor’s song;<br/>To him that overcometh<br/>a crown of life shall be;<br/>He with the King of glory<br/>shall reign eternally.</lines>
+    </verse>
+  </lyrics>
+</song>

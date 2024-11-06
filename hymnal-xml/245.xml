@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>245 - More About Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>245</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>More about Jesus, I would know,<br/>More of His grace to others show;<br/>More of His saving fullness see,<br/>More of His love who died for me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>More, more about Jesus,<br/>More, more about Jesus;<br/>More of His saving fullness see,<br/>More of His love who died for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>More about Jesus, let me learn,<br/>More of His holy will discern;<br/>Spirit of God, my teacher be,<br/>Showing the things of Christ to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>More about Jesus, in His word,<br/>Holding communion with my Lord;<br/>Hearing His voice in every line,<br/>Making each faithful saying mine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>More about Jesus, on His throne,<br/>Riches in glory all His own;<br/>More of His kingdom’s sure increase,<br/>More of His coming, Prince of Peace.</lines>
+    </verse>
+  </lyrics>
+</song>

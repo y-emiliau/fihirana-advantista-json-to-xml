@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FENO ADIDY VE NY FONAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>332</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Feno adidy ve ny fonao<br/>Ka tavela ny Tompo ?<br/>Ataonao mosalahy ny vavaka<br/>Sa vonona ny fonao<br/>Handray voninahitra<br/>Raha tonga anio ny Tomponao ?<br/>Irinao ve ny hahita ny Tomponao<br/>Amin'ny fiverenany e ?<br/>Iainanao ve <br/>'Zay lazain'ny vavanao ?<br/>Tena tianao ho tonga ve Jeso ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ianao miantso <<avia Jeso>> ;<br/>Nefa raha tonga Izy anio,<br/>Sao dia haneso anao ny tavany,<br/>Noho ireo ota maro maminao <br/>Ka tsy voadio,<br/>Ho henatrao mandrakizay doria.<br/>Irinao ve ny hiavian'Ilay Tomponao,<br/>Efa vonona ve ianao ?<br/>Ny ataonao ve toy izay torianao ?<br/>Tena tianao ho tonga ve Jeso ?</lines>
+    </verse>
+  </lyrics>
+</song>

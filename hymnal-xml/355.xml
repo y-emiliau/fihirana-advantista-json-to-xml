@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>355 - Where Cross the Crowded Ways of Life</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>355</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where cross the crowded ways of life,<br/>where sound the cries of race and clan,<br/>above the noise of selfish strife,<br/>we hear your voice, O Son of Man.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From tender childhood’s helplessness,<br/>from woman’s grief, man’s burdened toil,<br/>from famished souls, from sorrow’s stress,<br/>your heart has never known recoil.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The cup of water given for you still<br/>holds the freshness of your grace;<br/>yet long these multitudes to view<br/>the sweet compassion of your face.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Master, from the mountainside<br/>make haste to heal these hearts of pain;<br/>among these restless throngs abide;<br/>O tread the city’s streets again.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Till all the world shall learn your love<br/>and follow where your feet have trod,<br/>till, glorious from your heaven above,<br/>shall come the city of our God.</lines>
+    </verse>
+  </lyrics>
+</song>

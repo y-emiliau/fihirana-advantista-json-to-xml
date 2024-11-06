@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>209 - That Glorious Day Is Coming</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>209</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>That glorious day is coming,<br/>The hour is hastening on;<br/>Its radiant light is nearing,<br/>Far brighter than the sun;<br/>In yonder clouds of heaven,<br/>The Saviour will appear,<br/>And gather all His chosen,<br/>To meet Him in the air.<br/>The saints, then all victorious<br/>Will go to meet their Lord;<br/>An earth both bright and glorious,<br/>Will then be their reward;<br/>And God Himself there reigning,<br/>Will wipe all tears away;<br/>Nor clouds nor night remaining,<br/>But one eternal day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Christian, keep from sleeping,<br/>And let your love abound;<br/>Be watchful, prayerful, faithful,<br/>The trumpet soon will sound!<br/>O sinner, hear the warning!<br/>To Jesus quickly fly!<br/>Then you, in that blest morning,<br/>May meet Him in the sky!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NA INONA MISEHO (VAHAOLANA JESO)</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>799</ccliNo>
+    <authors>
+      <author>Moïse Randriamboavonjy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na inona miseho sy zava-<br/>tsarotra manjo, ’zay manjo,<br/>Tomany sy toreo ‘zay mety hankarary fo, ’zany fo,<br/>‘Ndeha banjino sy jereo fa indro misy zava-tsoa<br/>Natolotr’Ilay Ray<br/>ho vahaolana: Jeso, Jeso.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Izay hita sy re dia zary<br/>mampivadi-po, ’zany fo,<br/>Na aiza no aleha toa lala-maizina avokoa, avokoa,<br/>Nefa izao dia mijere fa indro misy zava-tsoa<br/>Natolotr’Ilay Ray ho vahaolana: Jeso, Jeso.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny hoavintsika etỳ tsy fantatra<br/>‘zay mbola hiseho, ’zay hiseho,<br/>Tohizana ny dia, fahatokiana no aseho, no aseho;<br/>Ny finoana no hatanjaho, ny fandresena efa azonao,<br/>Natolotr’Ilay Ray ho vahaolana: Jeso, Jeso.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>595 - Let Every Lamp Be Burning</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>595</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let every lamp be burning bright,<br/>The darkest hour is nearing;<br/>The darkest hour of earth’s long night,<br/>Before the Lord’s appearing.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Then trim your lamps, my brethren dear,<br/>Then trim your lamps with godly fear;<br/>The Master’s coming draweth near,<br/>Let every lamp be burning.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though thousands calmly slumber on,<br/>The last great message spuring,<br/>Wel’ll rest our living faith upon<br/>His promise of returning.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His word our lamp, His truth our guide,<br/>We cannot be mistaken;<br/>Though dangers rise on every side,<br/>We shall not be forsaken.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then let good works with faith appear,<br/>To help the world atound us;<br/>Obedience bring the blessing near<br/>When faith has firmly bound us.</lines>
+    </verse>
+  </lyrics>
+</song>

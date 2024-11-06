@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>388 - Don't Forget the Sabbath</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>388</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don’t forget the Sabbath,<br/>The Lord our God hath blest,<br/>Of all the week the brightest,<br/>Of all the week the best;<br/>It brings repose from labor,<br/>It tells of joy divine,<br/>Its beams of light descending,<br/>With heavenly beauty shine.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Welcome, welcome, ever welcome,<br/>Blessed Sabbath day,<br/>Welcome, welcome, ever welcome,<br/>Blessed Sabbath day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keep the Sabbath holy,<br/>And worship Him today,<br/>Who said to His disciples,<br/>“I am the living way;”<br/>And if we meekly follow<br/>Our Savior here below,<br/>He’ll give us of the fountain<br/>Whose streams eternal flow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Day of sacred pleasure!<br/>Its golden hours we’ll spend<br/>In thankful hymns to Jesus,<br/>The children’s dearest Friend;<br/>O gentle loving, Savior,<br/>How good and kind Thou art,<br/>How precious is Thy promise<br/>To dwell in every heart!</lines>
+    </verse>
+  </lyrics>
+</song>

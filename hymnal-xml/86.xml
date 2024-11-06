@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>086 - How Great Thou Art</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>86</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord my God<br/>When I in awesome wonder<br/>Consider all the worlds<br/>Thy Hands have made<br/>I see the stars<br/>I hear the rolling thunder<br/>Thy power throughout<br/>the universe displayed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Then sings my soul<br/>My Saviour God to Thee<br/>How great Thou art<br/>How great Thou art<br/>Then sings my soul<br/>My Saviour God to Thee<br/>How great Thou art<br/>How great Thou art</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When through the woods<br/>And forest glades I wander<br/>And hear the birds<br/>sing sweetly in the trees<br/>When I look down<br/>From lofty mountain grandeur<br/>And see the brook and feel<br/>the gentle breeze</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And when I think<br/>That God His Son not sparing<br/>Sent Him to die<br/>I scarce can take it in<br/>That on the Cross<br/>My burden gladly bearing<br/>He bled and died<br/>to take away my sin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When Christ shall come<br/>With shouts of acclamation<br/>And take me home<br/>What joy shall fill my heart<br/>Then I shall bow<br/>In humble adoration<br/>And then proclaim<br/>“My God, how great Thou art!”</lines>
+    </verse>
+  </lyrics>
+</song>

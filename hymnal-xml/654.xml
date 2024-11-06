@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>654 - Lord, Bless Our Homes</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v4 v3 v4</verseOrder>
+    <ccliNo>654</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, bless our homes with peace and love and laughter,<br/>With understanding and with loyalty.<br/>May we together follow Christ the Master<br/>And know the blessing of His sov’reignty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May every heart receive His loving spirit<br/>And know the t</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ruth that makes life truly free;<br/>Then, in that spirit may we live united,<br/>And find in God our deep security.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Forgive the hurts our selfishness inflicted<br/>On whose we love and those who love us best.<br/>Christ, heal the scars and draw us all together<br/>In Him whose will is peace and joy and rest.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Father, in gratitude for homes and loved one,<br/>We open now our hearts to all mankind.<br/>Grand us Your spirit love for one another<br/>So in Your peace may we our concord find.</lines>
+    </verse>
+  </lyrics>
+</song>

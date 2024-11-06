@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ENDREY, NY HAMAROAN'NY SOA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>385</ccliNo>
+    <authors>
+      <author>J. Andrianaivoravelona zanany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Endrey ny hamaroan'ny soa (ny soa)<br/>Nomenao Ray ho ahy koa ! (tokoa)<br/>Ny aiko, he, navotanao,<br/>Ny heloko vonoinao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Eny, Raiko,<br/>He, fa ravo tokoa (tokoa)<br/>Ity zanakao voavonjy re,<br/>Ka velombelona ery.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He, azoko tokoa Jeso,<br/>'Lay peral soa, madio sy vao ;<br/>Ny zava-tsoan'ny tany re<br/>Dia tsy ahoako tokoa.<br/>Eny, Raiko, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tsy haiko ny hilaza izao<br/>Hamisavisa re, ry Ray :<br/>Ny fanomezan-dehibe<br/>Dia tsy voatonoko koa.<br/>Eny, Raiko, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ny foko no hidera izao,<br/>Hisaotra sy hanaja Anao,<br/>Hanoa, ho vonona hanao<br/>Ny sitrakao rehetra.<br/>Eny, Raiko, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

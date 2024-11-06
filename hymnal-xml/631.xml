@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>631 - When on Life a Darkness Falls</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>631</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When on life a darkness falls,<br/>When the mist flows chilling,<br/>Paths and sign posts lost in doubt,<br/>Loveless, unfulfilling,<br/>Reach us, Jesus, from Your cross,<br/>Though we feel forsaken;<br/>Keep us through the aching night<br/>Till new dawns awaken.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the dreams and vows of youth<br/>Painfully accuse us,<br/>Stab our conscience, steal our worth,<br/>Christ will not refuse us:<br/>Peace the world cannot provide,<br/>Daily resurrection,<br/>Strong companion at our side<br/>For each new direction.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come and meet Him, Friend and Lord,<br/>Thro’ the gospel story:<br/>Open door to life and peace,<br/>Window into glory.<br/>All who seek Him, soon are found,<br/>Made His close relation:<br/>Christ our pathway, Christ our home,<br/>Christ our sure foundation.</lines>
+    </verse>
+  </lyrics>
+</song>

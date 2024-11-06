@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>285 - Jesus Calls Us</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>285</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus calls us o’er the tumult<br/>of our life’s wild, restless sea;<br/>day by day his sweet voice soundeth,<br/>saying, “Christian, follow me!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus calls us from the worship<br/>of the vain world’s golden store,<br/>from each idol that would keep us,<br/>saying, “Christian, love me more!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In our joys and in our sorrows,<br/>days of toil and hours of ease,<br/>still he calls, in cares and pleasures,<br/>“Christian, love me more than these!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus calls us! By thy mercies,<br/>Savior, may we hear thy call,<br/>give our hearts to thine obedience,<br/>serve and love thee best of all.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>386 - The Sacred Anthem</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <ccliNo>386</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The sacred anthem slowly rang<br/>Across the fields of praise,<br/>When earth’s first Sabbath made complete<br/>All creatures and all days.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Walking with God, there,<br/>Woman and man together share<br/>The blessed Sabbath mood;<br/>And in that green and golden world<br/>Know all God’s works are good.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But now in our diminished lives<br/>We sing a blemished song;<br/>The earth is worn and disarrayed<br/>And all our work goes wrong.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Still in our worship,<br/>Joining in praise and fellowship,<br/>By Sabbath radiance blessed,<br/>We put our doubt and fear away<br/>And rest within God’s rest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And arching over time and space<br/>The Lord of Sabbaths wills<br/>Renewal for the weary earth<br/>And healing for our ills.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hearts will rejoice then;<br/>There will be no more weeping, when<br/>We know and shall be known.<br/>With hosts of the redeemed we’ll sing<br/>Around God’s shining throne.</lines>
+    </verse>
+  </lyrics>
+</song>

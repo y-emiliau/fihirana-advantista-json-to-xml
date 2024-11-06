@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESO NO MIANTSO KA EKEO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>648</ccliNo>
+    <authors>
+      <author>F. Ramanantsialonina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeso no miantso, ekeo :<br/>Ô! mba vorio ny ondriny.<br/>Ianao no Mpiandry ka vonjeo<br/>Mba hody ao am-balany.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Katsaho,<br/>Tadiavo ilay very soa ho faty.<br/>Areno fa lavo.<br/>Ianao hanampy azy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Injao re fa mitaraina,<br/>Sady efa osa fa noratrainay.<br/>Mitady 'la ranon'aina,<br/>Vonjeo aza mba malaina.<br/>Katsaho, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Moa efa vonona ianao<br/>Mba ho mpanompo tsara izao,<br/>Hitady sy hamory koa,<br/>Hikatsaka, hamindra fo.<br/>Katsaho, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tsy ho ela dia ho avy izao<br/>Ilay Mpiandry Tomponao.<br/>'Ndeha hiara-miasa hanavao<br/>Hamonjy izao tontolo izao.<br/>Katsaho, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

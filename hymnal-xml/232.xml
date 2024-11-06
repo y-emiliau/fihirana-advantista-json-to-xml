@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>232 - At the Name of Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>232</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>At the name of Jesus<br/>every knee shall bow,<br/>Every tongue confess<br/>Him King of glory now;<br/>“Tis the Father’s pleasure<br/>we should call Him Lord,<br/>Who from the beginning<br/>was the mighty Word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At His voice creation<br/>sprang at once to sight,<br/>All the angel faces,<br/>All the hosts of light,<br/>Thrones and dominations<br/>stars upon their way,<br/>All the heavenly orders<br/>in their great array.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Humbled for a season,<br/>To receive a name<br/>From the lips of sinners,<br/>Unto whom He came;<br/>He is God the Savior,<br/>He is Christ the Lord,<br/>Ever to be worshiped,<br/>Trusted and adored.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In your hearts enthrone Him:<br/>There let Him subdue<br/>All that is not holy,<br/>All that is not true;<br/>Crown Him as your captain<br/>in temptation’s hour,<br/>Let His will enfold you<br/>in its light and power.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Surely, this Lord Jesus<br/>shall return again,<br/>With His Father’s glory,<br/>With His angel train;<br/>For all wreaths of empire<br/>meet upon His brow,<br/>And our hearts confess<br/>Him King of glory now.</lines>
+    </verse>
+  </lyrics>
+</song>

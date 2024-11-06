@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESO MORA FO INDRINDRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>111</ccliNo>
+    <authors>
+      <author>Razanaka</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeso mora fo indrindra,<br/>Tsara sady mahasoa,<br/>Tsy miova, tsy mifindra,<br/>Tompo be fitia tokoa.<br/>Mba iriko ho toa Azy<br/>Tsy mba mety soso-po,<br/>Ka hihonona ny foko<br/>Raha avy ny manjo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeso tia, manetry tena<br/>Sy nandefitra tokoa,<br/>Nefa Tompo be harena<br/>Sy Mpanjaka foto-tsoa,<br/>Mba iriko ho toa Azy<br/>'Zay ninia ho ory koa ;<br/>Ka ny sainy no fidiko<br/>Fa fiainana tokoa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He ! manolo-tena aho<br/>Ho Anao, ry Tompo soa<br/>Ka ny heloko rehetra<br/>Mba sasaonao avokoa.<br/>Enga mba homenao ahy<br/>Fo madio sy vaovao,<br/>Mba hahaizako manefa<br/>'Zay rehetra sitrakao !</lines>
+    </verse>
+  </lyrics>
+</song>

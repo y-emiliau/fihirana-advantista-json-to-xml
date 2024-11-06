@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>060 - Blessed Jesus at Thy Word</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>60</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed Jesus, at Thy word,<br/>We have gathered all to hear Thee;<br/>By Thy word our hearts were stirred,<br/>Now to seek and love and fear Thee.<br/>By Thy teachings sweet and holy,<br/>Let us learn to love Thee solely.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All our knowledge, sense, and sight,<br/>Lie in deepest darkness shrouded;<br/>Till Thy Spirit breaks our night,<br/>With His beams of truth unclouded.<br/>He alone to God canst win us,<br/>He who works all good within us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glorious Lord, Thy self impart!<br/>Light of light, from God proceeding.<br/>Open Thou our ears and heart<br/>Help us, by Thy Spirit’s pleading.<br/>Hear the cry Thy people raises!<br/>Hear, and bless our prayer and praises!</lines>
+    </verse>
+  </lyrics>
+</song>

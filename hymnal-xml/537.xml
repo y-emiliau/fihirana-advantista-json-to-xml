@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>537 - He Leadeth Me</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>537</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He leadeth me: O blessed thought!<br/>O words with heavenly comfort fraught!<br/>Whate’er I do, where’er I be,<br/>still ’tis God’s hand that leadeth me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He leadeth me, he leadeth me,<br/>by his own hand he leadeth me;<br/>his faithful follower I would be,<br/>for by his hand he leadeth me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes mid scenes of deepest gloom,<br/>sometimes where Eden’s bowers bloom,<br/>by waters still, o’er troubled sea,<br/>still ’tis his hand that leadeth me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, I would place my hand in thine,<br/>nor ever murmur nor repine;<br/>content, whatever lot I see,<br/>since ’tis my God that leadeth me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And when my task on earth is done,<br/>when by thy grace the victory’s won,<br/>e’en death’s cold wave I will not flee,<br/>since God through Jordan leadeth me.</lines>
+    </verse>
+  </lyrics>
+</song>

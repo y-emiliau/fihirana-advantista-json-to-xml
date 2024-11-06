@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>342 - Is This a Day of New Beginnings</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>342</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Is this a day of new beginnings,<br/>Time to remember and move on,<br/>Time too believe what love is bringing,<br/>Laying to rest the pain that’s gone?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How can the seasons of a planet<br/>Mindlessly spinning round its sun<br/>With just a human name and number<br/>Say that some new thing has begun?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yet through the life and death of Jesus<br/>Love’s mighty Spirit, now as then,<br/>Can make for us a world of difference<br/>As faith and hope are born again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then let us, with the Spirit’s daring,<br/>Step from the past and leave behind<br/>Its disappointment, guilt, and grieving,<br/>Seeking new paths, and sure to find.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Christ is alive, and goes before us<br/>To show and share what love can do.<br/>This is a day of new beginnings;<br/>Our God is making all things new.</lines>
+    </verse>
+  </lyrics>
+</song>

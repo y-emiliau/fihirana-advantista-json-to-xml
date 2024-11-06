@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY NAMAKO MAHANTRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>325</ccliNo>
+    <authors>
+      <author>J. Andrianaivoravelona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry namako mahantra<br/>Manaram-po izao !<br/>Ny ota no mandratra,<br/>Sao simba ianao ;<br/>Izay anao rehetra<br/>Ho lasa avokoa,<br/>Fatsy mba misy fetra,<br/>Ho levona avokoa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny Tompo be fiantra<br/>Mangora-po tokoa<br/>Mahita anao mahantra<br/>Fa tsy mahita soa :<br/>Natolony nyh ainy<br/>Ho vidin'ny ainao,<br/>Nalatsny ny rany<br/>Mba hanadio anao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny Tompo malahelo,<br/>tsy foiny ianao<br/>Ny feo mamelovelo<br/>Mibitsika aminao :<br/>Onena anao ny fony<br/>Ka mitaraina hoe :<br/>Ny ota ajanony,<br/>Mba ajanony re !</lines>
+    </verse>
+  </lyrics>
+</song>

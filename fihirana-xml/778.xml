@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NOFIKO, RY JESO TIA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>778</ccliNo>
+    <authors>
+      <author>Emiliarion</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nofiko, ry Jeso tia,<br/>Nandao ‘zao tontolo izao (aho izao),<br/>‘Zaho sy Ianao niara-dia<br/>Ho any an-tany vaovao.<br/>Sambatra aho, ry Mpamonjy,<br/>Faly, eny, mirana erỳ ;<br/>Sambatra aho fa voavonjin’<br/>Ny ranao tao Kalvary</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tsy nofy fa ho sambatra<br/>‘Zay manasa ny akanjony.<br/>Tsy nofy fa ho sambatra,<br/>Lanitra ho azony.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nofiko tsy ho ela sisa,<br/>Eny an-drahon-danitra, (Ianao)<br/>Sy ny anjely alin-kisa<br/>Feno voninahitra.<br/>Kanto loatra ny hatsarany,<br/>Faly mirana sy tretrika.<br/>Eny, sambatra aoka izany<br/>‘Zaho ‘lay tsy mendrika.<br/>Tsy nofy fa ho sambatra, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nofiko, ry Tompo tsara,<br/>Ny mitafa Aminao (tsotra izao),<br/>Tsara lova tsara fara<br/>‘Zany eo anilanao.<br/>Efa reraka sy ana,<br/>Te hifaly eo anilanao;<br/>Ry Jesosy mitantàna,<br/>Ento mody aho izao.<br/>Tsy nofy fa ho sambatra, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

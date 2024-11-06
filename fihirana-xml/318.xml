@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY MPANOTA MAHANTRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>318</ccliNo>
+    <authors>
+      <author>L. J. Raharijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry mpanota mahantra<br/>Manatona, avia !<br/>Miantso anao Jeso,<br/>Mpamonjy tia, (O ! avia).<br/>Efa maty ianao,<br/>Nefa novelominy ;<br/>Very, nefa hitany.<br/>He ! mivelatra anio ny sandriny<br/>Vonona handray ano tokoa<br/>Ny aina natolony<br/>Lavinao sanatria<br/>Avia re izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ampy anao tokoa<br/>Ny hasoavany,<br/>Fa malalany anie ianao ;<br/>Fa Izy tsy mamitaka<br/>Sady tsy miavona,<br/>Antra sy mangoraka.<br/>Adin-tsaina,<br/>Ahiahy nanapaka anao,<br/>Ento eo aminy avokoa ;<br/>Ny mpanota toa anao<br/>'Ndeha samy hilazao,<br/>Tia azy tokoa Jeso.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fiadanana feno, azo antoka,<br/>Tsy mba misy takalony koa<br/>Sady safononoka ary koa maharitra<br/>Omeny ho anao anio ;<br/>Dieny henonao anio ny feony,<br/>Atolory Azy ny fonao<br/>Ho dioviny, anio,<br/>Ho fonena-masiny,<br/>Avia, avia re !</lines>
+    </verse>
+  </lyrics>
+</song>

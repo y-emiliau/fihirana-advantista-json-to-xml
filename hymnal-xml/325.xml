@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>325 - Jesus, I My Cross Have Taken</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>325</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, I my cross have taken,<br/>all to leave and follow Thee.<br/>All things else I have forsaken,<br/>Thou from hence my all shall be.<br/>Perish every fond ambition,<br/>all I’ve sought or hoped or known.<br/>Yet how rich is my condition!<br/>God and Heaven are still mine own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the world despise and leave me,<br/>they have left my Savior, too.<br/>Human hearts and looks deceive me;<br/>Thou art faithful, Thou art true.<br/>O, ‘tis not in grief to harm me,<br/>while thy love is left to me;<br/>O, ‘twere not in joy to charm me,<br/>If that love be hid from me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soul, then know thy full salvation;<br/>rise o’er sin, and fear, and care;<br/>Joy to find in every station<br/>something still to do or bear:<br/>Think what Spirit dwells within thee;<br/>Think what Father’s smiles are thine;<br/>Think that Jesus died to win thee,<br/>child of heaven, canst thou repine?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Haste then on from grace to glory,<br/>armed by faith, and winged by prayer,<br/>Heaven’s eternal day’s before thee,<br/>God’s own hand shall guide thee there.<br/>Soon shall close thy earthly mission,<br/>soon shall pass thy pilgrim days;<br/>Hope soon change to glad fruition,<br/>faith to sight, and prayer to praise.</lines>
+    </verse>
+  </lyrics>
+</song>

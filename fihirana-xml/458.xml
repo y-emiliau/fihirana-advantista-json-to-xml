@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY JESOSY MASINA Ô</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>458</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>RY JESOSY MASINA Ô !</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ry Jesosy Masina ô,<br/>Mpampihavana,<br/>Tompo sy fanasina,<br/>Fitiavana.<br/>Hira no ventesinay<br/>Hidera Anao.<br/>Ka ny saotra entinay<br/>Ho raisinao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Fanatitra atolotray<br/>Ny fo, fanahinay.<br/>Ary izany tenanay,<br/>Ho Anao mandrakizay.<br/>Ekeo re ho sitrakao<br/>Ka ho fonenanao,<br/>Fa izany indrindra<br/>No tadiavinao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeso ô, ekeo anio<br/>Ny fisaoranay.<br/>Mihainoa ka mba valio<br/>'Zany vavakay.<br/>Tianay ho tempolinao<br/>'Zany tenanay,<br/>Ka hihavana aminao<br/>Tokoa 'zahay.<br/>Fanatitra, sns</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeso ô, miandrandra Anao<br/>Ny madinikao?<br/>Miandry Anao mba hanavao<br/>'Zao tontolo 'zao.<br/>Ka ny hira maminay,<br/>Tompo sy Mpitahy,<br/>Dia ventesinay indray :<br/>Fanatitra, sns</lines>
+    </verse>
+  </lyrics>
+</song>

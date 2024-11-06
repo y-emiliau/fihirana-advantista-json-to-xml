@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>421 - For All the Saints</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>421</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For all the saints<br/>who from their labors rest,<br/>Who thee by faith<br/>before the world confessed.<br/>Thy name, O Jesus,<br/>be forever blest.<br/>Alleluia!<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou wast their Rock,<br/>their Fortress and their Might;<br/>Thou, Lord, their captain<br/>in the well-fought fight;<br/>Thou, in the darkness drear,<br/>their one true light.<br/>Alleluia!<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O may Thy soldiers,<br/>faithful, true, and bold,<br/>Fight as the saints<br/>who nobly fought of old,<br/>And win with them<br/>the victor’s crown of gold.<br/>Alleluia!<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And when the strife is fierce,<br/>the warfare long,<br/>Steals on the ear<br/>the distant triumph song,<br/>And hearts are brave again,<br/>and arms are strong.<br/>Alleluia!<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>From earth’s wide bounds,<br/>from ocean’s farthest coast,<br/>Thro’ gates of pearl<br/>streams in the countless host,<br/>Singing to Father,<br/>Son, and Holy Ghost,<br/>Alleluia!<br/>Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

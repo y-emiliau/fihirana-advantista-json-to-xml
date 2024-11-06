@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY VOASATRO-TSILO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>83</ccliNo>
+    <authors>
+      <author>Hira anglikana</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry voasatro-tsilo,<br/>Ry voakapoka !<br/>Indrisy be ny loza<br/>Manafotra Anao<br/>Nitsaohan'ny anjely<br/>Fahiny Hianao.<br/>Fa henatra sy latsa<br/>No entinao izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Atolotro, ry Jeso<br/>Ny foko ho Anao,<br/>Hiaraka hitondra<br/>Ny fahorianao<br/>Raha henatra sy loza<br/>No anjarako,<br/>Dia Hianao Mpamonjy,<br/>No ifaliako.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tsarovy aho, Tompo,<br/>Raha tratry ny manjo !<br/>Tsy mendrika aho, nefa<br/>Mba amindraonao fo !<br/>Ny ratranao no misy<br/>Fanasitranana,<br/>Ny ranao ahitana<br/>Ny fiadanana.</lines>
+    </verse>
+  </lyrics>
+</song>

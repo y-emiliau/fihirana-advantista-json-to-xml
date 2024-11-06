@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>446 - Lo, What a Glorious Sight Appears</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>446</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lo, what a glorious sight appears<br/>To our believing eyes!<br/>The earth and seas are passed away<br/>And the old rolling skies.<br/>And the old rolling skies,<br/>And the old rolling skies;<br/>The earth and seas are passed away,<br/>And the old rolling skies.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O that will be joyful, joyful, joyful!<br/>O that will be joyful<br/>When we meet to part no more!<br/>When we meet to part no more<br/>On Canaan’s happy shore;<br/>‘Tis there we’ll meet at Jesus’ feet,<br/>When we meet to part no more!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Attending angels shout for joy<br/>And the bright armies sing-<br/>Mortals! Behold the sacred seat<br/>Of your descending King.<br/>Of your descending King,<br/>Of your descending King;<br/>Mortals! Behold the sacred seat<br/>Of your descending King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His own soft hand shall wipe the tears<br/>From every weeping eye;<br/>And pains, and groans, and griefs, and fears,<br/>And death itself shall die!<br/>And death itself shall die,<br/>And death itself shall die;<br/>And pains, and groans, and griefs, and fears,<br/>And death itself shall die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How long, dear Savior! Oh, how long<br/>Shall this bright hour delay?<br/>Fly swifter round, ye wheels of time!<br/>And bring the welcome day.<br/>And bring the welcome day,<br/>And bring the welcome day;<br/>Fly swifter round, ye wheels of time!<br/>And bring the welcome day.</lines>
+    </verse>
+  </lyrics>
+</song>

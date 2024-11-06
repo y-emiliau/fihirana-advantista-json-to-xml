@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ALINA NY ANDRO IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>543</ccliNo>
+    <authors>
+      <author>D. Razafindramanana</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alina ny andro izao,<br/>Mangina ny tontolo.<br/>KA torimaso mamy<br/>Irinay, ry Tompo ô !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miangavy aminao<br/>Iraho anjely maro.<br/>Hitoby hiaro anay<br/>Irinay, ry Rainay ô !</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>211 - Lo! He Comes</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>211</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lo! He comes, with clouds descending,<br/>Once for favored sinners slain;<br/>Countless angels, Him attending,<br/>Swell the triumph of His train:<br/>Hallelujah! Hallelujah!<br/>Jesus comes, and comes to reign.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every eye shall now behold Him<br/>Robed in dreadful majesty!<br/>Those who set at nought and sold Him,<br/>Pierced, and nailed Him to the tree,<br/>Deeply wailing, Deeply wailing,<br/>Shall the true Mesiah see!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the solemn trump has sounded,<br/>Heaven and earth shall flee away;<br/>All who hate Him, must, confounded,<br/>Hear the summons of that day-<br/>“Come to judgment! Come to judgment!<br/>Come to judgment! Come away!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yea, amen! let all adore Thee,<br/>High on Thy eternal throne!<br/>Savior, take the power and glory,<br/>Make Thy righteous sentence known;<br/>O come quickly, O come quickly,<br/>Claim the kingdom for Thine own!</lines>
+    </verse>
+  </lyrics>
+</song>

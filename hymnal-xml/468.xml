@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>468 - A Child of the King</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>468</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Father is rich in houses and lands,<br/>He holdeth the wealth of the world in His hands!<br/>Of rubies and diamonds, of silver and gold,<br/>His coffers are full, He has riches untold.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I’m a child of the King,<br/>A child of the King:<br/>With Jesus my Savior,<br/>I’m a child of the King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Father’s own Son, the Savior of men,<br/>Once wandered on earth as the poorest of them;<br/>But now He is pleading our pardon on high,<br/>That we may be His when He comes by and by.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I once was an outcast stranger on earth,<br/>A sinner by choice, an alien by birth,<br/>But I’ve been adopted, my name’s written down,<br/>An heir to a mansion, a robe and a crown.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A tent or a cottage, why should I care?<br/>They’re building a palace for me over there;<br/>Though exiled from home, yet still may I sing:<br/>All glory to God, I’m a child of the King.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MISY BAIKO RE</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>367</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Misy baiko re, tonga aminao<br/>Mba hirotsaka ao an-toby izao<br/>Krissty eo aloha koa<br/>Dia mandrosoa<br/>Mba hiady sy handresy koa.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>O ! mandehana ianao anio,<br/>Ny herinao dia tafio,<br/>Fa indro Kristy momba anao,<br/>Kapiteny izay tsy mba resy izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Manda mafy no manoloana anao,<br/>Fahavalo koa lian-dra izao.<br/>'Njany misy feo toa mitoreo,<br/>Miandry vonjy aminao ireo.<br/>O ! mandehana, sns</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aza ketraka na dia kely ianao<br/>Fa banjino re ny faneva izao.<br/>He ! ny sabatra fa mamiratra,<br/>Dia ny tenin'Andriamanitra.<br/>O ! mandehana, sns</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Babo marobe no ho azonao,<br/>'Zay hanaiky re an'i Kristy 'zao.<br/>'Reny ho vatosoa, ravakao tokoa,<br/>Satroboninahitra tsy ho lo.<br/>O ! mandehana ianao anio,<br/>Ny herinao dia tafio,<br/>Fa, indro Kristy avy re,<br/>Hanome anao fitsaharam-be.</lines>
+    </verse>
+  </lyrics>
+</song>

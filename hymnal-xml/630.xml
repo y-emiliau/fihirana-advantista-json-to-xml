@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>630 - Rise, My Soul, and Stretch Thy Wings</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>630</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rise, my soul, and stretch thy wings,<br/>thy better portion trace;<br/>Rise from transitory things<br/>toward heaven, thy native place;<br/>Sun, and moon, and stars decay;<br/>time shall soon this earth remove;<br/>Rise, my soul, and haste away<br/>to seats prepared above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rivers to the ocean run,<br/>nor stay in all their course;<br/>Fire ascending seeks the sun;<br/>both speed them to their source;<br/>So a soul that’s born of God,<br/>longs to view His glorious face,<br/>Forward tends to His abode<br/>to rest in His embrace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cease, ye pilgrims, cease to mourn;<br/>press onward to the prize;<br/>Soon our Savior will return,<br/>triumphant in the skies;<br/>Yet a season, and you know<br/>happy entrance will be given,<br/>All our sorrows left below,<br/>and earth exchanged for heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

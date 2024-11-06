@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>INDRO FA MISOKA IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>224</ccliNo>
+    <authors>
+      <author>Jeanne Ratsirison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Indro fa misoka izao<br/>'Lay masoandro tazanao.<br/>Manatona avia derao<br/>Ny Mpamorona anao.<br/>Ankalazao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Dera, haja, saotra.<br/>Atolotray,<br/>Ho Anao, Jehovah Ray.<br/>Mendrika asandratray<br/>Mandrakizay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny ota maro izay natao<br/>Tompo ô, mba avelao<br/>O ! diovy ka sasao<br/>Ny fonay re anjakao<br/>Mba ho Anao<br/>Dera, haja, saotra, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny fiadananao izao<br/>Ampombay ny olonao<br/>Hampitony, hanavao<br/>Ka hameno hatrizao<br/>Ny fiainanay.<br/>Dera, haja, saotra, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O ! ekeo ny vavakay<br/>Sy ny saotra entinay<br/>Ka ny voninahitra<br/>Ho Anao maharitra<br/>Mandrakizay.<br/>Dera, haja, saotra, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

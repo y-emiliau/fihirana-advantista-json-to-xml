@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TSAPAKO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>248</ccliNo>
+    <authors>
+      <author>Deara Arson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tsapako, Raiko ô,<br/>Tsapako, tsapako<br/>Ny fitiavanao any<br/>Isan'andro izao.<br/>Ka mangataka aminao,<br/>Omeo fo mahay mankasitraka<br/>'Ty zanakao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Mankasitraka, mankasitraka.<br/>Ka misaotra Anao<br/>Ry malala ô.<br/>Ka mangataka aminao,<br/>Omeo fo mahay mankasitraka<br/>'Ty zanakao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hitako, hitako,<br/>Hitako, hitako ny fiahianao<br/>Ahy isan'andro izao<br/>Ka mangataka aminao<br/>Omeo fo mahay mankasitraka<br/>'Ty zanakao.<br/>Mankasitraka, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Iainako, iainako<br/>Iainako, eny ny fiarovanao<br/>Manarona ny tenako<br/>Ka mangataka aminao<br/>Omeo fo mahay mankasitraka<br/>'Ty zanakao.<br/>Mankasitraka, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tsinjoko, tsinjoko,<br/>Tazako, hitako 'Lay Tany Vao<br/>Omenao hivantanako<br/>Ka omeo ahy anio ny finoana<br/>Mafy orina,<br/>Ry Raiko ô !<br/>Mankasitraka, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

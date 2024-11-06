@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NY HIRANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>67</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ny hiranao aoka hanako,<br/>Ry Ziona ô,<br/>Fa teraka ao ny Tomponao.<br/>Ny antemanao,<br/>Ry tanàna 'zay maminay,<br/>Hanenika izao tany izao.<br/>(Ry Ziona ô)<br/>Lazao fa efa teraka ao<br/>Imanoela, Mpanjakanao,<br/>(Ry Ziona ô)<br/>Ny lanitra sy ny tany<br/>Dia ho faly hiaraka aminao,<br/>Ry Zionanay ô,<br/>Ny fifalianao anie ho mandrakizay,<br/>Fiadanana ao anatinao. (ry Ziona ô)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Edena simba<br/>Efa havaozina aminao<br/>Aingao anio ny hiranao,<br/>Ny fifalianao anie<br/>Ho mandrakizay.<br/>Fiadanana ao anatinao.<br/>(Ry Ziona ô)<br/>Lazao fa efa teraka ao<br/>Imanoela, Mpanjakanao,<br/>(Ry Ziona ô)<br/>Ny lanitra sy ny tany<br/>Dia ho faly hiaraka aminao,<br/>Ry Zionanay ô,<br/>Ny antemanao, ry tanàna 'zay maminay,<br/>Hanenika izao tany izao.</lines>
+    </verse>
+  </lyrics>
+</song>

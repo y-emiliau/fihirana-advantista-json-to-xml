@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>244 - My Song Shall Be of Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>244</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My song shall be of Jesus;<br/>His mercy crowns my days,<br/>He fills my cup with blessings,<br/>And tunes my heart to praise.<br/>My song shall be of Jesus,<br/>The precious Lamb of God,<br/>Who gave Himself my ransom,<br/>And bought me with His blood.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My song shall be of Jesus<br/>When, sitting at His feet,<br/>I call to mind His goodness<br/>In meditation sweet:<br/>My song shall be of Jesus,<br/>Whatever ill betide;<br/>I’ll sing the grace that saves me,<br/>And keeps me at His side.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My song shall be of Jesus<br/>While pressing on my way<br/>To reach the blissful kingdom<br/>Of pure and perfect day:<br/>And when my soul shall enter<br/>That realm of splendor fair,<br/>A song of praise to Jesus<br/>I’ll sing forever there.</lines>
+    </verse>
+  </lyrics>
+</song>

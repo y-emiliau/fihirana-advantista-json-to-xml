@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>366 - O Where Are the Reapers</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>366</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O where are the reapers that garner in<br/>The sheaves of the good from the fields of sin?<br/>With sickles of truth must the work be done,<br/>And no one may rest till the “harvest home.”</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Where are the reapers? O who will come<br/>And share in the glory of the “harvest home”?<br/>O who will help us to garner in<br/>The sheaves of good from the fields of sin?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The fields all are ripening, and far and wide<br/>The world now is waiting the harvest tide:<br/>But reapers are few, and the work is great,<br/>And much will be lost should the harvest wait.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So come with your sickles, ye sons of men,<br/>And gather together the golden grain;<br/>Toil on till the Lord of the harvest come,<br/>Then share ye His joy in the “harvest home.”</lines>
+    </verse>
+  </lyrics>
+</song>

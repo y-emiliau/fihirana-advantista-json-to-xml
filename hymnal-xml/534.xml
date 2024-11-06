@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>534 - Will Your Anchor Hold</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>534</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Will your anchor hold in the storms of life,<br/>When the clouds unfold their wings of strife?<br/>When the strong tides lift, and the cables strain,<br/>Will your anchor drift or firm remain?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We have an anchor that keeps the soul<br/>Steadfast and sure while the billows roll,<br/>Fastened to the Rock which cannot move,<br/>Grounded firm and deep in the Savior’s love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It is safely moored, ’twill the storm withstand,<br/>For ’tis well secured by the Savior’s hand;<br/>And the cables passed from His heart to mine,<br/>Can defy the blast, through strength divine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It will firmly hold in the straits of fear,<br/>When the breakers have told the reef is near;<br/>Though the tempest rave and the wild winds blow,<br/>Not an angry wave shall our bark o’erflow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It will surely hold in the floods of death,<br/>When the waters cold chill our latest breath;<br/>On the rising tide it can never fail,<br/>While our hopes abide within the veil.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When our eyes behold, in the dawning light,<br/>Shining gates of pearl, our harbor bright,<br/>We shall anchor fast to the heavenly shore,<br/>With the storms all past forevermore.</lines>
+    </verse>
+  </lyrics>
+</song>

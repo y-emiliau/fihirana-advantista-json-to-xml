@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESO NO MIANTSO AHY IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>254</ccliNo>
+    <authors>
+      <author>G. Raterarison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeso no miantso ahy 'zao,<br/>Antso malefaka ery.<br/>Manetsika ny fo, (ny fo)<br/>Hankany Kalvary.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>O ! avia, (avia)<br/>O ! avia, (avia)<br/>Matokia, indro Jeso mbola tia<br/>O ! avia (avia) mijere (avia)<br/>Maneke ry foko zary lao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Njany re fa mandona<br/>Jeso Sakaiza tsy mandao,<br/>Miverena manatona,<br/>Misy vonjy ho anao.<br/>O ! avia, O ! avia, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Indro ny famonjena<br/>Ranon'ny batisa,<br/>Halevina ny tena<br/>Handova Paradisa.<br/>O ! avia, O ! avia, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ny hiara-maty aminao<br/>No tena mamiko tokoa,<br/>Ny batisa no hanavao,<br/>Hamonjeny ny efa voa.<br/>O ! avia, O ! avia, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

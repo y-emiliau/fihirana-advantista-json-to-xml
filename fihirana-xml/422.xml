@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MAMIKO LOATRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>422</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mamiko loatra<br/>Ny eo akaikinao, ry Ray.<br/>Lavitra sento,<br/>Tsy misy manjo.<br/>Eo 'zany 'zaho<br/>Hitoetra mandrakizay,<br/>Anilanao, ry Ray,<br/>'Zaho sambatra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Akaikinao,<br/>Mangidy toa mamy ;<br/>Eo 'zany foko<br/>Ampoky ny soa.<br/>Ny fahoriana,<br/>loza izay ho tamy,<br/>Anilanao<br/>Dia tonga zava-tsoa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Akaikinao<br/>No misy famonjena ;<br/>He! very toky<br/>Raha hilaozanao.<br/>Lavitra Anao<br/>Milofika ny tena.<br/>Tariho, Ray,<br/>Eo akaikinao.</lines>
+    </verse>
+  </lyrics>
+</song>

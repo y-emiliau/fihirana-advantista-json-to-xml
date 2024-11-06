@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>427 - No Night There</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>427</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the land of fadeless day<br/>Lies “the city four-square;”<br/>It shall never pass away,<br/>And there is “no night there.”</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God shall “wipe away all tears;”<br/>There’s no death, no pain, nor fears;<br/>And they count not time by years,<br/>For there is “no night there.”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All the gates of pearl are made,<br/>In “the city four-square;”<br/>All the streets with gold are laid,<br/>And there is “no night there.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And the gates shall never close<br/>To “the city four-square;”<br/>There life’s crystal river flows,<br/>And there is “no night there.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There they need no sunshine bright,<br/>In “that city four-square;”<br/>For the Lamb is all the light,<br/>And there is “no night there.”</lines>
+    </verse>
+  </lyrics>
+</song>

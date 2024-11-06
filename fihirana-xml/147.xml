@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>'NJAY MANAKO ANY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>147</ccliNo>
+    <authors>
+      <author>B. Ranorohanta</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Njay manako any<br/>Feo miantso hoe :<br/>Mihainoa ry tany,<br/>Jeso ho avy re !</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Maranata, Maranata !<br/>Tompo ô ! avia<br/>Miandry ela ny olonao<br/>O ! avia, avia !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Indro avy Izy<br/>Amin-drahona !<br/>Faly sy mihoby<br/>'Zay niomana.<br/>Maranata, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mihorohoro mafy<br/>'Reo tsy vonona,<br/>Miantso vatolampy<br/>Hialofana.<br/>Maranata, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Zaho, ry Mpamonjy<br/>Tano ho Anao.<br/>Mba ho voavonjy,<br/>Ka hidera Anao.<br/>Maranata, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

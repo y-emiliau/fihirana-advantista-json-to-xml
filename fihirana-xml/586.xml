@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESO NO SAKAIZANAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>586</ccliNo>
+    <authors>
+      <author>Esthe Bary</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>JESO NO SAKAIZANAY<br/>1<br/>Jeso no Sakaizanay<br/>Zaza madinika<br/>Miaraka aminy izahay<br/>Ka he ! faly ery.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeso ?, ampio aho<br/>Mba hiezaka.<br/>Ho madio fo sy saina,<br/>Ho mendrika.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeso ?, tarihonao re<br/>Ny famindrako.<br/>Raha akaikiko Ianao<br/>Tsy ho potraka aho.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeso ?, Ianao no tiako<br/>Ho Sakaizako<br/>Ka ny toetra anananao<br/>Dia ho toetrako.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HO MARINA AHO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>390</ccliNo>
+    <authors>
+      <author>Esther Bary</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ho marina aho<br/>Satria itokiana.<br/>Hadio aho, fa ao<br/>'Reo mievitra ahy.<br/>hahery aho,<br/>Ny sarotra sedraiko.<br/>Hatanjaka aho, na inona hanjo.<br/>Hatanjaka aho, na inona hanjo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ho namana aho,<br/>tsy hanam-pahavalo<br/>Hanome aho, amim-pitiavana.<br/>Hanetry tena, tsy hizahozaho.<br/>Hiandrandra aho,<br/>Hitsiky sy ho tia.<br/>Hiandrandra aho,<br/>Hitsiky sy ho tia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hianatra isan'andro isan'andro<br/>Ny lesona omen'ny Raiko aho.<br/>Hihaino ny feony malefaka aho<br/>Ho vonona hanao 'zay reko aho,<br/>Ho vonona hanao 'zay reko aho.</lines>
+    </verse>
+  </lyrics>
+</song>

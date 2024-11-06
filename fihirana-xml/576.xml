@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESO, JESO !</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>576</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeso, Jeso no tiako 'zao,<br/>Ny foko mankalaza<br/>Ilay anara-masinao,<br/>Izay mamin'ny zaza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeso, Jeso deraiko 'zao,<br/>Na dia mbola kely,<br/>iriko indrindra ny hanao<br/>'Lay hiran'ny anjely.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeso, Jeso sakaizako,<br/>Ety an-dalan-tery,<br/>Akaiky sady tia tokoa<br/>Ka nofy 'zay ho very.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeso, Jeso tompoiko<br/>Ny ziogany dia mora,<br/>Ny didiny harahiko<br/>Fanilonay tanora.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jeso, Jeso hambarako<br/>Fa tia ny mpanota,<br/>Ny rany no anjarako<br/>Nomeny tao Gologota.</lines>
+    </verse>
+  </lyrics>
+</song>

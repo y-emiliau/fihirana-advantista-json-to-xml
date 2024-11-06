@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>IANAO MPANDAHATRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>282</ccliNo>
+    <authors>
+      <author>F. Ramanantsialonina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ianao Mpandahatra,<br/>Mpandefa hafatra,<br/>Ka famonjena ho anay.<br/>Ô ! raisonao, ry Ray,<br/>Ny haja entinay,<br/>Ny dera, ho fisaoranay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Lay fanomezana,<br/>Fampaherezana<br/>Natolotra ho anay, ry Ray,<br/>Kristy anjara soa,<br/>Fiadanana tokoa<br/>Sy tena loharanon-tsoa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny hasoavana<br/>Ny fihavanana,<br/>Natobakao ho anay<br/>No mampiray izao,<br/>Sy saina vaovao,<br/>Ka avy aminao, ry Ray.</lines>
+    </verse>
+  </lyrics>
+</song>

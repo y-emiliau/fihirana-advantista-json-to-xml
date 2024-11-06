@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>442 - How Sweet Are the Tidings</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>442</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How sweet are the tidings<br/>that greet the pilgrim’s ear,<br/>As he wanders in exile from home!<br/>Soon, soon will the Savior<br/>in glory appear,<br/>And soon will the kingdom come.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He’s coming, coming, coming soon I know,<br/>Coming back to this earth again;<br/>And the weary pilgrims will to glory go,<br/>When the Savior comes to reign.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The mossy old graves<br/>where the pilgrims sleep<br/>Shall be open as wide as before,<br/>And the millions that sleep<br/>in the mighty deep<br/>Shall live on this earth once more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There we’ll meet ne’er<br/>to part in our happy<br/>Eden home, Sweet songs<br/>of redemption we’ll sing;<br/>From the north, from the south,<br/>all the ransomed shall come,<br/>And worship our heavenly King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah, Amen!<br/>Hallelujah again!<br/>Soon, if faithful,<br/>we all shall be there;<br/>O, be watchful, be hopeful,<br/>be joyful till then, And a crown<br/>of bright glory we’ll wear.</lines>
+    </verse>
+  </lyrics>
+</song>

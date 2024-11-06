@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>IZA TOMPO HAHAROMBAKA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>448</ccliNo>
+    <authors>
+      <author>Dera Arson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Iza, Tompo, haharombaka<br/>Ny an-tananao<br/>(Iza no haharo, haharombaka)<br/>Iza, Jeso, haharombaka<br/>Ny an-tananao<br/>(Ny eo an-tananao Tompo ô)<br/>Iza, iza, inona hatahoranay<br/>(Inona hatahoranay)<br/>Raha eo an-tananao.<br/>1<br/>'Reo fahavalo, Tompo ô,<br/>Mitady hanakivy anay.<br/>Mandrahona hampiemotra<br/>'Reo irakao.<br/>Kanefa matoky Anao izahay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mandroso hatrany ny irakao<br/>Na dia maro ny sakana.<br/>Satria Ianao tena miaro<br/>Ny asanao ;<br/>Ka mampahery anay,  Tompo ô.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Misasasasa toa ranobe<br/>Ny antso avonao, ry Tsitoha ;<br/>Fa ny olona tsy maintsy mandre<br/>Ny hafatrao.<br/>Satria Ianao no mandeha eo aloha.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tafio hery ny olonao<br/>Mba ho mpandresy ao aminao.<br/>Ho sambatra tafatambatra<br/>An-danitra.<br/>Fa efa manina Anao izahay.</lines>
+    </verse>
+  </lyrics>
+</song>

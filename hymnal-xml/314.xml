@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>314 - Just as I Am</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <ccliNo>314</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just as I am, without one plea,<br/>but that thy blood was shed for me,<br/>and that thou bidst me come to thee,<br/>O Lamb of God, I come, I come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just as I am, and waiting not<br/>to rid my soul of one dark blot,<br/>to thee whose blood can cleanse each spot,<br/>O Lamb of God, I come, I come.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just as I am, though tossed about<br/>with many a conflict, many a doubt,<br/>fightings and fears within, without,<br/>O Lamb of God, I come, I come.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just as I am, poor, wretched, blind;<br/>sight, riches, healing of the mind,<br/>yea, all I need in thee to find,<br/>O Lamb of God, I come, I come.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Just as I am, thou wilt receive,<br/>wilt welcome, pardon, cleanse, relieve;<br/>because thy promise I believe,<br/>O Lamb of God, I come, I come.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Just as I am, thy love I own<br/>hath broken every barrier down;<br/>now, to be thine, and thine alone,<br/>O Lamb of God, I come, I come.</lines>
+    </verse>
+  </lyrics>
+</song>

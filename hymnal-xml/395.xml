@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>395 - As Birds Unto the Genial Homeland</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>395</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As birds unto the genial homeland fly,<br/>The winter’s cold and low’ring skies to flee,<br/>So seeks my soul Thy gracious presence here<br/>And finds, O God, its rest and peace in Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here at Thy shrine we leave all vexing care,<br/>For get the disappointment, grief and tear,<br/>And on the wings of hopeful song and prayer<br/>We rise, and rising feel Thy Spirit here.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bless all who spend this night in pain and woe,<br/>The burdened heart, the fainting, and distressed,<br/>Thy comfort send to darkened homes bereaved,<br/>Thy saving help to those by want oppressed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come, Sabbath joy, each trusting heart now fill,<br/>And blissful peace within our homes abide,<br/>May thankful praise each grateful heart now thrill,<br/>And to God’s loving care their lives confide.</lines>
+    </verse>
+  </lyrics>
+</song>

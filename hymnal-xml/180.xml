@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>180 - O Listen to Our Wondrous Story</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>180</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O listen to our wondrous story,<br/>Counted once among the lost;<br/>Yet One came down from heaven’s glory,<br/>Saving us at awful cost!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Who saved us from eternal loss?<br/>Who but God’s Son upon the cross?<br/>What did He do? He died for you!<br/>Where is He now? Believe it thou,<br/>In heaven interceding!<br/>In heaven interceding!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No angel could His place have taken,<br/>Highest of the high tho’ he;<br/>The loved One on the cross forsaken<br/>Was One of the Godhead three!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Will you surrender to this Savior?<br/>To His scepter humbly bow?<br/>You, too, shall come to know His favor,<br/>He will save you, save you now.</lines>
+    </verse>
+  </lyrics>
+</song>

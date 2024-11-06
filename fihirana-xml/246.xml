@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY RAINAY O, MONENA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>246</ccliNo>
+    <authors>
+      <author>D. Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Rinao ô, monena<br/>Aty anatinay.<br/>Ny sitrakao ekena<br/>Ho tena sitrakay.<br/>Ny otanay rehetra,<br/>Ny fomba ratsy koa<br/>Tsy hisy hitoetra,<br/>Ariana avokoa. (avokoa).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Antomotra ny andro<br/>Hihaonana aminao ;<br/>Avia, ry masoandro,<br/>Irinay Ianao<br/>Handroaka tokoa<br/>Ny haizim-be ety<br/>Sy hanazava koa<br/>Ny dia hatrary. (hatrary).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny herin'ny Fanahy<br/>Aoka hanavao anay<br/>Ho afaka ahiahy,<br/>Ho faly ny fonay,<br/>Ho tafaray tokoa<br/>Amin'ny fonao, Ray.<br/>Ho zanaka mamoa<br/>Anao mandrakizay. (ho doria).</lines>
+    </verse>
+  </lyrics>
+</song>

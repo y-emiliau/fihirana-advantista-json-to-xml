@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>IZA NO HIAKATRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v4 v3 v3 v4 v3 v4 v3 v4 v3 v4 v3 v4 v3 v4 v4 v4 v4 v3 v4 v3 v4 v3</verseOrder>
+    <ccliNo>9</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>SALAMO</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Feo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>:;: Iza no hiakatra any an-tendrombohitra ?<br/>Feo 1,2,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>An-tendrombohitr'i Jehovah,<br/>Feo 4:<br/>Hiakatra any an-tendrombohitra ?<br/>Feo 1,2,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Iza no hiakatra any ?<br/>Feo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ary iza no hitoetra, hitoetra, hitoetra, hitoetra any ?<br/>Feo 1,2,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ary iza no hitoetra any, hitoetra any,<br/>Iza no hiakatra any an-tendrombohitr'i Jehovah,<br/>Feo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>An-tendrombohitr'i Jehovah,<br/>Feo 1,2,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Iza no hiakatra any ?<br/>Feo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ka iza no hitoetra amin'ny fotoerany masina ?<br/>Feo 1,2,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ka hitoetra ao amin'ny fotoerany masina. :;:<br/>Feo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>:;: 'Zay madio, izay madio, izay madio tanana,<br/>Feo 1,2,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Zay madio, izay madio tanana,<br/>Feo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Zay mahitsy fo, izay mahitsy, izay mahitsy fo,<br/>Feo 1,2,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Zay mahitsy,izay mahitsy fo,<br/>Feo 1,2,3,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No hiakatra any<br/>Feo 1,2,3,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ary handray ny fitahiana, ny fitahiana<br/>Feo 1,2,3,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Avy amin'i Jehovah izy,<br/>Feo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Handray ny fitahiana izy,<br/>Handray ny fitahiana izy,<br/>Ka iza no hiakatra any an-tendrombohitra<br/>Feo 1,2,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>An-tendrombohitr'i Jehovah,<br/>Feo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>An-tendrombohitr'i Jehovah,<br/>Feo 1,2,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Iza no hiakatra any ?<br/>Feo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ka hitoetra amin'ny fotoerany masina ?<br/>Feo 1,2,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ka hitoetra ao amin'ny fitoerany masina ?</lines>
+    </verse>
+  </lyrics>
+</song>

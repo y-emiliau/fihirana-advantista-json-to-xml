@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY RAY O, HENOY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>234</ccliNo>
+    <authors>
+      <author>J. Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Ray ô, henoy ny vavakay<br/>Atolotray ankehitrio<br/>Mba ho fankasitrahanay<br/>Ny fitiavanao anay.<br/>Na ratsy aza izahay,<br/>Nandà ny sitraponao,<br/>Tsy nankato ny teny soa,<br/>Dia mbola nomenao indrafo.<br/>Isaoranay ny anaranao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny tena irinay hatrizao :<br/>Hanompo sy hanaja Anao,<br/>Hanao 'zay tianao tokoa<br/>Sy hankato ny didinao.<br/>Ny fonay manontolo, re,<br/>Ny hery sy ny sainay,<br/>Ny andro manontolo, e,<br/>Ho entinay eo an-tongotrao,<br/>Ry Ray ô, ka raiso hatrizao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raha avy ilay andro lehibe<br/>Hihaonanay ao aminao,<br/>Hasandratray ny hira, re,<br/>Hidera ny fitiavanao.<br/>Ry Ray, diovy ny fonay,<br/>Havaozy ny toetray<br/>Ho mendrika ny lanitra,<br/>Ho tretrika sy finaritra.<br/>Henoy re ny vavakay. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

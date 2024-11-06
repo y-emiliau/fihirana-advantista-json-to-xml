@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>562 - Come, Sing a Song of Harvest</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>562</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, sing a song of harvest, Of thanks for daily food!<br/>To offer God the first-fruits is old as gratitude.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Long, long ago, the reapers, before they kept the feast,<br/>Put first-fruits in a basket, and took it to the priest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Shall we, sometimes forgetful oh where creation starts,<br/>With science in our pockets lose wonder from our hearts?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May God, the great Creator, to whom all life belongs,<br/>Accept these gifts we offer, our service and our songs.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And lest the world go hungry while we ourselves are fed,<br/>Make each of us more ready to share our daily bread.</lines>
+    </verse>
+  </lyrics>
+</song>

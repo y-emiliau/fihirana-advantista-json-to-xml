@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>043 - When Morning Gilds the Skies</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <ccliNo>43</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When morning gilds the skies<br/>my heart awaking cries,<br/>May Jesus Christ be praised!<br/>Alike at work and prayer,<br/>to Jesus I repair:<br/>May Jesus Christ be praised!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Whene’er the sweet church bell<br/>peals over hill and dell,<br/>May Jesus Christ praised!<br/>O hark to what it sings,<br/>as joyously it rings,<br/>May Jesus Christ be praised!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The night becomes as day<br/>when from the heart we say:<br/>May Jesus Christ be praised!<br/>The powers of darkness fear<br/>when this sweet chant they hear:<br/>May Jesus Christ be praised!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ye nations of mankind,<br/>in this your concord find,<br/>May Jesus Christ praised!<br/>Let all the earth around<br/>ring joyous with the sound,<br/>May Jesus Christ praised!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In heaven’s eternal bliss<br/>the loveliest strain is this,<br/>May Jesus Christ praised!<br/>Let earth, and sea and sky<br/>from depth to height reply,<br/>May Jesus Christ praised!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Be this, while life is mine,<br/>my canticle divine:<br/>May Jesus Christ be praised!<br/>Be this th’eternal song<br/>through all the ages long,<br/>May Jesus Christ be praised!</lines>
+    </verse>
+  </lyrics>
+</song>

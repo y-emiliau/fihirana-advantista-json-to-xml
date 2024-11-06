@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>450 - Beautiful Zion</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>450</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beautiful Zion, built above,<br/>Beautiful city that I love,<br/>Beautiful gates of pearly white,<br/>Beautiful temple, God its light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beautiful trees forever there,<br/>Beautiful fruit they always bear,<br/>Beautiful rivers gliding by,<br/>Beautiful fountains never dry.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Beautiful crowns on every brow,<br/>Beautiful palms the conquerors show,<br/>Beautiful robes the ransomed wear,<br/>Beautiful all who enter there.</lines>
+    </verse>
+  </lyrics>
+</song>

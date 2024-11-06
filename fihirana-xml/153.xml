@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AVIA JESOSY TOMPO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>153</ccliNo>
+    <authors>
+      <author>A. Razaka</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>:,: Avia Jesosy Tompo<br/>Fa miandry Anao 'zahay.<br/>Eny, avy faingana Aho,<br/>Mahareta ianao.<br/>Hoy Izy manambara :<br/>Ho avy Aho,<br/>Ho sambatra izay manasa<br/>Ny akanjony (in-3)<br/>Eny, avy faingana Aho<br/>Mba hamaliako<br/>Ny olona rehetra<br/>Araka ny asany (in-2) :,:<br/>Ny olona rehetra<br/>Araka ny asany</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MOMBA ANAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <ccliNo>541</ccliNo>
+    <authors>
+      <author>J. S. Sewell</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mombà anay ry Jeso Tompo ô !<br/>Fa maizina ny alina aty ;<br/>Tsy misy vonjy raha tsy aminao :<br/>Mpamonjy tia ô ! mombà anay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mandalo koa ny andronay ety,<br/>Ka mihalo ny fifalianay ;<br/>Miovaova izao rehetra izao ;<br/>Ry tsy miova ô ! mombà anay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aza mba mivahiny aminay,<br/>Aza mihavitra ny helokay ;<br/>Aoka ho be ny famindrànao fo ;<br/>Ry Jeso Tompo ô ! mombà anay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tsy mahaleo tena izahay,<br/>Fa mora resy, mora kivy koa ;<br/>Ry Jeso Tompo ! aoka honenanao<br/>Ety an-dasin'ny mpanomponao.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ny teninao no fifalianay ;<br/>Ny masonao mitari-dàlana ;<br/>Ary ny herinao no tanjakay ;<br/>Sakaiza tsara  ô ! mombà anay.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Rehefa tonga ny fotoana<br/>Hitànay lehy ony maizina,<br/>Aoka ny tavanao hazava ao,<br/>Amin'izay re mombà anay.</lines>
+    </verse>
+  </lyrics>
+</song>

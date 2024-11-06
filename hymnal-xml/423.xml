@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>423 - Glorious Things of Thee Are Spoken</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>423</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glorious things of thee are spoken,<br/>Zion, city of our God;<br/>He whose word cannot be broken<br/>Formed thee for His own abode;<br/>On the Rock of Ages founded,<br/>What can shake thy sure repose?<br/>With salvation’s wall surrounded,<br/>Thou mayest smile at all thy foes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See the streams of living waters<br/>Springing from eternal love,<br/>Well supply thy sons and daughters,<br/>And all fear and want remove;<br/>Who can faint when such a river<br/>Ever flows their thirst to assuage?<br/>Grace, which, like the Lord, the Giver,<br/>Never fails from age to age.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Round each habitation hovering,<br/>See the cloud and fire appear<br/>For a glory and a covering,<br/>Showing that the Lord is near;<br/>Blest inhabitants of Zion,<br/>Washed in the Redeemer’s blood;<br/>Jesus, whom their souls rely on,<br/>Makes them kings and priests to God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Savior, if of Zion’s city<br/>I, through grace, a member am,<br/>Let the world deride or pity,<br/>I will glory in Thy name;<br/>Fading is the worldling’s pleasure,<br/>All his boasted pomp and show;<br/>Solid joys and lasting treasure<br/>None but Zion’s children know.</lines>
+    </verse>
+  </lyrics>
+</song>

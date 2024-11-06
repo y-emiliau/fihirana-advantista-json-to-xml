@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>412 - Cover With His Life</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>412</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Look upon Jesus, sinless is He;<br/>Father, impute His life unto me.<br/>My life of scarlet, my sin and woe,<br/>Cover with His life, whiter than snow.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cover with His life, whiter than snow;<br/>Fullness of His life then shall I know;<br/>My life of scarlet, my sin and woe,<br/>Cover with His life, whither than snow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deep are the wounds transgression has made;<br/>Red are the stains; my soul is afraid.<br/>O to be covered, Jesus, with Thee,<br/>Safe from the law that now judgeth me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Longing the joy of pardon to know;<br/>Jesus holds out a robe white as snow;<br/>“Lord, I accept it! Leaving my own,<br/>Gladly I wear Thy pure life alone.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Reconciled by His death for my sin,<br/>Justified by His life pure and clean,<br/>Sanctified by obeying His word,<br/>Glorified when returneth my Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

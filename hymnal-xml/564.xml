@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>564 - For Sunrise Hope and Sunset Calm</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>564</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For sunrise hope and sunset calm,<br/>and all that lies between,<br/>For all the sweetness and the balm<br/>that is and that has been,<br/>For comradeship for peace in strife,<br/>and light on darkened days;<br/>For work to do and strength for life<br/>we sing our hymn of praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But O, we press far, far above<br/>these gifts of pure delight,<br/>And find in Thee, and in Thy love<br/>contentment infinite.<br/>O Lord, beloved, in whom are found<br/>all joys of time and place,<br/>What will it be when joy is crowned<br/>by vision of Thy face?</lines>
+    </verse>
+  </lyrics>
+</song>

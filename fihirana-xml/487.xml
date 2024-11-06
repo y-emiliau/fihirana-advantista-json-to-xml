@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAHA SENDRA FAHAKIVIANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>487</ccliNo>
+    <authors>
+      <author>Dera Arson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raha sendra ka voan'ny<br/>Fahakiviana<br/>Ka mila hamoy fo,<br/>Ao Jesosy,<br/>Ilay hany manome hery anao<br/>Hanitra.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>O ! mahareta, aza miala ...<br/>Fa indro tonga Jeso izao.<br/>O ! mahareta, aza miala,<br/>Aza mba ketraka ianao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Zao rehetra izao<br/>Tsy maharitra intsony<br/>Ho levona avokoa<br/>Ny finoako izao<br/>Dia hitombo hatrany<br/>Satria ho avy Jeso<br/>O ! mahareta, sns</lines>
+    </verse>
+  </lyrics>
+</song>

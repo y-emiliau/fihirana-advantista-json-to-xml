@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NY HASOAVANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>17</ccliNo>
+    <authors>
+      <author>F. Ramanantsialonina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ny hasoavanao<br/>Sy ny fitiavanao<br/>Jehovah ô,<br/>:,:Narotsaka ho anay<br/>Mba hifalianay<br/>Ka saotra atolotray<br/>Mandrakiza.:,:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ianao Mpamorona,<br/>'zahay foronina<br/>Hidera Anao.<br/>:,:Fa lehibe tokoa<br/>Ny voninahitrao,<br/>Ny saotra sy ny haja koa<br/>Ho Anao tokoa.:,:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hanoa Anao 'zahay,<br/>Ho irakao indray,<br/>Ry Tomponay<br/>:,Ka mba tahionao<br/>Sy hamasinonao,<br/>Ho tena olom-baovao<br/>Hiasa ho Anao</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>349 - God is Love</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>349</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here in Christ we gather, <br/>love of Christ our calling.<br/>Christ, our love, is with us, <br/>gladness be His greeting.<br/>Let us fear Him, yes, and <br/>love Him, God eternal.<br/>Loving Him, let each love <br/>Christ in all his brethren.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God is love, and where true love is<br/>God Himself is there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When we Christians gather, <br/>members of one body,<br/>Let there be in us no <br/>discord but one spirit.<br/>Banished now be anger, <br/>strife, and every quarrel.<br/>Christ, our God, <br/>be always present here among us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grant us love’s fulfillment, <br/>joy with all the blessed,<br/>When we see Your face, <br/>O Savior, in its glory.<br/>Shine on us, <br/>O purest Light of all creation,<br/>Be our bliss while endless <br/>ages sing Your praises.</lines>
+    </verse>
+  </lyrics>
+</song>

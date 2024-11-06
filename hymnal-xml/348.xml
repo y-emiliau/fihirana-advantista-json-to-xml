@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>348 - The Church Has One Foundation</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>348</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The church’s one foundation<br/>is Jesus Christ her Lord;<br/>she is his new creation<br/>by water and the Word.<br/>From heaven he came and sought her<br/>to be his holy bride;<br/>with his own blood he bought her,<br/>and for her life he died.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elect from every nation,<br/>yet one o’er all the earth;<br/>her charter of salvation,<br/>one Lord, one faith, one birth;<br/>one holy name she blesses,<br/>partakes one holy food,<br/>and to one hope she presses,<br/>with every grace endued.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though with a scornful wonder<br/>we see her sore oppressed,<br/>by schisms rent asunder,<br/>by heresies distressed,<br/>yet saints their watch are keeping;<br/>their cry goes up, “How long?”<br/>And soon the night of weeping<br/>shall be the morn of song.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>‘Mid toil and tribulation,<br/>and tumult of her war,<br/>she waits the consummation<br/>of peace forevermore;<br/>till, with the vision glorious,<br/>her longing eyes are blest,<br/>and the great church victorious<br/>shall be the church at rest.</lines>
+    </verse>
+  </lyrics>
+</song>

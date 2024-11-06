@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>APETRAKO AN-TANANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>356</ccliNo>
+    <authors>
+      <author>J. Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-TANANAO<br/>1<br/>Apetrako an-tananao, ry Raiko,<br/>Ny fiainako tontolo hatrizao ;<br/>Tsy misy izay mahafa-po ny saiko<br/>Izay rehetra hita sy atao.<br/>Eo aminao no iononako<br/>Eo aminao no itoerako<br/>An-tananao ihany re no tiako<br/>Fa eo no misy hery tokoa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Apetrako anilanao ny foko,<br/>Ry Tompo ô, mba ho arovanao ;<br/>Ny toeran-kafa dia mampitoloko,<br/>Tsy mahatamana ahy, zanakao.<br/>Anilanao no mamiko tokoa,<br/>Anilmanao no ampoky ny soa.<br/>Anilanao no toerana iriko<br/>Fa eo tokoa no misy ny soa.<br/>3 <br/>Apetrako mba ho Anao, ry Tompo,<br/>Apetrako tsy hanananako,<br/>Hanara-dia Anao sy mba hanompo,<br/>Ny tenako sy ny fanahiko.<br/>KA raiso ho fanati-tsitrakao,<br/>Na dia tsy mendrika ny hajanao.<br/>Apetrako tanteraka, ô ! ry Ray<br/>An-tananao ho mandrakizay.</lines>
+    </verse>
+  </lyrics>
+</song>

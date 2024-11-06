@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>295 - Chief of Sinners</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>295</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chief of sinners though I be,<br/>Jesus shed His blood for me;<br/>Died that I might live on high,<br/>Died that I might never die;<br/>As the brance is to the vine,<br/>I am His, and He is mine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O the height of Jesus’ love!<br/>Higher than the heaven above,<br/>Deeper than the deepest sea,<br/>Lasting as eternity;<br/>Love that found me-wondrous thought!<br/>Found me when I sought Him not!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chief of sinners though I be,<br/>Christ is all in all to me;<br/>All my wants to Him are known,<br/>All my sorrows are His own;<br/>Safe with Him from earthly strife,<br/>He sustains the hidden life.</lines>
+    </verse>
+  </lyrics>
+</song>

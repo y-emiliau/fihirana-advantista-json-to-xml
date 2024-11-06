@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>680 - Holy Spirit, Hear Us</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>680</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit, hear us;<br/>Help us while we sing;<br/>Breath into the music<br/>Of the praise we bring.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy Spirit, prompt us<br/>When we kneel to pray;<br/>Nearer come, and teach us<br/>What we ought to say.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit, shine Thou<br/>On the Book we read;<br/>Gild it’s holy pages<br/>With the light we need.</lines>
+    </verse>
+  </lyrics>
+</song>

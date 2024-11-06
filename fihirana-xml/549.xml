@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>'NDRETO MISY OLON-DROA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>549</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-DROA<br/>1<br/>'Ndreto misy olon-droa<br/>Nifanaiky hiaraka,<br/>Hifanampy, hifanasoa,<br/>Tsy hifandao tsy hisaraka.<br/>Mila Anao hanampy azy<br/>Fa aminao ny hery, Jeso,<br/>Ka mba tsy ho vazivazy<br/>Fa ho tokantrano soa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tonga eto izy, Tompo<br/>Mila fitahiana.<br/>Mahatsiaro fa mpanompo,<br/>Zaza ho tarihina.<br/>Koa meteza Ianao<br/>Hanome ny fitahiana<br/>Mba ho voninahitrao<br/>Fiainam-pifaliana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeso Tompo, hakaikezo<br/>Izy ireo fa zanakao.<br/>Ka ny ratsy aelezo<br/>Hanjakan'ny herinao.<br/>Raha sendra ny mahory,<br/>hakaikezo, Tompo tia,<br/>Mba tsy hirodana akory ;<br/>Tokantrano ho doria.</lines>
+    </verse>
+  </lyrics>
+</song>

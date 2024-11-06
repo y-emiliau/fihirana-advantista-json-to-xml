@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>DERA, LAZA, HERY, HAJA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>54</ccliNo>
+    <authors>
+      <author>R. G. Hartley</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dera, laza, hery, haja<br/>Ho an'Andriamanitra,<br/>Tompon'aina, Zanahary,<br/>Rain'ny voninahitra.<br/>Izy no Mpanao antsika<br/>Sady ivelomana ;<br/>Fototr'aina, foto-tsoa,<br/>Izy ivavahana.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Hihira isika hoe :<br/>Haleloia !<br/>Dera ho an'Andriamanitra<br/>Dia Haleloia ! (in-2)<br/>Haleloia ! (in-4)<br/>Hihira isika hoe :<br/>Haleloia !<br/>Dera ho an'Andriamanitra</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ray Tsitoha, tsy miova,<br/>Tia sy mamindra fo,<br/>Mahasoa isan'andro,<br/>Izy no isaorana ;<br/>Vatolampy tsy mifindra,<br/>Tokin'olombelona ;<br/>Fiarova-mahavonjy,<br/>Izy itokiana :<br/>Hihira isika, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

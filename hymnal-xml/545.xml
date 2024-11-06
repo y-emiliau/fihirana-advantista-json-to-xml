@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>545 - Savior, Like a Shepherd</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>545</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Savior, like a shepherd lead us,<br/>much we need thy tenderest care;<br/>in thy pleasant pastures feed us,<br/>for our use thy folds prepare.<br/>Blessed Jesus, blessed Jesus!<br/>Thou hast bought us, thine we are.<br/>Blessed Jesus, blessed Jesus!<br/>Thou hast bought us, thine we are.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are thine, thou dost befriend us,<br/>be the guardian of our way;<br/>keep thy flock, from sin defend us,<br/>seek us when we go astray.<br/>Blessed Jesus, blessed Jesus!<br/>Hear, O hear us when we pray.<br/>Blessed Jesus, blessed Jesus!<br/>Hear, O hear us when we pray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou hast promised to receive us,<br/>poor and sinful though we be;<br/>thou hast mercy to relieve us,<br/>grace to cleanse and power to free.<br/>Blessed Jesus, blessed Jesus!<br/>We will early turn to thee.<br/>Blessed Jesus, blessed Jesus!<br/>We will early turn to thee.</lines>
+    </verse>
+  </lyrics>
+</song>

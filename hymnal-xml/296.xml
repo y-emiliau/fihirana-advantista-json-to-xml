@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>296 - Lord, I'm Coming Home</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>296</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve wandered far away from God,<br/>Now I’m coming home;<br/>The paths of sin too long I’ve trod;<br/>Lord, I’m coming home.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Coming home, coming home<br/>Never more to roam;<br/>Open wide Thine arms of love;<br/>Lord I’m coming home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ve wasted many precious years,<br/>Now I’m coming home;<br/>I now repent with bitter tears;<br/>Lord, I’m coming home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’m tired of sin and straying Lord,<br/>Now I’m coming home;<br/>I’ll trust thy love believe thy word;<br/>Lord I’m coming home.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My only hope, my only plea,<br/>Now I’m coming home;<br/>That Jesus died, and died for me;<br/>Lord I’m coming home.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I need His cleansing blood I know,<br/>Now I’m coming home;<br/>O wash me whiter than the snow;<br/>Lord I’m coming home.</lines>
+    </verse>
+  </lyrics>
+</song>

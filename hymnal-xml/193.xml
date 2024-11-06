@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>193 - Savior, Teach Me</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>193</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Saviour, teach me day by day,<br/>Love’s sweet lesson to obey,<br/>Sweeter lesson cannot be,<br/>Loving Him who first loved me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With a child’s glad heart of love,<br/>At Thy bidding may I move,<br/>Prompt to serve and follow Thee,<br/>Loving Him who first loved me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teach me I am not my own,<br/>I am Thine, and Thine alone;<br/>Thine to keep, to rule, to save<br/>From all sin that would enslave.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Love in loving finds employ,<br/>In obedience all her joy;<br/>Ever new that joy will be,<br/>Loving Him who first loved me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Teach me thus Thy steps to trace,<br/>Strong to follow in Thy grace.<br/>Learning how to love from Thee,<br/>Loving Him who first loved me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TANTANONAO NY DIANAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>664</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tantanonao ny diany<br/>Jehovah Tomponay<br/>Fa be tokoa ny tahotray<br/>Fa kely ny herinay.<br/>He ! sarotra tokoa<br/>Ny làlana haleha,<br/>Mijere !</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Tena sitrakay tokoa<br/>Ny eo anilanao ry Ray<br/>Sambatra ny fo<br/>Tantanonao Tomponay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meteza hiaraka aminay<br/>Fa sao dia very indray.<br/>Ny fiainanay tapahinao<br/>No fifalianay.<br/>Ny miaraka aminao,<br/>hataonay rehareha,<br/>Maneke !</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ianao no antom-piainanay<br/>ianao no tanjakay<br/>Vohanay ho Anao ny fo<br/>Satria tempolinao.<br/>Ny sitrakao hatao,<br/>Ny vavakay ho to<br/>Mihainoa !</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>095 - Spring Has Now Unwrapped the Flowers</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>95</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spring has now unwrapped the flowers,<br/>Day is fast reviving,<br/>Life in all her growing powers<br/>Towards the light is striving:<br/>Gone the iron touch of cold,<br/>Winter time and frost time,<br/>Seedlings, working through the mould,<br/>Now make up for lost time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herb and plant that winter long,<br/>Slumbered at their leisurek,<br/>Now be stirring, green and strong,<br/>Find in growth their pleasure:<br/>All the world with beauty fills,<br/>Gold the green enhacing;<br/>Flowers make glee among the hills,<br/>Set the meadows dancing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through each wonder of fair days<br/>God Himself expresses;<br/>Beauty follows all His ways,<br/>As the world He blesses:<br/>So, as He renews the earth,<br/>Artist without rival,<br/>In His grace of glad new birth<br/>We must seek revival.</lines>
+    </verse>
+  </lyrics>
+</song>

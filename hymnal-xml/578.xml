@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>578 - So Send I You</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>578</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So sent I you- by grace made strong to triumph<br/>O’er hosts of hell, o’er darkness, death, and sin,<br/>My name to bear, and in that name to conquer-<br/>So send I you, My victory to win.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So send I you- to take to souls in bondage<br/>The word of truth that sets the captive fee,<br/>To break the bonds of sin, to loose dearth’s fetters-<br/>So send I you, to bring the lost to Me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So send I you- My strength to know in weakness,<br/>My joy in grief, my perfect peace in pain,<br/>To prove My power, My grace, My promised presence-<br/>So send I you, eternal fruit to gain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So Send I you - to bear My cross with patience,<br/>And then one day with joy to lay it down<br/>To hear My voice, “Well done, My faithful servant -<br/>Come, share My throne, My Kingdom, and My crown!”<br/>As the Father hath sent Me, so send I You.”</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>IZAHO VE JESO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>644</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Izaho ve Jeso no antsoinao<br/>Handeha ho irakao (hitety)<br/>Handeha hitety izao tontolo izao ?<br/>(In) 'Nty aho Jeso iraho (Jesosy)<br/>Ô ! tsy misy tsy mba atolotro.<br/>Hanao ny irakao (na ny)<br/>Na ny tanako na ny tongotro,<br/>(In) 'Nty aho Jeso iraho.<br/>Ilainao ve Jesosy ny tanako ?<br/>Ilainao ve Jesosy ny androko ?<br/>Ilainao ve Jesosy ny fananako ?<br/>Ilainao ve ny fo ?<br/>Indro omeko Anao<br/>Omeko avokoa<br/>Atolotro Anao tontolo<br/>Hanao ny irakao (Jesosy).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Izaho ve Jeso no voatendrinao<br/>Hitondra ny hafatrao (Hiteny)<br/>Handeha hiteny koa<br/>Ny vonjy entinao<br/>'Nty aho Jeso iraho (Jesosy)<br/>Ô ! tsy misy tsy mba atolotro.<br/>Hitondra ny hafatrao<br/>Na ny vavako na ny molotro<br/>'Nty aho Jeso iraho<br/>Ilainao ve Jesosy ny tanako ?<br/>Ilainao ve Jesosy ny androko ?<br/>Ilainao ve Jesosy ny fananako ?<br/>Ilainao ve ny fo ?<br/>Indro omeko Anao avokoa<br/>Atolotro Anao tontolo<br/>Hitondra ny hafatrao (Jesosy).</lines>
+    </verse>
+  </lyrics>
+</song>

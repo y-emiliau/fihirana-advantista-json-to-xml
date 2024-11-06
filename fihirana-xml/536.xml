@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MAZAVA SY MAMIRATRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>536</ccliNo>
+    <authors>
+      <author>L. J. Raharijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mazava sy mamiratra aok'izany<br/>Ny masoandro raha miposaka.<br/>Misinda izao ny haizina an-tany,<br/>Mazava soa no injay mirotsaka.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Tonga ao am-po Jesosiko malala,<br/>Fanazavana ahy hatrizao,<br/>Mpamonjy soa tsy mba manan-tsahala<br/>Mitondra toky, hery, aim-baovao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ravo tokoa ny fo raha isan'andro<br/>No monina ao 'Lay Tompo Lehibe.<br/>Jesosy Kristy Ilay Masoandro<br/>Mamelona fanahy ka : <<O, endrey>>.<br/>Tonga ao am-po, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fahasambarana feno tokoa<br/>Sy fifaliana safononoka,<br/>Ny tebiteby, ahiahy koa,<br/>Raha ao am-po Jeso dia afaka.<br/>Tonga ao am-po, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Raha toa saron-drahona ny andro<br/>Ka misy ady tena sarotra<br/>Tokiko dia Ilay Masoandro :<br/>Tonga ao am-po hanala tahotra.<br/>Tonga ao am-po, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

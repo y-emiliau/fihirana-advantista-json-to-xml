@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MIARAKA AMINAO JESOSY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>588</ccliNo>
+    <authors>
+      <author>L. D. Randriamampandry</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MIARAKA AMINAO JESOSY<br/>1<br/>Miaraka aminao, Jesosy Zoky,<br/>Misy fifaliana, misy toky.<br/>Zaza sambatra ny eo aminao<br/>Fa ny fombanao no tiany atao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ireo teny ratsy tsy fanao,<br/>Tsy mba heno ao, tsy sitrakao,<br/>Fa ny hiran-danitra milanto,<br/>Ikaloana ny zava-kanto.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mampianatra any ny baiboly<br/>Hanoheranay ny mpanangoly<br/>Ka raha ho avy indray Ianao<br/>Raisonao izahay rehetra izao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ary Dadanay sy Neninay,<br/>Raiso fa nitaiza anay.<br/>Aoka samy tsy hangaihay,<br/>Fa ho tody soa ka ho tafaray.</lines>
+    </verse>
+  </lyrics>
+</song>

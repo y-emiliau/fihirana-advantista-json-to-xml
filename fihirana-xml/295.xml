@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MITOERA, RY JESOSY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>295</ccliNo>
+    <authors>
+      <author>A. Rakotovao</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mitoera, ry Jesosy !<br/>Ao an-tanimbolinao,<br/>Ka amboary 'zao ny voly<br/>Mba hitombo sy hamoa.<br/>Tomoera, tomoera,<br/>Iasao ny Nosinay, (Nosinay)<br/>Iasao ny Nosinay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mba onenanao ny lasy<br/>Itoeranay izao,<br/>Ka ovay ny Malagasy<br/>Mba ho tena zanakao.<br/>O ! monena ; O ! monena <br/>Hazavao ny Nosinay, (Nosinay)<br/>Hazavao ny Nosinay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Akekezo 'reo mpania<br/>Tafaverina aminao,<br/>Ka tantano mba ho tia<br/>Ny miresaka aminao.<br/>O ! tariho ; O ! tariho<br/>Ho Anao ny Nosinay, (Nosinay)<br/>Ho Anao ny Nosinay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dia fohazy ny mpitory<br/>Mba hanao ny asanao.<br/>Ka hamoha ireo matory<br/>Mba handre ny sitrakao.<br/>Hamasino, hamasino,<br/>Ho Anao ny Nosinay, (Nosinay)<br/>Ho Anao ny Nosinay.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O ! Jesosy feno antra !<br/>Dera, laza, ho Anao,<br/>Ny lohalika rehetra<br/>Handohalika aminao.<br/>Mitoera, mitoera,<br/>Fa Anao ny Nosinay, (Nosinay)<br/>Fa Anao ny Nosinay.</lines>
+    </verse>
+  </lyrics>
+</song>

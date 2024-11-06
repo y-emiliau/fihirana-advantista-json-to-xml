@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY MPITILIN'I JESOSY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>642</ccliNo>
+    <authors>
+      <author>A. Emiliarison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry mpitilin'i Jesosy<br/>Ezaho ny antso<br/>Fa mamantonalina anie izao<br/>Ry mpitilin'i Jesosy<br/>Ezaho ny antso<br/>Fa hifarana izao tontolo izao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Toy inona alina izao<br/>Ry mpiambina ô ?<br/>Aza mangina fe<br/>Ezaho ny antsonao.<br/>Ry mpitilin'i Jesosy<br/>Ezaho ny antso<br/>Fa hifarana izao tontolo izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mandehana ka torio ny famonjena<br/>'Zay napetraky ny Tompo aminao<br/>Mandehana ka torio ny famonjena<br/>Fa hifarana izao tontolo izao.<br/>Toy inona alina izao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

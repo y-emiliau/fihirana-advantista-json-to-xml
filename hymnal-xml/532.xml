@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>532 - Day by Day</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>532</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Day by day, and with each passing moment,<br/>Strength I find, to meet my trials here;<br/>Trusting in my Father’s wise bestowment,<br/>I’ve no cause for worry or for fear.<br/>He Whose heart is kind beyond all measure<br/>Gives unto each day what He deems best—<br/>Lovingly, its part of pain and pleasure,<br/>Mingling toil with peace and rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every day, the Lord Himself is near me<br/>With a special mercy for each hour;<br/>All my cares He fain would bear, and cheer me,<br/>He Whose Name is Counselor and Power;<br/>The protection of His child and treasure<br/>Is a charge that on Himself He laid;<br/>“As thy days, thy strength shall be in measure,”<br/>This the pledge to me He made.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Help me then in every tribulation<br/>So to trust Thy promises, O Lord,<br/>That I lose not faith’s sweet consolation<br/>Offered me within Thy holy Word.<br/>Help me, Lord, when toil and trouble meeting,<br/>Ever to take, as from a father’s hand,<br/>One by one, the days, the moments fleeting,<br/>Till I reach the promised land.</lines>
+    </verse>
+  </lyrics>
+</song>

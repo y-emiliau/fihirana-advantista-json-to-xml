@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ZOVY NO HIARA-DIA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>315</ccliNo>
+    <authors>
+      <author>L. J. Raharijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-DIA<br/>1<br/>Zovy no hiara-dia.<br/>Mba ho any an-danitra,<br/>Fonenan-tsoa,<br/>Namboarin'i Jesosy, Zoky tia,<br/>Zanak'Andriamanitra ?<br/>Raha izao tontolo izao<br/>Dia mamitaka anao ;<br/>Koa saino sy banjino<br/>'Lay Salema,<br/>Lapan'Andriamanitra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ireo rendrarendran-tany<br/>'Zay mazàna tena manodoka anao,<br/>Dia fandrika velarin'i Satana<br/>Hamitahana anao ;<br/>Ka aza dia variana<br/>Fa mandalo ny ety.<br/>tsy ankoso-bolamena<br/>Ilay Salema<br/>Vonona hidiranao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Moa tena fanirianao<br/>Ny ho ankohonan'Andriamanitra ?<br/>Mibebaha ary izao ankehitriny<br/>Mba handraisany anao.<br/>'Ndrao dia tonga tampoka<br/>Ny fahafatesana,<br/>Ka ianao vesaran-keloka tsy zaka<br/>Tsy hisy hivalozana.</lines>
+    </verse>
+  </lyrics>
+</song>

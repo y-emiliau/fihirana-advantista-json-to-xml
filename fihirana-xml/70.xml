@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MPANJAKA MENDRI-KAJA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>70</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mpanjaka Mendrikaja<br/>No indro maty eo,<br/>Toa rasty manan-daza,<br/>Mpanota ô, jereo<br/>Fo noho ny helokao be<br/>No ijaliany.<br/>Fitiavany Anao re<br/>No nihafiany</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nafoin'ny Rainy Izy<br/>Noho ny otanao,<br/>Nisotro ny mangidy<br/>Noho ny helokao.<br/>Nalatsany ny rany<br/>Ho fanavotana,<br/>Nanaiky ny hijaly<br/>Izay tao Gologota.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><< Ny rako nikoriana,<br/>Ny satro-tsiloko,<br/>Ny hazo fijaliana<br/>'Zay nihantonako,<br/>Mpanota, mba tsarovy<br/>Fa tokony ho anao ;<br/>Kanefa ô, tsarovy<br/>Izaho Solonao !>></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mpamonjy ô, malala,<br/>Ny fitiavanao<br/>Nanintona ahy adala<br/>Ho tonga tia Anao ;<br/>Ry Tompo ô, mba raiso,<br/>Ho setrin'ny ainao,<br/>Ny foko ho doria,<br/>Omeko anjakao.</lines>
+    </verse>
+  </lyrics>
+</song>

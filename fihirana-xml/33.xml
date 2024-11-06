@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>SAOTRA ATOLOTRA ANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>33</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Saotra atolotra Anao re<br/>ry Raiko,<br/>Efa namonjy ny aiko Ianao<br/>Sy nanazava tokoa ny saiko<br/>Ka nanova ahy<br/>Ho mpandova Anao</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fitiavana re<br/>Avy amin-dRay<br/>Famindram-po be<br/>No hafatra torina indray<br/>(indray).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tena tsy takatry ny saiko loatra<br/>'Zany fitia nampidina Anao<br/>Honina aty anatiko mpanota,<br/>Tena tsy mendrika hitoeranao.<br/>Fitiavana re, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raiso ho Anao ity fo kely tia,<br/>Raiso ny aiko, Ray, ka mba sasao,<br/>Tena tsy mendrika anefa avia,<br/>Raiso ihany ka diovy ho Anao.<br/>Fitiavana re, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tompo hazony<br/>Fandrao dia ho lasa,<br/>'Ndrao ver aho<br/>Raha lavitra Anao ;<br/>Nefa mbola ato<br/>Ny fo 'zay mikasa<br/>Sady mitepo te hahita Anao.<br/>Fitiavana re, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

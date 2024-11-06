@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MAHAGAGA RA NY ASAN'NY RAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>58</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mahagaga re ny asan'ny Ray,<br/>Ny andro sy ny alina.<br/>Fa ny mahagaga<br/>Ka tiako mba ho hay<br/>Dia ny fitiavany lalina.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Mahagaga loatra re,<br/>Manintona ny fo<br/>Ilay fitiavam-be.<br/>Midadasika tokoa<br/>mateza, mihavao,<br/>Ampy ho ahy sy ho anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mahagaga re ny asan'ny Ray,<br/>mamafy, mijinja izahay.<br/>Fa ny mahagaga<br/>Dia mahagaga ahy<br/>Mihoatra be ny voajinjanay.<br/>Mahagaga loatra re, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mahagaga re ny asan'ny Ray,<br/>Dia ny famelan-keloka<br/>Fahafatesana<br/>No tambin'ny otanay.<br/>Nefa aina no atolotra.<br/>Mahagaga loatra re, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

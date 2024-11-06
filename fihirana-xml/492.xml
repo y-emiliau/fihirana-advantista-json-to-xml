@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NA DIA MAFY NY ADY ATAOKO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>492</ccliNo>
+    <authors>
+      <author>D. Razakaria</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na dia mafy ny ady ataoko,<br/>Na dia sarotra tokoa ny dia ;<br/>Na dia takona ny eo anoloako,<br/>Dia jereko ny Mpamonjy tia.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Hojereko ny tavan'ny Mpamonjiko ;<br/>Ilay tava feno fitia,<br/>Dia ho lasa tokoa ny haizim-pito<br/>Ka hazava ny lalako ety.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hobanjiniko hatray ny Tompo<br/>Amin'ny fihazakazahako ;<br/>Ka na hisy ny ratsy hisoko,<br/>Tsy ho voafingana ny tongotro.<br/>Hojereko ny tavan'ny Mpamonjiko, sns</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raha mitatao ny raho-mainty,<br/>Raha misy rivo-doza be ;<br/>Raha milatsaka ny oram-baventy,<br/>Hoy aho hoe :<br/><<Tompo ô ! mamonje !>><br/>Hojereko ny tavan'ny Mpamonjiko, sns</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kely sisa aho dia hanoloana<br/>An'ilay tsy manam-paharoa ;<br/>Ka ny maso fa tsy ny finoana<br/>No hijereko ny Tompoko.<br/>Dia ho faly ny fo,<br/>Hankalaza tokoa anao<br/>Ry Andriamanitray.</lines>
+    </verse>
+  </lyrics>
+</song>

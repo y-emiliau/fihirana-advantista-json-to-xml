@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JEHOVAH Ô ! EO AMINAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>59</ccliNo>
+    <authors>
+      <author>D. Razakaria</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jehovah ô ! eo aminao<br/>No anandratako anio ny fanahy ;<br/>Andriamanitra ô !<br/>Ianao no tokiko<br/>Ka aoka aho tsy mba ho menatra.<br/>Ampahafantaro ahy<br/>Jehovah ny lalanao ;<br/>Izay sitrakao no ampianaro<br/>Fa Ianao no Mpamonjiko.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jehovah ô ! tsarovy re<br/>Ireo antra sy indrafonao ;<br/>Hatrizay, hatrizay<br/>No nisian'ireny<br/>Ka mba amindrao fo<br/>Ity zanakao.<br/>Izay ota vitako<br/>Ô ! aza tsarovanao,<br/>Fa noho ilay hasoavanao :<br/>Mamindrà fo Jehovah ô !</lines>
+    </verse>
+  </lyrics>
+</song>

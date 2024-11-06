@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>259 - Draw Us in the Spirit's Tether</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>259</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Draw us in the Spirit’s tether,<br/>For when humbly in Thy name,<br/>Two or three are met together<br/>Thou are in the midst of them;<br/>Alleluia! Alleluia!<br/>Touch we now Thy garment’s hem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As the brethren used to gather<br/>In the name of Christ to sup,<br/>Then with thanks to God the Father<br/>Break the bread and bless the cup,<br/>Alleluia! Alleluia!<br/>So knit Thou our friendship up.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All our meals and all our living<br/>Make as sacraments of Thee,<br/>That by caring, helping, giving<br/>We may true disciples be.<br/>Alleluia! Alleluia!<br/>We will serve Thee faithfully.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>EKEKO ANIO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v1 c1 v2 c1 v3 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>268</ccliNo>
+    <authors>
+      <author>A. Emiliarison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ekeko anio<br/>Fa tsy mendrika aho<br/>Noho ny ota vitako.<br/>Tsapako izao fa Jesosy dia<br/>Maty noho ny heloko.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Raiso re, Tompo ô ! (Ny tenako atolotro)<br/>Mba sasaonao ary anjakao.(Onenan'ny Fanahinao)<br/>Diovy re, Jeso ô (Ny foko koa atolotro)<br/>Amin'ny ranao 'zay manavao <br/>(Ô ! mba vonoy ny ota manjaka ao)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ekeko anio fa tsy mendrika aho noho ny ota vitako</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vonoy re Jeso ny ota vitako, vonoy fa ifonako</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tompo ô inty ny foko ho Anao. Raiso ka anjakao. Amen !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vonony re, Jeso, ny ota vitako<br/>Vonony fa ifonako<br/>Ny batisa izay ekeko anio<br/>No fanoloran-tenako.<br/>Raiso re, sns ...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny batisa no anekeko<br/>Fa maty Jeso hanadio.<br/>Ry Mpamonjiko, raiso ho Anao<br/>Ny fiainako ka didio<br/>Raiso re, sns ...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>426 - I Shall See the King</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>426</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I shall see the King where the angels sing,<br/>I shall see the King some day, in the better land,<br/>On that golden strand,<br/>And with Him shall ever stay.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In His glory, I shall see the King,<br/>And forever endless praises sing;<br/>‘Twas on Calvary Jesus died for me;<br/>I shall see the King someday.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the land of song, in the glory throng,<br/>Where there never comes a night,<br/>With my Lord once slain I shall ever reign<br/>In the glory land of light.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I shall see the King, all my tributes bring,<br/>And shall look upon His face;<br/>Then my song shall be how He ransomed me<br/>And has kept me by His grace.</lines>
+    </verse>
+  </lyrics>
+</song>

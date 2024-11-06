@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MISY DIDY TENA TSARA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>416</ccliNo>
+    <authors>
+      <author>G. Mondain</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Misy didy tena tsara<br/>'Zay nomen'ny Tompo hoe :<br/>Mba mifankatiava tsara<br/>Ianareo 'zay mino e !<br/>Ka miraisa, ka miraisa,<br/>'Zao no didy lehibe.<br/>Ka miraisa, ka miraisa,<br/>'Zao no didy lehibe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tonga Jeso mba hanompo<br/>Sy mba hampiavana ;<br/>Tsy mpanaraka ny Tompo<br/>'Zay tsy tia namana.<br/>Ka tadiavo, ka tadiavo<br/>'Zay ho fampiraisana<br/>Ka tadiavo, ka tadiavo<br/>'Zay ho fampiraisana</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fa iray tokoa ny Loha,<br/>Dia Jesosy Zanaka,<br/>Endriky ny Ray tsitoha,<br/>'Zay halaina tahaka.<br/>Tsy ho resy, tsy ho resy,<br/>Raha miray ny tafika.<br/>Tsy ho resy, tsy ho resy,<br/>Raha miray ny tafika.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeso no ilay foto-kazo,<br/>Tena voaloboka ;<br/>Ka ny sampana halazo,<br/>Raha tafasaraka.<br/>Ikambano, ikambano,<br/>Ka aza mba mihataka.<br/>Ikambano, ikambano,<br/>Ka aza mba mihataka.</lines>
+    </verse>
+  </lyrics>
+</song>

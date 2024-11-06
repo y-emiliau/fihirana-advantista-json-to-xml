@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>302 - Deeper Yet</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>302</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the blood from the cross,<br/>I have been washed from sin;<br/>But to be free from dross,<br/>Still I would enter in.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Deeper yet, deeper yet,<br/>Into the crimson flood;<br/>Deeper yet, deeper yet,<br/>Under the precious blood.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Day by day, hour by hour,<br/>Blessings are sent to me;<br/>But for more of His power,<br/>Ever my prayer shall be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Near to Christ I would live,<br/>Following Him each day;<br/>What I ask He will give;<br/>So then with faith I pray.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now I have peace, sweet peace,<br/>While in this world of sin;<br/>But to pray I’ll not cease<br/>Till I am pure within.</lines>
+    </verse>
+  </lyrics>
+</song>

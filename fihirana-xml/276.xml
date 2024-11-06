@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AVIA, RY MANGETAHETA O!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>276</ccliNo>
+    <authors>
+      <author>Johanesa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Avia, ry mangetaheta ô !<br/>Ka aza dia mba mamoy fo,<br/>Fa indro misy rano velona,<br/>Izay omena mba hamelona<br/>Anao mahantra sy variana,<br/>Ry zanak'ondry very lalana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny mofon'aina no atolony<br/>Anao manaiky mba ho olony ;<br/>Ny tenany no ho fihinana,<br/>Mba hahazoana fiainana ;<br/>Kanefa tsy mba novidiana anie,<br/>Fa tena fanomezan-dehibe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesosy Tompo no nanolotra<br/>Ny rany masina ho avotra ;<br/>Izany raiso mba ho tanjaka<br/>Sy toky ho anao, ry reraka ;<br/>Ry mpivahiny sasatra ao am-po,<br/>Avia re, ka manaràna fo !</lines>
+    </verse>
+  </lyrics>
+</song>

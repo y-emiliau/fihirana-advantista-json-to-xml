@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>584 - There's a Spirit in the Air</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <ccliNo>584</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s a Spirit in the air,<br/>telling Christians everywhere<br/>“Praise the love that Christ revealed,<br/>living, working in our world.”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lose your shyness, find your tongue;<br/>tell the world what God has done:<br/>God in Christ has come to stay,<br/>we can see His pow’r today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When believers break the bread,<br/>when a hungry child is fed:<br/>Praise the love that Christ revealed,<br/>living, working in our world.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Still His Spirit leads the fight,<br/>seeing wrong and setting right:<br/>God in Christ has come to stay,<br/>we can see His pow’r today.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When a stranger’s not alone,<br/>where the homeless find a home,<br/>Praise the love that Christ revealed,<br/>living, working in our world.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>May His Spirit fill our praise,<br/>guide our thoughts and change our ways.<br/>God in Christ has come to stay,<br/>we can see His power today.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>There’s a Spirit in the air,<br/>calling people everywhere;<br/>Praise the love that Christ revealed:<br/>living, working in our world.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>389 - Light of Light, Enlighten Me</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>389</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Light of light, enlighten me,<br/>Now anew the day is dawning;<br/>Sun of grace, the shadows flee;<br/>Brighten Thou my Sabbath morning;<br/>With Thy joyous sunshine blest,<br/>Happy is my day of rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let me with my heart today,<br/>Holy, holy, holy, singing,<br/>Rapt awhile from earth away,<br/>All my soul to Thee up springing,<br/>Have a foretaste inward given<br/>How they worship Thee in heaven.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hence all care, all vanity!<br/>For the day to God is holy;<br/>Come, Thou glorious Majesty,<br/>Deign to fill this temple lowly;<br/>Nought today my soul shall move,<br/>Simply resting in Thy love.</lines>
+    </verse>
+  </lyrics>
+</song>

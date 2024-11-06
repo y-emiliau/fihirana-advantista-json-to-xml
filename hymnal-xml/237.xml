@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>237 - In the Cross of Christ I Glory</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>237</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the cross of Christ I glory,<br/>towering o’er the wrecks of time;<br/>all the light of sacred story<br/>gathers round its head sublime.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the woes of life o’ertake me,<br/>hopes deceive, and fears annoy,<br/>never shall the cross forsake me.<br/>Lo! it glows with peace and joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the sun of bliss is beaming<br/>light and love upon my way,<br/>from the cross the radiance streaming<br/>adds more luster to the day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bane and blessing, pain and pleasure,<br/>by the cross are sanctified;<br/>peace is there that knows no measure,<br/>joys that through all time abide.</lines>
+    </verse>
+  </lyrics>
+</song>

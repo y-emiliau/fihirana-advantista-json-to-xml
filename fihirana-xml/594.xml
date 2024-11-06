@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY JEHOVAH RAINAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>594</ccliNo>
+    <authors>
+      <author>Rabenadimby</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>RY JEHOVAH RAINAY<br/>1<br/>Ry Jehovah Rainay<br/>'Zay loharanon-tsoa<br/>Sy fototry ny fiainanay<br/>Ianao no ijoroanay<br/>(Feo 1) Dera ho Anao ry Jehovah<br/>Amena<br/>(Feo 2, 3) Ry Jehovah - Haleloia,<br/>Haleloia, Haleloia, Amena.<br/>(Feo 4) Ry Jehovah Haleloia<br/>Haleloia Amena.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ry Kristy Mpamonjy<br/>Filohan'ny tanora,<br/>Tariho 'reto zandrinao<br/>Handia ny lala-nombanao.<br/>Dera ho Anao<br/>(Feo 1) Ry Mpamonjy anay,<br/>Amena<br/>(Feo 2, 3) Ry Mpamonjy Haleloia.<br/>Haleloia, Amena.<br/>(Feo 4) Ry Mpamonjy Haleloia.<br/>Haleloia, Amena.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ry Fanahy hendry<br/>Midina ao am-ponay<br/>Hibitsika, hanoro<br/>Ny fiaina-mendrika, madio.<br/>Dera ho Anao<br/>(Feo 1) Ry Fanahy hendry<br/>Amena<br/>(Feo 2, 3) Ry Fanahy, Haleloia,<br/>Haleloia, Haleloia,<br/>Amena.<br/>(Feo 4) Ry Fanahy, Haleloia,<br/>Haleloia, Amena.</lines>
+    </verse>
+  </lyrics>
+</song>

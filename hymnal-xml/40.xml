@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>040 - The Dawn of God's Dear Sabbath</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>40</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The dawn of God’s dear Sabbath<br/>Breaks o’er the earth again,<br/>As some sweet summer morning<br/>After a night of pain;<br/>It comes as cooling showers<br/>To some exhausted land,<br/>As shade of clustered palm trees<br/>‘Mid weary wastes of sand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, we would bring for offering,<br/>Though marred with earthly soil,<br/>A week of earnest labor,<br/>Of steady, faithful toil,<br/>Fair fruits of self denial,<br/>Of strong, deep love to Thee,<br/>Fostered by Thine own Spirit,<br/>In true humility.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And we would bring our burden<br/>Of sinful thought and deed,<br/>In Thy pure presence kneeling,<br/>From bondage to be freed,<br/>Our heart’s most bitter sorrow<br/>For all Thy work undone-<br/>So many talents wasted!<br/>So few bright laurels won!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And with that sorrow mingling,<br/>A steadfast faith, and sure,<br/>And love so deep and fervent,<br/>For Thee to make it pure,<br/>In Thy dear presence finding<br/>The pardon that we need,<br/>And then the peace so lasting-<br/>Celestial peace indeed.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>396 - Lord God, Your Love Has Called Us Here</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>396</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord God, Your love has called us here,<br/>As we, by love, for love were made.<br/>Your living likeness still we bear<br/>Tho’ marred, dishonored, disobeyed.<br/>We come, with all our heart and mind<br/>Your call to hear, Your love to find.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We come with self inflicted pains<br/>Of broken trust and chosen wrong,<br/>Half free, half bound by inner chains,<br/>By social forces swept along,<br/>By powers and systems close confined,<br/>Yet seeking hope for human kind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord God, in Christ You call our name,<br/>And then receive us as Your own,<br/>Not thro’ some merit, right, or claim,<br/>But by Your gracious love alone.<br/>We strain to glimpse Your mercy seat,<br/>And find You kneeling at our feet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then take the towel, and break the bread,<br/>And humble us, and call us friends.<br/>Suffer and serve till all are fed<br/>And show how grandly love intends<br/>To work till all creation sings,<br/>To fill all worlds, to crown all things.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord God, in Christ You set us free<br/>Your life to live, Your joy to share.<br/>Give us Your Spirit’s liberty<br/>To turn from guilt and dull despair<br/>And offer all that faith can do,<br/>While love is making all things new.</lines>
+    </verse>
+  </lyrics>
+</song>

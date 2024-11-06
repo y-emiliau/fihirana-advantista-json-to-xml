@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HE IRIKO IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>442</ccliNo>
+    <authors>
+      <author>Raobijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He ! iriko izao<br/>Ny ho sakaizanao,<br/>Hipetraka eo anilanao,<br/>Handre ny feonao.<br/>Eo 'zany zaho hahita<br/>Ny endrikao, ry Jeso.<br/>Hahazo voninahitra<br/>Sy hery vaovao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He ! iriko izao<br/>Ny ho eo akaikinao.<br/>Ho tonga zanakao tokoa,<br/>Hitovy aminao.<br/>Eo 'zany zaho<br/>Hiara-manjaka aminao,<br/>Handray ny lova atolotrao,<br/>Izay navotanao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He ! iriko izao<br/>Ny ho eo akaikinao.<br/>Ho lavitra ny tahotra,<br/>Ny tebiteby koa.<br/>Eo 'zany zaho sambatra<br/>Fa mialoka aminao<br/>Ho sambatra mandrakizay<br/>Fa ampoky ny soa.</lines>
+    </verse>
+  </lyrics>
+</song>

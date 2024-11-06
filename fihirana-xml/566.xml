@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>DIOVY, JEHOVAH Ô!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>566</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>DIOVY JEHOVAH Ô !<br/>1<br/>Diovy Jehovah ô !<br/>Ity havanay ity<br/>Esory ny ota izay natao.<br/>O ! esory,<br/>O ! esory nyota natao.<br/>O ! esory, o ! esory<br/>Ka mba diovy ity havanay ity<br/>Ho Ano, mmm.......<br/>2<br/>Tahio, Jehovah ô,<br/>Ity havanay ity<br/>Ho mendrika hanao ny asanao.<br/>O ! tahio, o ! tahio,<br/>Hanao ny asanao.<br/>O ! tahio, o ! tahio,<br/>Tahio, ry Ray ô, ity havanay ity<br/>Ho Ano, mmm.......<br/>3Hamasinonao, ry Ray,<br/>Ity havanay ity<br/>Ho mendrika hitondra ny anaranao.<br/>Hamasino, hamasino<br/>Ho mendrika Anao.<br/>Hamasino, hamasino<br/>O ! hamasino, ity havanay ity<br/>Ho Ano, mmm.......</lines>
+    </verse>
+  </lyrics>
+</song>

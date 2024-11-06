@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>307 - I Am Coming to the Cross</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>307</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am coming to the cross;<br/>I am poor and weak and blind;<br/>I am counting all but dross;<br/>I shall full salvation find.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am trusting, Lord, in Thee.<br/>O thou Lamb of Calvary;<br/>Humbly at Thy cross I bow.<br/>Save me, Jesus, save me now.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Long my heart has sighed for Thee;<br/>Long has evil reigned within;<br/>Jesus sweetly speaks to me:<br/>“I will cleanse you from all sin.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here I give my all to Thee:<br/>Friends and time and earthly store;<br/>Soul and body Thine to be,<br/>Wholly Thine forevermore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus comes! He fills my soul!<br/>Perfected in Him I am;<br/>I am every whit made whole:<br/>Glory, glory to the Lamb!</lines>
+    </verse>
+  </lyrics>
+</song>

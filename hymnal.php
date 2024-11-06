@@ -17,20 +17,20 @@ function main() {
 
     global $connection, $authorArray, $topicArray, $songArray;
     // // remove before executing
-    dropTables($connection);
-    createTables($connection);
+    // dropTables($connection);
+    // createTables($connection);
     
-    for ($i = 1; $i <= 695; $i++) {
-        $number = ($i < 10 ? "00" : ($i < 100 ? "0" : "")) . $i;
-        $songFileName = 'hymnal/' . $number . '.txt';
-        try {
-            $songFile = fopen($songFileName, 'r');
-            $songDetail = fread($songFile, filesize($songFileName));
-            insertSong($i, $songDetail, $connection);
-        } catch (\Throwable $th) {
-            echo "Error: there has been an error\n";
-        }
-    }
+    // for ($i = 1; $i <= 695; $i++) {
+    //     $number = ($i < 10 ? "00" : ($i < 100 ? "0" : "")) . $i;
+    //     $songFileName = 'hymnal/' . $number . '.txt';
+    //     try {
+    //         $songFile = fopen($songFileName, 'r');
+    //         $songDetail = fread($songFile, filesize($songFileName));
+    //         insertSong($i, $songDetail, $connection);
+    //     } catch (\Throwable $th) {
+    //         echo "Error: there has been an error\n";
+    //     }
+    // }
 
     createXML($connection);
 }
@@ -232,6 +232,11 @@ function createXMLSong($number, $xml) {
     }
     $filepath = $directory . '/' . $number . '.xml';
     $file = fopen($filepath, 'w');
+    $xml = str_replace("&lt;" ,"<", $xml);
+    $xml = str_replace("&gt;" ,">", $xml);
+    $xml = str_replace("&#13;" ,"", $xml);
+    $xml = str_replace("–" ,"-", $xml);
+    
     fwrite($file, $xml);
     fclose($file);
 }

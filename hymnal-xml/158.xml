@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>158 - Were You There</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>158</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Were you there when<br/>they crucified my Lord?<br/>Were you there when<br/>they crucified my Lord?<br/>O! Sometimes it causes me<br/>to tremble, tremble, tremble.<br/>Were you there when<br/>they crucified my Lord?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Were you there when<br/>they nailed Him to the tree?<br/>Were you there when<br/>they nailed Him to the tree?<br/>O! Sometimes it causes me<br/>to tremble, tremble, tremble.<br/>Were you there when<br/>they nailed Him to the tree?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Were you there when<br/>they pierced Him in the side?<br/>Were you there when<br/>they pierced Him in the side?<br/>O! Sometimes it causes me<br/>to tremble, tremble, tremble.<br/>Were you there when<br/>they pierced Him in the side?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Were you there when<br/>the sun refused to shine?<br/>Were you there when<br/>the sun refused to shine?<br/>O! Sometimes it causes me<br/>to tremble, tremble, tremble.<br/>Were you there when<br/>the sun refused to shine?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Were you there when<br/>they laid Him in the tomb?<br/>Were you there when<br/>they laid Him in the tomb?<br/>O! Sometimes it causes me<br/>to tremble, tremble, tremble.<br/>Were you there when<br/>they laid Him in the tomb?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>243 - King of Glory, King of Peace</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>243</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>King of glory, King of peace,<br/>I will love Thee;<br/>And that love may never cease,<br/>I will move Thee.<br/>Thou hast granted my request,<br/>Thou hast heard me;<br/>Thou didst note my working breast,<br/>Thou hast spared me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wherefore with my utmost art<br/>I will sing Thee,<br/>And the cream of all my heart<br/>I will bring Thee.<br/>Though my sins against me cried,<br/>Thou didst clear me;<br/>And alone, when they replied,<br/>Thou didst hear me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seven whole days, not one in seven,<br/>I will praise Thee;<br/>In my heart, though not in heav’n<br/>I can raise Thee.<br/>Small it is, in this poor sort<br/>to enroll Thee:<br/>Ev’n eternity’s too short<br/>to extol Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

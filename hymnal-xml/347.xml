@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>347 - Built on the Rock</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>347</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Built on the Rock the Church shall stand,<br/>Even when steeples are falling;<br/>Crumbled have spires in every land,<br/>Bells still are chiming and calling<br/>Calling the young and old to rest,<br/>Calling the souls of those distressed,<br/>Longing for life everlasting.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not in our temples made with hands<br/>God, the Almighty, is dwelling;<br/>High in the heav’ns His temple stands,<br/>All earthly temples excelling.<br/>Yet He who dwells in heav’n above<br/>Deigns to abide with us in love,<br/>Making our bodies His temple.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are God’s house of living stones,<br/>Built for His own habitation;<br/>He fills our hearts, His humble thrones,<br/>Granting us life and salvation.<br/>Were two or three to seek His face,<br/>He in their midst would show His grace,<br/>Blessings upon them bestowing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yet in this house, an earthly frame,<br/>Jesus His children is blessing;<br/>Hither we come to praise His name,<br/>Faith in our Savior confessing.<br/>Jesus to us His Spirit sent,<br/>Making with us His covenant,<br/>Granting His children the kingdom.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thro‘ all the passing years, O Lord,<br/>Grant that, when church bells are ringing,<br/>Many may come to hear God’s Word<br/>Where He this promise is bringing:<br/>I know My own, My own know Me:<br/>You, not the world, My face shall see;<br/>My peace I leave with you. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

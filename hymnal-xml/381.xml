@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>381 - Holy Sabbath Day of Rest</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>381</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Sabbath day of rest,<br/>By our Master richly blest,<br/>God created and divine,<br/>Set aside for holy time.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yes, the holy Sabbath rest,<br/>By our God divinely blest,<br/>It to us a sign shall be<br/>Throughout all eternity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seek not pleasures of this earth,<br/>With its folly, noise, and mirth,<br/>There are better things in store,<br/>Over on the other shore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As the Sabbath draweth on<br/>Friday eve at set of sun,<br/>Christian household then should meet,<br/>Sing and pray at Jesus’feet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Asking Him for saving grace,<br/>Also vict’ry in the race,<br/>And to help us by His pow’r,<br/>To keep holy every hour.</lines>
+    </verse>
+  </lyrics>
+</song>

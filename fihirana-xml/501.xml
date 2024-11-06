@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FANTATRO FA MISY ANARANA TSARA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>501</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fantatro fa misy anarana tsara<br/>'Zay mampifalifaly ny fo tokoa<br/>Ka raha sendra tsy zaka izay anjara<br/>Izy no mahay mampionona ny fo.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Anarana tsy manam-paharoa,<br/>Anarana soan'i Jeso.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fantatro fa misy anarana tsara<br/>'Zay mampitony ny tafio-drivotra<br/>Ary koa ny onja misamboaravoara<br/>Tonga tony ka tsy mampangovitra.<br/>Anarana, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fantatro fa misy anarana tsara<br/>'Zay atahoran'ny devoly tokoa,<br/>Anarana mandrindra koa ny tantara,<br/>Miahy ary manao 'zay mahasoa.<br/>Anarana, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Anarana iankohofan'ny anjejy<br/>Sy mamoha ny lanitra ho anao.<br/>Io no anarana tena mampahery<br/>Anaran'i Jeso 'zay Mpamonjinao.<br/>Anarana, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

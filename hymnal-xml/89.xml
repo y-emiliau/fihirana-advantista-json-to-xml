@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>089 - Let All on Earth Their Voices Raise</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>89</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let all on earth their voices raise,<br/>To sing the great Jehovah’s praise,<br/>And bless His holy name:<br/>His glory let the people know,<br/>His wonders to the nations show,<br/>His saving grace proclaim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He framed the globe; He built the sky;<br/>He made the shining worlds on high,<br/>And reigns in glory there:<br/>His beams are majesty and light;<br/>His beauties, how divinely bright!<br/>His dwelling place, how fair!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come, the great day, the glorious hour,<br/>When earth shall feel His saving power,<br/>All nations fear His name;<br/>Then shall the race of men confess<br/>The beauty of His holiness,<br/>His saving grace proclaim.</lines>
+    </verse>
+  </lyrics>
+</song>

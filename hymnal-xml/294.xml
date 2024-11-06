@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>294 - Power in the Blood</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>294</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Would you be free<br/>from the burden of sin?<br/>There’s pow’r in the blood,<br/>pow’r in the blood;<br/>Would you o’er evil<br/>a victory win?<br/>There’s wonderful<br/>power in the blood.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There is pow’r, pow’r,<br/>wonder working pow’r<br/>In the blood of the Lamb;<br/>There is pow’r, pow’r,<br/>wonder working pow’r<br/>In the precious blood of the Lamb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Would be free<br/>from your passion and pride?<br/>There’s pow’r in the blood,<br/>pow’r in the blood;<br/>Come for a cleansing<br/>to Calvary’s tide?<br/>There’s wonderful<br/>power in the blood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Would you do service<br/>for Jesus your King?<br/>There’s pow’r in the blood,<br/>pow’r in the blood;<br/>Would you live daily<br/>His praises to sing?<br/>There’s wonderful<br/>power in the blood.</lines>
+    </verse>
+  </lyrics>
+</song>

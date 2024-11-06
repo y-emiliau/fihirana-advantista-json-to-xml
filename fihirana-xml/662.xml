@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FOTOAM-BOLAMENA TOKOA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>662</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fotoam-bolamena tokoa<br/>'Lay hihaonako isa-maraina<br/>Amin'i Jeso Tompo soa<br/>'Zay mofo, ranon'aina.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Eny, mamy re ny fitiavany,<br/>Loharano mandrakizay,<br/>Fifaliana re ao an-tanany,<br/>Santatry 'lay rahatrizay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny tavany feno fitia,<br/>Mampisava ny fahoriana,<br/>Sy manamaivana ny dia,<br/>Mandresy hakiviana.<br/>Eny, mamy re, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Njao reko ny feony izao<br/>Toy ny antsa mandrotsirotsy<br/>Mameno 'lay maraina vao<br/>Ravahan-draozy fotsy.<br/>Eny, mamy re, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na dia hisoka tokoa<br/>Tony andro ety an-tany<br/>'Tsy mba ho kivy 'zao ny fo<br/>Fa Jeso eo ihany.<br/>Eny, mamy re, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>EFA IVELOMAKO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>182</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FANAHY MASINA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Efa ivelomako tokoa, Jeso,<br/>Ato am-poko ny fitiavanao.<br/>Nefa tiako koa raha izao tontolo izao<br/>No handray ny fahasoavanao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>O! reseo anio ny halemeko.<br/>Mihainoa ny vavako, Jeso,<br/>Ampidino eto ny Fanahinao<br/>Hampahery ny olonao Jeso.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny fahalalako ny fitiavanao<br/>Sy ny famonjena atolotrao,<br/>Hanameloka ahy raha izao tontolo izao<br/>Tsy hilazako ny fitiavanao.<br/>O! reseo anio ny halemeko</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tompo ô, henoy<br/>Ny vavaka ao am-po<br/>Ô ! iraho ny Fanahinao<br/>Hanafana anay sy hampahery anay<br/>Ary koa hitari-dalana.</lines>
+    </verse>
+  </lyrics>
+</song>

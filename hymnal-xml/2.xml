@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>002 - All Creatures of Our God and King</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>2</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All creatures of our God and King<br/>Lift up your voice and with us sing,<br/>Alleluia! Alleluia!<br/>O burning sun with golden beam<br/>And silver moon with softer gleam!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O praise Him! O praise Him!<br/>Alleluia! Alleluia! Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O rushing wind and breezes soft,<br/>O clouds that ride the winds aloft,<br/>O praise Him! Alleluia!<br/>O rising morn, in praise rejoice,<br/>O lights of evening, find a voice!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O flowing waters, pure and clear,<br/>Make music for your Lord to hear,<br/>O praise Him! Alleluia!<br/>O fire so masterful and bright,<br/>Providing us with warmth and light.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let all things their Creator bless,<br/>And worship Him in humbleness,<br/>O praise Him! Alleluia!<br/>Oh, praise the Father, praise the Son,<br/>And praise the Spirit, three in One!</lines>
+    </verse>
+  </lyrics>
+</song>

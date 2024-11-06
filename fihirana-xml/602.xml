@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>INONA NO TIANAO JESO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>602</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Inona no tianao, Jeso,<br/>Mba hatolotro Anao ?<br/>'Zay nitondra latsa, eso,<br/>Noho ny fitiavanao.<br/>Moa vola sy harena<br/>Na talenta, hery koa,<br/>Moa azonaoekena ?<br/>Sa tadiavinao ny fo ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Inona no tianao, Tompo,<br/>Mba ho fiderana Anao ?<br/>Dia Ianao izay nanompo<br/>Na dia Zanaka izao.<br/>Moa ny hira tsara indrindra<br/>'Zay miredona tokoa,<br/>Tena kanto sy mirindra ,<br/>Sa tadiavinao ny fo ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fahatanorana soa<br/>Moa ampy ho Anao ?<br/>Noho ny avotra analoa<br/>Tany Kalvary izao.<br/>'Zay ananako rehetra,<br/>Andro sy fotoana koa,<br/>Foiko re tsy misy fetra,<br/>Sa tadiavinao ny fo ?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Indro ary, Jeso tia,<br/>Fa hafoiko hatrizao,<br/>Tony foko izay mania,<br/>Raha tadiavinao.<br/>O ! amboary sy diovy<br/>Ho tempoly, lapa soa,<br/>Hamasino sy arovy<br/>Fa Anao tokoa, tokoa !</lines>
+    </verse>
+  </lyrics>
+</song>

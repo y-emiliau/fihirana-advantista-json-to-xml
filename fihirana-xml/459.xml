@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NY FOKO RY MPAMONJY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>459</ccliNo>
+    <authors>
+      <author>Rakoto sy Rabary</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NY FOKO RY MPAMONJY (TA459)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ny foko ry Mpamonjy !<br/>Mangetaheta Anao,<br/>Maniry lalandava<br/>Hikambana aminao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Tsy afaka ao am-poko<br/>Ny faniriana Anao,<br/>Oneno re ny, foko,<br/>Ho lapanao !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny androm-pahoriana,<br/>Raha lapanao ny fo,<br/>Manjary fitahiana<br/>Izay manadio ny fo.<br/>Tsy afaka ao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny ora fifaliana,<br/>Raha ao anilanao,<br/>Mamelom-paniriana<br/>Hanao ny sitrakao.<br/>Tsy afaka ao, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ho lao ny fahotako<br/>Raha akaikezinao,<br/>Tsy misy hadalako<br/>Izay tsy afakao.<br/>Tsy afaka ao, sns.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Finaritra ny saiko<br/>raha ipetrahanao,<br/>Fa reraka ny aiko<br/>Raha halavirinao.<br/>Tsy afaka ao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

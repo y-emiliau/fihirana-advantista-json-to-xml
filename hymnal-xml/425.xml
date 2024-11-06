@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>425 - Holy, Holy, Is What the Angels Sing</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>425</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is singing up in heaven<br/>such as we have never known,<br/>Where the angels sing the praises<br/>of the Lamb upon the throne;<br/>Their sweet harps are ever tuneful<br/>and their voices are always clear,<br/>O that we might be more like them<br/>while we serve the Master here!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy, holy, is what the angels sing,<br/>And I expect to help them make<br/>the courts of heaven ring;<br/>But when I sing redemption’s story,<br/>they will fold their wings,<br/>For angels never felt the joys<br/>that our salvation brings.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But I hear another anthem,<br/>blending voices clear and strong,<br/>“Unto Him who hath redeemed us<br/>and hath bought us,” is the song;<br/>We have come thro’ tribulations<br/>to this land so fair and bright,<br/>In the fountain freely flowing<br/>He hath made our garments white.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then the angels stand and listen,<br/>for they cannot join that song,<br/>Like the sound of many waters,<br/>by that happy, blood-washed throng;<br/>For they sing about great trials,<br/>battles fought and vict’ries won,<br/>And they praised the great Redeemer,<br/>who hath said to them, “Well done.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So, although I’m not an angel,<br/>yet I know that over there<br/>I will join a blessed chorus<br/>that the angels cannot share;<br/>I will sing about my Savior,<br/>who upon dark Calvary<br/>Freely pardoned my transgressions,<br/>died to set the sinner free.</lines>
+    </verse>
+  </lyrics>
+</song>

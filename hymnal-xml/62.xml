@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>062 - How Lovely Is Thy Dwelling Place</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>62</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How lovely is Thy dwelling place,<br/>O Lord of hosts to me!<br/>The tabenacles of Thy grace<br/>How pleasant, Lord, they be!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My thirsty soul longs ardently,<br/>Yea, faints Thy courts to see;<br/>My very heart and flesh cry out,<br/>O living God, for Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Behold the sparrow findeth out<br/>A house where-in to rest;<br/>The swallow also, for herself<br/>Provided hath a nest.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ev’n Thine own altars, where she safe<br/>Her young ones forth may bring,<br/>O Thou, almighty Lord of hosts,<br/>Who art my God and King.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Blest are they in Thy house that dwell,<br/>They ever give Thee praise.<br/>Blest is the man whose strength Thou art,<br/>In whose heart are Thy ways.</lines>
+    </verse>
+  </lyrics>
+</song>

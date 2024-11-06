@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESO O! INDRETO IZAHAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>204</ccliNo>
+    <authors>
+      <author>J. Ramahaisahy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeso ô, indreto izahay mpanomponao<br/>Avy hankalaza sy hanaja Anao izao.<br/>Raisonao ny saotra izay aterinay anio<br/>Ka ny vavakay re mba valio.<br/>Aza avelanao ho reraka izahay<br/>Fa tohano hery mba haharitra ;<br/>KA raha ho avy Ianao, dia ho vonona<br/>Izahay rehetra vory eto izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ry Fanahy ô, midina, aza ela re !<br/>Ny fiasanao mangina zava-dehiba.<br/>'Zao no zavatra irina : hamasinonao re<br/>Ny fiainanay mba ho Anao.<br/>O ! ampaherezo isan'andro anie<br/>Ka tantanonao re mba ho todisoa<br/>Ao an-danitra, dia ho sambatra<br/>Handiva lova izay maharitra.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ray ô, mamalia ny vavakay atao izao,<br/>Raiso ho toy ny hanitra ankasitrahanao<br/>KA diovinao ny tena, saina sy fanahy,<br/>Atokàny re mba ho Anao.<br/>Manantena lanitra sy tany vaovao<br/>Izahay rehetra vory eto izao ;<br/>KA ho sambatra, ao an-danitra:<br/>Hiara-paly aminao mandrakizay.</lines>
+    </verse>
+  </lyrics>
+</song>

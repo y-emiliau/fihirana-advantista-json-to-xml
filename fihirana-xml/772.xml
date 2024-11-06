@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TIAKO, HE, TIAKO NY MIHIRA (TIAKO NY MIHIRA)</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>772</ccliNo>
+    <authors>
+      <author>Rasolofoniaina Joseph</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>:,: Tiako, he tiako ny mihira,<br/>(Hiran’ny lanitra e! ô! Mitory fiadanana)<br/>Ny hiran-danitra mitory fiadanana.<br/>Tiako satria ‘lay fifaliako,<br/>Jesosy Tompo no ato am-poko,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Feo 1,2,3,4 Eny ô! Tsy haiko<br/>ny hangina, anh,<br/>Feo 2,3 Tsy hangina aho,<br/>tsy hangina e!<br/>Feo 1,4 Tsy hangina anh,<br/>tsy hangina anh,<br/>tsy hangina,<br/>Feo 2,3 Tsy hangina,<br/>tsy hangina aho,<br/>tsy hangina!<br/>Feo 1,4 Ka tsy haiko<br/>ny hangina, anh,<br/>tsy hangina anh,<br/>Feo 2,3 Ka tsy haiko ny hangina, tsy hangina aho, tsy hangina e! :,:<br/>Feo 1,4 Tsy hangina, anh,<br/>tsy hangina.<br/>Feo 2,3 Tsy hangina,<br/>tsy hangina aho,<br/>tsy hangina! :,:<br/>Andao isika, andao hihira<br/>fifaliana,<br/>Ho fiderana ny Tompo<br/>Mpamonjy mahery.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>:,: Tsy tiako intsony ny mihiran’<br/>(Izao tontolo izao e! ô!<br/>‘zay fahaverezana)<br/>Izay mitondra ho amin’ny<br/>fahaverezana;<br/>Tsy tiako intsony ny mihaino<br/>Satria ny tsara no ato am-poko.<br/>Eny ô! Tsy haiko ny hangina, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>178 - The Unveiled Christ</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>178</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once our blessed Christ of beauty<br/>Was veiled off from human views;<br/>But through suffering, death, and sorrow<br/>He has rent the veil in two.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O behold the Man of Sorrows!<br/>O behold Him in plain view!<br/>Lo! He is the mighty Conqueror<br/>Since her rent the veil in two;<br/>Lo! He is the mighty Conqueror<br/>Since her rent the veil in two.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes, He is with God, the Father,<br/>Interceding there for you;<br/>For He is the Well beloved<br/>Since He rent the veil in two.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy angels bow before Him,<br/>Men of earth give praises due;<br/>For He is the mighty Conqueror<br/>Since He rent the veil in two.</lines>
+    </verse>
+  </lyrics>
+</song>

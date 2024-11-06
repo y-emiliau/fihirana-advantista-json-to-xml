@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AMPIDINO ETO ANIO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>497</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ampidino eto anio, Ny herinao Ray ô <br/>Henoy ny vavakay avy ao am-po <br/>Trotroinay Aminao Ka mba jereo <br/>’Reto zanakao. <br/>(1e)  Henoy ny vavakay,  <br/>(3e, 4è ) Hinoanay fa hitarik’azy Ianao <br/>(2e, 3e, 4è ) N’aiza n’aiza aleha hiambin’azy Ianao <br/>(1e)  Ka valio izahay<br/>(2e, 3e, 4è ) Satria fantatray fa tia azy Ianao<br/>(All) Ka ambany elatrao, no hialofany <br/>( 1e, 3e, 4è) Raha sendra ny manjo<br/> ( 2è) Raha sendra ny ady sarotra e!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Irianay koa ny hasoavanao Ray ô <br/>Tsy hisaraka’aminay n’aiza aleha <br/>Famirapiratrao ho tazanay <br/>Fa tia azy Ianao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aza avela ho resy ireo Ray ô <br/>Aza ilaozanao f’ efa anao <br/>Ny asa ataony anie mba hombanao <br/>Sy Hiderany anao.</lines>
+    </verse>
+  </lyrics>
+</song>

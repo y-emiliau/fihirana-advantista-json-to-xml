@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>O! ANDAO, MITSANGANA IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>292</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O ! andao mitsangàna izao ianao<br/>Ka lazao ny fitiavan'Ilay Tomponao.<br/>Mitoria, mifalia, ka avia, malakia.<br/>Ilazao 'reo havanao, ilazao 'reo nania.<br/>O ! avia, (O ! avia)<br/>Mitoria, (mitoria)<br/>Ny fitiavan'Ilay Jeso tia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tsofy mafy hanako ny trompetranao<br/>Hilazàna fa ho avy ilay Mpanjakanao.<br/>Efa akaiky Izy izao, tsy ho ela, injao !<br/>Hanamafy ary koa hanome valisoa.<br/>O ! andao, O ! andao,<br/>Mba lazao, mba lazao<br/>Fa ho avy Ilay Mpanjakanao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mifohaza izao ka ovay ny fonao<br/>Fa andrao na mitory, hatory ianao<br/>Ialao ny otanao ka ny Tomponao no araho<br/>Dia hadio sy ho vao ka hahomby ianao<br/>Mijoroa, mijoroa<br/>Mandrosoa, mandrosoa<br/>Fa akaiky ny Mpamonjy soa.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>EFA AKAIKY 'LAY ANDRO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>136</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Efa akaiky 'lay andro malaza<br/>Hisokafan'ny lanitra re,<br/>Ka hiseho 'lay tena mazava<br/>Hampisava ny alina re</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Haleloia ! Hosana, ry Tompo !<br/>Haleloia ! hoy ireto mpanompo !<br/>Mihoby Anao 'zahay,<br/>Ry Ilay Mpanjakanay !<br/>Haleloia re ho amin'ny Avo !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Efa akaiky ilay fandresena :<br/>Hovohana ny fasana re,<br/>Ka hitsangana ireo 'zay nekena<br/>Ho mpandova ny lanitra e !<br/>Haleloia, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Efa akaiky ilay fitsenana,<br/>eo an-drahon'ny lanitra e,<br/>An'i Jeso Mpamonjy, Hosana !<br/>Hoy ny hiran'ireo marobe.<br/>Haleloia, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Efa akaiky ilay vavahady<br/>Hankanesana amin'ny Ray<br/>Handrosoan'ireo afaka ady :<br/>Efa very fa hita indray !<br/>Haleloia, sns.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Efa akaiky ilay famonjena<br/>Ka ny ratsy mandoza ho lao<br/>Fahoriana koa ho resena<br/>Hira, hoby izao no hatao.<br/>Haleloia, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

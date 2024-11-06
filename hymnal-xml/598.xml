@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>598 - Watch, Ye Saints</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>598</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Watch, ye saints, with eyelids waking;<br/>Lo! The powers of heaven are shaking;<br/>Keep your lamps all trimmed an burning,<br/>Ready for your Lord’s returning.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lo! He comes, lo! Jesus comes;<br/>Lo! He come, He comes all glorious!<br/>Jesus comes to reign victorious,<br/>Lo! He comes, yes, Jesus comes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lo! the promise of your Savior,<br/>Pardoned sin and purchased favor,<br/>Blood-washed robes and crowns of glory;<br/>Haste to tell redemption’s story.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kingdoms at their base are crumbling,<br/>Hark! His chariot wheels are rumbling;<br/>Tell, O tell of grace abounding,<br/>While the seventh trump is sounding.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nations wane, though proud and stately;<br/>Christ His kingdom hasteneth greatly;<br/>Earth her latest pangs is summing;<br/>Shout, ye saints, your Lord is coming.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sinners, come, while Christ is pleading;<br/>Now for you He’s interceding;<br/>Haste, ere grace and time diminished<br/>Shall proclaim the mystery finished.</lines>
+    </verse>
+  </lyrics>
+</song>

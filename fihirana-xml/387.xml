@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>INONA E NO HOLAZAIKO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>387</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ô ! inona e, no holazaiko<br/>Eto anatrehanao ry Tsitoha ?<br/>Tonga eto hifona aminao.<br/>Tsy mendrika aho, diso tokoa.<br/>Ny fitiavano no antenaiko<br/>Fa mavesatra ato am-poko ato<br/>Ny ota natao.<br/>Tsy miafina eo aminao<br/>Ny ao am-poko, ao Jeso.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Atolotro, Ray malala ô,<br/>Ny tenako maba hodovinao.<br/>Tsy izaho intsony no velon fa<br/>Ianao no ao anatiko ao.<br/>Ka ny zavatra hany ato an-tsaiko<br/>Dia ny famonjena<br/>Izay nataonao tao Kalvary,<br/>Satria, ry Tompo,<br/>Manomboka anio<br/>Dia fo vaovao no omenao ahy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tantano aho, Ray Malala ô,<br/>Ka ny finoako koa hatanjaho<br/>Ataovy velona anatiko ao<br/>Ny didinao, ny teninao.<br/>Ampidino koa ny Fanahy<br/>Mba ho ren'ny fiangonanao<br/>anio ny antsonao.<br/>Ho maro anie no hitsangana izao<br/>hanolo-tena ho Anao.</lines>
+    </verse>
+  </lyrics>
+</song>

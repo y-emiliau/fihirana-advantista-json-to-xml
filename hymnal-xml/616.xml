@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>616 - Soldiers of Christ, Arise</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>616</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soldiers of Christ,arise,<br/>And put your armor on,<br/>Strong in the strength which God supplies<br/>Through His eternal Son<br/>Strong in the Lord of hosts,<br/>And in His mighty power,<br/>Who in the strength of Jesus trusts<br/>Is more than conqueror.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stand then in His great might,<br/>With all His strength endued,<br/>But take, to arm you for the fight,<br/>The panoply of God;<br/>That, having all things done,<br/>And all your conflicts passed,<br/>Ye may o’ercome through Christ alone,<br/>And stand entire at last.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From strength to strength go on,<br/>Wrestle and fight and pray,<br/>Tread all the powers of darkness down<br/>And win the well-fought day.<br/>Still let the Spirit cry<br/>In all His soldiers, “Come!”<br/>Till Christ the Lord who reigns on high<br/>Shall take the conquerors home.</lines>
+    </verse>
+  </lyrics>
+</song>

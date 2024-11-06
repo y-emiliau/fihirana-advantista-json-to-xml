@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HIADY, JESO O!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>491</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hiady, Jeso ô,<br/>No iantsoanao anay<br/>Indreto izahay re<br/>Hanao ny sitrakao.<br/>Hanao ny sitrakao<br/>No itsangananay.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tafio 'zahay ;<br/>Tafio ny fo<br/>Tafio fiadanana izahay<br/>Handresy ho voninahitrao.<br/>Tafio 'zahay.<br/>Tafio ny fo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tafio finoana re<br/>Ka hafanao ny fonay;<br/>Ny hery, fahendrenay<br/>Ampitomboy, ho be<br/>Areheto izahay<br/>Ho mpandresy mahay.<br/>Tafio 'zahay, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hasandratray tokoa<br/>any hazo fijaliana,<br/>Ka amim-pifaliana<br/>No handresenay koa.<br/>Ny ran'ny Tomponay<br/>No hampandresy anay.<br/>Tafio 'zahay, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Miadia, miareta re<br/>Fa handresy isika.<br/>Hatao an-dohantsika<br/>'Lay diadema anie.<br/>Miadia, miareta moa<br/>HAnjakantsika koa.<br/>Tafio 'zahay, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

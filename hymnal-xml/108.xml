@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>108 - Amazing Grace</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>108</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing grace! How sweet the sound<br/>that saved a wretch like me!<br/>I once was lost, but now am found;<br/>was blind, but now I see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‘Twas grace that taught my heart to fear,<br/>and grace my fears relieved;<br/>how precious did that grace appear<br/>the hour I first believed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord has promised good to me,<br/>his word my hope secures;<br/>he will my shield and portion be,<br/>as long as life endures.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Through many dangers, toils, and snares,<br/>I have already come;<br/>’tis grace hath brought me safe thus far,<br/>and grace will lead me home.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When we’ve been there ten thousand years,<br/>bright shining as the sun,<br/>we’ve no less days to sing God’s praise<br/>than when we first begun.</lines>
+    </verse>
+  </lyrics>
+</song>

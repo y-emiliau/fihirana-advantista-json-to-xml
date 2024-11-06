@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY MPAMONJIKO TSARA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>91</ccliNo>
+    <authors>
+      <author>J. Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Mpamonjiko tsara,<br/>'Zao no tiako hambara :<br/>O, meteza Ianao,<br/>Ho Mpiaro ahy 'zao<br/>O, manahy ny foko,<br/>Ory sy mitoloko<br/>Noho ny ota natao.<br/>Hotsaraina izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeso, Mpisolovava,<br/>Ianao mahalala.<br/>'Ndrisy meloka be,<br/>mamindrà fo anie.<br/>Aoka ny ranao soa<br/>Hanadio ahy koa<br/>Ka ny ota natao,<br/>Hofafana izao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><<Eny, ampy ny rako,<br/>Manatòna ho sasako<br/>Dieny azo atao,<br/>Ry mpanota izao.<br/>O, avia ka minoa<br/>Hofafako avokoa<br/>otanao marobe.<br/>Mitrakà, mijere>></lines>
+    </verse>
+  </lyrics>
+</song>

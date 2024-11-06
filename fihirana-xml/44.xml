@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY TOMPONAY Ô!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>44</ccliNo>
+    <authors>
+      <author>Samoely Lala James</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Tomponay ô !<br/>Mahagaga loatra<br/>Ny zava-bitan'ilay tananao.<br/>Tsy takatry ny saiko<br/>Sy ny foko<br/>Ny herin'ilay Teny ao aminao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>O ! ry fanahiko derao, hobio<br/>Jehovah, Ray Mpahary anao.<br/>O ! ry fanahiko andeha torio<br/>Ny vininahiny hatrizao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rah jereko ireto zavaboary,<br/>Dia samy manana ny toerany<br/>Ny kintana, ny raozy,<br/>Ny hazandrano,<br/>Misaotra Anao,<br/>Noho ireo fonenany.<br/>O ! ry fanahiko, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny olon 'zay sangan'asanao,<br/>Naniasia nefa notiavinao.<br/>Ny tany izay mihasimba sy lao.<br/>Havaozinao ho Tany vaovao.<br/>O ! ry fanahiko, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

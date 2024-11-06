@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>622 - Come, Come, Ye Saints</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>622</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, come, ye saints,<br/>no toil nor labor fear;<br/>But with joy wend your way.<br/>Though hard to you the journey may appear,<br/>Grace shall be as your day.<br/>We will have a living lord to guide,<br/>And we can trust Him to provide;<br/>Do this, and joy your hearts will swell:<br/>All is well! All is well!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We’ll find the rest which God for us prepared,<br/>When at last He will call;<br/>Where none will come to hurt or make afraid,<br/>He will reign over all.<br/>We will make the air with music ring,<br/>Shout praise to God our Lord and King:<br/>O how we’ll make the chorus swell:<br/>All is well! All is well!</lines>
+    </verse>
+  </lyrics>
+</song>

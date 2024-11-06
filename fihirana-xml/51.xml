@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>INONA JESO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>51</ccliNo>
+    <authors>
+      <author>R. Tovoarimino</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Inona, Jeso,<br/>No hoentiko ho Anao ?<br/>Moa ny foko ve<br/>mendrika ho Anao Jeso ?<br/>Lazao (omeko)<br/>Fa omeko Anao<br/>Izao anoio izao<br/>Hidera sy hankalaza Anao<br/>Ry foko ô ! hirao</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Feo 1 :<br/>O ! hirao<br/>Feo 2,3,4 :<br/>Haleloia sy Hosana<br/>Feo 1 :<br/>Haleloia sy Hosana<br/>No hirao, ry foko<br/>Feo 2,3,4 :<br/>O ! ry foko mihirà<br/>Feo 1 :<br/>Mihirà, ô ! hirao<br/>Hosana<br/>Feo 2,3,4 :<br/>Haleloia sy Hosana<br/>Ka derao ny Tompo<br/>Mihirà, ry foko<br/>Ankalazao, Jeso.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Inona, Jeso<br/>No mba hataoko aty ?<br/>Moa ve hisento<br/>Sy hitomany koa, Jeso ?<br/>Lazao (iriko)<br/>Faniriako ve<br/>Ny hihira ho Anao<br/>Hidera sy hankalaza Anao<br/>Ry foko ô, hirao.<br/>Haleloia, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Inona, Jeso<br/>No foko ho Anao ?<br/>Mba ho takalin'izay<br/>Natolotrao, Jeso ?<br/>Lazao (hafoiko)<br/>Moa hafoiko ve<br/>Izao rehetra izao<br/>Hidera sy hankalaza Anao<br/>Ry foko ô, hirao.<br/>Haleloia, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

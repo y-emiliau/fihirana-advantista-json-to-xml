@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>152 - Tell Me the Story of Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>152</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tell me the story of Jesus,<br/>Write on my heart every word.<br/>Tell me the story most precious,<br/>Sweetest that ever was heard.<br/>Tell how the angels in chorus,<br/>Sang as they welcomed His birth.<br/>“Glory to God in the highest!<br/>Peace and good tidings to earth.”</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tell me the story of Jesus,<br/>Write on my heart every word.<br/>Tell me the story most precious,<br/>Sweetest that ever was heard.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fasting alone in the desert,<br/>Tell of the days that are past.<br/>How for our sins He was tempted,<br/>Yet was triumphant at last.<br/>Tell of the years of His labor,<br/>Tell of the sorrow He bore.<br/>He was despised and afflicted,<br/>Homeless, rejected and poor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tell of the cross where they nailed Him,<br/>Writhing in anguish and pain.<br/>Tell of the grave where they laid Him,<br/>Tell how He liveth again.<br/>Love in that story so tender,<br/>Clearer than ever I see.<br/>Stay, let me weep while you whisper,<br/>Love paid the ransom for me.</lines>
+    </verse>
+  </lyrics>
+</song>

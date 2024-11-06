@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TENY SOA SAROBIDY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>775</ccliNo>
+    <authors>
+      <author>Rasamizafy Vonjiniaina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teny soa sarobidy no nomenao,<br/>Nomenao ho fiainanay,<br/>Azo antoka tokoa ny fiainanay<br/>Hazavain’ny Teninao, ry Ray (ry Ray).</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Teny, teny soa sy fiainanay,<br/>Teny, teny soa ho sakafonay;<br/>Velona tokoa ny fanahinay<br/>Miaraka amin’ny Teninao, ry Ray!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ry Fanahy! mitoera ato anatinay<br/>Hampianatra sy hanoro anay<br/>Ilay Teny Masina ‘zay nomenao<br/>Ka hitondra fiainana vaovao (ho anay).<br/>Teny, teny soa, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hamasino izahay, Andriamanitro ô!<br/>Mba hitovy toetra Aminao,<br/>Ka hitory ilay fitiavan-dehibe<br/>Amin’ireo tsy mbola nandre (Anao).<br/>Teny, teny soa, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

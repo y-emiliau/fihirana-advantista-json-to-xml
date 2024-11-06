@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>068 - On Our Way Rejoicing</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>68</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On our way rejoicing<br/>Gladly let us go;<br/>Conquer’d hath our Leader,<br/>Vanquish’d is the foe.<br/>Christ without, our safety;<br/>Christ within, our joy;<br/>Who, if we be faithful,<br/>Can our hope destroy?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On our way rejoicing<br/>As we forward move,<br/>Hearken to our praises,<br/>O blest God of love!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unto God the Father<br/>Joyful songs we sing,<br/>Unto God the Savior<br/>Thankful hearts we bring,<br/>Unto God the Spirit<br/>Bow we and adore,<br/>On our way rejoicing<br/>Now and evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

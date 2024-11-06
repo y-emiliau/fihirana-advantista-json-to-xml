@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>517 - My Faith Looks Up to Thee</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>517</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My faith looks up to thee,<br/>thou Lamb of Calvary,<br/>Savior divine;<br/>Now hear me while I pray,<br/>take all my guilt away,<br/>O let me from this day<br/>be wholly Thine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May thy rich grace impart<br/>strength to my fainting heart,<br/>my zeal inspire!<br/>As thou hast died for me,<br/>O may my love to thee<br/>pure, warm, and changeless be,<br/>a living fire!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>While life’s dark maze I tread,<br/>and griefs around me spread,<br/>be thou my guide;<br/>bid darkness turn to day,<br/>wipe sorrow’s tears away,<br/>nor let me ever stray<br/>from Thee aside.</lines>
+    </verse>
+  </lyrics>
+</song>

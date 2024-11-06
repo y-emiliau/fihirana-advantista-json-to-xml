@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>072 - Creator of the Stars of Night</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>72</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Creator of the stars of night,<br/>Thy people’s everlasting light,<br/>O Christ, Thou Saviour of us all,<br/>We pray Thee, hear us when we call.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At the great name of Jesus, now<br/>All knees must bend, all hearts must bow;<br/>And things celestial Thee shall own,<br/>And things terrestrial, Lord alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To God the Father, God the Son,<br/>And God the Spirit, Three in One,<br/>Laud, honour, might, and glory be<br/>From age to age eternally.<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

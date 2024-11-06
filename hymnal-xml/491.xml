@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>491 - In the Hour of Trial</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>491</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the hour of trial, Jesus, plead for me,<br/>Lest by base denial I depart from Thee;<br/>When Thou see’st me waver, with a look recall,<br/>Nor, for fear or favor, suffer me to fall.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With forbidden pleasures would this vain world charm;<br/>Or its sordid treasures spread to work me harm;<br/>Bring to my remembrance sad Gethsemane,<br/>Or, in darker semblance, cross-crowned Calvary.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Should Thy mercy send me sorrow, toil, and woe,<br/>Or should pain attend me on my path below,<br/>Grant that I may never fail Thy hand to see;<br/>Grant that I may ever cast my care on Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

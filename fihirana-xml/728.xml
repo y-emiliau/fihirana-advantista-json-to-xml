@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAHA MISEHO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>728</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raha miseho ery<br/>Anaty rahona ery,<br/>Ianao Jeso,<br/>Ka anjely marobe<br/>No indray, hihira hoe<br/>Ary hanelatrelatra ao<br/>Ny voninahitrao<br/>Fa izao rehetra izao<br/>Hiankohoka aminao,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Ho haiko tantaraina moa<br/>Ny hafaliako ao am-po<br/>Handraisako Anao<br/>Ka hiderako Anao<br/>Mpanjakako Tsitoha ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha miseho ery<br/>Anaty rahona ery,<br/>Ianao Jeso,<br/>Ary havaozinao indray<br/>'Ty mety lo ity,<br/>Ireo maty ao aminao<br/>hatsangana avokoa<br/>Ka hampidininao ety<br/>Ny Tany vaovao<br/>Ho haiko tantaraina, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Ndray hihoby avokoa<br/>Ireo voavonjinao ireo, Jeso,<br/>Ka hiara hanandra-peo<br/>Ho fiderana Anao.<br/>Ary atolotray Anao,<br/>Mpanjaka lehibe,<br/>Dera sy ny haja<br/>Mba ho hasina ho Anao,<br/>Ho haiko tantaraina, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

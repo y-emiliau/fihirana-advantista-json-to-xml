@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>281 - I Gave My Life for Thee</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>281</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I gave my life for thee,<br/>My precious blood I shed,<br/>That thou might’st ransom be,<br/>And quickened from the dead;<br/>I gave, I gave My life for thee,<br/>What hast thou given for Me?<br/>I gave, I gave My life for thee,<br/>What hast thou given for Me?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Fathers house of light,<br/>My glory circled throne,<br/>I left for earthly night,<br/>For wanderings sad and lone;<br/>I left, I left it all for thee,<br/>Hast thou left aught for Me?<br/>I left, I left it all for thee,<br/>Hast thou left aught for Me?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I suffered much for thee,<br/>more than thy tongue can tell,<br/>Of bitterest agony,<br/>To rescue thee from hell;<br/>I’ve borne, I’ve borne it all for thee,<br/>What hast thou borne for Me?<br/>I’ve borne, I’ve borne it all for thee,<br/>What hast thou borne for Me?</lines>
+    </verse>
+  </lyrics>
+</song>

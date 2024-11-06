@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>DERAIKO NY ANARANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>40</ccliNo>
+    <authors>
+      <author>Raymond B. Rakotondrainibe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deraiko ny anaranao,<br/>Antsoiko mba ho re izao<br/>Satria fitiavan-dehiba,<br/>Fanetren-tena tsy fandre<br/>Fanetren-tena tsy fandre.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>:,: Jeso, Jeso<br/>Deraiko ny anaranao :,:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha avy ny maraina koa<br/>Tsy hadinoko raha vao mifoha<br/>Ny hariva rehefa tonga indray<br/>Hanandratra Anao ry Ray<br/>Hanandratra Anao ry Ray.<br/>Jeso, Jeso, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hidera Anao tsy tapaka,<br/>Ry Tompo 'zay Mpanafaka,<br/>Raha sarotra ny làlana<br/>Ianao mahay mitantana<br/>Ianao mahay mitantana.<br/>Jeso, Jeso, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ny onja sy tafiotra koa<br/>Dia tsy hisy atahorako<br/>Satria efa voalanjanao<br/>Ary baikon'ny tananao<br/>Ary baikon'ny tananao.<br/>Jeso, Jeso, sns.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ambara-piavinao indray<br/>Ho tonga sy handray anay<br/>Hataonay ny sitrakao<br/>Derainay ny anaranao<br/>Derainay ny anaranao.<br/>Jeso, Jeso, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

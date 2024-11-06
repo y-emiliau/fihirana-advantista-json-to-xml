@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>069 - Lord, Make Us More Holy</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>69</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, make us more holy;<br/>Lord, make us more holy;<br/>Lord, make us more holy<br/>Until we meet again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, make us more faithful;<br/>Lord, make us more faithful;<br/>Lord, make us more faithful<br/>Until we meet again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, make us more humble;<br/>Lord, make us more humble;<br/>Lord, make us more humble<br/>Until we meet again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord, make us more loving;<br/>Lord, make us more loving;<br/>Lord, make us more loving<br/>Until we meet again.<br/>Like Jesus, the Saviour,<br/>Until we meet again.</lines>
+    </verse>
+  </lyrics>
+</song>

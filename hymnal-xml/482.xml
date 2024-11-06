@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>482 - Father, Lead Me Day by Day</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>482</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, lead me day by day,<br/>Ever in Thine own sweet way;<br/>Teach me to be pure and true;<br/>Show me what I ought to do.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When in danger, make me brave;<br/>Make me know that Thou canst save;<br/>Keep me safe by Thy dear side;<br/>Let me in Thy love abide.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When tempted to do wrong,<br/>Make me steadfast, wise, and strong;<br/>And when all alone I stand,<br/>Shield me with Thy mighty hand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May I do the good I know,<br/>Be Thy loving child below,<br/>Then at last go home to Thee,<br/>Evermore Thy child to be.</lines>
+    </verse>
+  </lyrics>
+</song>

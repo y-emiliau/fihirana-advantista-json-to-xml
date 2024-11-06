@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>'REO TAONA TAO NAZARETA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>66</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Reo taona tao Nazareta<br/>Taona kanto tokoa<br/>'Zay nahitan'ny rehetra<br/>'Lay loharano soa.<br/>Izay niboika maizina<br/>Ka toy ny nofy re,<br/>Nangina toy ny alina,<br/>Tsy nisy feo 'zay re.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Reo taona tao Nazareta<br/>Dia taona niafina.<br/>Mahaliana ny rehetra<br/>Tian-kotarafina.<br/>Fa toy ny rano an'ony<br/>ambany volana :<br/>Mandray taratra avy any ambony :<br/>Jeso, hazavana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Reo taona tao Nazareta<br/>Taonan'ny adidy.<br/>Toy ny zatovo rehetra<br/>Jeso dia nifidy.<br/>Toy ny tanora namany<br/>'Zay nifidy lalao,<br/>Jeso nandray ho anjarany<br/>Ny hamonjy anao.</lines>
+    </verse>
+  </lyrics>
+</song>

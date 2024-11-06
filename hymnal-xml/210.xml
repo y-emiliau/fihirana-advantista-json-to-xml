@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>210 - Wake, Awake for the Night Is Flying</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>210</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wake, awake, for night is flying,<br/>The watchmen on the heights are crying,<br/>Awake, Jerusalem, arise!<br/>Midnight’s solemn hour is tolling,<br/>His chariot wheels are nearer rolling,<br/>He comes; prepare, ye virgins wise.<br/>Rise up with willing feet<br/>Go forth, the Bridegroom meet; Alleluia!<br/>Bear through the night your well-trimmed light,<br/>Speed forth to join the marriage rite.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zion hears the watchmen singing,<br/>Her heart with deep delight is springing,<br/>She wakes, she rises from her gloom;<br/>Forth her Bridegroom comes, all-glorious,<br/>In grace arrayed, by truth victorious;<br/>Her Star is risen, her Light is come!<br/>All hail, incarnate Lord,<br/>Our crown, and our reward! Alleluia!<br/>We haste along, in pomp and song,<br/>And gladsome join the marriage throng.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lamb of God, the heavens adore Thee,<br/>And men and angels sing before Thee,<br/>With harp and cymbal’s clearest tone.<br/>By the pearly gates in wonder<br/>We stand, and swell the voice of thunder,<br/>That echoes round Thy dazzling throne.<br/>No vision ever brought,<br/>No ear hath ever caught,<br/>Such bliss and joy;<br/>We raise the song, we swell the throng,<br/>To praise Thee ages all along.</lines>
+    </verse>
+  </lyrics>
+</song>

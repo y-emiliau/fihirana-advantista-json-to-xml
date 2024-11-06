@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HAFALIAM-BE</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>132</ccliNo>
+    <authors>
+      <author>J. Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hafaliam-be, he, Hosana re.<br/>Hoby sy fisaorana no asandratray,<br/>Ry Mpanavotray,<br/>Zanak'Andriamanitra.<br/>Tsapanay 'zao, ny fitiavanao.<br/>Tena zava-dehibe tokoa.<br/>Fa nanetry tena ho olona<br/>Nefa Andriamanitra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Reo anjely koa, gaga avokoa<br/>Noho ny fitiavanao.<br/>Fa nilaozanao, ny toeranao,<br/>Seza fiandrianana.<br/>Tianay 'zao, mba handeha hankao<br/>Betlehema, hiankohoka<br/>Anoloanao, ry Mpamonjy soa<br/>Fa navotanao tokoa,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fa mba inona, no haterinay<br/>Ho fanati-tsitrapo ?<br/>Mendrika ho Anao,<br/>Ry Mpanjakanay.<br/>Tena Andriamanitra.<br/>Moa vola sy harena ve ?<br/>No ilainao hanajana Anao ?<br/>Tsia fa ny fo sy fiainanay<br/>Ho Anao tokoa. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

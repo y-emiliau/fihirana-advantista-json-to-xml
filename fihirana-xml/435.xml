@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>EFA NOMEKO HO ANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>435</ccliNo>
+    <authors>
+      <author>D. Razakaria</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Efa nomeko ho Anao<br/>Ny foko, ry Jeso.<br/>Efa fantatrao ny fiainako,<br/>Tsy miafina eo imasonao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Endrey ny fifaliako<br/>Manana Anao<br/>Mitantana sy momba ahy,<br/>Tompo ô !<br/>Ny hanompo Anao <br/>No tarigetrako.<br/>Ho voninahitrao ny ataoko anie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Izay ilaiko dia omenao<br/>Faly aho, afa-po.<br/>Ampoky ny fahasoavanao<br/>Ny fiainako,<br/>Misaotra, Jeso.<br/>Endrey ny fifaliako, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

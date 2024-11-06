@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>629 - O Happy Band of Pilgrims</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>629</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O happy band of pilgrims,<br/>If onward ye will tread<br/>With Jesus as your fellow,<br/>To Jesus as your Head!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O happy if ye labor<br/>As Jesus did for men;<br/>O happy if ye hunger<br/>As Jesus hungered then!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The trials that beset you,<br/>The sorrows ye endure,<br/>The manifold temptations<br/>That death alone can cure,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What are they but His jewels<br/>Of right celestial worth?<br/>What are they but the ladder<br/>Set up to heaven on earth?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O happy band of pilgrims,<br/>Look upward to the skies,<br/>Where such a light affliction<br/>Shall win you such a prize!</lines>
+    </verse>
+  </lyrics>
+</song>

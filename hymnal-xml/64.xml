@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>064 - Lord, Dismiss Us With Thy Blessing</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>64</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, dismiss us with thy blessing;<br/>fill our hearts with joy and peace;<br/>let us each, thy love possessing,<br/>triumph in redeeming grace.<br/>O refresh us, O refresh us,<br/>traveling through this wilderness.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thanks we give and adoration<br/>for thy gospel’s joyful sound.<br/>May the fruits of thy salvation<br/>in our hearts and lives abound;<br/>ever faithful, ever faithful<br/>to the truth may we be found.</lines>
+    </verse>
+  </lyrics>
+</song>

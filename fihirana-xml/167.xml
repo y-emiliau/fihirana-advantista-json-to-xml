@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>EFA ANTOMOTRA NY ORA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>167</ccliNo>
+    <authors>
+      <author>A. Emiliarison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Efa antomotra ny ora,<br/>Ho avy faingana Kristy.<br/>Atsaharo, ry natiora,<br/>Ny sento fandre ety<br/>Ho avy faingana ny Tompo !<br/>O ! tongava Jeso ô ! Avia !<br/>O, tongava Jeso ô !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Zao ny tany dia mitory<br/>Ny adinao teo Kalvary<br/>Fa avy ny andro, tsy ela akory<br/>Hahitany Anao Kristy<br/>Ho avy faingana ny Tompo !<br/>O ! ry foko ô, hirao ! Hirao !<br/>O, ry foko ô, hirao !</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hirao 'lay fanantenana,<br/>Raiso ny lokanganao,<br/>Ianao 'zay tsy tamana,<br/>Na aiza na aiza,ô hirao.<br/>Ho avy faingana ny Tompo !<br/>O ! tongava faingana, Jeso<br/>O ! tongava faingana !</lines>
+    </verse>
+  </lyrics>
+</song>

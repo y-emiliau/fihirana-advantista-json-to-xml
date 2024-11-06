@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MIARA-MIATRIKA NY HOAVY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>774</ccliNo>
+    <authors>
+      <author>S. Lala-James</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miara-miatrika ny hoavy<br/>Amin’ilay Mpamonjy tia,<br/>Ifikiro mafy ny tanany<br/>Anio sy ho mandrakizay.<br/>:,: Tsy ho ela intsony<br/>Dia ho avy indray Kristy,<br/>Ireo fahoriana izay nampitomany<br/>Hampodiny ho tonga zava-tsoa; :,:<br/>Matokia (matokia) Azy (matokia)<br/>Ka minoa (ka minoa) Azy (dieny anio)<br/>Ka ny fonao sy ny Azy<br/>Hifandray mandrakizay doria.<br/>Miara-miatrika ny hoavy<br/>Amin’ilay Mpamonjy tia,<br/>Ifikiro mafy ny tanany<br/>Anio sy ho mandrakizay.<br/>Amena! Amena! Amena!</lines>
+    </verse>
+  </lyrics>
+</song>

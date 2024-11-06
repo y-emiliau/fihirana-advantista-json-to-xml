@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>212 - 'Tis Almost Time for the Lord to Come</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>212</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>’Tis almost time for the Lord to come,<br/>I hear the people say;<br/>The stars of heaven are growing dim,<br/>It must be the breaking of the day.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O it must be the breaking of the day!<br/>O it must be the breaking of the day!<br/>The night is almost gone,<br/>The day is coming on;<br/>O it must be the breaking of the day!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The signs foretold in the sun and moon,<br/>In earth and sea and sky,<br/>Aloud proclaim to all mankind,<br/>The coming of the Master draweth nigh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It must be time for the waiting church<br/>To cast her pride away,<br/>With girded loins and burning lamps,<br/>To look for the breaking of the day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Go quickly out in the streets and lanes<br/>And in the broad highway,<br/>And call the maimed, the halt, and blind,<br/>To be ready for the breaking of the day.</lines>
+    </verse>
+  </lyrics>
+</song>

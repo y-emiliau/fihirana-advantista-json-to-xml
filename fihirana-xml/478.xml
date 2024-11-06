@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>'NJANY MISY ANTSO MAFY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>478</ccliNo>
+    <authors>
+      <author>F. Ramanantsialonina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Njany misy antso mafy,<br/>Miandrandrà ianao.<br/>Fa Mpamonjy lehibe, no,<br/>Avy handray anao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Avy aho : miadia,<br/>Hoy ny Tomponao.<br/>Miezaha, matokia<br/>'Zaho homba anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He! mangotraka ny ady,<br/>Resy Satana.<br/>Tano mafy re ny voady<br/>Aza ialana.<br/>Avy aho, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny finoana asehoy<br/>Ho fanevanao ;<br/>Ilay rafy dia hikoy,<br/>Ho mpandresy ianao.<br/>Avy aho, sns</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He ! hifarana ny ady,<br/>Indro Kristinao.<br/>'Zay mpitarika mpiady,<br/>Nampandresy anao.<br/>Avy aho, sns</lines>
+    </verse>
+  </lyrics>
+</song>

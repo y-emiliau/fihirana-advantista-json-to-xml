@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY TOMPO Ô</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>14</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>SALAMO</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Tompo ô, Andriamanitro Ianao,<br/>mamindrà fo amiko<br/>Sitrano aho,hatanjaho ny ao <br/>anatiko ao.<br/>Mangovitra aho, mihozohozo koa,<br/>Ka mila ny vonjy avy Aminao,<br/>Ry Tompo ô, Andriamanitro Ianao,<br/>Mamindrà fo aminko,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O! miverena Ianao ka afaho,<br/>Tompo ny fanahiko.<br/>Vonjeo aho, Tompo ô,<br/>noho ny fitiavanao.<br/>Ny maty tsy hahatsiaro Anao,<br/>Ireo tsy afaka hidera Anao.<br/>Ry Tompo ô, Andriamanitro Ianao,<br/>mamindrà fo amiko</lines>
+    </verse>
+  </lyrics>
+</song>

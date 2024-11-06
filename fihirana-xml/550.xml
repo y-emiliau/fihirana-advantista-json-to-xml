@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ANKASITRAHANAO RE RY RAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>550</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ankasitrahanao re, ry Ray,<br/>Ny hikambanan'ny olon-droa<br/>Koa indro manoloana anay<br/>Manam-pikasana soa<br/>Hiaraka mipetraka<br/>Hikambana ho tena iray,<br/>Hifanampy ka tsy mba hisaraka<br/>Fa hifankatia ho mandrakizay.<br/>Hiara-manorin-tokantrano iray<br/>Ka Ianao no tiany mba hiaraka<br/>Hanorina izany<br/>Hatrety ka hatrany.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O ! mba ekeo re, ry Tomponay,<br/>Ny mba hitahianao ireo<br/>Ho fitahiana mandrakizay<br/>Ka tsy mba hiala teo.<br/>O ! hamasinonao izao<br/>Ka Ianao, ry Tompo,No hanjaka ao<br/>An-tokantranon'izy roroa.<br/>Mba hitahy sady hanasoa<br/>Ka aza miala ao,<br/>Ry Tompo tianay,<br/>Fa ny hasoavanao<br/>Homba ireo mandrakizay.</lines>
+    </verse>
+  </lyrics>
+</song>

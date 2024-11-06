@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>170 - Come, You Faithful</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>170</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, you faithful, raise the strain<br/>Of triumphant gladness;<br/>God has brought His Israel<br/>Into joy from sadness;<br/>Loosed from Pharoah’s bitter yoke<br/>Jacob’s sons and daughters;<br/>Led them with unmoistened foot<br/>Through the Red Sea waters.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‘Tis the spring of souls today;<br/>Christ has burst His prison,<br/>And from three days’sleep in death<br/>As a sun has risen;<br/>All the winter of our sins,<br/>Long and dark, is flying<br/>From His light, to whom is giv’n<br/>Laud and praise undying.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now the queen of seasons, bright<br/>With the day of splendor,<br/>With the royal feast of feasts,<br/>Comes its joy to render;<br/>Comes to gladden faithful hearts<br/>Which with true affection<br/>Welcome in unwearied strain<br/>Jesus’resurrection.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For today among the twelve<br/>Christ appeared, be stowing<br/>His deep peace, which evermore<br/>Passes human knowing.<br/>Neither could the gates of death,<br/>Nor the tomb’s dark portal,<br/>Nor the watchers, nor the seal,<br/>Hold Him as a mortal.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>“Alleluia!” now we cry<br/>To our King immortal,<br/>Who, triumphant, burst the bars<br/>Of the tomb’s dark portal;<br/>“Alleluia” with the Son,<br/>God the Father praising;<br/>“Alleluia!” yet again<br/>To the Spirit raising.</lines>
+    </verse>
+  </lyrics>
+</song>

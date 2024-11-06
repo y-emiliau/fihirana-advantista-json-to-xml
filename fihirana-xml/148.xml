@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAHA TONGA ANIO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>148</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raha tonga anio<br/>Avy ao anatin'ny rahona ao Jeso,<br/>Mba hanao ahoana re ?<br/>Moa efa vita tsara ve<br/>Ny fiomananao<br/>Handray ny Tompo lehibe ?<br/>Ny hosana ve no hoventesinao<br/>Hampiseho ny fahavononanao<br/>Sa ny vatolampy kosa no antsoinao<br/>Ho avy hanarona anao ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha tonga anio,<br/>Avy ao anaty rahona ao Jeso,<br/>Hitsena ve ianao ?<br/>Ho tampoka aminao<br/>sa efa nandrasanao ?<br/>Izao fiaviany izao.<br/>Moa ny fifaliana sy ny avotra<br/>No antenainao hoentiny ho anao<br/>Sa ny horohora ary ny tahotra<br/>No hameno ny ao anatinao ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raha tonga anio,<br/>Avy ao anatin'ny rahona ao Jeso,<br/>Moa ve mba fantatrao ?<br/>Fa hiavaka eo ireo very <br/>Ary ireo ho ao Salema vaovao.<br/>Nosasàny ve ireo helokao<br/>Ary hakariny ianao ho ary,<br/>Sa ho fiampangana hanameloka anao<br/>Ny rà nalatsany taty ?</lines>
+    </verse>
+  </lyrics>
+</song>

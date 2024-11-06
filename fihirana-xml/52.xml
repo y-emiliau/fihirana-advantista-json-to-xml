@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JEHOVAH O!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>52</ccliNo>
+    <authors>
+      <author>J. Rakotomananjanahary</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>:,: Jehovah ô, Jehovah ô !<br/>Ny lanitra sy ny tany<br/>Mitory ny fiandriananao.<br/>Ny volana amn-kintana<br/>Manambara ny voninahitrao.<br/>Ny zava-manan'aina,<br/>Ny hita sy tsy hita,<br/>Dia mampiseho avokoa<br/>Ny fahendrenao.:,:<br/>Ny voron-tsara feo,<br/>Ny ranomasina,<br/>Ny voninkazo soa,<br/>Ny zava-maitso koa,<br/>Maneho sy milaza<br/>Ilay Mpamorona.<br/>Tsy manana sahala<br/>Mpanolotra ny soa.<br/>Hobio, ,derao, derao<br/>Jehovah Tomponao,<br/>Jehovah Tomponao.<br/>Haleloia.</lines>
+    </verse>
+  </lyrics>
+</song>

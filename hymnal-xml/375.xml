@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>375 - Work, for the Night Is Coming</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>375</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Work for the night is coming,<br/>Work through the morning hours;<br/>Work while the dew is sparkling;<br/>Work ‘mid springing flow’rs.<br/>Work when the day grows brighter,<br/>Work in the glowing sun;<br/>Work for the night is coming,<br/>When man’s work is done.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Work for the night is coming,<br/>Work thro’ the sunny noon;<br/>Fill brightest hours with labor,<br/>Rest comes sure and soon.<br/>Give every flying minute<br/>Something to keep in store;<br/>Work for the night is coming,<br/>When man works no more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Work for the night is coming,<br/>Under the sunset skies;<br/>While their bright tints are glowing,<br/>Work for daylight flies.<br/>Work till the last beam fadeth,<br/>Fadeth to shine no more;<br/>Work while the night is dark’ning,<br/>When man’s work is o’er.</lines>
+    </verse>
+  </lyrics>
+</song>

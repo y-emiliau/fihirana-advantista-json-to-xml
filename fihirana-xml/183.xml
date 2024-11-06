@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY FANAHY MASINA O!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>183</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FANAHY MASINA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Fanahy Masina ô,<br/>'Zay Mpitari-dalana,<br/>Asehoy anay Jeso,<br/>Hany lala-marina.<br/>Manantena Anao 'zahay<br/>Mba hitantana anay,<br/>Hiantso hoe : <<Avia aty ! >><br/>O ! tazano Kalvary.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hitoeranao anie,<br/>Ho fonena-masinao,<br/>'Zao nyh fonay meloka e,<br/>Rehefa nodiovinao.<br/>O ! reseo ny tahotray,<br/>Aoka ho sahy izahay,<br/>Irak'i Jesosy tia,<br/>Maty teny Kalvary.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ampianaro mba hanoa<br/>'Zany didi-masinao,<br/>Sy hanaraka tokoa<br/>'Zay rehetra sitrakao.<br/>He ! arovy tsy handà,<br/>Efa diso, mamelà,<br/>Tano ho mpanara-dia<br/>An'i Jeso be fitia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Raha akaiky Izy izao,<br/>Avy mba handray anay,<br/>Mainka hakekezinao,<br/>Tomoera aminay.<br/>Aoka hiandrandra re,<br/>Feno toky, ravo e,<br/>Ento, ry Fanahy tia<br/>Ho mpandova ny ary.</lines>
+    </verse>
+  </lyrics>
+</song>

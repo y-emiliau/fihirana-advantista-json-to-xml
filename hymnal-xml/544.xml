@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>544 - Jesus, Son of Blessed Mary</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>544</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Son of blessed Mary,<br/>Once on earth a little child,<br/>Pattern fair of holy living,<br/>Gracious, loving, undefiled;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though Thy eager heart was yearning<br/>Heavy laden souls to free,<br/>Yet Thou calledst little children<br/>In their happiness to Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grant that we, like little children,<br/>Free from pride and guile my be;<br/>Cheerful, trusting, safe, protected<br/>By the blessed Trinity.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AKAIKY AHY NY TOMPO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>239</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Akaiky ahy, akaiky ny Tompo<br/>Raha mitaraina aho.<br/>Eny, fitia mitafotafo,<br/>Raha mitaraina aho.<br/>Raha mitaraina aminy aho,<br/>Raha mitalaho aminy aho,<br/>Izy manambara fa hihaino,<br/>Raha mitaraina aho.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tsy lavitra ahy ny fitiavany,<br/>Raha mitaraina aho,<br/>Fa omeny ho ahy ny rany,<br/>Raha mitaraina aho.<br/>Raha mitaraina aminy aho,<br/>Raha mitalaho aminy aho,<br/>Izy efa tia ka he mamonjy,<br/>Raha mitaraina aho.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ho lovako izao ny tany,<br/>Raha mitaraina aho.<br/>Ho foiny ho ahy izany,<br/>Raha mitaraina aho.<br/>Raha mitaraina aminy aho,<br/>Raha mitalaho aminy aho,<br/>Satro-diadema omeny ahy.<br/>Raha mitaraina aho.</lines>
+    </verse>
+  </lyrics>
+</song>

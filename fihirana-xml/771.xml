@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAHA TSY EO IANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>771</ccliNo>
+    <authors>
+      <author>Mahefa Hantalalao</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raha tsy eo Ianao, ry Jesosy ô!<br/>Dia feno haizina ny tany<br/>Ka ireo fahoriana lava izao<br/>No iainanay, Jeso, eto an-tany</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:,: Ka isaoranay Ianao, ry Jesosy ô!<br/>Fa ny fitiavanao no nasehonao.<br/>Koa raiso re, Jeso, voninahitra,<br/>Dera, laza, hery izay atolotray. :,:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha tsy eo Ianao, ry Jesosy ô!<br/>Ho toy inona moa ny fiainanay?<br/>Ka na ireo soa izay nomenao<br/>Dia ataonay, Jeso, tsinontsinona.<br/>Ka isaoranay Ianao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

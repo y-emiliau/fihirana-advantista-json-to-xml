@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MANINDRY ATO AM-POKO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>616</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Manindry ato am-poko<br/>Ny ota natao<br/>Nentin'ny saina adala,<br/>Nahafoy ny didinao</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Ô ! impiry aho no nania<br/>Ka nandao ny tavanao<br/>Raiko malal ô, meteza<br/>Hamoha indray ny tranonao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ekeko fa hadisoako<br/>'Zay vita taloha.<br/>Ny hatsarako rehetra<br/>Dia nosimbako avokoa.<br/>Ô ! impiry, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tranon'ny Raiko no eto,<br/>Fiadanako koa.<br/>Ny fahotako rehetra<br/>Efa hadino avokoa.<br/>Farany<br/>Tiako tokoa, Ray malala ô,<br/>Tiako ny hisaotra Anao.<br/>Tranon'ny Raiko no eto,<br/>Fiadanako mandrakizay.</lines>
+    </verse>
+  </lyrics>
+</song>

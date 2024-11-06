@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAHA TONGA ILAY FOTOANA (FIBEBAHANA)</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>780</ccliNo>
+    <authors>
+      <author>R. Ralambo Alison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raha tonga ilay fotoana<br/>Izay tsy fantatrao<br/>Handinihana izay rehetra<br/>momba anao,<br/>Moa ve mba nekenao<br/>‘Lay Jesosy tia anao,<br/>Ka nandray Azy mba<br/>hisolo vava anao?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Miantso anao Izy anio,<br/>eny, miantso avia,<br/>Ianao koa ô mamalia,<br/>Mibebaha ary koa<br/>atahory ny Ray,<br/>‘Zay no hamaritra<br/>ny hoavinao mandrakizay.<br/>Kely sisa ny fotoana, ry lahy,<br/>Ibebahantsika rehetra izao<br/>Ka hararaoty àry anio<br/>ny andro izay<br/>Mbola ahavelomanao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Inona no azontsika<br/>andrandraina,<br/>Fa ity tany ity anie ka<br/>tsy haharitra?<br/>‘Lay Jesosy irery, hoy aho, no mba hany tokin’aina<br/>Nampanantena lanitra<br/>sy tany vaovao;<br/>Miantso anao Izy anio, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raha mbola sitrakao<br/>ny handray anay ho zanakao<br/>Mba handova indray<br/>‘lay fiainana mandrakizay,<br/>Jeso ô! meteza Ianao hanadio sy hanafaka ny heloka<br/>‘Zay vitanay hatrizay;<br/>Fantatray fa ny ainao<br/>no natolotrao</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hamonjena anay mpanota izao,<br/>Koa izaho dia hanao<br/>ny sitrakao, ry Jeso,<br/>Ho setrin’ny famonjena<br/>avy Aminao.<br/>Jesosy ô! inty aho<br/>fa hanolo-tena ho Anao,<br/>Ka ny fiainako rehetra eto,<br/>ry Tompo,<br/>Dia mba hanompoako Anao.</lines>
+    </verse>
+  </lyrics>
+</song>

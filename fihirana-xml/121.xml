@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ENY TONTOLO ENY JESO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>121</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eny tontolo eny Jeso<br/>Mahita antsika<br/>Samy hitany avokoa<br/>Ny omby, vitsika ;<br/>ISAN'ADININY :<br/>Nefa indro misy tsy ho hitany :<br/>Ny otako navela tao Kalvary.<br/>Hohadinoiny avokoa,<br/>Tsy ho tsaroany tokoa,<br/>Tsy ho hitany intsony izany.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Izy manaraka tsara<br/>Izay miseho ety<br/>Ny fandehan'ny tantara<br/>Voadinika ary ;<br/>Nefa indro misy, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tsy azo iafenana<br/>Fa mahita Izy.<br/>Na aloka miserana<br/>Na senton'ankizy ;<br/>Nefa indro misy, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

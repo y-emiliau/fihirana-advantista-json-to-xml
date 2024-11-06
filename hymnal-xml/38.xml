@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>038 - Arise, My Soul, Arise!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>38</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Arise, my soul, arise!<br/>Stretch forth to things eternal<br/>And hasten to the feet of your Redeemer God.<br/>Though hid from mortal eyes,<br/>He dwells in light supernal;<br/>Yet worship Him in humbleness and call Him Lord.<br/>His banquet of love<br/>Awaits you above;<br/>Yet here He grants a foretaste of the feast<br/>to come!<br/>Rejoice, my soul, rejoice,<br/>To heav’n lift up your voice:<br/>Alleluia, alleluia, alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now hear the harps of heav’n!<br/>Oh, hear the song victorious,<br/>The never-ending anthem sounding<br/>through the sky!<br/>To mortals is not giv’n<br/>To join in strains so glorious;<br/>Yet here on earth we too can sing<br/>our praises high!<br/>He bought with His blood<br/>The ransomed of God;<br/>To Him be everlasting pow’r and victory.<br/>And let the great amen<br/>Resound through heav’n again.<br/>Alleluia, alleluia, alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

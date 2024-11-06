@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>590 - Trust and Obey</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>590</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When we walk with the Lord<br/>in the light of his word,<br/>what a glory he sheds on our way!<br/>While we do his good will,<br/>he abides with us still,<br/>and with all who will trust and obey.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Trust and obey, for there’s no other way<br/>to be happy in Jesus, but to trust and obey.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not a shadow can rise,<br/>not a cloud in the skies,<br/>but his smile quickly drives it away;<br/>not a doubt nor a fear,<br/>not a sigh nor a tear,<br/>can abide while we trust and obey.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Not a burden we bear,<br/>not a sorrow we share,<br/>but our toil he doth richly repay;<br/>not a grief or a loss,<br/>not a frown or a cross,<br/>but is blest if we trust and obey.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>But we never can prove<br/>the delights of his love<br/>until all on the altar we lay;<br/>for the favor he shows,<br/>and the joy he bestows,<br/>are for them who will trust and obey.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Then in fellowship sweet<br/>we will sit at his feet,<br/>or we’ll walk by his side in the way;<br/>what he says we will do,<br/>where he sends we will go;<br/>never fear, only trust and obey.</lines>
+    </verse>
+  </lyrics>
+</song>

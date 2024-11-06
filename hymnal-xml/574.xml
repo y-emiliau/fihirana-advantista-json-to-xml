@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>574 - O Master, Let Me Walk With Thee</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>574</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Master, let me walk with thee<br/>in lowly paths of service free;<br/>tell me thy secret; help me bear<br/>the strain of toil, the fret of care.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Help me the slow of heart to move<br/>by some clear, winning word of love;<br/>teach me the wayward feet to stay,<br/>and guide them in the homeward way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teach me thy patience; still with thee<br/>in closer, dearer company,<br/>in work that keeps faith sweet and strong,<br/>in trust that triumphs over wrong;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In hope that sends a shining ray<br/>far down the future’s broadening way,<br/>in peace that only thou canst give,<br/>with thee, O Master, let me live.</lines>
+    </verse>
+  </lyrics>
+</song>

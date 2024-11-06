@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>O, IZA RE 'TY TAMY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>69</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, iza re 'ty tamy<br/>Avy any Edoma izao,<br/>Mareva-pitafiana,<br/>Mba iza moa Ianao ?<br/>'Zaho no Mpamonjinao<br/>'Zay tena tia,<br/>Mitory fahamarinana<br/>Sy vonjy koa.<br/>Hamonjy anao (in-3)<br/>Izao no niaviako :<br/>Hamonjy anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nahoana no dia mena<br/>Ny fitafianao ?<br/>Nanosy famiazana<br/>Irery va Ianao ?<br/>Eny, manirery re<br/>Ka ory fo ;<br/>Nijaly mafy ho anao<br/>Teo Kalvary.<br/>Hamonjy anao (in-3)<br/>Izao no niaviako :<br/>Hamonjy anao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ry Zanak'ondry mora,<br/>Endrey 'ty vitanao !<br/>Tsy takatry ny saiko re<br/>Ny fitiavanao.<br/><<Indro efa maty Aho,<br/>Fa velona.<br/>Nandresy ho anao tokoa<br/>Mandrakizay.<br/>O, raisonao (in-3)<br/>mpanota, raisonao anio<br/>Ny vonjy 'zao>>.</lines>
+    </verse>
+  </lyrics>
+</song>

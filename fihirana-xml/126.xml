@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESO 'LAY INOAKO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>126</ccliNo>
+    <authors>
+      <author>J. Ratsimihahy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeso 'lay inoako,<br/>No Mpamonjiko,<br/>Hivelomako.<br/>Ka ny diako hatrizay,<br/>Novimbininy.<br/>Derao Jeso<br/>(Ho deraiko lalandava ny fitiavany)<br/>Ny heloko nesoriny,<br/>Vonjy no natolony.<br/>Derao Jeso<br/>(Ho deraiko lalandava ny hasoavany)<br/>Izy no inoako,<br/>Mpamonjiko.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeso 'lay inoako,<br/>No aty am-poko.<br/>Hery, tokiko,<br/>Ilay sandriny mahery<br/>No nitantana.<br/>Derao Jeso<br/>(Ho deraiko lalandava ny fitiavany)<br/>'Zaho nositraniny<br/>Làlako nalaminy<br/>Derao Jeso<br/>(Ho deraiko lalandava ny hasoavany)<br/>Izy no inoako,<br/>Mpamonjiko.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeso 'lay inoako,<br/>Jeso 'lay mahery<br/>Sy Mpamindra fo<br/>Ka ny foko hanambara<br/>Ny fitiavany<br/>Derao Jeso<br/>(Hoderaiko lalandava ny fitiavany)<br/>Maty mba ho avotro<br/>Sy misolo ny heloko<br/>Derao Jeso<br/>(Hoderaiko lalandava ny hasoavany)<br/>Izy no inoako,<br/>Mpamonjiko.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -31,21 +31,21 @@ main();
 function main() {
 
     global $connection, $authorArray, $topicArray, $songArray;
-    // remove before executing
-    dropTables($connection);
-    createTables($connection);
+    // // remove before executing
+    // dropTables($connection);
+    // createTables($connection);
 
-    foreach($authorArray as $author) {
-        insertAuthor($author, $connection);
-    }
+    // foreach($authorArray as $author) {
+    //     insertAuthor($author, $connection);
+    // }
     
-    foreach($topicArray as $topic) {
-        insertTopic($topic, $connection);
-    }
+    // foreach($topicArray as $topic) {
+    //     insertTopic($topic, $connection);
+    // }
     
-    foreach($songArray as $song) {
-        insertSong($song, $connection);
-    }
+    // foreach($songArray as $song) {
+    //     insertSong($song, $connection);
+    // }
 
     createXML($connection);
 }
@@ -266,6 +266,9 @@ function createXMLSong($number, $xml) {
     }
     $filepath = $directory . '/' . $number . '.xml';
     $file = fopen($filepath, 'w');
+    $xml = str_replace("&lt;" ,"<", $xml);
+    $xml = str_replace("&gt;" ,">", $xml);
+    $xml = str_replace("–" ,"-", $xml);
     fwrite($file, $xml);
     fclose($file);
 }

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAHA MANDIA LALAN-TSAROTRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>498</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-TSAROTRA<br/>1<br/>Raha mandia lalan-tsarotra,<br/>Jehovah momba anao.<br/>Koa aza dia resin-tahotra,<br/>Fa Izy momba anao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Jehovah momba anao,<br/>Ka matokia.<br/>Fa Izy tia,<br/>Tsy hahafoy tokoa.<br/>He ! Izy momba anao<br/>(Momba anao)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha manjombona ny andr anio,<br/>Jehovah momba anao.<br/>Dia aza kivy fa tadidio<br/>Fa Izy momba anao.<br/>Jehovah momba anao, sns</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fantany izay manjo anao,<br/>Jehovah momba anao.<br/>Hitany ny ranomasonao,<br/>Ka mahereza re.<br/>Jehovah momba anao, sns</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ento aminy izao ny entanao<br/>Jehovah momba anao.<br/>Dia raiso ny fitsaharana<br/>Fa atolony anao.<br/>Jehovah momba anao, sns</lines>
+    </verse>
+  </lyrics>
+</song>

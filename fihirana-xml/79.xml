@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TONGA NY TOMPO HITADY NY NANIA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>79</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tonga ny Tompo hitady ny nania ;<br/>Kanefa nolavina tsy ho Mesia.<br/>Izy anefa no Ilay Zanak'Ondry<br/>Naidina tety hitondra vonjy.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Notsaraina ho solonao,<br/>Nofantsihina ny tanany roa.<br/>Izy tonga mba hanasoa<br/>Hanala izay mangeja anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tsy nanan-tsiny<br/>Fa Tompo Mpanasoa tanteraka,<br/>Kanefa niaritra eso<br/>Ny tenany 'zay namonjy ny olony<br/>Tsy nosakanany fa natolony.<br/>Notsaraina ho solonao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nahoana no nijaly teo re Kristy<br/>Ka nisotro ny kapoaka mangidy ?<br/>Moa ve tsy fantatrao ry mpanota ô ?<br/>Ny hanafaka anao no anton'izao.<br/>Notsaraina ho solonao, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ankehitriny Jeso any ambony<br/>Mifona ho anao re no ataony.<br/>Raha toa manantona Azy tokoa ianao,<br/>Dia ho raisiny soa fa ho avy Izy 'zao.<br/>Notsaraina ho solonao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

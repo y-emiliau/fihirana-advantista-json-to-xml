@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ATOLOTRO ANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>259</ccliNo>
+    <authors>
+      <author>J. Andrianaivoravelona zanany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atolotro Anao ny tenako,<br/>Ry Raiko,<br/>Fa Ianao no tena<br/>Loharanon-tsoa :<br/>Izao tontolo izao<br/>Manintona ny saiko<br/>Hihataka aminao,<br/>Ho babony tokoa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Atolotro Anao ny tenako,<br/>Ry Raiko,<br/>Ho eo an-tànanao,<br/>Ho sakambininao,<br/>Ho hatanjahinao<br/>Ny tena sy ny saiko,<br/>Hisikina tokoa,<br/>Hiady ho Anao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Atolotro Anao ny tenako,<br/>Ry Raiko,<br/>Fa izany indrindra re<br/>No hetahetako ;<br/>Ny ran'ny Zanakao<br/>Mitory ao an-tsaiko<br/>Mba hanolorako<br/>Anao ny tenako.</lines>
+    </verse>
+  </lyrics>
+</song>

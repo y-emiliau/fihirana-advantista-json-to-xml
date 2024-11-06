@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NA BETSAKA NY MPANDEHA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>247</ccliNo>
+    <authors>
+      <author>Esther Bary</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na betsaka ny mpandeha<br/>Na mikotaba ny antoko,<br/>Mivoitra ny mpirehareha<br/>Ny teninao no henoiko.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Avy amin'ireo mahantra<br/>Sy ireo sahirana, trotraka,<br/>Ireo noana sy maratra<br/>Ny fonao dia mangoraka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Lay kapoaka nisotroanao<br/>Mitahiry ny hasoavanao<br/>Mbola eo amin'ny endrikao<br/>Ilay fangoraham-ponao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mba atoroy ny olona<br/>Ny lalana izay nizoranao<br/>Hahatonga azy ho vonona<br/>Handray ilay tanàna vao.</lines>
+    </verse>
+  </lyrics>
+</song>

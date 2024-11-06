@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>168 - And Have the Bright Immensities</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>168</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And have the bright immensities<br/>Received our risen Lord,<br/>Where light years frame the Pleiades<br/>And point Orion’s sword?<br/>Do flaming suns His footsteps trace<br/>Thro’corridors sublime,<br/>The Lord of inter stellar space<br/>And conqueror of time?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The heav’n that hides Him from our sight<br/>Knows neither near nor far;<br/>A little candle sheds its light<br/>As surely as a star.<br/>And where His loving people meet<br/>To share the gift divine,<br/>There stands He with unhurrying feet;<br/>There heav’nly splendors shine.</lines>
+    </verse>
+  </lyrics>
+</song>

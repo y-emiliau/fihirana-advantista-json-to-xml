@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>REKO 'ZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <ccliNo>456</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Reko 'zao ny feon'ny Tompo<br/>Miantso hoe : avia ianao,<br/>Raiso koa ny vokovoko,<br/>Manaraha Ahy 'zao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Eny , mandra-pahafaty<br/>Hanarahako Anao ;<br/>Ka na iza hanabanty<br/>'Zaho tsy handao anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nefa anie ka lala-mafy<br/>'Zay mankany Kalvary,<br/>Feno tahotra sy rafy<br/>'Lay mitondra mankary.<br/>Eny , mandra-pahafaty, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Ngamba hafoin'ireo malala<br/>Ka tebahiny tokoa,<br/>Holazaina hoe : adala !<br/>Ka mangirifiry fo.<br/>Eny , mandra-pahafaty, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tombotsoa sesehena,<br/>Voninahitra sy zo,<br/>Laza soa sy harena,<br/>Mety hilaozaza avokoa.<br/>Eny , mandra-pahafaty, sns.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jeso ô, handeha ihany<br/>'Zaho 'zay navotanao<br/>Raha mbola eto an-tany,<br/>Ny iriko : ho tia Anao.<br/>Eny , mandra-pahafaty, sns.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eo an-dranon'ny batisa<br/>Hanarahako Anao ;<br/>Ka ny androko 'zay sisa<br/>Holaniako anilanao.<br/>Eny , mandra-pahafaty, sns.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ho mpanompo mahatoky<br/>Hatrety ka hatrary ...<br/>Ô! ampionao ry Zoky,<br/>Dia ho tody soa ary.<br/>Eny , mandra-pahafaty, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

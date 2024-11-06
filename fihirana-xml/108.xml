@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FOTOANA ANANDRATAKO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>108</ccliNo>
+    <authors>
+      <author>Jeanne Ratsirison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fotoana anandratako<br/>Ny fivavahako Aminao,<br/>Fotoana tena mamiko.<br/>Hitoerako eo an-tongotrao.<br/>Ray, ekeo ny fivavahako<br/>Akariko eo aminao.<br/>O ! raiso mba ho hanitra<br/>Izay ankasitrahanao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha tojo zava-tsarotra<br/>'Zay mila hampamoy fo,<br/>Hazony tsy hatahotra,<br/>Hiantehitra aminao tokoa.<br/>Ny vavaka tononiko<br/>Henoy ka mba valio, ry Ray<br/>Ny hery 'zay andrasako<br/>Dia herin'ny Fanahinao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesosy Mpanalalana,<br/>Manao ny fisoronana.<br/>Mitondra ny tarainako<br/>mampita ny fifonako.<br/>Tsy misy miafina Aminao<br/>Ny rakitry ny foko 'zao<br/>Raha ho avy Ianao<br/>An-drahon-danitra<br/>Ho feno ny hasambarako.</lines>
+    </verse>
+  </lyrics>
+</song>

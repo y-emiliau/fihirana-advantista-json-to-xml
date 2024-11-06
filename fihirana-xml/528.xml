@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TOMPO O! TONEO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>528</ccliNo>
+    <authors>
+      <author>A. Emiliarison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tompo ô ! toneo re 'zany adin-tsaina.<br/>Tompo ô ! fefeo re, fa maningotr'aina<br/>O ! ry Vatolampy, miantso fa manahy.<br/>Ianao no ampy hampahery ahy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mpamonjy afaho, nofoko malemy.<br/>Ary hatanjaho, sehatry ny memy.<br/>Miantso Anao Mpamonjy, <br/>Miantso mitalaho.<br/>Ny foko milonjy, Tompo, ô, afaho.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ry fanantenana, toky sady hery :<br/>An-dala-maha ana, aza avela irery.<br/>Any indray andro any hiaraka aminao<br/>Fiainan-tsy ho lany, tany vaovao.<br/>Fa Anao ny dera sy ny voninahitra !<br/>Fa Anao ny laza ho mandrakizay.</lines>
+    </verse>
+  </lyrics>
+</song>

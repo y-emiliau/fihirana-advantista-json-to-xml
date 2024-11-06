@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY TOMPO O, OMEO !</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>548</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Tompo ô, omeo<br/>Ny fitahianao,<br/>ny vavakay ekeo<br/>Akarina aminao.<br/>Ireto havanay<br/>Manatrika Anao,<br/>Maniry mba handray<br/>Ilay tso-dranonao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fitiavana madio<br/>Toy ny an'ny lanitra<br/>No mampiray anio<br/>Ka dia haharitra.<br/>Ho tonga lapa soa<br/>Ny tokantranony<br/>Raha Ianao tokoa<br/>Mitoetra aminy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ianao 'zay Mpanome<br/>Ny tena mahasoa<br/>No irinay hahato<br/>Ny fiainan'izy roa<br/>Eny, hitantana<br/>Ny diany ety<br/>Ka tsy ho sampona<br/>Ho tody hatrery.</lines>
+    </verse>
+  </lyrics>
+</song>

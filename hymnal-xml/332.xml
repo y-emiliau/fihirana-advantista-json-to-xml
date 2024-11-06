@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>332 - The Cleansing Wave</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>332</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh now I see the crimson wave,<br/>The fountain deep and wide;<br/>Jesus, my Lord, mighty to save,<br/>Points to His wounded side.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The cleansing stream I see, I see,<br/>I plunge, and O, it cleanseth me!<br/>O praise the Lord! it cleanseth me,<br/>It cleanseth me, yes, cleanseth me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I see the new creation rise,<br/>I hear the speaking blood;<br/>It speaks polluted nature dies,<br/>Sinks ‘neath the cleansing flood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I rise to walk in heaven’s own light,<br/>Above the world and sin;<br/>With heart made pure and garments white,<br/>And Christ enthroned within.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amazing grace! ’tis heaven below<br/>To feel the blood applied,<br/>And Jesus, only Jesus, know,<br/>My Jesus crucified.</lines>
+    </verse>
+  </lyrics>
+</song>

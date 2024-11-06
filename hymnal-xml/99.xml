@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>099 - God Will Take Care of You</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>99</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be not dismayed whate’er betide,<br/>God will take care of you;<br/>beneath his wings of love abide,<br/>God will take care of you.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God will take care of you,<br/>through every day, o’er all the way;<br/>he will take care of you,<br/>God will take care of you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Through days of toil when heart doth fail,<br/>God will take care of you;<br/>when dangers fierce your path assail,<br/>God will take care of you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All you may need he will provide,<br/>God will take care of you;<br/>nothing you ask will be denied,<br/>God will take care of you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No matter what may be the test,<br/>God will take care of you;<br/>lean, weary one, upon his breast,<br/>God will take care of you.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>581 - When the Church of Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>581</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the church of Jesus shuts its outer door,<br/>Lest the roar of traffic drown the voice of prayer:<br/>May our prayers, Lord make up ten times more aware<br/>That the world we banish is our Christian care.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If our hearts are lifted where devotion soars<br/>High above this hungry suffering world of ours:<br/>Lest our hymns should drug us to forget its needs,<br/>Forge our Christian worship into Christian deeds.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lest the gifts we offer, money, talents, time,<br/>Serve to salve our conscience to our secret shame:<br/>Lord, reprove, inspire us by the way you give;<br/>Teach us, dying Savior, how true Christians live.</lines>
+    </verse>
+  </lyrics>
+</song>

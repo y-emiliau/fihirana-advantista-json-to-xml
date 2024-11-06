@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>SAMBATRA, TRETRIKA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>324</ccliNo>
+    <authors>
+      <author>N. Ravoninjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sambatra, tretrika feno hafaliana<br/>Raha Jesosy mitoetra ao am-po.<br/>Indro ny tahotra sy ny hakiviana<br/>Dia ho foana tsy hisy avokoa.<br/>Atolory Azy ny fiainanao ;<br/>Jeso Zoky dia miandry anao<br/>Mandondona eo am-baravaranao Izy<br/>Te hiditra ao am-ponao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Indro tsara tokoa ny fonenana soa<br/>Namboarin'ny Tompo izao.<br/>Sambatra, tretrika feno haravoana<br/>'Reo voavotra tafiditra ao.<br/>Maniry izahay ho diovinao<br/>Ka ho mendrika 'lay tany vao.<br/>Jeso Zoky tia, indreto izahay<br/>Mandrosoa ao am-ponay izao.</lines>
+    </verse>
+  </lyrics>
+</song>

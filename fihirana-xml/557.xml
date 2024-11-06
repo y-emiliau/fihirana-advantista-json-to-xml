@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TOMPO MALALA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>557</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tompo malala ô, <br/>'Zao vavako izao Mba henoinao, <br/>Ny fanahiako esory tsy ho ao,<br/>Aoka ho hitako ny herinao.<br/>Sarotra loatra 'Zao lalako izao,<br/>Tiako tokoa ny tantananao<br/>Tompo malala ô, midina, avia<br/>fa sao aho ho very ety.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tompo malala ô, <br/>Eo an-tànanao, Eo an-tongotrao <br/>No hitondrako Izao fiainako izao,<br/>Enga anie ho vimbininao.<br/>'Zay fikasako, Ry RAy, fantatrao,<br/>Ny faniriako dia efa hitanao,<br/>Nefa, ry Ray ô, izay sitrakao<br/>Tokoa anie no atao.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESOSY TOMPO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>298</ccliNo>
+    <authors>
+      <author>F. Ramanantsialonina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesosy Tompo no<br/>Mandefa antso re ;<br/>Valio haingana, tanora marobe ;<br/>Fa ny tanora re no tena tiany<br/>Ka manatona ianao</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mizora ry tanora ô !<br/>Ka aza mba mihemotra<br/>Fa matokia re.<br/>Jeso alohanao,<br/>Mpitarika hendry tokoa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miantso mba hanao<br/>Ady mangotraka<br/>Izy hanampy re<br/>Mba haharesenao<br/>Hanohana anao<br/>Mba tsy ho potraka<br/>O ! manatona ianao.<br/>Mizora , ry tanora, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny herin-tsandry be<br/>Sy ny talenta koa,<br/>Omeo Azy re, miaramila soa,<br/>Ka milofosa re amin'ny ady be.<br/>Handresy no anjaranao.<br/>Mizora , ry tanora, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ho avy Jeso tia amin'ny farany<br/>Hitondra avotra<br/>Hoan'ny zanany<br/>Tena nilofo mba<br/>Handray marobe,<br/>manajà ny anarany.<br/>Mizora , ry tanora, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

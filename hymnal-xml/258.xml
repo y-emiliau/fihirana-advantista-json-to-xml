@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>258 - Baptize Us Anew</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>258</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Baptize us anew<br/>With power from on high,<br/>With love, O refresh us!<br/>Dear Savior, draw nigh.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We humbly beseech Thee,<br/>Lord Jesus, we pray,<br/>With love and the Spirit<br/>baptize us today.<br/>We praise Thee, we bless Thee,<br/>dear Lamb that was slain<br/>We laud and adore Thee,<br/>Amen and Amen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unworthy we cry,<br/>Unholy, unclean,<br/>O wash us and cleanse us<br/>From sin’s guilty stain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O heavenly Dove,<br/>Descend from on high!<br/>We plead Thy rich blessing;<br/>In mercy draw nigh.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O list the glad voice!<br/>From heaven it came:<br/>Thou art My beloved,<br/>Well pleased I am.</lines>
+    </verse>
+  </lyrics>
+</song>

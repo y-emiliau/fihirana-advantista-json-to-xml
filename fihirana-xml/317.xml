@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>'NJANY FEO MIANTSO MAFY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>317</ccliNo>
+    <authors>
+      <author>Raobijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Injany feo miantso mafy hoa :<br/>Vonona ve ianao ?<br/>Miomàna, mivonona re ;<br/>Hoy ny Tompo aminao.<br/>Manakaiky ny fotoana<br/>Hamaliana ny natao.<br/>Hararaoty hibabahana<br/>Izao andronao izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Famonjena tsy vidina<br/>efa vita ho anao ;<br/>Nefa Jeso mbola liana<br/>Ta handre ny feonao.<br/>O ! meteza ho vonjena,<br/>Hamelana ny otanao,<br/>Fa ny Tompo anie ka onena<br/>Raha tsy mety ianao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dieny mbola tsy mitsahatra<br/>Ny antsom-pitiavana,<br/>Dieny mbola tsy mifarana<br/>Ny androm-pahasoavana,<br/>O ! henoy ny feon'i Jeso<br/>Miangavy anao izao ;<br/>Eny, Izy vonona tokoa<br/>Ny handray anao izao.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>448 - O, When Shall I See Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>448</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, when shall I see Jesus and reign with Him above,<br/>And shall hear the trumpet sound in that morning?<br/>And from the flowing fountain drink everlasting love,<br/>And shall hear the trumpet sound in that morning.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, shout, glory!<br/>For I shall mount above the skies,<br/>When I hear the trumpet sound in that morning.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gird on the gospel armor of faith and hope and love,<br/>And you’ll hear the trumpet sound in that morning.<br/>And when the combat’s ended He’ll carry you above,<br/>And you’ll hear the trumpet sound in that morning.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our ears shall hear with transport the host of heaven sing,<br/>And shall hear the trumpet sound in that morning.<br/>Our tongues shall chant the glories of our immortal King.<br/>And shall hear the trumpet sound in that morning,</lines>
+    </verse>
+  </lyrics>
+</song>

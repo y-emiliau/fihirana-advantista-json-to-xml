@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RERAKA NY FO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>726</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Reraka ny fo,<br/>Mafy loatra ny ady atao ety<br/>Mbola nofo ihany moa<br/>Mora resy fa malia.<br/>Fantatra, Jeso,<br/>Fa milofo izao tontolo izao<br/>Te handrobany ondrikelinao,<br/>Ka Sa izay mandrovitsihy<br/>Dia masiaka ery.<br/>Reraka ny fo,<br/>Nefa fantatro tokoa, Jeso,<br/>Na inona inona hanjo,<br/>Ho eo anilako Ianao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Ka raha mbola misy aina koa<br/>Mitempo ao anatiko ao<br/>Ary koa mitsotra hitantana ahy<br/>Ireo sandrinao, Jeso,<br/>Dia lazaiko fa raha ho avy Ianao,<br/>Ho avy eny an-danitra ao,<br/>Haleloia, Jeso<br/>No hitsenako Anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hamafisiko, hamafisiko anio, Jeso,<br/>Ny voady 'zay natao,<br/>'Zay nataoko taminao.<br/>Tsy hihamotra aho<br/>Fa tsy misy ataoko rehareha<br/>Afa-tsy ny fitiavanao<br/>Sy ny rà izay nalatsakao<br/>Hanavotana ahy.<br/>Hamafisiko izay nekeko<br/>Taminao, Jeso,<br/>Ka tsy hanan-tahotra aho<br/>Fa eo anilako Ianao.<br/>Ka raha mbola, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

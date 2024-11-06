@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>INDRO NY TOMPO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>596</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>INDRO NY TOMPO<br/>1<br/>Indro ny Tompo fa mitsangana<br/>Eo am-baravarana<br/>Ka mandona moramora<br/>Injao ny feony fa miantso<br/>Toa mamaramparana<br/>Moa tsy renao ry tanora ?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>O, vohay (? vohay)<br/>Ny fonao (ny fonao)<br/>Mba hidiran'ny Mpamonjy<br/>Tia anao<br/>O, vohay (? vohay)<br/>Ka ekeo (ka ekeo)<br/>Izy mba ho mponina ao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Indro ny hola-tsatro-tsilo izao<br/>Dia eo an-dohany,<br/>Namonjena anao mpanota<br/>Eny, ny lanitra ho anao izao<br/>Dia iantohany,<br/>Raha ianao mety mamoha.<br/>O ! vohay, ny fonao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Indro ny tanany nahinjitra<br/>Ary koa ny lanivoa<br/>Voagorobaky ny ota<br/>'Zany fitiavany anao<br/>Manentanentana ny fo,<br/>Hitomany, antsoantso.<br/>O ! vohay, ny fonao, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eny, tsy ho ela dia hivadika<br/>Ny rasa toy izao<br/>Ka ianao indray no handona.<br/>Amin'izay dia hanenenanao<br/>Ny ratsy 'zay natao,<br/>Tsy ho hainao ny hifona.<br/>O, vohay (? vohay)<br/>Dieny izao (dieny izao)<br/>Mba hidiran'ny Mpamonjy<br/>Ny fonao.<br/>O, vohay (? vohay)<br/>Ka ekeo (ka ekeo)<br/>Izy mba ho mponina ao.</lines>
+    </verse>
+  </lyrics>
+</song>

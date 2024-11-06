@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AZA MIVEZIVEZY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>760</ccliNo>
+    <authors>
+      <author>Andriamboavonjiarinaivo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aza mivezivezy mitady<br/>Mpamonjy ianao<br/>Raha sendra ady mafy<br/>eo amin’ny fiainanao;<br/>Aza mandany andro<br/>mikaroka ianao,<br/>Fa ny akaiky indrindra,<br/>Jeso Ilay Tomponao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tsy lavitra anao re, tsy lavitra Jeso.<br/>Antsoy re Izy izao e! fa hamaly anao tokoa (antsoy re)<br/>Aza misalasala,<br/>dondòny re Izy izao,<br/>Indro efa vonona Izy hihaino ny vavakao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aza mirenireny mitady<br/>izay tia anao<br/>Aza avezivezy ny fo sy fanahinao,<br/>Fa ny akaiky indrindra dia Jeso ‘Lay Tomponao,<br/>Tsy mba mandao mihitsy,<br/>tsy sasatra miandry anao.<br/>Tsy lavitra anao re, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aza mirepirepy mitady<br/>ny tena soa,<br/>Ny vola sy harena dia samy ho lo tokoa;<br/>Katsaho ny tsara indrindra mitoetra mandrakizay,<br/>Tanàna kanto loatra, itoeranao rahatrizay.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Io re no tsara indrindra, tsara mandrakizay.<br/>Tsy mba vidiam-bola, fa atolotry ny Ray! (ho an’ireo)<br/>Ho an’ny rehetra mino sy vonona hibebaka,<br/>Dia tsy mba hisy hadino, fa samy ho sambatra.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MITSANGANA, MIHAZAVA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>708</ccliNo>
+    <authors>
+      <author>Andriamboavonjiarinaivo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(Mitsangàna mihazavà)<br/>Mitsangàna mihazavà<br/>(Fa tonga ny fahazavanao)<br/>Mitsangàna mitsangàna mihazavà<br/>Fa tonga ny fahazavanao<br/>Fa tonga ny fahazavanao<br/>Mitsangàna (mitsangàna)<br/>Mihazavà, (mihazavà)<br/>Fa tonga ny fahazavanao<br/>Fa tonga ny fahazavanao<br/>Ary ny voninahitr'i Jehovah<br/>Efa miposaka aminao<br/>Ny voninahitr'i Jehovah<br/>Efa miposaka aminao, (aminao)<br/>(Fa indro ny haizina manarona ny tany)<br/>Ary ny haizim-pito manarona ny firenena.<br/>Fa aminao kosa<br/>No iposahan'i Jehovah<br/>Sy isehoan'ny voninahiny,<br/>Ny voninahiny, ny voninahiny.<br/>Ary ny firenena rehetra<br/>Manatona ny fahazavanao ;<br/>Ary ny Mpanjaka mankeo amin'ny<br/>Famirapiratry ny fiposahanao.</lines>
+    </verse>
+  </lyrics>
+</song>

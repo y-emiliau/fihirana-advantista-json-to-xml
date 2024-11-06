@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAHOVIANA RE</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>519</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rahoviana re ho hitanay<br/>'Lay tanjon'i Kanana ?<br/>Hifarana eo ny dianay<br/>Ary ny fitsapana,<br/>Fa ao ny Tompo Mpiandry<br/>Hanolotra ny sandry<br/>Handray anay mba hiditra<br/>Ho ao an-danitra.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ho tena sambatra,<br/>Sambatra, sambatra,<br/>Ho tena sambatra<br/>Raha ao an-danitra.<br/>Hifankahita tava,<br/>Hifaly toy ny zaza<br/>Hihira hoe: <br/><< Haleloia, ho Anao Jehovah ô! >></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Akory re amin'izay<br/>Ny hatsaran'ny hira,<br/>Hataon'ireo zana-dRay<br/>Sy irony miaramila.<br/>Isika tsy hangina,<br/>Hiaraka mihira<br/>Hiredona toa ranobe<br/>Fa voavonjy e !<br/>Ho tena sambatra,sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Reo voavonjy marobe<br/>Miakanjo lava fotsy<br/>Mihoby aok'izany re<br/>Ny avotr'i Jesosy<br/>Ny hobim-pandresena<br/>Hitohy sesehena<br/><< Ha an'ny Zanak'ondry anie ny saotra, laza be >><br/>Ho tena sambatra,sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Akory re amin'izay <br/>Ny hafaliantsika,<br/>Hahita maso Ilay Ray<br/>'Zay tena tia antsika<br/>Hakamban'ny fitia<br/>Ho tena ira doria<br/>Fialonana, ditra, ady koa<br/>Soloiny zava-tso<br/>Ho tena sambatra,sns.</lines>
+    </verse>
+  </lyrics>
+</song>

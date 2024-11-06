@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NY SABATANAO RY TOMPO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>216</ccliNo>
+    <authors>
+      <author>Randriavoavonjy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ny Sabatanao ry Tompo,<br/>No tsarovanay izao ;<br/>Ka mivory ny mpanompo<br/>Mankato ny didinao<br/>Entinay ny fanajana<br/>Sy ny saotra ho Anao,<br/>Ary hira fiderana<br/>Nohon'ny voninahitrao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Andro masina indrindra<br/>Notahinao fahizay ;<br/>Tsy miova, tsy mifindra,<br/>Andronao Jehovah Ray.<br/>Andro nitsaharanao<br/>Ka mba itsaharanay ;<br/>Ao an-tany vaovao<br/>Mbola ho tsaroana indray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tompo ô, tariho izahay<br/>Mba hanao ny sitrakao ;<br/>Ary hitandremanay<br/>Ny Sabata Masinao.<br/>Na aiza toeran-kivoriana,<br/>Raha Sabata toy izao,<br/>Arotsahy ny fitahiana<br/>Ho amin'ny vahoakanao.</lines>
+    </verse>
+  </lyrics>
+</song>

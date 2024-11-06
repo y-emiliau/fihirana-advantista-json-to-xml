@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>175 - Now the Green Blade Rises</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>175</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now the green blade rises<br/>from the buried grain,<br/>What that in dark earth<br/>many days has lain;<br/>Love lives again,<br/>that with the dead has been;<br/>Love is come again<br/>like wheat arising green.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the grave they laid Him,<br/>love by hatred slain,<br/>Thinking that He would<br/>never wake again,<br/>Laid in the earth like grain<br/>that sleeps unseen;<br/>Love is come again<br/>like wheat arising green.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Forth He came in triumph,<br/>like the risen grain,<br/>He that for three days<br/>in the grave had lain;<br/>Raised from the dead,<br/>my living Lord is seen;<br/>Love is come again<br/>like wheat arising green.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When our hearts are wintry,<br/>grieving, or in pain,<br/>Your touch can call us<br/>back to life again,<br/>Field of our hearts that dead<br/>and bare have been;<br/>Love is come again<br/>like wheat arising green.</lines>
+    </verse>
+  </lyrics>
+</song>

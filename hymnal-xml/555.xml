@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>555 - Shepherd of Tender Youth</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>555</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shepherd of tender you,<br/>Guiding in love and truth,<br/>Through devious way;<br/>Christ our triumphant King,<br/>We come Thy name to sin,<br/>Hither our children bring<br/>To shout Thy praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou are our holy Lord,<br/>Thee all subduing Word,<br/>Healer of strife;<br/>Thou didst Thyself abase,<br/>That from sin’s deep disgrace<br/>Thou mightest save our race,<br/>And give us life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou are the great High Priest;<br/>Thou has prepared the feast<br/>Of heavenly love;<br/>While in our mortal pain<br/>None call on Thee in vain;<br/>Help Thou does not disdain,<br/>Help from above.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ever be Thou our Guide,<br/>Our Shepherd and our pride,<br/>Our staff and song;<br/>Jesus, Thou Christ of God,<br/>By Thy perennial word,<br/>Lead us where Thou hast trod,<br/>Make our faith strong.</lines>
+    </verse>
+  </lyrics>
+</song>

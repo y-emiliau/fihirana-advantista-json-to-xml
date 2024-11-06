@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>474 - Take the Name of Jesus With You</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>474</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take the Name of Jesus with you,<br/>Child of sorrow and of woe,<br/>It will joy and comfort give you;<br/>Take it then, where’er you go.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Precious Name, O how sweet!<br/>Hope of earth and joy of Heav’n.<br/>Precious Name, O how sweet!<br/>Hope of earth and joy of Heav’n.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take the Name of Jesus ever,<br/>As a shield from every snare;<br/>If temptations round you gather,<br/>Breathe that holy Name in prayer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O the precious Name of Jesus!<br/>How it thrills our souls with joy,<br/>When His loving arms receive us,<br/>And His songs our tongues employ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>At the Name of Jesus bowing,<br/>Falling prostrate at His feet,<br/>King of kings in heav’n we’ll crown Him,<br/>When our journey is complete.</lines>
+    </verse>
+  </lyrics>
+</song>

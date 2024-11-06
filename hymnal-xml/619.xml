@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>619 - Lead On, O King Eternal</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>619</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lead on, O King eternal,<br/>the day of march has come;<br/>henceforth in fields of conquest<br/>thy tents shall be our home.<br/>Through days of preparation<br/>thy grace has made us strong;<br/>and now, O King eternal,<br/>we lift our battle song.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lead on, O King eternal,<br/>till sin’s fierce war shall cease,<br/>and holiness shall whisper<br/>the sweet amen of peace.<br/>For not with swords loud clashing,<br/>nor roll of stirring drums;<br/>with deeds of love and mercy<br/>the heavenly kingdom comes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lead on, O King eternal,<br/>we follow, not with fears,<br/>for gladness breaks like morning<br/>where’er thy face appears.<br/>Thy cross is lifted o’er us,<br/>we journey in its light;<br/>the crown awaits the conquest;<br/>lead on, O God of might.</lines>
+    </verse>
+  </lyrics>
+</song>

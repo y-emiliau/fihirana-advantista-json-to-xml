@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>LAZAO 'LAY TANTARAN'NY VONJY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>368</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lazao 'lay tananan'ny vonjy.<br/>Lazao, tena mamiko re.<br/>Lazao fa Kristy no Mpamonjy<br/>Lazao 'lay fitiavany be.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Tantaran'ny nitiavany ahy<br/>(O ! tantara mamy, o ! tantara mamy)<br/>Nisoloana ny heloko<br/>(Nisoloan'i Jeso 'zao ny heloko)<br/>He ! ravo ny fanahy afaka ahiahy<br/>(He ! ravo re fa afaka ahiahy izao)<br/>Fa voavonjinao ry Ray.<br/>(Fa voavonjinao, eny, ho mandrakizay)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tery an-kavoanan'i Gologota<br/>Kristy nihombo ho ahy re ;<br/>Nilanja ny vesatry ny ota,<br/>Nafoy tao anaty alim-be.<br/>Tantaran'ny nitiavany ahy, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lazao mba ho lazaiko koa<br/>Ilay tantara lehibe ;<br/>Lazao mba handre avokoa<br/>Ny olom-bery marobe.<br/>Tantaran'ny nitiavany ahy, sns</lines>
+    </verse>
+  </lyrics>
+</song>

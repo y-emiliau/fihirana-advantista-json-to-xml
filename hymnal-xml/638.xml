@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>638 - The Wise May Bring Their Learning</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>638</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>wise may bring their learning,<br/>The rich may bring their wealth,<br/>And some may bring their greatness,<br/>And some their strength and health:<br/>We too would bring our treasures<br/>To offer to the King,<br/>We have no wealth or learning—<br/>What shall we children bring?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We’ll bring Him hearts that love Him,<br/>We’ll bring Him thankful praise,<br/>And young souls meekly striving<br/>To follow in His ways:<br/>And these be the treasures<br/>We offer to the King,<br/>And these are gifts that ever<br/>The poorest child may bring.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We’ll bring the little duties<br/>We have to do each day;<br/>We’ll try our best to please Him<br/>At home, at school, at play:<br/>And better are these treasures<br/>To offer to the King<br/>Than richest gift without them:<br/>Yet these a child may bring.</lines>
+    </verse>
+  </lyrics>
+</song>

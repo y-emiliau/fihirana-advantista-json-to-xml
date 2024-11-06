@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>054 - O Gladsome Light</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>54</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O gladsome light,<br/>Of God the Father’s face,<br/>The eternal splendour wearing;<br/>Celestial, holy, blest,<br/>Our Saviour, Jesus Christ,<br/>Joyful in Thine appearing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now e’er day fadeth quite,<br/>We see the evening light,<br/>Our wonted hymn outpouring;<br/>Father of might unknown,<br/>Thee His incarnate Son,<br/>And Holy Spirit adoring.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To Thee of right belongs<br/>All praise of holy songs,<br/>O Son of God, life giver;<br/>Thee, therefore, O most high,<br/>The world doth glorify<br/>And shall exalt forever.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MOA MBA FANTATRAO VE 'LAY SAKAIZA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>123</ccliNo>
+    <authors>
+      <author>James Ratsirison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moa mba fantatrao ve 'Lay Sakaiza ?<br/>'Zay miara-dàlana amiko, (ô amiko)<br/>Eo, hatrany, na aiza na aiza<br/>Lalana alehako.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Jeso Kristy, Ilay Sakaizako<br/>Izay nandao ny lapa fahizay<br/>Nandao ny lapa fahizay<br/>Satria nanao izay hahazoako<br/>Mandray ny fiainana<br/>Mandrakizay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fifaliana ve no sendra ahy ?<br/>O ! zaraiko aminy tokoa,<br/>(Eny, tokoa).<br/>Foana teo ny ahiahy.<br/>Eo ny fiadanam-po.<br/>Jeso Kristy, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raha sendra tojo fitsapana<br/>Na tsaroana maizina ny dia,<br/>(Eny, ny dia).<br/>Ka ny làlana mahàna,<br/>Mbola ao Jesosy tia.<br/>Jeso Kristy, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tsy ho ahy 'rery nefa Izy,<br/>Mety ho Sakaizanao tokoa,<br/>(Eny, tokoa).<br/>Na ny lehibe na ankizy<br/>Raiso Jeso ao am-po.<br/>Jeso Kristy, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

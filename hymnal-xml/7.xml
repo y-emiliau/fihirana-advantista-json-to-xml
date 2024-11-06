@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>007 - The Lord in Zion Reigneth</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>7</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord in Zion reigneth,<br/>let all the world rejoice,<br/>And come before His throne of grace<br/>with tuneful heart and voice;<br/>The Lord in Zion reigneth,<br/>and there His praise shall ring,<br/>To Him shall princes bend the knee<br/>and kings their glory bring.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord in Zion reigneth,<br/>and who so great as He?<br/>The depths of earth are in His hands;<br/>He rules the mighty sea.<br/>O crown His Name with honor,<br/>and let His standard wave,<br/>Till distant isles beyond the deep<br/>shall own His power to save.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord in Zion reigneth,<br/>these hours to Him belong;<br/>O enter now His temple gates,<br/>and fill His courts with song;<br/>Beneath His royal banner<br/>let every creature fall,<br/>Exalt the King of heaven and earth,<br/>and crown Him Lord of all.</lines>
+    </verse>
+  </lyrics>
+</song>

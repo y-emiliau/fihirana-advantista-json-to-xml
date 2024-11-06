@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FONY AHO MBOLA KELY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1</verseOrder>
+    <ccliNo>626</ccliNo>
+    <authors>
+      <author>D. Razakaria</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fony aho mbola kely dia tsaroako tokoa<br/>Ny reniko nampianatra ahy Soratra Masina.<br/>Ireo tantaran'ny Baiboly nankafiziko,<br/>Nanoro ny lalan-kizorako.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Hamasino Jeso<br/>Ireto talenta, talentako<br/>Hahazoako manompo Anao<br/>Entiko aminao ny fangatahako<br/>Tovy re ny faniriako izao.<br/>2<br/>Ankehitriny faly aho, ry neny tiako<br/>Fa notaizanao araka ny baikon'i Jeso.<br/>Ilay Jeso malala any an-danitra anie,<br/>Hamaly anao noho 'reo soa be dia be.<br/>Hamasino Jeso, sns.<br/>3Ho jiro hanazava re no tarigetrako<br/>Hanintona ireo mbola ao anaty haizina.<br/>Fa tiako hiaraka amiko hitsena Anao Kristy,<br/>Hiara-mandova 'lay Kanana ary.<br/>Hamasino Jeso, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

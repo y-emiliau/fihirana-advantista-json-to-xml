@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>081 - Though I Speak With Tongues</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>81</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Though I speak with tongues of men and angels,<br/>Though I have the prophet’s gift,<br/>Though I hold the keys to hidden knowledge,<br/>Though my faith can mountains shift;<br/>Without love I am no better,<br/>Without love it’s all for naught;<br/>Lord, You spent Your life in loving others:<br/>What this means I would be taught.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love is patient, knows no envy,<br/>Never gloats when others sin;<br/>Love is never glad to see injustice,<br/>Always wants the truth to win.<br/>There’s no end to love’s endurance,<br/>There’s no test it cannot face;<br/>Lord, You spent Your life in loving others:<br/>I shall fail without Your grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though there’ll be an end to hidden knowledge,<br/>Visions, raptures, prophecy:<br/>Faith and hope and love shall last forever,<br/>Love the greatest of the three.<br/>Without love I am no better,<br/>Without love it’s all for naught;<br/>Lord, You gave Your life in saving others:<br/>What this means I would be taught.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>550 - Every Flower That Grows</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>550</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every flow’r that grows, Every brook that flows,<br/>Tell of beauty God has giv’n for me:<br/>Throughout my life may beauty be<br/>Deep within a heart from sin set free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gracious Lord above, Looking down in love,<br/>Guide my thoughts, my life, in my walk with Thee,<br/>That day by day the world may see<br/>Christ, the Lord and Savior, lives in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All my earthly days, I shall sing and praise<br/>God the Father, Spirit, and Christ with the Son.<br/>Grant faith when life on earth is done,<br/>I shall sing with those whose rest is won.</lines>
+    </verse>
+  </lyrics>
+</song>

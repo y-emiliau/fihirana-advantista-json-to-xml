@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>551 - Jesus, Savior, Pilot Me</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>551</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Savior, pilot me<br/>over life’s tempestuous sea;<br/>unknown waves before me roll,<br/>hiding rock and treacherous shoal.<br/>Chart and compass come from thee;<br/>Jesus, Savior, pilot me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As a mother stills her child,<br/>thou canst hush the ocean wild;<br/>boisterous waves obey thy will,<br/>when thou sayest to them, “Be still!”<br/>Wondrous sovreign of the sea,<br/>Jesus, Savior, pilot me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When at last I near the shore,<br/>and the fearful breakers roar<br/>‘twixt me and the peaceful rest,<br/>then, while leaning on thy breast,<br/>may I hear thee say to me,<br/>“Fear not, I will pilot thee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>IZAHO MANATONA ANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>255</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Izaho manatona Anao,<br/>Tsy manana af-tsy 'lay ra<br/>Nalatsaka ho ahy re,<br/>Ry zanak'ondry, ekeo 'zao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Malemy, mora mirona<br/>Sy mora koa miahotra<br/>'Ty 'zaho ka matahotra ;<br/>Ry zanak'ondry, miarova.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ry Tompo, aoka ny fonao<br/>Hambabo ny fo rstiko,<br/>Hanova ny anatiko,<br/>Ry zanak'ondry, ho vaovao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na dia mpanota aza teo<br/>Navelanao ny heloko,<br/>Atolotro ny tenako,<br/>Ry zanak'ondry, mba ekeo.</lines>
+    </verse>
+  </lyrics>
+</song>

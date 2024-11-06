@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>312 - Near the Cross</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>312</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, keep me near the cross;<br/>there a precious fountain,<br/>free to all, a healing stream,<br/>flows from Calvary’s mountain.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In the cross, in the cross,<br/>be my glory ever,<br/>till my raptured soul shall find<br/>rest beyond the river.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Near the cross, a trembling soul,<br/>love and mercy found me;<br/>there the bright and morning star<br/>sheds its beams around me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Near the cross! O Lamb of God,<br/>bring its scenes before me;<br/>help me walk from day to day<br/>with its shadow o’er me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Near the cross I’ll watch and wait,<br/>hoping, trusting ever,<br/>till I reach the golden strand</lines>
+    </verse>
+  </lyrics>
+</song>

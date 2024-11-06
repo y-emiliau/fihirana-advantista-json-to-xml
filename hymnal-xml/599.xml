@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>599 - Rejoice, Rejoice, Believers</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>599</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejoice, rejoice, believers,<br/>and let your lights appear:<br/>The evening is advancing,<br/>and darker night is near.<br/>The Bridegroom is arising,<br/>and soon He draweth nigh.<br/>Up, pray, and watch, and wrestle,<br/>at midnight comes the cry.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The watchers on the mountain<br/>proclaim the Bride-groom near.<br/>Go, meet Him as He cometh,<br/>with hallelujahs clear.<br/>The marriage feast is waiting,<br/>the gates wide open stand;<br/>Up, up, you heirs of glory,<br/>the Bride-groom is at hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You saints who here in patience<br/>your cross and suff’rings bore,<br/>Shall live and reign forever,<br/>when sorrow is no more.<br/>Upon the throne of glory<br/>the Lamb you shall behold,<br/>In triumph cast before Him<br/>your diadems of gold!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Our hope and expectation,<br/>O Jesus, now appear;<br/>Arise, O sun so longed for,<br/>o’er this benighted sphere!<br/>With hearts and hands uplifted,<br/>we plead, O Lord, to see<br/>The day of earth’s redemption<br/>that brings us unto Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

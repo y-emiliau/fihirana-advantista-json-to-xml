@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NOHON'NY FAHASOAVANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>529</ccliNo>
+    <authors>
+      <author>Dera Arson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nohon'ny fahasoavanao,<br/>Ry Tompo tia ô,<br/>Nohon'ny famindramponao,<br/>Ny ranao masina.<br/>No anandratako izao<br/>Ity hirako ity, ankasitraho re.<br/>O, mba raisonao<br/>Ny ventsom-poko re.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Tena sambatra aho re,<br/>(Tena sambatra)<br/>Ry Tompo ô, tena sambatra<br/>(Tena sambatra, tena sambatra ô)<br/>O, tena sambatra<br/>(Tena sambatra)<br/>Eny, afaka aho fa nafahanao.<br/>(Haleloia)<br/>Haleloia ho Anao.<br/>Ry Tompo Andriamanitra ô !<br/>Haleloia ho Anao,<br/>Ry Tompo Andriamanitra ô !<br/>Ry Tompo ô, ry Tompo<br/>Andriamanitray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny fahotako marobe<br/>Tsy mba nafeniko Anao<br/>Satria Ianao no nanome<br/>'Reo teny fikasana<br/>Fa raha mihaiky aho e<br/>Ary torotoro fo<br/>Dia vonona Ianao   ) Choeur<br/>Ny fahotako re     )          <br/>Tena sambatra aho, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ianao Jeso ô niantso ahy,<br/>Ianao koa nifidy ahy.<br/>Ianao no nanamarina ahy<br/>Sy nanamasina ahy.<br/>Hiraiko an-kira ankehitrio<br/>Izany fitiavanao<br/>Ka mba henoy, Jeso,<br/>O, mba raisonao  ) Choeur<br/>Izao hirako noe : )           <br/>Tena sambatra aho, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mba tehirizo, Tompo ô,<br/>Izany hasambarako<br/>Hatreto an-tany ka hatrary<br/>No hananako Anao<br/>Ho hirako mandrakizay<br/>Ho rirako doria, doria<br/>Ho voninahitrao<br/>Ny famonjenao        ) Cheour<br/>Ataoko an-kira hoe : )           <br/>Tena sambatra aho, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AMPAHIRATO AHO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>189</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY TENYN'ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ampahirato aho 'zao<br/>Hahita ny fitiavanao,<br/>'Lay fahazavana mamiratra,<br/>Mitarika ao an-danitra,<br/>O, misehoa Ianao,<br/>Ry kintan'ny maraina ô,<br/>Hanoro làlana ahy izao<br/>Ho aminao</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ampaladio ny sofiko<br/>Hihaino ny Mpamonjiko :<br/>Fa tiako indrindra izao ny handre<br/>'Lay feony mahafaly re.<br/>O, mitenena Ianao,<br/>Ry Tompo 'Zay Mpanavotra ô,<br/>Hanitsy re ny diako 'zao<br/>Ho aminao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sokafy koa ny vavako<br/>Hilaza 'Lay Jesosiko<br/>Izay nijaly tao Kalvary<br/>Mba handovako ny ary.<br/>O, mba tendreo ny molotro,<br/>Ry Kristy 'Zay Mpisolo ô,<br/>Hiantso ireo mpanota izao<br/>Ho aminao.</lines>
+    </verse>
+  </lyrics>
+</song>

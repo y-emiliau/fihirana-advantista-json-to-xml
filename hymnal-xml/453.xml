@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>453 - We Have Heard</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>453</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have heard from the bright, the holy, land;<br/>We have heard, and our hearts are glad;<br/>For we were a lonely pilgrim band,<br/>And weary, and worn, and sad.<br/>They tell us the saints have a dwelling there-<br/>No longer are homeless ones;<br/>And we know that the goodly land is fair,<br/>Where life’s pure river runs.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They say green fields are waving there,<br/>That never a blight shall know;<br/>And the deserts wild are blooming fair,<br/>And the roses of Sharon grow.<br/>There are lovely birds in the bowers green,<br/>Their songs are blithe and sweet;<br/>And their warblings, gushing ever new,<br/>The angels’ harpings greet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We have heard of the palms, the robes, the crowns,<br/>And the silvery band in white;<br/>Of the city fair, with pearly gates,<br/>All radiant with light.<br/>We have heard of the angels there, and saints,<br/>With their harps of gold, how they sing;<br/>Of the mount with the fruitful tree of life,<br/>Of the leaves that healing bring.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The King of that country, He is fair,<br/>He’s the joy and light of the place;<br/>In His beauty we shall behold Him there,<br/>And bask in His smiling face,<br/>We’ll be there, we’ll be there in a little while,<br/>We’ll join the pure and the blest;<br/>We’ll have the palm, the robe, the crown,<br/>And forever be at rest.</lines>
+    </verse>
+  </lyrics>
+</song>

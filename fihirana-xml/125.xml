@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>VOAGEJAN'NY SAINA TSY NINO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>125</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Voagejan'ny saina tsy nino<br/>Nandevozin'ny filàna koa ;<br/>Nefa ny Tompo re tsy mba nanadino,<br/>Fa namonjy tamin-drany soa.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>He afaka aho, voavonjy.<br/>Tsy misy intsony heloka.<br/>Afaka ny ota 'zay tena mampilonjy<br/>Fa voavela tanteraka.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He, afaka tsy voaheloka<br/>Tamin'ota lasa rehetra ;<br/>Fa navela ity mpanota nibebaka.<br/>Famelana tsy misy fetra,<br/>He afaka aho, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

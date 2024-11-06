@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>'ZAY TIANAO, RY TOMPO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>443</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Zay tianao, ry Tompo no mba tiako ;<br/>Ny teninao harahiko izao<br/>Na sarotra, na mora re ny diako :<br/>'Zay tianao, Jeso, 'zay tianao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tsy sahiko hitoky 'zahy saiko ;<br/>Ny heriko dia zava-poana izao,<br/>Fa ny Anao no tena andrandraiko :<br/>'Zay tianao, Jeso, 'zay tianao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tsy fantatro : ho tsiky sa toloko<br/>Ny anjara izay miandry aloha ao<br/>kanefa izao no vavaky ny foko :<br/>'Zay tianao, Jeso, 'zay tianao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Izao, Jeso, no hany faniriako :<br/>Tazony aho eo an-tananao !<br/>Ny sisa re : 'zay tianao no tiako,<br/>'Zay sitrakao efao, 'zay sitrakao.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>194 - Sing We of the Modern City</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>194</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing we of the modern city,<br/>Scene alike of joy and stress;<br/>Sing we of its nameless people<br/>In their urban wilderness.<br/>Into endless rows of houses<br/>Life is set a millionfold,<br/>Life expressed in human beings<br/>Daily born and growing old.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the city full of people,<br/>World of speed and hectic days,<br/>In the ever-changing setting<br/>Of the latest trend and craze,<br/>Christ is present, and among us;<br/>In the crowd we see Him stand.<br/>In the bustle of the city<br/>Jesus Christ is every man.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God is not remote in heaven,<br/>But on earth to share our shame,<br/>Changing graph and mass and number<br/>Into persons with a name.<br/>Christ has shown, beyond statistics,<br/>Human life with glory crowned,<br/>By His timeless presence proving<br/>People matter, people count!</lines>
+    </verse>
+  </lyrics>
+</song>

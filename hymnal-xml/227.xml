@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>227 - Jesus Shall Reign</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>227</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus shall reign where’er the sun<br/>Does his successive journeys run;<br/>His kingdom stretch from shore to shore,<br/>Till moons shall wax and wane no more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>People and realms of ev’ry tongue<br/>Dwell on His love with sweetest song,<br/>And infant voices shall proclaim<br/>Their early blessings on His name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blessings abound wherever He reigns;<br/>The prisoner leaps to lose his chains;<br/>The weary find eternal rest,<br/>And all who suffer want are blessed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let every creature rise and bring<br/>Honors peculiar to our King;<br/>Angels descend with songs again,<br/>And earth repeat the loud amen!</lines>
+    </verse>
+  </lyrics>
+</song>

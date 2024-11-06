@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FITIAVANA MANDRAKIZAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>350</ccliNo>
+    <authors>
+      <author>J. Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fitiavana mandrakizay,<br/>fitiavan-dehibe<br/>No nitiavako anao,<br/>Ka moa tsy fantatrao ve ?<br/>Mpanota ô heveronao,<br/>Fa very ianao,<br/>Nandao ny lala-marina,<br/>Lasa nivarina.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Efa ela no nandavanao<br/>Ny antsoko izao.<br/>Moa mbola tsy ahoanao.<br/>Tsy mampiraika anao.<br/>Ny aiko no nomeko re<br/>Hanavotra anao ?<br/>He ! famonjena lehibe<br/>Atolotro anao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mpamonjy ô, he ! fantatro<br/>Ny fitiavanao.<br/>Indrisy meloka aho re,<br/>Tsy mendri-kovonjenao.<br/>Ekeko izao ny antsonao,<br/>Tsy laviko tokoa.<br/>Diovy re ny zanakao<br/>Amin'ny ranao soa.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NY TENINAO TSY MIOVA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>194</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY TENYN'ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ny teninao tsy miova hatrizao,<br/>Jeso be fitia,<br/>Dia toky ho ahy<br/>Ka aina hivelomako ety.<br/>Ny teninao mampahery ny fo<br/>Velomy ao anatiko ao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny teninao 'zay fanilon'ny dia<br/>No mitantana ahy hanaraka Anao,<br/>Misakana ahy tsy hania.<br/>Ny teninao manazava ny fo<br/>Velomy ao anatiko ao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny teninao 'zay nomenao ho ahy<br/>No mampianatra ahy<br/>Fa na aiza aleha<br/>Dia momba ahy hatrany Ianao.<br/>Ny teninao, vatolampin'ny fo,<br/>Velomy ao anatiko ao.</lines>
+    </verse>
+  </lyrics>
+</song>

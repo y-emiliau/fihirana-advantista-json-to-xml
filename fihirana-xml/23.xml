@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY TOMPO Ô,MPAHARY NY REHETRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>23</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Tompo ô, Mpahary ny rehetra<br/>An-danitra, ety an-tany koa,<br/>Ny herinao dia tsy mba<br/> manam-petra,<br/>Fa lehibe, ikoizana tokoa.<br/>Koa velon-kira re izao 'zao:<br/>Haleloia ! Haleloia !.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jereko indray 'reo manodidina ahy<br/>Ny asanao mirindra sady soa ;<br/>Mamelombelon-tsaina sy fanahy,<br/>Mameno toky, fifaliana koa.<br/>Dia satriko hanandratra ny feo :<br/>Haleloia ! Haleloia !<br/>Misinda izao ny sento sy toreo :<br/>Haleloia ! Haleloia !</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fa raha mitodika eny Gologota<br/>Ny masoko, ry Tompo tena tia,<br/>Dia tazako Ilay nisolo ota,<br/>Ny Zanakao  nafoy teo kalvary !<br/>'Njao manontany ao am-poko ao :<br/>Ry Tompo ô ! izaho ve<br/>No iantefan'ny fitiavanao ?<br/>O ! fitiavan-dehibe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fa any an-koatra, ao an-danitra avo,<br/>Misy fonenan-tsoa amboarinao,<br/>Handraisanao ao am-po miravoravo<br/>'Ty ondry very nokatsahinao.<br/>Amin'izay hihoby aho hoe :<br/>Haleloia ! Haleloia !<br/>Hiaraka amin'ny voavonjy re<br/>Haleloia ! Aman ! Amen !</lines>
+    </verse>
+  </lyrics>
+</song>

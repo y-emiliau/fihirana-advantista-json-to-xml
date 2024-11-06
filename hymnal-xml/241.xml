@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>241 - Jesus, the Very Thought of Thee</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>241</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, the very thought of thee<br/>with sweetness fills the breast;<br/>but sweeter far thy face to see,<br/>and in thy presence rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No voice can sing, no heart can frame,<br/>Nor can the memory find<br/>A sweeter sound than Jesus’ name,<br/>The Savior of mankind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O hope of every contrite heart!<br/>O joy of all the meek,<br/>to those who fall, how kind thou art!<br/>How good to those who seek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>But what to those who find? Ah, this<br/>nor tongue nor pen can show;<br/>the love of Jesus, what it is,<br/>none but his loved ones know.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, our only joy be thou,<br/>as thou our prize wilt be;<br/>Jesus, be thou our glory now,<br/>and through eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

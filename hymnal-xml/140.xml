@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>140 - Thou Didst Leave Thy Throne</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>140</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou didst leave Thy throne<br/>And Thy kingly crown<br/>When Thou camest to earth for me;<br/>But in Bethlehem’s home<br/>Was there found no room<br/>For Thy holy nativity.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O come to my heart, Lord Jesus,<br/>There is room in my heart for Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heaven’s arches rang<br/>When the angels sang<br/>Proclaiming Thy royal degree;<br/>But of lowly birth<br/>Didst Thou come to earth,<br/>And in greatest humility.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The foxes found rest,<br/>And the birds their nest<br/>In the shade of the forest tree;<br/>But Thy couch was the sod,<br/>O Thou Son of God,<br/>In the deserts of Galilee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thou camest, O Lord,<br/>With the living word<br/>That should set Thy people free;<br/>But with mocking scorn,<br/>And with crown of thorn,<br/>They bore Thee to Calvary.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When the heavens shall ring,<br/>And the angels sing,<br/>At Thy coming to victory,<br/>Let Thy voice call me home,<br/>Saying, “Yet there is room,<br/>There is room at My side for thee.”</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My heart shall rejoice, Lord Jesus,<br/>When Thou comest and callest for me.</lines>
+    </verse>
+  </lyrics>
+</song>

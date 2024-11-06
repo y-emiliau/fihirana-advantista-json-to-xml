@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MIASA RE IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>601</ccliNo>
+    <authors>
+      <author>F. Ramanantsialonina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miasà re izao,<br/>Jeso no momba anao<br/>Mandra-pahatonga anao<br/>Anatrehan'ny Ray.<br/>Aza ketraka ianao,<br/>Tontosao ny atao,<br/>Milofosa tokoa<br/>Mba hamory ny voa.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Miaingà, miasà<br/>Mijoroa eo aloha<br/>Ô ! vitao (ô ! vitao)<br/>Ny atao (ny atao)<br/>Fa homba anao ny Tomposoa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He! tsarovy tokoa<br/>miaramiula ianao,<br/>Ny hijoro, hanavao,<br/>No ilàna anao.<br/>Dia tafio avokoa<br/>Ny fiadiana mahasoa,<br/>Haharesy ianao<br/>Sy hahery izao.<br/>Miaingà, miasà, sns</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ho tanora madio,<br/>No voady hatao.<br/>Miezaha re anio<br/>Mijoroa hanavao.<br/>Ny fiainana soa<br/>Idealy tokoa.<br/>Mahereza hatrizao,<br/>Aza kivy ianao.<br/>Miaingà, miasà, sns</lines>
+    </verse>
+  </lyrics>
+</song>

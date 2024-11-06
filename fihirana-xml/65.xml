@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>INDRO NY TOMPO MPAMONJY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>65</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Indro ny Tompo Mpamonjy<br/>Teraka tao an'alim-be,<br/>He ! teraka tao an-tranon'omby<br/>Ka tsy nisy izay mba nandre.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Fa ny Ray an-danitra<br/>Nandefa anjely<br/>Mba hanambara Ilay nateraka<br/>Mba ho Mpamonjy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha tsy niraika ny olona<br/>Tan-tanàna fa natory,<br/>'Reo mpiandry ondry kosa dia vonona<br/>Ka nandeha sy nandao ny ondriny.<br/>Fa ny Ray an-danitra, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fa manahoana kosa re<br/>No mba fihetsikao izao<br/>Raha madre fa he ho avy anie<br/>'Lay Jesosy izay namonjy anao ?<br/>Fa ny Ray an-danitra<br/>Nandefa anjely<br/>Hanomana izay te hiakatra ;<br/>Any an-danitra.</lines>
+    </verse>
+  </lyrics>
+</song>

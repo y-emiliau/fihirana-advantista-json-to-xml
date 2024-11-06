@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NY FITIAVANY AHY SY ANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>74</ccliNo>
+    <authors>
+      <author>Esther Bary</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ny fitiavany ahy sy anao.<br/>No he ! Nanolorany<br/>Ny ainy mba ho fanavotana.<br/>Tia ahy Jeso,<br/>Tia anao tokoa<br/>Samy tiany izaho sy ianao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nandeha teny Kalvary<br/>Haneho ny fitiavany<br/>'lay Jesosy fanomezana soa.<br/>Tia ahy Jeso,<br/>Tia anao tokoa<br/>Samy tiany izaho sy ianao.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FALY AHO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>11</ccliNo>
+    <authors>
+      <author>J. P. Randriamahefa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>SALAMO</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Faly aho,faly aho<br/>Raha hoy izireo tamiko;<br/>Andeha isika ho any,<br/>Any an-tranon'i Jehovah.<br/>Ny tongotray efa mijoro<br/>Ao anatin'ny vavahadinao,<br/>Ry Jerosalema ô!<br/>Dia ianao ry Jerosalema<br/>Izay efa vita.<br/>Tahaka ny tanàna efa voalamina,<br/>Efa voalamina tsara.<br/>Any no hiakaran'ny firenena,<br/>Dia ireo firenen'i Jehovah,<br/>Mba hisaotra, mba hisaotra<br/>Ny anaran'i Jehovah.</lines>
+    </verse>
+  </lyrics>
+</song>

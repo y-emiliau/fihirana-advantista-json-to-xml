@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>030 - Holy God, We Praise Your Name</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>30</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy God, we praise Your name;<br/>Lord of all, we bow before You!<br/>All on earth Your scepter claim,<br/>All in heaven above adore You;<br/>Infinite Your vast domain.<br/>Everlasting is Your reign.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hark! the loud celestial hymn<br/>Angel choirs above are raising,<br/>Cherubim and seraphim,<br/>In unceasing chorus praising;<br/>Fill the heavens with sweet accord:<br/>Holy, holy, holy, Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Father, Holy Son,<br/>Holy Spirit, three we name You;<br/>While in essence only one,<br/>Undivided God we claim You;<br/>And adoring bend the knee,<br/>While we own the mystery.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>536 - God, Who Stretched</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>536</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God, who stretched the spangled heavens<br/>Infinite in time and place,<br/>Flung the suns in burning radiance<br/>Through the silent fields of space;<br/>We, Your children in Your likeness,<br/>Share inventive powers with You;<br/>Great Creator, still creating,<br/>Show us what we yet may do.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have ventured worlds undreamed of<br/>Since the childhood of our race;<br/>Knowing the ecstasy of winging<br/>Through untraveled realms of space,<br/>Probed the secrets of the atom,<br/>Yielding unimagined power,<br/>Facing us with life’s destruction<br/>Or our most triumphant hour.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As each far horizon beckons,<br/>May it challenge us anew:<br/>Children of creative purpose,<br/>Serving others, honoring You.<br/>May our dreams prove rich with promise;<br/>Each endeavor well begun;<br/>Great Creator, give us guidance<br/>Till our goals and Yours are one.</lines>
+    </verse>
+  </lyrics>
+</song>

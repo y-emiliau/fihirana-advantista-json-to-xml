@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>457 - I Love to Tell the Story</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>457</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love to tell the story<br/>of unseen things above,<br/>of Jesus and his glory,<br/>of Jesus and his love.<br/>I love to tell the story,<br/>because I know ’tis true;<br/>it satisfies my longings<br/>as nothing else can do.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I love to tell the story,<br/>’twill be my theme in glory,<br/>to tell the old, old story<br/>of Jesus and his love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love to tell the story;<br/>more wonderful it seems<br/>than all the golden fancies<br/>of all our golden dreams.<br/>I love to tell the story,<br/>it did so much for me;<br/>and that is just the reason<br/>I tell it now to thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love to tell the story;<br/>’tis pleasant to repeat<br/>what seems, each time I tell it,<br/>more wonderfully sweet.<br/>I love to tell the story,<br/>for some have never heard<br/>the message of salvation<br/>from God’s own holy Word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I love to tell the story,<br/>for those who know it best<br/>seem hungering and thirsting<br/>to hear it like the rest.<br/>And when, in scenes of glory,<br/>I sing the new, new song,<br/>’twill be the old, old story<br/>that I have loved so long.</lines>
+    </verse>
+  </lyrics>
+</song>

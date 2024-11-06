@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MOA MAFY IZANY ALAHELO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>499</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moa mafy 'zany alahelo !<br/>Ilazao Jeso, ilazao Jeso.<br/>Ho renao ilay feo mamelovelo;<br/>'Ndeha ilazao Jeso.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Eny, mba lazao,<br/>Aza efeninao,<br/>entonao eo avokoa.<br/>O, mba sahia<br/>Fa Izy tena tia,<br/>Lazao azt tokoa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tebiteby ve sa fifaliana ?<br/>Ilazao Jeso, ilazao Jeso.<br/>Fahotana koa, ady fahoriana ?<br/>'Ndeha ilazao Jeso.<br/>Eny, mba lazao, sns</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Moa maro ve ny ahiahy ?<br/>Ilazao Jeso, ilazao Jeso.<br/>Izy tokinao, andrin'ny fanahy.<br/>'Ndeha ilazao Jeso.<br/>Eny, mba lazao, sns</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ary raha mamely izany rafy<br/>Ilazao Jeso, ilazao Jeso.<br/>Ny fitiavany dia manda mafy<br/>'Ndeha ilazao Jeso.<br/>Eny, mba lazao, sns</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>512 - Just When I Need Him Most</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>512</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just when I need Him, Jesus is near,<br/>Just when I falter, just when I fear;<br/>Ready to help me, ready to cheer,<br/>Just when I need Him most.<br/>Just when I need Him most,<br/>Just when I need Him most,<br/>Jesus is near to comfort and cheer,<br/>Just when I need Him most.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just when I need Him, Jesus is true,<br/>Never forsaking, all the way through,<br/>Giving for burdens pleasures anew,<br/>Just when I need Him most.<br/>Just when I need Him most,<br/>Just when I need Him most,<br/>Jesus is near to comfort and cheer,<br/>Just when I need Him most.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just when I need Him, Jesus is strong,<br/>Bearing my burdens all the day long;<br/>For all my sorrow giving a song,<br/>Just when I need Him most.<br/>Just when I need Him most,<br/>Just when I need Him most,<br/>Jesus is near to comfort and cheer,<br/>Just when I need Him most.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just when I need Him, He is my all,<br/>Answering when upon Him I call;<br/>Tenderly watching lest I should fall,<br/>Just when I need Him most.<br/>Just when I need Him most,<br/>Just when I need Him most,<br/>Jesus is near to comfort and cheer,<br/>Just when I need Him most.</lines>
+    </verse>
+  </lyrics>
+</song>

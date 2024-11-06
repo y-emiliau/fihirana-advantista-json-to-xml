@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>398 - Bread of the World</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>398</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bread of the world in mercy broken,<br/>Wine of the soul in mercy shed,<br/>By whom the words of life are spoken,<br/>And in whose death our sins are dead;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Look on the heart by sorrow broken,<br/>Look on the tears by sinners shed;<br/>And be Thy feast to us the token<br/>That by Thy grace our souls are fed. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

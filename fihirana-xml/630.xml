@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FA FITIAVAKI IANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>630</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fa fitiavako Ianao,<br/>Ry Mpamonjiko tokiko.<br/>Ianao no tsy mandao<br/>Ianao no Tompoko<br/>Fa fitiavako Ianao,<br/>(Ry Tompo tia)<br/>Heriko tokoa, tokoa.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Eny hatrizay, ho mandrakizay<br/>Ao anatiko ao<br/>Ahitako Anao.<br/>Na mifoha aho na mandry,<br/>Io Ianao.<br/>Na mifoha aho na mandry,<br/>Indro ao Ianao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fa fitiavako Ianao,<br/>Ry Mpiaro ny fanahy<br/>Ianao no manavao<br/>Ianao no miandry ahy<br/>Fa fitiavako Ianao,<br/>(Ry Tompo tia)<br/>Heriko tokoa, tokoa.<br/>Eny hatrizay, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fa fitiavako Ianao,<br/>Ry Mpanjaka, Ray Tsitoha<br/>Ianao anatiko ao<br/>No manapaka ao am-po<br/>Fa fitiavako Ianao,<br/>(Ry Tompo tia)<br/>Heriko tokoa, tokoa.<br/>Eny hatrizay, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

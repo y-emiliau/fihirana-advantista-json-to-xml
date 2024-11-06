@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MOA TAZANAO MIHOMBO ERY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>71</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moa tazanao mihombo ery<br/>'Lay Tompon'ny fiainana,<br/>Mifantsika eny Kalvary<br/>Hanavotra, hamelona ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ho ahy re sy ho anao<br/>No nanekeny ny manjo ;<br/>Fitiavan-tsy voafetra izao ;<br/>Andao hatolotra ny fo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anefa anie tsy mendrika<br/>Fa feno loto, ota koa,<br/>Itambesaran-keloka,<br/>Ka moa ho raisiny tokoa ?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Iriny indrindra re anio<br/>Homenao ho fanatitra,<br/>Hohamasininy hadio.<br/>Ho lapam-boninahitra.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tsy haiko ny handao Anao,<br/>Ry Tompo be fitia tokoa,<br/>Atolotro tontolo izao<br/>Am-pelatananao ny fo !</lines>
+    </verse>
+  </lyrics>
+</song>

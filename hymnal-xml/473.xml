@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>473 - Nearer My God, to Thee</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>473</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nearer, my God, to thee, nearer to thee!<br/>E’en though it be a cross that raiseth me,<br/>still all my song shall be,<br/>nearer, my God, to thee;<br/>nearer, my God, to thee, nearer to thee!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though like the wanderer, the sun gone down,<br/>darkness be over me, my rest a stone;<br/>yet in my dreams I’d be<br/>nearer, my God, to thee;<br/>nearer, my God, to thee, nearer to thee!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There let the way appear, steps unto heaven;<br/>all that thou sendest me, in mercy given;<br/>angels to beckon me<br/>nearer, my God, to thee;<br/>nearer, my God, to thee, nearer to thee!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then, with my waking thoughts bright with thy praise,<br/>out of my stony griefs Bethel I’ll raise;<br/>so by my woes to be<br/>nearer, my God, to thee;<br/>nearer, my God, to thee, nearer to thee!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Or if, on joyful wing cleaving the sky,<br/>sun, moon, and stars forgot, upward I fly,<br/>still all my song shall be,<br/>nearer, my God, to thee;<br/>nearer, my God, to thee, nearer to thee!</lines>
+    </verse>
+  </lyrics>
+</song>

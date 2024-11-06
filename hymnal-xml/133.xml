@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>133 - Now Is Born the Divine Christ Child</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <ccliNo>133</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Now is born the divine Christ child,<br/>Play the musette, play the tuneful oboe,<br/>Now is born the divine Christ child,<br/>Sing we all and rejoice this day.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>He was born in a stable bare,<br/>On bed of straw how He sleeps so soundly,<br/>He was born in a stable bare,<br/>Let us worship and to Him bow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ages long since are past and gone,<br/>When the wise men foretold His coming,<br/>Ages long since are past and gone,<br/>When the wise men foretold His birth.</lines>
+    </verse>
+  </lyrics>
+</song>

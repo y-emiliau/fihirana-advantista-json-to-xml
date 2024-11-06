@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY TOMPO O, MPAMINDRA FO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>6</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>SALAMO</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Tompo ô, Mpamindra fo<br/>Sy feno fiantrana koa,<br/>Mpamela heloka tokoa,<br/>Vonoy ny hadisoako.<br/>Manatona Aho 'zao,<br/>Na meloka Aminao,<br/>Noho ny hasoavanao,<br/>Sasao madio ny foko.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tsy te hiala tsiny re<br/>Fa tena diso lehibe,<br/>He! ratsy hatrany ambohoka e!<br/>Ianao no nanotako.<br/>Manatona Anao 'zao,<br/>Na meloka aminao,<br/>Noho ny hasoavanao,<br/>Sasao madio ny foko.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny fahamarinana ao am-po<br/>No tena sitrakao tokoa,<br/>Avia, diovy avokoa<br/>Ny heloko rehetra.<br/>Manatona Anao 'zao,<br/>Na meloka aminao,<br/>Noho ny hasoavanao,<br/>Izay tsy misy fetra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O,amorony fo madio,<br/>Ankehitriny eny anio;<br/>Fanahy tsara mba ampio,<br/>Tohano tsy ho resy.<br/>Hamerina aminao<br/>'Reo olon-diso izao,<br/>No faniriako hatrizao,<br/>Ry Kristy, 'Zay Mpandresy !</lines>
+    </verse>
+  </lyrics>
+</song>

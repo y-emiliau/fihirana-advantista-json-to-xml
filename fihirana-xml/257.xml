@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MBA HEVERONAO ANGE</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>257</ccliNo>
+    <authors>
+      <author>J. Ramahaisahy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mba heveronao ange !<br/>Zava-dehibe,'Zay nataon'ny Tomponao<br/>Hamonjena anao :<br/>Aina no natolony<br/>Mba ho avotra.<br/>Manambara Ilay fitia<br/>Jeso Tomponao<br/>Maty tany Kalvary<br/>Mba ho solonao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Manatona ianao,<br/>Ry mpanota ô,<br/>Fa Jeso no miantso izao<br/>Ta handray anao<br/>Izy no manolotra<br/>Hery vaovao<br/>Sy mamela heloka<br/>Hamonjena anao.<br/>Manatona re !</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mifalia re izao,<br/>Ry sakaiza,<br/>Fa voavonjy ianao<br/>Ka voaray.<br/>Jeso Tompo tia<br/>No manome<br/>Lanitra sy Tany vao,<br/>Hivantananao,<br/>Toeram-bononahitra<br/>Any an-danitra.</lines>
+    </verse>
+  </lyrics>
+</song>

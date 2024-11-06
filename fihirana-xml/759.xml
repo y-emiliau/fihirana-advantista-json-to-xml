@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MISEDRA ADY SAROTRA VE (VAHAOLANA)</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>759</ccliNo>
+    <authors>
+      <author>Tita &amp; Antso Razakaria</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Misedra ady sarotra ve<br/>ny fiainanao,<br/>Noho ireo olana marobe<br/>izay miseho?<br/>Toa mila hampamoy fo,<br/>mampisento,<br/>Inty misy vahaolana<br/>lazaiko anao:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ao ilay Jesosy, vahaolana<br/>ho ahy sy ho anao,<br/>Izy ilay fitiavana sy<br/>fiadanana.<br/>Raiso Izy anio, ô! ekeo ho<br/>Mpamonjy anao,<br/>Dia ho azonao antoka tokoa ny hoavinao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha toa fahoriana indray<br/>no mianjady,<br/>Aretina sy ahiahy mandratra fo,<br/>‘Reo zava-tsarotra manjo iainanao,<br/>Inty misy vahaolana<br/>lazaiko anao:<br/>Ao ilay Jesosy, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

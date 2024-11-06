@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>OMANY NY FANILO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>144</ccliNo>
+    <authors>
+      <author>Rajelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Omany ny fanilo,<br/>Andao hiakatra !<br/>Moa renao ve ry mpino ?<br/>'Ndry ny Mpampakatra !</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Avy 'lay nantenaina,<br/>Mihirà Hosana !<br/>He! tonga ny maraina,<br/>Derao , Haleloia !<br/>Derao , Haleloia !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Indreny ny anjely<br/>Be voninahitra<br/>Hamory 'zay niely,<br/>Handova lanitra.<br/>Avy 'lay nantenaina,sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tazano ! Iry ny Tompo,<br/>Mpandresy lehibe !<br/>Nietry mba hanompo<br/>Fa izao nasandratra e!<br/>Avy 'lay nantenaina,sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Faingana, Jeso tia,<br/>Miandry Anao 'zahay,<br/>Miantso hoe: << Avia >>,<br/>Amen ! handray anay.<br/>Avy 'lay nantenaina,sns.</lines>
+    </verse>
+  </lyrics>
+</song>

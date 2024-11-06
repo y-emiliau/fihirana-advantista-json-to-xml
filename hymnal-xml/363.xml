@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>363 - Lord, Whose Love in Humble Service</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>363</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, whose love in humble service<br/>Bore the weight of human need,<br/>Who upon the cross, forsaken,<br/>Worked Your mercy’s perfect deed:<br/>We, Your servants, bring the worship<br/>Not of voice alone, but heart;<br/>Consecrating to Your purpose<br/>Every gift which You impart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Still Your children wander homeless;<br/>Still the hungry cry for bread;<br/>Still the captives long for freedom;<br/>Still in grief we mourn our dead.<br/>As you, Lord, in deep compassion<br/>Healed the sick and freed the soul,<br/>By Your Spirit send Your power<br/>To our world to make it whole.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As we worship, grant us vision,<br/>Till your love’s revealing light<br/>In its height and depth and greatness<br/>Dawns upon our quickened sight,<br/>Making known the needs and burdens<br/>Your compassion bids us bear,<br/>Stirring us to ardent service,<br/>Your abundant life to share.</lines>
+    </verse>
+  </lyrics>
+</song>

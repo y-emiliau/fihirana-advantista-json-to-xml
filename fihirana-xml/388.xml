@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FALY AHO, TRETRIKA AHO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>388</ccliNo>
+    <authors>
+      <author>M. Randriamiandriray</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Faly aho, tretrika aho,<br/>Fa ankohonan'ny Ray,<br/>Voadio sy voasasan'ny ran'i Jeso,<br/>Mpiar-mandova amin'i Jeso tia,<br/>Fa anisan'ny ankohonan'Andriamanitra.<br/>Mifampiantso rahalahy<br/>rahavavy izahay<br/>Fianakaviana iray izahay<br/>Mifamatotra am-po<br/>Ny fo malahelo iray<br/>Ampaherezinay<br/>Ary ny fandresena iray<br/>Fifaliana ho anay.<br/>Ny fonenan'ny kamboty,<br/>Ny Mpanjaka koa,<br/>Tafakambana avokoa<br/>Ka hiraiko izao :<br/>Mahantra sy mpanana<br/>Kely sy lehibe<br/>Ka isaorako Ianao Tompo ô !<br/>Fa ankohonanao aho.</lines>
+    </verse>
+  </lyrics>
+</song>

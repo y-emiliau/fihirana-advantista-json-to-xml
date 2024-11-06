@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>IZA NO NANAO NY LANITRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>24</ccliNo>
+    <authors>
+      <author>D. Razakaria</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Iza no nanao ny lanitra,<br/>Ny herinao sy lohasaha,<br/>'Zao tany amn-danitra hita izao ?<br/>Ilay Mahery noho 'zaho sy ianao.<br/>'Reo voninkazo tsara tarehy,<br/>Ny voronkely izay manga feo ;<br/>Moa ve fantatrao ny nanao ireo ?<br/>Ilay Mahery noho 'zaho sy ianao ?<br/>Raha mamaky ny haizim-be<br/>Izaho sy ianao, mitantana Izy<br/>Miambina Izy,<br/>Momba fa tsy mandao.<br/>Raha rera-tsaina na kivy fo<br/>Iza no haleha raha misy manjo<br/>hanome finoana sy hery vao ?<br/>Ilay Mahery noho 'zaho sy ianao.</lines>
+    </verse>
+  </lyrics>
+</song>

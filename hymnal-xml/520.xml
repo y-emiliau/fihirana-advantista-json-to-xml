@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>520 - He Hideth My Soul</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>520</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A wonderful Savior is Jesus my Lord,<br/>A wonderful Savior to me,<br/>He hideth my soul in the cleft of the rock,<br/>Where rivers of pleasure I see.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He hideth my soul in the cleft of the rock<br/>That shadows a dry, thirsty land;<br/>he hideth my life in the depths of His love,<br/>And covers me there with His hand,<br/>And covers me there with His hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A wonderful Savior is Jesus my Lord,<br/>He taketh my burden away,<br/>He holdeth me up, and I shall not be moved,<br/>He giveth me strength as my day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With numberless blessings each moment He crowns,<br/>And filled with His fullness divine,<br/>I sing in my rapture, Oh, Glory to God<br/>For such a Redeemer as mine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When clothed in His brightness, transported I rise<br/>To meet Him in clouds of the sky,<br/>His perfect salvation, His wonderful love,<br/>I’ll shout with the millions on high.</lines>
+    </verse>
+  </lyrics>
+</song>

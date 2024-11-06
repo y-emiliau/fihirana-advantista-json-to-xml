@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>452 - What Heavenly Music</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>452</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What heavenly music steals over the sea!<br/>Entrancing the senses like sweet melody!<br/>‘Tis the voice of the angels borne soft on the air;<br/>For me they are singing; their welcome I hear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On the banks of old Jordan, here gazing I stand,<br/>And earnestly longing, I stretch forth my hand;<br/>Send a convoy of angels, dear Jesus, I pray!<br/>Let me join that sweet music; come, take me away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though dark are the waters and rough is the wave,<br/>If Jesus permit, the wild surges I’ll brave;<br/>For that heavenly music hath ravished me so,<br/>I must join in that chorus! I’ll go! let me go!</lines>
+    </verse>
+  </lyrics>
+</song>

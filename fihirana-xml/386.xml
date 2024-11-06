@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>O! NY TANANAO TOMPO TIA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>386</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ô ! ny tananao Tompo tia,<br/>Tanan'izay tena tia,<br/>No namonjy tamin'ny ota,<br/>Nanavotra ny fiainako.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Io tanano io<br/>No namonjena ahy<br/>Fanasitranana ahy Ianao.<br/>Tompo ô, Tompo ô,<br/>Ô ! ny tananao<br/>Ho avy hisintona ahy ho ary.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeso Tompo, Jeso tia,<br/>Aoka re ny tananao<br/>No hanosotra ahy hatrany<br/>Mba hiderako ny Anaranao.<br/>Io tananao io, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

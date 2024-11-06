@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>431 - Over Yonder</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>431</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come let us sing of homeland,<br/>Down by the crystal sea;<br/>Wonderful land where Jesus<br/>Buildeth a mansion for me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Over yonder, down by the crystal sea,<br/>down              by the crystal sea,<br/>Over yonder, there’s where I long to be,<br/>There’s            where I long to be,<br/>No more sorrow, toil, grief, nor care,<br/>In the homeland bright and fair,<br/>Over, over there.<br/>Over there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Water of life there floweth,<br/>Fruit in abundant store;<br/>Citizens of that country<br/>Hunger and thirst never more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come go with me to homeland,<br/>Jesus invites you there;<br/>Help spread the invitation,<br/>Tell it to men everywhere.</lines>
+    </verse>
+  </lyrics>
+</song>

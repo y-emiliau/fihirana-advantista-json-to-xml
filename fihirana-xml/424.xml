@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NY FIAINAN'NY LANITRA AMBONY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>424</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ny fiainan'ny lanitra ambony<br/>Dia andramako sahady ety ;<br/>Fa fiainana kanto sy tony,<br/>Hasambarana fatratra ery.<br/>He ! Jesosy no ato am-poko ;<br/>Fa izaho no tempolin'ny Ray<br/>Fiadanana tsy hosoloiko !<br/>Hasambarana mandrakizay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Njao ny foko fa mamolivoly<br/>Te hidera aho satria nandre<br/>Ny antema hirain'ny tempoly,<br/>Mifalia any an-danitra e.<br/>Ny fisorana ataony any koa<br/>Ho an'Ilay Zanak'ondrin'ny Ray<br/>Dia manainga ny saiko hifoha,<br/>Hankalaza azy mandrakizay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kerobima mihira ao ambony<br/>Fa izaho mihira eto koa.<br/>Haleloia, tsy hitsahatra intsony<br/>No hasandratro ho Anao, ry Tsitoha.<br/>'Reo anjelin'ny lanitra avo<br/>Ho tahafiko eto indray,<br/>Ny fanahiko faly sy ravo !<br/>Hasambarana mandrakizay.</lines>
+    </verse>
+  </lyrics>
+</song>

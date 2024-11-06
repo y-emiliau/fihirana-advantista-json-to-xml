@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HE FALY NY FONAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <ccliNo>521</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He ! faly ny fonay Jeso<br/>Miara-midera Anao<br/>Izay niaritra eso<br/>Noho ny fitiavanao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny lanitra izay mazava,<br/>He, indro nilaozanao,<br/>Mba hahitanay 'lay tava<br/>Endriky ny Rainao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Matetika nitomany<br/>ianao noho ny helokay<br/>nijaly tety an-tany<br/>Mba ho fifalianay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nitady ny olom-bery<br/>Tanatin'ny alim-be.<br/>Nitondra toky sy hery,<br/>Ho an'ilay kivy e !</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Izao Ianao mifona<br/>Ho anay ao an-koatra ao,<br/>Ka indro koa mandona<br/>Ao amn'ny fo izao.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ho avy eny an-danitra avo,<br/>Hitondra any ho aminao,<br/>Irinay re ny ho ravo<br/>Eo am-pitsenana Anao.</lines>
+    </verse>
+  </lyrics>
+</song>

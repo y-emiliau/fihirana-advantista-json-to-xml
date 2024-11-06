@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>328 - Must Jesus Bear the Cross Alone</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>328</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Must Jesus bear the cross alone,<br/>and all the world go free?<br/>No, there’s a cross for everyone,<br/>and there’s a cross for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The consecrated cross I’ll bear<br/>till He shall set me free;<br/>and then go home my crown to wear,<br/>for there’s a crown for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Upon the crystal pavement, down<br/>at Jesus’ pierced feet,<br/>with joy I’ll cast my golden crown,<br/>and His dear name repeat.</lines>
+    </verse>
+  </lyrics>
+</song>

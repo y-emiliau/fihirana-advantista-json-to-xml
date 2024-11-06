@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FIHINO MAFY AHO JESO Ô !</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1</verseOrder>
+    <ccliNo>620</ccliNo>
+    <authors>
+      <author>Dera Arson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O ........................<br/>O ........................<br/>Fihino, fihino<br/>Fihinio, mafy aho, Jeso ô,<br/>Fa malemy, malemy<br/>Mora vaky<br/>Raha tsy an-tananao, Jeso.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Fihino tahaka an'i Jaona<br/>Ho eo an-tratranao, Jeso.<br/>Fihino, fihino<br/>Fa raha eo an-tratranao aho<br/>Dia ho tony.<br/>2<br/>Raha sendra ho kivy<br/>Ka mila hangatsiaka ny finoako,<br/>Hafanao re, ry Zoky<br/>Ô, fihino eo an-tratranao, Jeso.<br/>Fihino tahaka an'i Jaona, sns.<br/>3Manonja, mahery ny sivana izao,<br/>Tompo ô, ka tohano, fihino<br/>Tsy ho latsaka<br/>'Ty zandrinao, Jeso.<br/>Fihino tahaka an'i Jaona, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

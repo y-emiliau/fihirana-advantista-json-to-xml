@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>IZAY MAHAKOLOKOLO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>562</ccliNo>
+    <authors>
+      <author>J. Andrianaivoravelona zanany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Zay mahakolokolo<br/>No manana ny soa<br/>'Zahao ny tanimboly,<br/>'Zay fatratra tokoa,<br/>Fa he 'reo voninkazo<br/>Mamerovero ao,<br/>Toa nofy 'zay handazo,<br/>Andeha mba jereo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ireo 'zay mahavatra<br/>Handray ny voka-tsoa,<br/>Ka tena tsy hahantra,<br/>Tsy reraka tokoa ;<br/>Jereo 'reo taninketsa<br/>Mampanantena voa,<br/>Fa soa tsy manam-petra<br/>Sy hanim-be tokoa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Zahay, ry ray sy reny,<br/>No voninkazo koa,<br/>Hamerovero any<br/>An-tokantrano soa ;<br/>Tezao mba hihatsara<br/>Ny fofo-manitray,<br/>Mba tsy harahin-tsento<br/>Ny toetra anananay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Zahay no toy ny ketsa<br/>Ho vanona tokoa,<br/>Hamoa tsy misy fetra,<br/>Sy tena hahasoa ;<br/>Ny fiangonantsik<br/>Hahita valiny,<br/>Ny fivavahantsika<br/>handroso hery koa.</lines>
+    </verse>
+  </lyrics>
+</song>

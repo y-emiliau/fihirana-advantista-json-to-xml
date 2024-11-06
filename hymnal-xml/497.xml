@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>497 - O Gracious Father of Mankind</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <ccliNo>497</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O gracious Father of mankind,<br/>Our spirits’ unseen friend;<br/>High heaven’s Lord, our hearts’ dear guest,<br/>To Thee our prayers ascend.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou dost not wait till human speech<br/>Thy gifts divine implore;<br/>Our dreams, our aims, our work, our lives<br/>Are prayers Thou lovest more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou hearest these, the good and ill,<br/>Deep buried in each breast;<br/>The secret thought, the hidden plan,<br/>Wrought out our unexpressed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O cleanse our prayers from human dross,<br/>Attune our lives to Thee,<br/>Until we labor for those gifts<br/>We ask on bended knee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Our best is but Thyself in us,<br/>Our highest thought Thy will;<br/>To hear Thy voice we need but love,<br/>And listen, and be still.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We would not bend Thy will to ours,<br/>But blend our wills to Thine;<br/>Not dreams, our aims, our work, our lives<br/>Are prayers Thou lovest more.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Thou seekest us in love and truth<br/>More than our minds seek Thee;<br/>Through open gates Thy power flows in<br/>Like flood tides from the sea.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>No more we seek Thee from afar,<br/>Nor ask Thee for a sign,<br/>Content to pray in life and love<br/>And toil, till all are Thine.</lines>
+    </verse>
+  </lyrics>
+</song>

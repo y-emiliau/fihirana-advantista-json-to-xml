@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>379 - We Give This Child to You</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>379</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We give this child to You,<br/>Our precious gift of love.<br/>Help us to lead each step aright<br/>With guidance from above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O bless each child of Yours,<br/>And grant when they are grown,<br/>They will have learned to love Your way,<br/>And choose it for their own.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We give ourselves to You,<br/>And may Your Spirit fill<br/>Our hearts and home, that all we do<br/>Be subject to Your will.</lines>
+    </verse>
+  </lyrics>
+</song>

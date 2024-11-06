@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>076 - O Love That Wilt Not Let Me Go</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>76</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Love that wilt not let me go,<br/>I rest my weary soul in thee;<br/>I give thee back the life I owe,<br/>that in thine ocean depths<br/>its flow may richer, fuller be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Light that followest all my way,<br/>I yield my flickering torch to thee;<br/>my heart restores its borrowed ray,<br/>that in they sunshine’s blaze<br/>its day may brighter, fairer be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Joy that seekest me through pain,<br/>I cannot close my heart to thee;<br/>I trace the rainbow thru the rain,<br/>and feel the promise is not vain,<br/>that morn shall tearless be.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Cross that liftest up my head,<br/>I dare not ask to fly from thee;<br/>I lay in dust life’s glory dead,<br/>and from the ground there blossoms<br/>red life that shall endless be.</lines>
+    </verse>
+  </lyrics>
+</song>

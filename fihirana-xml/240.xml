@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NY FITAHIANAO RE, RY TOMPO TIA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>240</ccliNo>
+    <authors>
+      <author>Jeanne Ratsirison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ny fitahianao re, ry Tompo tia,<br/>No mba arotsahy aminay eto anio<br/>Ireo tsorankazo manitsy ny dia<br/>Isaoranay Anao ka avia mba ampio.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ianao 'zay Mpitarika tsara indrindra<br/>Tsy mba mahafoy fa mitantana anay<br/>Fa he mampahery ary mampirindra<br/>Nt dia ho tody ao ho mandrakizay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ireo fanejehana dia tsy mankaiza<br/>Ka tsy hampimalo anay olonao<br/>Fa ho voninahitrao na aiza na aiza<br/>'Zahay ho tena vavolombelonao.</lines>
+    </verse>
+  </lyrics>
+</song>

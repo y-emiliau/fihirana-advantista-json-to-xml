@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HE TOY NY TANIMBOLY SOA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>192</ccliNo>
+    <authors>
+      <author>Jeanne Ratsirison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY TENYN'ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He, toy ny tanimboly soa,<br/>Jeso, ny teninao.<br/>'Zay vonona hitady moa<br/>Mahazo mioty ao.<br/>Ny voninkazo manitra<br/>Mamerovero ao,<br/>Hanjary amboara fatratra<br/>Manome aina vao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Toa kintana mamiratra<br/>Ny teninao Kristy,<br/>Ka he mandefa taratra<br/>Mitsilo 'zany dia.<br/>He sabatra maranitra<br/>'Zay anafihana,<br/>Hambabo ho ao an-danitra<br/>Ny fo manaiky Anao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Izay iriko, Tompo soa,<br/>Ho tia ny teninao ;<br/>Fitaovam-piadiana koa<br/>Ho enti-miady ao,<br/>Ho jiro hanazava ahy<br/>An-dàlana izao,<br/>Hitarika ireo fanahy<br/>Hiandany aminao.</lines>
+    </verse>
+  </lyrics>
+</song>

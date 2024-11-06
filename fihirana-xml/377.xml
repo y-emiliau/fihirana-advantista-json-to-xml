@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TOMPO Ô, OVAY NY FOKO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v1 v2 v3</verseOrder>
+    <ccliNo>377</ccliNo>
+    <authors>
+      <author>G. Cousins</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TOMPO Ô ! OVAY NY FOKO</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tompo ô ! ovay ny foko<br/>Mba ho mora anarina<br/>Toy ny an'ny zazakely<br/>Tsotra sady marina,<br/>:,: Tsy mialona, tsy maditra,<br/>Fa manai ny sitrakao. :,:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zaza, ka tsy te hifidy<br/>Izay homenao ahy anio ;<br/>Ny ho azoko ampitso<br/>Dia ankinina aminao ;<br/>:,: Koa tsy manahy aho,<br/>Fa efa niantohanao. :,:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zaza tsy maharo tena,<br/>Fa miankina amin-dRay,<br/>Tsy mahery, tsy mba hendry<br/>Ary tsy mahay mandeha ;<br/>:,: Ianao no Raiko tia,<br/>raiko be fahari-po. :,:</lines>
+    </verse>
+  </lyrics>
+</song>

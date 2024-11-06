@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>INJANY TROMPETRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>146</ccliNo>
+    <authors>
+      <author>L. D. Randriamampandry</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Injany trompetra marobe<br/>Manakoako mafy re.<br/>Mifoha ny maty fa nandre<br/>Ny feon'i Jeso miantso hoe:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/><<Mifohaza, mifohaza,<br/>Mitady anao ny Rainao.<br/>Fa voninahitra re<br/>Omena anao, atafy anao.>></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny anjely koa mahita<br/>Ny fasana nandriana ;<br/>Ary izy koa no mampita<br/>izay antsom-pifaliana.<br/>Mifohaza, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ireo nodimandry ela,<br/>Ray, reny sy hafa koa,<br/>Dia tsy hisy ho tavela,<br/>Handre ny feony<br/>'Zay mampifoha.<br/>Mifohaza, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ambony an-drahona eny<br/>Ny tra-boina, ny nandry,<br/>Diadema no homeny<br/>Ireo natoky sady niandry<br/>Mifohaza, sns.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ny mifoha androtr'io,<br/>Ny manao ny sitrapony,<br/>Voatahiry ho madio<br/>tsy hisento eto intsony.<br/>Mifohaza, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

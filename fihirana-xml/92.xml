@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>VOAVIDY TAMIN-DRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>92</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Voavidy tamin-dran'iKristy<br/>(He) ra sarobidy e, (tokoa)<br/>Nalatsaka tany Kalvary<br/>Ho fanesoran-keloka.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>He sambatra aho (ho sambatra aho ao,ho sambatra).<br/>Fa voavonjy re izao.<br/>Fa indro 'lay ra nalatsaka.<br/>Andraisako fahasoavana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Manasa 'reo ota marobe<br/>'Lay ra soan'i Kristy (Kristy)<br/>Manaisotra koa ny entam-be,<br/>Mitondra fahafahana e.<br/>He sambatra aho, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Manova sy manavao ny fo<br/>Ny ra soan'i Kristy (Kristy)<br/>Manolotra ny hery koa<br/>Mba handreseko hatrizao.<br/>He sambatra aho, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Raha tody vetivety ary<br/>An-danitra izao (izao)<br/>Voavonjy noho ny ran'i Kristy,<br/>Hidera izao no hatao.<br/>He sambatra aho<br/>(Ho sambatra aho ao, ho sambatra aho)<br/>Fa voavonjy re izao;<br/>Fa indro 'lay ra nalatsaka<br/>Handraisako fiadanana !</lines>
+    </verse>
+  </lyrics>
+</song>

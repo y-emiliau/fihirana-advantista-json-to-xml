@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>341 - To God Be the Glory</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>341</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To God be the glory,<br/>great things he hath done!<br/>So loved he the world<br/>that he gave us his Son,<br/>who yielded his life<br/>an atonement for sin,<br/>and opened the lifegate<br/>that all may go in.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise the Lord, praise the Lord,<br/>let the earth hear his voice!<br/>Praise the Lord, praise the Lord,<br/>let the people rejoice!<br/>O come to the Father<br/>thru Jesus the Son,<br/>and give him the glory,<br/>great things he hath done!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O perfect redemption,<br/>the purchase of blood,<br/>to every believer<br/>the promise of God;<br/>the vilest offender<br/>who truly believes,<br/>that moment from Jesus<br/>a pardon receives.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Great things he hath taught us,<br/>great things he hath done,<br/>and great our rejoicing<br/>thru Jesus the Son;<br/>but purer, and higher,<br/>and greater will be<br/>our wonder, our transport,<br/>when Jesus we see.</lines>
+    </verse>
+  </lyrics>
+</song>

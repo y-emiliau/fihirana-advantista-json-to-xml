@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>025 - Praise the Lord His Glories Show</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>25</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise the Lord, His glories show, Alleluia!<br/>Saints within His courts below, Alleluia!<br/>Angels ’round His throne above, Alleluia!<br/>All that see and share His love, Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Earth to heaven and heaven to earth, Alleluia!<br/>Tell His wonders, sing His worth, Alleluia!<br/>Age to age and shore to shore, Alleluia!<br/>Praise Him, praise Him evermore! Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise the Lord, His mercies trace, Alleluia!<br/>Praise His providence and grace, Alleluia!<br/>All that He for man hath done, Alleluia!<br/>All He sends us through His Son. Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

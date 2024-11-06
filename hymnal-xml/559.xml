@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>559 - Now Thank We All Our God</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>559</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now thank we all our God<br/>with heart and hands and voices,<br/>who wondrous things hath done,<br/>in whom His world rejoices;<br/>Who, from our mothers’ arms<br/>hath blessed us on our way<br/>with countless gifts of love,<br/>and still is ours today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O may this bounteous God<br/>through all our life be near us,<br/>with ever joyful hearts<br/>and blessed peace to cheer us;<br/>and keep us still in grace,<br/>and guide us when perplexed;<br/>and free us from all ills,<br/>in this world and the next.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All praise and thanks to God<br/>the Father now be given;<br/>the Son, and Him who reigns<br/>with them in highest heaven;<br/>the one eternal God,<br/>whom earth and heaven adore;<br/>for thus it was, is now,<br/>and shall be evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

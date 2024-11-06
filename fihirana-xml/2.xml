@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>DERAIKO IANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>2</ccliNo>
+    <authors>
+      <author>Rakotonjanahary</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>SALAMO</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deraiko Ianao,<br/>Isan'andro rehetra,<br/>Andriamanitra ô.<br/>Ny marina handre<br/>Ny aingan'ny Fanahy<br/>Manentana ny fo.(2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ry Kristiana ô,<br/>Ankalazao ny Tompo,<br/>Ilay Mpamonjinao;<br/>Ry voafidiny,<br/>Sambatra, tafavory<br/>Ambany elany.(2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anjely masina,<br/>Manan-kery hamonjy,<br/>Aron'ny zanany,<br/>Ambenany tokoa<br/>Raha hitany fa misy<br/>Loza manambana.(2x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ny fanjakany koa,<br/>Fanjakana izay misy<br/>Fahamarinana.<br/>Izay mialoha eo,<br/>Tsy manana ahiahy<br/>Fa tsara antoka.(2x)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mibanjina Anao<br/>Ny olona Jehovah,<br/>Anjara lovanay<br/>Fikirinay Ianao<br/>Fa anay mandrakizay<br/>Omeo fiadanana. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

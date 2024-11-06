@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>656 - O Perfect Love</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>656</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O perfect Love, all human thought transcending,<br/>lowly we kneel in prayer before thy throne,<br/>that theirs may be the love which knows no ending,<br/>whom thou forevermore dost join in one.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O perfect Life, be thou their full assurance<br/>of tender charity and steadfast faith,<br/>of patient hope and quiet, brave endurance,<br/>with childlike trust that fears nor pain nor death.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grant them the joy which brightens earthly sorrow;<br/>grant them the peace which calms all earthly strife,<br/>and to life’s day the glorious unknown morrow<br/>that dawns upon eternal love and life.</lines>
+    </verse>
+  </lyrics>
+</song>

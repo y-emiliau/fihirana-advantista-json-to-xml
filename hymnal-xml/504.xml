@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>504 - Lord Jesus, Think on Me</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>504</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord Jesus, think on me,<br/>And purge away my sin;<br/>From earth-born passions set me free,<br/>And make me pure within.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord Jesus, think on me,<br/>With care and woe oppressed;<br/>Let me Thy loving servant be,<br/>And taste Thy promised rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord Jesus, think on me,<br/>Nor let me go astray;<br/>Through darkness and perplexity<br/>Point Thou the heavenly way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord Jesus, think on me,<br/>That I may sing above<br/>To Father, Spirit, and to Thee,<br/>The strains of praise and love.</lines>
+    </verse>
+  </lyrics>
+</song>

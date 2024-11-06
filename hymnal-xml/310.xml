@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>310 - I Would Draw Nearer to Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>310</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I would draw nearer to Jesus,<br/>In His sweet presence abide,<br/>Constantly trying to serve Him,<br/>Safe and secure at His side.<br/>I would draw nearer to Jesus,<br/>I would draw nearer to Him;<br/>Fully surrendered each moment,<br/>I would draw nearer to Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I would draw nearer to Jesus,<br/>Nothing withholding from Him,<br/>Knowing He loves to be gracious,<br/>I would draw nearer to Him.<br/>I would draw nearer to Jesus,<br/>I would draw nearer to Him;<br/>Fully surrendered each moment,<br/>I would draw nearer to Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I would draw nearer to Jesus,<br/>Seeking Hi strength to be true,<br/>Willing to tell of His goodness,<br/>Gladly His blest will to do.<br/>I would draw nearer to Jesus,<br/>I would draw nearer to Him;<br/>Fully surrendered each moment,<br/>I would draw nearer to Him.</lines>
+    </verse>
+  </lyrics>
+</song>

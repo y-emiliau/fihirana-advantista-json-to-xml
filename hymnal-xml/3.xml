@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>003 - God Himself Is With Us</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>3</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God Himself is with us;<br/>Let us all adore Him,<br/>And with awe appear before Him.<br/>God is here within us;<br/>Soul, in silence fear Him,<br/>Humbly, fervently draw near Him.<br/>Now His own who have known God,<br/>In worship lowly,<br/>Yield their spirits wholly.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come, abide within me;<br/>Let my soul, like Mary,<br/>Be Thine earthly sanctuary.<br/>Come, indwelling Spirit,<br/>With transfigured splendor;<br/>Love and honor will I render.<br/>Where I go here below,<br/>Let me bow before Thee,<br/>Know Thee and adore Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gladly we surrender<br/>Earth’s deceitful treasures,<br/>Pride of life and sinful pleasures:<br/>Gladly, Lord, we offer<br/>Thine to be forever,<br/>Soul and life and each endeavor.<br/>Thou alone shall be known<br/>Lord of all our being,<br/>Life’s true way decreeing.</lines>
+    </verse>
+  </lyrics>
+</song>

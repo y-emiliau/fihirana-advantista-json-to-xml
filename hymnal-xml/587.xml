@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>587 - In Christ There Is No East nor West</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>587</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Christ there is no east nor west,<br/>In Him no south or north;<br/>But one great fellowship of love<br/>Throughout the whole wide earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Him shall true heart everywhere<br/>Their high communion find;<br/>His service is the golden cord<br/>Close binding all mankind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Join hands, then, brothers of the faith,<br/>Whate’er your race may be.<br/>Who serves my Father as a son<br/>Is surely kin to me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In Christ now meet both east and west,<br/>In Him meet south and north;<br/>All Christly souls are one in Him<br/>Throughout the whole wide earth.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>331 - O Jesus, I Have Promised</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>331</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jesus, I have promised<br/>to serve thee to the end;<br/>be thou forever near me,<br/>my Master and my friend.<br/>I shall not fear the battle<br/>if thou art by my side,<br/>nor wander from the pathway<br/>if thou wilt be my guide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O let me feel thee near me!<br/>The world is ever near;<br/>I see the sights that dazzle,<br/>the tempting sounds I hear;<br/>my foes are ever near me,<br/>around me and within;<br/>but Jesus, draw thou nearer,<br/>and shield my soul from sin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Jesus, thou hast promised<br/>to all who follow thee<br/>that where thou art in glory<br/>there shall thy servant be.<br/>And Jesus, I have promised<br/>to serve thee to the end;<br/>O give me grace to follow,<br/>my Master and my Friend.</lines>
+    </verse>
+  </lyrics>
+</song>

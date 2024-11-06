@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TOKANTRANO SAMBATRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>554</ccliNo>
+    <authors>
+      <author>Razafimahafaly</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tokantrano sambatra<br/>Toy ny lanitra,<br/>Anjakam-pitiavana,<br/>Faly mirana.<br/>Haravoam-po tokoa,<br/>Halemem-panahy koa,<br/>Raha ny fitiavana<br/>Mampikambana.<br/>Irario soa tokoa<br/>Enga ka hanjaka ao<br/>Ny fitiavana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tokantrano sambatra<br/>Toy ny lanitra,<br/>Miara-paly avokoa,<br/>Miaraka ory koa.<br/>Entana mavesatra<br/>Asa mahasasatra<br/>rehefa ny fitiavana<br/>mampikambana.<br/>Irario soa tokoa<br/>Enga ka hanjaka ao<br/>Tokantrano soa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tokantrano sambatra<br/>Toy ny lanitra,<br/>Tena mahafinaritra<br/>raha maharitra.<br/>Manda fikirizana<br/>Toeram-pamaharana<br/>Raha ny fitiavana<br/>mampikambana<br/>Ray ô, arovinao,<br/>Mba haharitra tokoa<br/>Tokantrano soa</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HO AKAIKINAO KOKOA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>434</ccliNo>
+    <authors>
+      <author>Esther Bary</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ho akaikinao tokoa,<br/>Honina eo aminao,<br/>Jeso tia, tokikio Ianao,<br/>Voaro eo nilanao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Ho akaikinao tokoa,<br/>Jeso , eo akaikinao.<br/>Hararaotiko ny ora<br/>Hiarahako aminao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ho akaikinao tokoa,<br/>Tiako ho tsara fanahy<br/>ka Ianao no hatoniko.<br/>Sitrano re ny izaho.<br/>Ho akaikinao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ho akaikinao tokoa<br/>Hahita ny herinao<br/>No mba iriko, Jeso ô !<br/>Tantano hanoa Anao.<br/>Ho akaikinao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

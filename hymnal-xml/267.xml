@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>267 - Spirit Divine</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>267</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spirit divine, attend our prayers,<br/>And make this house Thy home;<br/>Descend with all Thy gracious powers,<br/>O come, great Spirit, come!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come as the light; to us reveal<br/>Our emptiness and woe,<br/>And lead us in those paths of life<br/>Where-on the righteous go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come as the fire, and purge our hearts<br/>Like sacrificial flame;<br/>Let our whole soul an of - f’ring be<br/>To our Redeemer’s name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come as the dove, and spread Thy wings,<br/>The wings of peaceful love;<br/>And let Thy church on earth become<br/>Blest as the church above.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Spirit divine, attend our prayers,<br/>Make a lost world Thy home;<br/>Descend with all Thy gracious powers,<br/>O come, great Spirit, come!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>O ! ATSANGANO IZAO NY FANEVANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>634</ccliNo>
+    <authors>
+      <author>J. Ratsimihahy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ô ! antsangano izao<br/>Ny fanevanao,<br/>Mijoroa, eny, mijoroa<br/>Fa Jesosy izao<br/>No miantso anao<br/>Hiantafika, eny izao.<br/>Mandrosoa (ry tanora ô)<br/>Eo aloha (ry tanora ô)<br/>(Mandrosoa izao)<br/>Ilay fanevanao,<br/>(Jeso fanevanao tanora ô)<br/>Jeso ambarao,<br/>Ota avelao,<br/>Ô ! vitao ny adidinao<br/>(Adidinao efa ho roa)<br/>Mijoroa (ry tanora ô)<br/>Misehoa (ry tanora ô)<br/>(Mijoroa, misehoa)<br/>Eny, torio ny Tompo soa,<br/>Kapiteny hitarika eo aloha.<br/>Ô ! mitsangàna, torio Jeso.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Izao tontolo izao no halehanao<br/>Misikina re ny herim-po.<br/>Ady sarotra manoloana anao ;<br/>Aoka ho vonona re ianao.<br/>Ambarao (tanora ô !)<br/>Sy lazao (ry tanora ô)<br/>Ambarao sy lazao<br/>Ilay Jeso fanevana, tanora ô !<br/>Torio Izy anio, lainga re ario,<br/>Torimaso koa fadio ;<br/>(Jesosy no fidio)<br/>Miasà (ry tanora ô)<br/>Miasà (ry tanora ô), eny,<br/>Miasà izao, mivonona, miaingà.<br/>Izy maniry hitarika ny dia.<br/>Ô ! mitsangàna, torio Kristy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tsy ho ela izao<br/>Dia ho avy an-danitra<br/>Ilay Tompon'ny asanao.<br/>Milofosa re, ô ! miezaha<br/>Sy miezaha fatratra<br/>Ô ! torio (tanora ô !) <br/>Ô ! torio (Ry tanora ô)<br/>Torio re anio<br/>Ilay Jeso fanevanao, tanora ô !<br/>Mivonona ianao,<br/>Namana ilazao<br/>Fa akaiky Izy izao.<br/>'Zao tontolo izao dia hifarana ;<br/>Ô ! mitsangàna sy miasà.</lines>
+    </verse>
+  </lyrics>
+</song>

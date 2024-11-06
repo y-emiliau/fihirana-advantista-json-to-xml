@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MIZOTRA IZAO NY DIANAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>517</ccliNo>
+    <authors>
+      <author>Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mizotra izao ny dianay<br/>Ho any aminao,<br/>Jerosalema tianay,<br/>Tanàna masina.<br/>Tsy miatoato izahay ;<br/>Fa miezaka hankaminao.<br/>Ilaozanay izao ny trano lay<br/>Nonenanay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tsy andrinay hahita Anao,<br/>Jerosalema soa.<br/>Ny hatsaran'ny endrikao,<br/>Manintona tokoa.<br/>Ny ety efa ho rava izao,<br/>Tsy ho ela dia hifarana,<br/>Ny fonay kosa efa lasanao re<br/>Hatrizao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tongava haingana, ry andro<br/>Mahasambatra.<br/>Hanaovanay hira hoe :<br/>Haleloia, amen.<br/>Eny, tsy ho ela intsony re<br/>Dia hiakatra an-danitra,<br/>Hiara-monina amin'i Kristy,<br/>Doria, doria.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>201 - Christ Is Coming</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>201</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ is coming! let creation<br/>Bid her groans and travail cease;<br/>Let the glorious proclamation<br/>Hope restore and faith increase;<br/>Christ is coming! Christ is coming!<br/>Come, Thou blessed Prince of Peace!<br/>(Prince of Peace!)<br/>Come, Thou blessed Prince of Peace!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Earth can now but tell the story<br/>Of Thy bitter cross and pain;<br/>She shall yet behold Thy glory<br/>When Thou comest back to reign;<br/>Christ is coming! Christ is coming!<br/>Let each heart repeat the strain.<br/>(repeat the strain)<br/>Let each heart repeat the strain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With that “blessed hope” before us,<br/>Let no harp remain unstrung;<br/>Let the mighty advent chorus<br/>Onward roll from tongue to tongue:<br/>Christ is coming! Christ is coming!<br/>Come, Lord Jesus, quickly come!<br/>(quickly come!)<br/>Come, Lord Jesus, quickly come!</lines>
+    </verse>
+  </lyrics>
+</song>

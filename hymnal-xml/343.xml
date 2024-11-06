@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>343 - I Will Sing of My Redeemer</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>343</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing of my Redeemer,<br/>And His wondrous love to me;<br/>On the cruel cross He suffered,<br/>From the curse to set me free.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sing, oh sing, of my Redeemer,<br/>With His blood, He purchased me.<br/>On the cross, He sealed my pardon,<br/>Paid the debt, and made me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will tell the wondrous story,<br/>How my lost estate to save,<br/>In His boundless love and mercy,<br/>He the ransom freely gave.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will sing of my Redeemer,<br/>And His heavenly love to me;<br/>He from death to life hath brought me,<br/>Son of God with Him to be.</lines>
+    </verse>
+  </lyrics>
+</song>

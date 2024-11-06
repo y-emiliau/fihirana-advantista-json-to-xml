@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY RAY O, JEREO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>553</ccliNo>
+    <authors>
+      <author>Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Ray ô, jereo ankehitrio<br/>Fa tonga anatrehanao<br/>Hangataka fitahiana anio,<br/>'Zahay mba ho an'ny zanakao<br/>'Zay vonon-kiara-dia izao<br/>Anio sy ho mandrakizay.<br/>Ry Ray ô, arotsahy re<br/>Ny fahasoavan-dehibe.<br/>Henoy re, henoy ny vavakay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ry Ray ô, ny fitiavanao<br/>No arotsahy ankehitrio<br/>Hameno ny fony hatrizao<br/>'Lay tene fitiavana madio.<br/>Ny herinao no ampanjakao<br/>Ao amin'ny fiainany izao<br/>Ho fiainana tanteraka<br/>Hiezaka tsy ho reraka<br/>Hizotra ao an-danitra aminao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na miditra na mivoaka<br/>Arovinao ny tenany.<br/>Raha sendra ka misolafaka<br/>Sao dia kivy ny fanahiny.<br/>Ry Ray ô, tohano sy ampio<br/>Hazony akaikinao izao<br/>Tantano ao an-dàlana<br/>Na inona no misakana<br/>Ho tonga aminao ny diany.</lines>
+    </verse>
+  </lyrics>
+</song>

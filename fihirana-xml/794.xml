@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HAZO FIJALIANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>794</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moa mba tazanao ve<br/>'Ry havoana iry<br/>Misy hazo fijaliana?<br/>Moa tsy fantatrao ve<br/>Fa io re no Kalvary,<br/>Nihomboan'Ilay Fitiavana?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O! tazano hatrizao ka ekeo,<br/>Izy mba ho Mpamonjy anao;<br/>Aza tananao koa fa omeo<br/>manontolo anio ny fonao!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ndeha hiakatra eo,<br/>Hanakaiky kokoa.<br/>Ka handre ilay feo mitoreo:<br/>«Andriamanitra ô!<br/>O! nafoinao tokoa,<br/>Ity zanakao, ô! Ray, jereo!»<br/>O! tazano hatrizao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Moa tsy fantatrao ve<br/>Fa nitsory ny ra<br/>Noho ny fahotana marobe?<br/>O! ry namako ô!<br/>Aoka re tsy handa<br/>Ity antsom-pitia lehibe!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Na dia eso izao no hanjo,<br/>Hiaretana an-dalana etỳ,<br/>Fa indro lova izay tsy ho lo<br/>Hovantanina raha mby erỳ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MAMAFAZA VOA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>366</ccliNo>
+    <authors>
+      <author>Rafiringa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mamafaza voa<br/>Ka aza mba malaina<br/>Fa tsy fantatrao re<br/>'Zay ho vonona ;<br/>Na amin'ny hariva,<br/>Na amin'ny maraina,<br/>Mamafaza voa tsy mijanona.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Matokia re, matokia re,<br/>Hisy amboara ho anao anie<br/>Matokia re, matokia re,<br/>Hisy amboara ho anao anie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mamafaza voa amin'ny mahantra,<br/>Ka aza mba mifidy<br/>'Zay hasian-tsoa ;<br/>Fa ny fo mazoto sady feno hantra<br/>Dia homen'ny Tompo<br/>Valisoa tokoa :<br/>Matokia re, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mamafaza voa amin'ny malemy,<br/>Hatanjaho 'reo<br/>'Zay reraka ao am-po ;<br/>Asehoy Jesosy loharanon-kery,<br/>Ao no hanovozy 'zay ilain'ny fo :<br/>Matokia re, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Miasà sakaiza ! milofosa tsara<br/>Dieny misy asa azonao atao ;<br/>Matahora sao tsy vita ilay anjara<br/>'Zay napetraky ny Tompo aminao :<br/>Matokia re, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

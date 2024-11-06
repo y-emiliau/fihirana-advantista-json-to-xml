@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY RAIKO, FENO HANTRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>250</ccliNo>
+    <authors>
+      <author>R. Baron</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Raiko feno antra,<br/>Inty ny zanakao,<br/>Ny foko dia mahantra<br/>Raha lavitra aminao ;<br/>Fa tany karankaina<br/>Izao tontolo izao,<br/>Ka reraka ny aina<br/>Mihataka aminao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nivezivezy aho<br/>Nikaro-java-tsoa,<br/>Izay rehetra hita<br/>Nandramana avokoa ;<br/>Nandany taona maro,<br/>Nanaran-tsitrapo ;<br/>Kanefa tsy nahazo<br/>Izay mahafa-po.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mamitaka mihitsy<br/>Izao tontolo izao,<br/>Ny mamy dia mangidy,<br/>'Zay tena soa tsy ao ;<br/>Koa aza mba adalainy<br/>Intsony re, ry fo !<br/>Andeha mba ho hendry<br/>Hatramin'ny anio.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ry Jeso mofon'aina<br/>Ry ranon'aina koa !<br/>Ianao no mahatony<br/>Izay filan'ny fo ;<br/>Ianao no mahavoky,<br/>Ianao no manome<br/>Izay irin'ny foko,<br/>Dia hasambaram-be.</lines>
+    </verse>
+  </lyrics>
+</song>

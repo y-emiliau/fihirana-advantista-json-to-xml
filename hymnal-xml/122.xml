@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>122 - Hark! the Herald Angels Sing</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>122</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hark! the herald angels sing,<br/>“Glory to the new born King,<br/>peace on earth, and mercy mild,<br/>God and sinners reconciled!”<br/>Joyful, all ye nations rise,<br/>join the triumph of the skies;<br/>with th’ angelic host proclaim,<br/>“Christ is born in Bethlehem!”<br/>Hark! the herald angels sing,<br/>“Glory to the new born King!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ, by highest heaven adored;<br/>Christ, the everlasting Lord;<br/>late in time behold him come,<br/>offspring of a virgin’s womb.<br/>Veiled in flesh the Godhead see;<br/>hail th’ incarnate Deity,<br/>pleased with us in flesh to dwell,<br/>Jesus, our Emmanuel.<br/>Hark! the herald angels sing,<br/>“Glory to the new born King!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hail the heaven-born Prince of Peace!<br/>Hail the Sun of Righteousness!<br/>Light and life to all he brings,<br/>risen with healing in his wings.<br/>Mild he lays his glory by,<br/>born that we no more may die,<br/>born to raise us from the earth,<br/>born to give us second birth.<br/>Hark! the herald angels sing,<br/>“Glory to the new born King!”</lines>
+    </verse>
+  </lyrics>
+</song>

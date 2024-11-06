@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>SAMY MANEHO NY LAZANY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>462</ccliNo>
+    <authors>
+      <author>Esther Bary</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Samy maneho ny lazany<br/>Ireo mpirehareha.<br/>Fahaizana sy harena<br/>Aderaderany.<br/>Raha 'zany no asandrany,<br/>Ny antsika kosa re ?<br/>Ny tenantsika atolotra<br/>'Lay Mpanjaka lehibe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fo tia Anao sy misaotra<br/>Midera sy manoa,<br/>No indro aterinay ho Anao<br/>Ho fanomezana.<br/>Ho rakitra maharitra,<br/>Omena an-tsitrapo,<br/>Omenay, ry Tompo Tsitoha,<br/>Ho voninahitrao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny andraikitra madinika<br/>Omeny dia atao.<br/>Jeso ho faly<br/>Ny mandinika ny asa 'zay atao.<br/>'Zay re no fanomezana<br/>Atolotray Anao,<br/>Raiso fa nikelezao<br/>Tompo ô mba ekeo.</lines>
+    </verse>
+  </lyrics>
+</song>

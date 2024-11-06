@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>569 - Pass Me Not, O Gentle Savior</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>569</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pass me not, O gentle Savior,<br/>hear my humble cry;<br/>while on others thou art calling,<br/>do not pass me by.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Savior, Savior, hear my humble cry;<br/>while on others thou art calling,<br/>do not pass me by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let me at thy throne of mercy<br/>find a sweet relief,<br/>kneeling there in deep contrition;<br/>help my unbelief.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trusting only in thy merit,<br/>would I seek thy face;<br/>heal my wounded, broken spirit,<br/>save me by thy grace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thou the spring of all my comfort,<br/>more than life to me,<br/>whom have I on earth beside thee?<br/>Whom in heaven but thee?</lines>
+    </verse>
+  </lyrics>
+</song>

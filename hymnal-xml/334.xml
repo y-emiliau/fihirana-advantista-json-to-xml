@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>334 - Come, Thou Fount of Every Blessing</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>334</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, thou Fount of every blessing,<br/>Tune my heart to sing thy grace;<br/>Streams of mercy, never ceasing,<br/>Call for songs of loudest praise.<br/>Teach me ever to adore Thee,<br/>May I still Thy goodness prove,<br/>While the hope of endless glory<br/>Fills my heart with joy and love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here I raise mine Ebenezer;<br/>Hither by thy help I’ve come;<br/>And I hope, by thy good pleasure,<br/>Safely to arrive at home.<br/>Jesus sought me when a stranger,<br/>Wandering from the fold of God;<br/>He, to rescue me from danger,<br/>Interposed his precious blood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, to grace how great a debtor<br/>Daily I’m constrained to be!<br/>Let thy goodness, like a fetter,<br/>Bind me closer still to thee.<br/>Prone to wander, Lord, I feel it,<br/>Prone to leave the God I love;<br/>Here’s my heart-O, take and seal it,<br/>Seal it for thy courts above.</lines>
+    </verse>
+  </lyrics>
+</song>

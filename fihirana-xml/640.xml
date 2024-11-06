@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FANTATRAO VE FA NY ANDRO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>640</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fantatrao ve fa ny andro<br/>Efa lasan-davitra ?<br/>Tsy ho ela, toa akanjo,<br/>Ny haizina handrakotra.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Mitsangàna ka dia miezaha,<br/>Vitao ny asanao<br/>Ry firenen'ny Tompo.<br/>Vitao ny asanao<br/>Mitsangàna hanefa ny asa<br/>Nomena anao</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny masoandro efa iva<br/>Lasa ny fahazavana<br/>Tsy ho ela dia ho vita<br/>Ny androm-pahasoavana.<br/>Mitsangàna ka miezaha, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

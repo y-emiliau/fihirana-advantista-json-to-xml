@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>255 - I Cannot Tell Why</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>255</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I cannot tell why<br/>He whom angels worship<br/>Should set His love<br/>upon the souls of men,<br/>Or why as Shepherd<br/>He should seek the wanderers,<br/>To bring them back,<br/>they know not how nor when.<br/>But this I know,<br/>that He was born of Mary<br/>When Bethlehem’s manger<br/>was His only home,<br/>And that He lived<br/>at Nazareth and labored;<br/>And so the Savior,<br/>Savior of the world, has come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I cannot tell how<br/>silently He suffered<br/>As with His peace<br/>He graced this place of tears,<br/>Nor how His heart<br/>upon the cross was broken,<br/>The crown of pain<br/>to three and thirty years.<br/>But this I know<br/>He heals the broken hearted<br/>And stays our sin<br/>and calms our lurking fear,<br/>And lifts the burden<br/>from the heavy laden;<br/>For still the Savior,<br/>Savior of the world, is here.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I cannot tell how<br/>He will win the nations,<br/>How He will claim<br/>His earthly heritage,<br/>How satisfy the<br/>needs and aspirations<br/>Of east and west,<br/>of sinner and of sage.<br/>But this I know,<br/>all flesh shall see His glory,<br/>And He shall reap<br/>the harvest He has sown,<br/>And some glad day His<br/>sun will shine in splendor<br/>When He the Savior,<br/>Savior, of the world, is known.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I cannot tell how<br/>all lands shall worship,<br/>When at His biding<br/>every storm is stilled,<br/>Or who can say how<br/>great the jubilation<br/>When all our hearts<br/>with love for Him are filled.<br/>But this I know the skies<br/>shall sound His praises,<br/>Ten thousand thousand<br/>human voices sing,<br/>And earth to heaven,<br/>and heaven to earth will answer,<br/>At last the Savior,<br/>Savior of the world, is King!</lines>
+    </verse>
+  </lyrics>
+</song>

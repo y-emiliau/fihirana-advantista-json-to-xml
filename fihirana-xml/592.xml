@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TIAKO JESO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>592</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tiako Jeso, tiako tokoa<br/>Jeso Tompo.<br/>Izay no hany teniko re :<br/>Tiako Jeso.<br/>Mba tiako raha ny fiainako<br/>Hilaza izany koa ;<br/>Hilaza hoe : tiako Izy,<br/>tena tiako tokoa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ilaiko Izy, eny ilaiko<br/>Jeso Tompo<br/>Izay no hany teniko re :<br/>Ilaiko Izy<br/>Mba tiako raha ny fiainako<br/>Hilaza izany koa ;<br/>Ilaiko Izy, ilaiko,<br/>tena ilaiko tokoa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Derao Izy,<br/>Derao re Jeso Tompo.<br/>Izao no hany teniko re :<br/>Derao Jeso.<br/>Mba tiako raha ny fiainako<br/>Hidera an'i Jeso.<br/>Hoderaiko, deraiko,<br/>Hoderaiko Jeso.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isaorako, isaorako<br/>Jeso Tompo.<br/>Izao no hany iriko re :<br/>Hisaotra Azy.<br/>Mba tiako raha ny fiainako<br/>Ho fisaorana koa.<br/>Hisaotra Azy, hisaotra,<br/>Hisaotra an'i Jeso.</lines>
+    </verse>
+  </lyrics>
+</song>

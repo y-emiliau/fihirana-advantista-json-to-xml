@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>501 - Tis the Blessed Hour of Prayer</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>501</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‘Tis the blessed hour of prayer, when our hearts lowly bend,<br/>And we gather to Jesus, our Savior and Friend;<br/>If we come to Him in faith, His protection to share,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>What a balm for the weary! O how sweet to be there!<br/>Blessed hour of prayer, Blessed hour of prayer,<br/>What a balm for the weary! O how sweet to be there!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‘Tis the blessed hour of prayer, when the Savior draws near,<br/>With a tender compassion His children to hear;<br/>When He tells us we may cast at His feet every care,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>‘Tis the blessed hour of prayer, when the tempted and tried<br/>To the Savior who loves them their sorrows confide;<br/>With a sympathizing heart He removes every care;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>‘Tis the blessed hour of prayer, trusting Him we believe,<br/>That the blessings we’re needing we’ll surely receive;<br/>In the fullness of this trust we shall lose every care;</lines>
+    </verse>
+  </lyrics>
+</song>

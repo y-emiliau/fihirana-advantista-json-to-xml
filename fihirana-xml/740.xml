@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FITIAVANA RE !</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>740</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fitiavana re !<br/>(Fitiavana, fitiavana ahy re)<br/>Tsy takatra tokoa (tokoa)<br/>Avo, lalina e !<br/>(He ! avo lalina, ô, lalim-be)<br/>Tsy manam-paharoa ! (tsy roa)<br/>Nefa inoako izao<br/>fa efa nasehonao,<br/>(Efa nasehonao)<br/>Ô ! ry Ray teny Kalvary<br/>Raha maty Kristy !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fitiavana re !<br/>(Fitiavana, fitiavana ahy re)<br/>Manintona ny fo (ny fo)<br/>Mba hanaiky e !<br/>(Eny, mba hanaiky, hanaiky re)<br/>Ho babony tokoa (tokoa)<br/>Indro, apetrako izao<br/>Foiko re ho Anao.<br/>(Anao re hatrizao)<br/>Ô ! ry Ray mba hanompo ety<br/>Ka ho hatrary.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fitiavana re !<br/>(Fitiavana, fitiavana ahy re)<br/>Izao tontolo izao (izao)<br/>Voasarony e !<br/>(He ! voasarony e, voasarony e)<br/>Indrindra koa ianao (ianao) ;<br/>Ô ! ry namako, ekeo.<br/>Renao anio 'lay feo :<br/>(Renao anio 'lay feo)<br/>Maty anie, tany Kalvary<br/>Ho anao Kristy.</lines>
+    </verse>
+  </lyrics>
+</song>

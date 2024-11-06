@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>633 - When We All Get to Heaven</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>633</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing the wondrous love of Jesus;<br/>Sing his mercy and his grace.<br/>In the mansions bright and blessed<br/>He’ll prepare for us a place.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When we all get to heaven,<br/>What a day of rejoicing that will be!<br/>When we all see Jesus,<br/>We’ll sing and shout the victory!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>While we walk the pilgrim pathway,<br/>Clouds will overspread the sky;<br/>But when traveling days are over,<br/>Not a shadow, not a sigh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let us then be true and faithful,<br/>Trusting, serving every day;<br/>Just one glimpse of him in glory<br/>Will the toils of life repay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Onward to the prize before us!<br/>Soon his beauty we’ll behold;<br/>Soon the pearly gates will open;<br/>We shall tread the streets of gold.</lines>
+    </verse>
+  </lyrics>
+</song>

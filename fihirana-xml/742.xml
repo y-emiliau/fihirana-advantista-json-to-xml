@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FANTATRAO VA RE</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>742</ccliNo>
+    <authors>
+      <author>Raterarivelo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fantatrao va re, ô ! ry fo,<br/>Ny làlam-pamonjena maminao ?<br/>Loza marobe no mbola hanjo<br/>Handevona izao rehetra izao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Ô ! henoy izany feo mahery,<br/>Mba hitandremanao ny didiny ;<br/>Ka ny mpino ihany<br/>No tsy ho very,<br/>Fa lehibe ny tombambidiny.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny Sabata no famantarana,<br/>Tombo-kasen'ny olo-masina ;<br/>Fa firaisana, fitsaharana,<br/>Mba ho anao izay horaisina.<br/>Ô ! henoy izany feo, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mikaela no azo antoka,<br/>Ho aronao nasiana marika ;<br/>Ny Mpamonjinao efa niantoka,<br/>Ka ny tena hery mahasarika.<br/>Ô ! henoy izany feo, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

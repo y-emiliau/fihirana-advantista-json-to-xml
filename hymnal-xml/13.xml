@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>013 - New Songs of Celebration Render</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>13</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>New songs of celebration render<br/>To Him who has great wonders done.<br/>Love sits enthroned in ageless splendor:<br/>Come, and adore the mighty One.<br/>He has made known His great salvation<br/>Which all His friends with joy confess:<br/>He has revealed to every nation<br/>His everlasting righteousness.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Joyfully, heartily resounding,<br/>Let every instrument and voice<br/>Peal out the praise of grace abounding<br/>Calling the whole world to rejoice.<br/>Trumpets and organs, set in motion<br/>Such sounds as make the heavens ring;<br/>All things that live in earth and ocean,<br/>Make music for your mighty King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rivers and seas and torrents roaring,<br/>Honor the Lord with wild acclaim;<br/>Mountains and stones look up adoring,<br/>And find a voice to praise His name.<br/>Righteous, commanding, ever glorious,<br/>Praises be His that never cease:<br/>Just is our God, whose truth victorious,<br/>Establishes the world in peace.</lines>
+    </verse>
+  </lyrics>
+</song>

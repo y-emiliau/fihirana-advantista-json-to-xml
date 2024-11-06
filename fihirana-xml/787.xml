@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HIRA MAMPAHERY RE (HO AO AN-TRANO TSY HO ELA)</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>787</ccliNo>
+    <authors>
+      <author>Tantely Ravelomanantsoa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hira mampahery re no<br/>andeha hatao,<br/>Hody isika, tsy ho ela re,<br/>Tsy hisy alina fa hazavana lehibe<br/>No honenana mandrakizay.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kely sisa re, dia hifarana e!<br/>Ireo loza mitatao;<br/>Dia hihaona isika izao hiaraka mandrakizay,<br/>Ho ao an-trano tsy ho ela re!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mbola misy ve asa<br/>tena mila anao?<br/>Andeha hody isika ka vitao;<br/>Aim-panahy vaovao no omeny ho anao<br/>Dia ho ao an-trano<br/>izaho sy ianao.<br/>Kely sisa re, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lasa izao ny dia,<br/>na dia lalan-tsarotra,<br/>Aoka isika re hifankatia,<br/>Hifananatra ary hifanohana,<br/>Dia ho tonga soa tokoa arỳ.<br/>Kely sisa re, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tsy ho ela re fitsaharan-<br/>dehibe<br/>Miaraka amin’i Jeso Kristy<br/>Ravo re ny fo, feno hafaliam-be<br/>Fa hifarana ny ady etỳ.<br/>Kely sisa re, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>079 - O Love of God, How Strong and True!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>79</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O love of God, how strong and true!<br/>Eternal, and yet ever new;<br/>Uncomprehended and unbought,<br/>Beyond all knowledge and all thought.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O love of God, how deep and great,<br/>Far deeper than man’s deepest hate;<br/>Self-fed, self-kindled like the light,<br/>Changeless, eternal, infinite.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We read thee best in Him who cam<br/>To bear for us the cross of shame;<br/>Sent by the Father from on high,<br/>Our life to live, our death to die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We read thy power to bless and save,<br/>E’en in the darkness of the grave;<br/>Still more in resurrection light<br/>We read the fullness of thy might.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O love of God, our shield and stay<br/>Through all the perils of our way!<br/>Eternal love, in thee we rest,<br/>Forever safe, forever blest.</lines>
+    </verse>
+  </lyrics>
+</song>

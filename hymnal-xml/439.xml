@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>439 - How Far From Home</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>439</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How far from? I asked, as on<br/>I bent my steps-the watchman spake:<br/>“the long, dark night is almost gone,<br/>The morning soon will break.<br/>Then weep no more, but speed thy flight,<br/>With Hope’s bright star guiding ray,<br/>Till thou shalt reach the realms of light,<br/>In everlasting days.”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I asked the warrior on the field;<br/>This was his soul-inspiring song:<br/>“With courage, bold, the sword I’ll wield,<br/>The battle is not long.<br/>Then weep no more, but well endure<br/>The conflict, till thy work is done;<br/>For this we know, the prize is sure,<br/>When victory is won.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I asked again; earth, sea, and sun<br/>Seemed, with one voice, to make reply:<br/>“Time’s wasting sands are nearly run,<br/>Eternity is nigh.<br/>Then weep no more-with warning tones,<br/>Portentous signs are thickening round,<br/>The whole creation, waiting, groans,<br/>To hear the trumpet sound.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Not far from home! O blessed thought!<br/>The traveler’s lonely heart to cheer;<br/>Which oft a healing balm has brought,<br/>And dried the mourner’s tear.<br/>Then weep no more, since we shall meet<br/>Where weary footsteps never roam-<br/>Our trails past, our joys complete,<br/>Safe in our Father’s home.</lines>
+    </verse>
+  </lyrics>
+</song>

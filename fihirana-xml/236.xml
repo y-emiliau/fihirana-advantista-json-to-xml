@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TOMPO MALALA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>236</ccliNo>
+    <authors>
+      <author>Raobijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tompo malala ô ! jereo 'zahay,<br/>Fa osa ny fo tsy arovanao.<br/>Ka arotsahy ao anatinay,<br/>Hiasa ao am-po, ny Fanahinao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Henoy ny feonay<br/>Mitalaho izao.<br/>O ! mba ekeo, ry Ray,<br/>'Zao vavakay izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tompo malala ô ! ampionao<br/>Ireto ondry mila hery vao.<br/>Omeo saina vonona hatrizao<br/>Mba ho mpandresy 'reto zandrinao<br/>Henoy ny feonay, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tompo malala ô ! aza afoinao<br/>'Reto fanahy, eny mitoreo.<br/>O ! mba trotroy eo an-tratranao.<br/>Tompo malala, mba ekeo re.<br/>Henoy ny feonay, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

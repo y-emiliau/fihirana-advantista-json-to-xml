@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>VONONA AHO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>687</ccliNo>
+    <authors>
+      <author>I. A. Ramboniarisoa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vonona aho, ry Mpamonjy<br/>Ny hanaraka Anao<br/>FA natolotrao ny vonjy<br/>Ka navotanao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Na dia sarotra (sy mafy)<br/>Ny hanara-dia Anao<br/>Vonona aho ny hihafy<br/>Hankato ny baikonao Jeso<br/>(Satria) zanakao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nefa kely 'zany hery<br/>Entiko hanara-dia<br/>Koa tantano sao dia very<br/>'Zaho '(zay mpania.<br/>Na dia sarotra, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

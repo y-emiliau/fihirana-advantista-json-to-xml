@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NY ETO AN-TANY FENO TOMANY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>779</ccliNo>
+    <authors>
+      <author>Rajaonia Zaka</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ny eto an-tany feno tomany,<br/>Fombany izany;<br/>Misy ny sento,<br/>Misy toreo,<br/>Toy izany ny eto;<br/>Misy ny very mandinika izany<br/>Ka dia mitomany<br/>Nahoana e!<br/>Izaho manontany.<br/>Kivy ny fo raha variana amin’izany<br/>Ka torotoro,<br/>Fa fandalovana ny eto an-tany<br/>Ka aza tomany.<br/>Mbola ho avy ny fanantenana<br/>Ho antsika ‘zay mino;<br/>Ho avy e!<br/>Ny Tompo banjino!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na misy aza ‘reo fifaliana,<br/>Mihelina ihany.<br/>Tsy azo itokiana fa vetivety<br/>Dia mety ho lefy;<br/>Fa ny hoavy izay antenaina<br/>Dia ny maraina;<br/>Tsy miova e!<br/>Izay no andrandraina.<br/>O! miverena Ianao, ry Mpamonjy,<br/>Fa sasa-miandry;<br/>Maro ireo izay mila vonjy,<br/>Tolory sandry.<br/>Mbola ho avy ilay antenaina,<br/>Dia ny maraina;<br/>Tsy miova e!<br/>Izay no andrandraina.</lines>
+    </verse>
+  </lyrics>
+</song>

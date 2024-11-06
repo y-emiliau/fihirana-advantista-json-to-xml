@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FENO RAHONA (JESOSY TSY MANDAO)</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>798</ccliNo>
+    <authors>
+      <author>Seth Arison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Feno rahona mainty matroka<br/>izato fiainako,<br/>Tsy misy mitombina<br/>‘zay rehetra atao,<br/>Adin-tsaina sy fikorontanam-panahy<br/>Manimba ny fisainana,<br/>misy ady ato am-po;<br/>Tsy ataoko hahakivy izany<br/>Fa Jeso no tsy mba mandao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na manjombona aza<br/>izato manodidina ahy<br/>Tsy ekeko hanafotra ny saina<br/>sy fanahy,<br/>Vavaka hatrany no asandratro sesilany,<br/>Dia matoky ny foko hatreo<br/>fa Jeso hanampy ahy;<br/>Ny hakiviako afaka<br/>Fa Jeso no aro ho ahy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tsy azo atao ny ho kivy<br/>raha isika izao anilan’ny Ray,<br/>‘Ndeha re hofikirina Izy<br/>ho mandrakizay,<br/>F’Izy tsy handao,<br/>tsy hamela antsika ho irery;<br/>‘Ndao hatao fahazarana<br/>ny miaraka Aminy<br/>Ka hifandray Aminy<br/>Tsy misy fitsaharana.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>242 - Jesus, Thou Joy of Loving Hearts</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>242</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Thou joy of loving hearts!<br/>Thou fount of life! Thou light of men!<br/>From the best bliss that earth imparts,<br/>We turn unfilled to Thee again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thy truth unchanged has ever stood;<br/>Thou savest those that on Thee call;<br/>To them that seek Thee Thou art good,<br/>To them that find Thee, all in all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We taste Thee, O Thou living Bread,<br/>And long to feast upon Thee still;<br/>We drink of Thee, the Fountainhead,<br/>And thirst our souls from Thee to fill!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Our restless spirits yearn for Thee,<br/>Where-e’r our changeful lot is cast;<br/>Glad, when Thy gracious smile we see,<br/>Blest, when our faith can hold Thee fast.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Jesus, ever with us stay;<br/>Make all our moments calm and bright;<br/>Chase the dark night of sin away,<br/>Shed o’r the world Thy holy light!</lines>
+    </verse>
+  </lyrics>
+</song>

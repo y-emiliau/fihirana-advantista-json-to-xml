@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>605 - My Soul, Be on Thy Guard</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>605</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My soul, be on they guard!<br/>Ten thousand foes arise;<br/>The hosts of sin are pressing hard<br/>To draw thee from the skies.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O watch, and fight, and pray!<br/>The battle ne’er give o’er;<br/>Renew it boldly every day,<br/>And help divine implore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne’er think the victory won,<br/>Nor lay thine armor down;<br/>Thy arduous task will not be done<br/>Till thou obtain the crown.</lines>
+    </verse>
+  </lyrics>
+</song>

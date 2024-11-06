@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>187 - Jesus, What a Friend for Sinners</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>187</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus! what a Friend for sinners!<br/>Jesus! Lover of my soul;<br/>Friends may fail me, foes assail me,<br/>He, my Savior, makes me whole.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah! what a Savior!<br/>Hallelujah! what a Friend!<br/>Saving, helping, keeping, loving,<br/>He is with me to the end.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus! what a Strength in weakness!<br/>Let me hide myself in Him.<br/>Tempted, tried, and sometimes failing,<br/>He, my Strength, my victory wins.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus! what a Help in sorrow!<br/>While the billows over me roll,<br/>Even when my heart is breaking,<br/>He, my Comfort, helps my soul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus! I do now receive Him,<br/>[or Jesus! I do now adore Him,]<br/>More than all in Him I find.<br/>He hath granted me forgiveness,<br/>I am His, and He is mine.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>233 - Christ, Whose Glory Fills the Skies</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>233</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ, whose glory fills the skies,<br/>Christ, the true, the only light,<br/>Sun of Righteousness, arise,<br/>triumph o’er the shades of night;<br/>Dayspring from on high, be near;<br/>Daystar, in my heart appear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dark and cheerless is the morn<br/>unaccompanied by thee;<br/>joyless is the day’s return,<br/>till thy mercy’s beams I see;<br/>till they inward light impart,<br/>cheer my eyes and warm my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Visit then this soul of mine;<br/>pierce the gloom of sin and grief;<br/>fill me, Radiancy divine,<br/>scatter all my unbelief;<br/>more and more thyself display,<br/>shining to the perfect day.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>376 - All Things Are Thine</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>376</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All things are Thine; no gift have we,<br/>Lord of all gifts, to offer Thee;<br/>And hence with grateful hearts today,<br/>Thine own before Thy feet we lay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thy will was in the builder’s thought;<br/>Thy hand unseen amidst us wrought;<br/>Thro’ mortal motive, scheme and plan,<br/>Thy wise, eternal purpose ran.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No lack Thy perfect fullness knew;<br/>For human needs and longings grew<br/>This house of prayer- this home of rest.<br/>Here may Thy saints be often blessed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In weakness and in want we call<br/>On Thee, for whom the heav’ns are small;<br/>Thy glory is Thy children’s good,<br/>Thy joy Thy tender Fatherhood.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Father! deign these walls to bless;<br/>Make this the abode of righteousness,<br/>And let these doors a gateway be<br/>To lead us from ourselves to Thee!</lines>
+    </verse>
+  </lyrics>
+</song>

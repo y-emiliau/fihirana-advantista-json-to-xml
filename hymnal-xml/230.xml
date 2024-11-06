@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>230 - All Glory, Laud, and Honor</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>230</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All glory, laud, and honor,<br/>to thee, Redeemer, King,<br/>to whom the lips of children<br/>made sweet hosannas ring.<br/>Thou art the King of Israel,<br/>thou David’s royal Son,<br/>who in the Lord’s name comest,<br/>the King and Blessed One.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The company of angels<br/>are praising thee on high,<br/>and we with all creation<br/>in chorus make reply.<br/>The people of the Hebrews<br/>with psalms before thee went;<br/>our prayer and praise and anthems<br/>before thee we present.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To thee, before thy passion,<br/>they sang their hymns of praise;<br/>to thee, now high exalted,<br/>our melody we raise.<br/>Thou didst accept their praises;<br/>accept the prayers we bring,<br/>who in all good delightest,<br/>thou good and gracious King.</lines>
+    </verse>
+  </lyrics>
+</song>

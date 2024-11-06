@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>142 - Angels We Have Heard on High</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>142</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Angels we have heard on high<br/>Sweetly singing o’er the plains,<br/>And the mountains in reply<br/>Echoing their joyous strains.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gloria, in excelsis Deo!<br/>Gloria, in excelsis Deo!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shepherds, why this jubilee?<br/>Why your joyous strains prolong?<br/>What the gladsome tidings be<br/>Which inspire your heavenly song?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come to Bethlehem and see<br/>Christ Whose birth the angels sing;<br/>Come, adore on bended knee,<br/>Christ the Lord, the newborn King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>See Him in a manger laid,<br/>Whom the choirs of angels praise;<br/>Mary, Joseph, lend your aid,<br/>While our hearts in love we raise.</lines>
+    </verse>
+  </lyrics>
+</song>

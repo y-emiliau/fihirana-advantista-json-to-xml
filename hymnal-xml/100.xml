@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>100 - Great Is Thy Faithfulness</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>100</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is Thy faithfulness,<br/>O God my Father;<br/>There is no shadow<br/>of turning with Thee;<br/>Thou changest not,<br/>Thy compassions, they fail not;<br/>As Thou hast been,<br/>Thou forever will be.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Great is Thy faithfulness!<br/>Great is Thy faithfulness!<br/>Morning by morning<br/>new mercies I see.<br/>All I have needed<br/>Thy hand hath provided;<br/>Great is Thy faithfulness,<br/>Lord, unto me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Summer and winter and<br/>springtime and harvest,<br/>Sun, moon and stars<br/>in their courses above<br/>Join with all nature<br/>in manifold witness<br/>To Thy great faithfulness,<br/>mercy and love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pardon for sin and<br/>a peace that endureth<br/>Thine own dear presence<br/>to cheer and to guide;<br/>Strength for today and<br/>bright hope for tomorrow,<br/>Blessings all mine,<br/>with ten thousand beside!</lines>
+    </verse>
+  </lyrics>
+</song>

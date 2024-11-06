@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>'ZAHO HITADY NY MPAMONJY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>583</ccliNo>
+    <authors>
+      <author>Esther Bary</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Zaho hitady ny Mpamonjy,<br/>Na dia mbola kely re.<br/>Fa maniry ho voavonjy,<br/>Toy ny mpino marobe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Tiako Jeso, tiako tokoa,<br/>Hianatra ny aminy aho.<br/>Dia ataoko antso avo,<br/>'Zany fanavotany.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miantso ahy Ianao.<br/>Mba hanao ny asanao<br/>Ry Tompo ô, inty aho<br/>Iraho fa mba hanao.<br/>Tiako Jeso, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

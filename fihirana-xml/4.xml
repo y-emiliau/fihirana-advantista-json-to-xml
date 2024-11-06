@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>IZAHO DIA HIDERA ANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>4</ccliNo>
+    <authors>
+      <author>Rakotonjanahary</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>SALAMO</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Izaho die hidera Anao<br/>Amin'ny foko manontolo,<br/>Hasandratro ny feoko<br/>Eo antrehan'ny Mpanjaka.<br/>Eran'ny toera-masinao,<br/>No hanandratako ny loha,<br/>Hihoby ny anaranao,<br/>Ry Mpitana ny fanekena.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niely be ny lazanao<br/>Noho ny teninao mahery.<br/>Fiononako re Ianao<br/>Raha hidonam-pahoriana,<br/>Ireo mpanjaka maro koa<br/>Hiankohoka ary hitsaoka,<br/>Raha vao reny ny feonao<br/>Manome hery mahasahy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Feno ny fiderana Anao<br/>Izao tontolo hita maso.<br/>Izay vahoaka mandre<br/>Ho velon-kira koa mahita.<br/>Ianao, Andriamanitra ô,<br/>Dia mijery anay mahantra<br/>Ka na dia toa lavitra<br/>Dia mamelona any rehetra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Raha torovana ny fo<br/>Ka ketraka sy very toky<br/>Noho ny adin-tsaina be<br/>Izay mandreraka tsy zaka<br/>Dia ny fahamarinanao<br/>No mampiarina ny voa ;<br/>Ka na dia toa reraka<br/>Dia mbola afaka hidera</lines>
+    </verse>
+  </lyrics>
+</song>

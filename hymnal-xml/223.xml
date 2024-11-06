@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>223 - Crown Him With Many Crowns</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>223</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Crown him with many crowns,<br/>the Lamb upon his throne,<br/>Hark! how the heavenly anthem drowns<br/>all music but its own.<br/>Awake, my soul, and sing<br/>of him who died for thee,<br/>and hail him as thy matchless King<br/>through all eternity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Crown him the Lord of love!<br/>behold his hands and side,<br/>those wounds, yet visible above,<br/>in beauty glorified;<br/>No angel in the sky<br/>Can fully bear that sight,<br/>But downward bend his wondering eye<br/>At mysteries so great.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Crown him the Lord of peace!<br/>whose power a scepter sways<br/>from pole to pole, that wars may cease,<br/>and all be prayer and praise.<br/>His reign shall know no end,<br/>and round his pierced feet<br/>fair flowers of paradise extend<br/>their fragrance ever sweet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Crown him the Lord of years;<br/>The potentate of time,<br/>Creator of the rolling spheres,<br/>Ineffably sublime!<br/>All hail, Redeemer, hail!<br/>For thou hast died for me;<br/>thy praise shall never, never fail<br/>throughout eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

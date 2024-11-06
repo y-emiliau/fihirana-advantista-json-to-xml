@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FITIAVANA TSY HAY LAZAINA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>275</ccliNo>
+    <authors>
+      <author>Raymond B. Rakotondrainibe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fitiavana tsy hay lazaina<br/>He, azoko avy aminao,<br/>Tsy avela ho very maina<br/>Ry Tompo ô! ny avotrao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jeso Mpamonjiko,<br/>Jeso Mpamonjiko,<br/>Ka Izy no hatoniko,<br/>Jeso Mpamonjiko.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny otako, ny halemeko,<br/>Esory hiala amiko.<br/>Ny herinao no hany ekeko<br/>Hambabo ny fanahiko.<br/>Jeso Mpamonjiko, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ry Tompo ô,tariho aho<br/>Hanaraka ny làlanao.<br/>Ka aza avela fa araho<br/>Fenoy ny fanambinanao.<br/>Jeso Mpamonjiko, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ianao irery re, ry Tompo<br/>No afaka hamonjy ahy.<br/>Ampio aho ho mpanompo<br/>Hijoro sy ho tena sahy.<br/>Jeso Mpamonjiko, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

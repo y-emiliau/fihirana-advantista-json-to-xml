@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AVY AHO MANATONA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>380</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Avy aho manatona,<br/>Tompo, eo an-tongotrao ;<br/>Aoka tsy ho lavinao,<br/>Raiso fa navotanao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ianao no tokiko,<br/>Zanak'Ondry Masina ô,<br/>Maty noho ny heloko<br/>Koa dia isaorako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fantatrao ny otako,<br/>Tsy miafina aminao ;<br/>Nefa ibebahako :<br/>Ô ! diovy aho izao !<br/>Ianao no tokiko, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Zany fiadananao,<br/>Aoka re handramako ;<br/>Ary ny fiainanao<br/>No mba hivelomako.<br/>Ianao no tokiko, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Raiso fa ateriko<br/>Ho fanatitra doria,<br/>Fo sy saina, heriko,<br/>Raisonao, Mpamonjy tia.<br/>Ianao no tokiko, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

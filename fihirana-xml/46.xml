@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>DERA, LAZA HO ANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>46</ccliNo>
+    <authors>
+      <author>M. Randriamiandriray</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>:,: Dera, laza ho Anao,<br/>Ray Tsitoha mandrakizay.<br/>Hery koa, haja soa<br/>No atolotray Anao. :,:<br/>Tompo ô, raisonao,<br/>Raiso re ho Anao<br/>Ny haja entinay<br/>Ho fisaorana Anao, Tompo ô,<br/>Raisonao, raiso er ho Anao<br/>Ny haja entinay<br/>Ho fisaorana Anao,<br/>Miobia, mifalia<br/>(Miobia, mifalia)<br/>Ary koa mihirà<br/>Miobia, mifalia<br/>(Miobia, mifalia)<br/>Mihirà  ho an'i Jehovah<br/>Miobia, mifalia<br/>Mihirà  ho an'i Jehovah<br/>Miobia, mifalia<br/>Miobia, mifalia<br/>Ary koa mihirà<br/>Miobia, mifalia<br/>Mihirà  ho an'i Jehovah</lines>
+    </verse>
+  </lyrics>
+</song>

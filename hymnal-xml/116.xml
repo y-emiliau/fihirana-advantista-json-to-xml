@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>116 - Of the Father's Love Begotten</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>116</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Of the Father’s love begotten,<br/>Ere the worlds began to be,<br/>He is Alpha and Omega,<br/>He the source, the ending He,<br/>Of the things that are, that have been,<br/>And that future years shall see,<br/>Evermore and evermore! Amen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O ye heights of heaven adore Him;<br/>Angel hosts, His praises sing;<br/>Powers, dominions, bow before Him,<br/>And extol our God and King;<br/>Let no tongue on earth be silent,<br/>Every voice in concert ring,<br/>Evermore and evermore! Amen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ, to Thee with God the Father<br/>And, O Holy Ghost, to Thee,<br/>Hymn and chant and high thanksgiving<br/>And unwearied praises be.<br/>Honor, glory, and dominion,<br/>And eternal victory,<br/>Evermore and evermore! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

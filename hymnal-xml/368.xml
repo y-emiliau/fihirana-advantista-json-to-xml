@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>368 - Watchman, Blow the Gospel Trumpet</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>368</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Watchman, blow the gospel trumpet,<br/>Every soul a warning give;<br/>Whosoever hears the message<br/>May repent, and, turn and live.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Blow the trumpet, trusty watchman,<br/>Blow it loud o’er land and sea;<br/>God commissions, sound the message!<br/>Every captive may be free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sound it loud oér every hilltop,<br/>Gloomy shade and sunny plain;<br/>Ocean depths repeat the message,<br/>Full salvation’s glad refrain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sound it in the hedge and highway,<br/>Earth’s dark spots where exiles roam;<br/>Let it tell all things are ready,<br/>Father waits to welcome home.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sound it for the heavy laden,<br/>Weary, longing to be free;<br/>Sound a Savior’s invitation,<br/>Sweetly saying, “Come to me.”</lines>
+    </verse>
+  </lyrics>
+</song>

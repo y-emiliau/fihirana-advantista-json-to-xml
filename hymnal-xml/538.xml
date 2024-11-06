@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>538 - Guide Me, O Thou Great Jehovah</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>538</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Guide me, O thou great Jehovah,<br/>pilgrim through this barren land.<br/>I am weak, but thou art mighty;<br/>hold me with thy powerful hand.<br/>Bread of heaven, bread of heaven,<br/>feed me till I want no more;<br/>feed me till I want no more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Open now the crystal fountain,<br/>whence the healing stream doth flow;<br/>let the fire and cloudy pillar<br/>lead me all my journey through.<br/>Strong deliverer, strong deliverer,<br/>be thou still my strength and shield;<br/>be thou still my strength and shield.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I tread the verge of Jordan,<br/>bid my anxious fears subside;<br/>death of death and hell’s destruction,<br/>land me safe on Canaan’s side.<br/>Songs of praises, songs of praises,<br/>I will ever give to thee;<br/>I will ever give to thee.</lines>
+    </verse>
+  </lyrics>
+</song>

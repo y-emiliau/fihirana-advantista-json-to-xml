@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY FANAHY MPANAZAVA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>176</ccliNo>
+    <authors>
+      <author>Rajaobelina, M. J. Meeg, J. Johnson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FANAHY MASINA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Fanahy Mpanazava<br/>Miandrandra Anao 'zahay ;<br/>Aza ela, fa tongava<br/>Taomy ny fanahinay,<br/>Mba ho fantatray mazava<br/>'Zay lazain'ny Teninao ;<br/>Areheto lalandava<br/>Ao am-po ny afonao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ry Jesosy ! Mitenena<br/>Araka ny fombanao,<br/>Aminay izay manantena<br/>Mba handre ny feonao ;<br/>Fo marary sy manahy<br/>Mba tsaboy sy iantrao ;<br/>Ny te hino, fa tsy sahy,<br/>Anehoy ny olatrao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rainay Mpanome ny soa<br/>Mba henoy ny hatakay,<br/>Ka ny tananao tsitoha<br/>Iarovinao anay ;<br/>Ny tanora mba tahio,<br/>Ny vaventy hafanao,<br/>Mba ho hitanay anio<br/>Fa aty ny tenanao.</lines>
+    </verse>
+  </lyrics>
+</song>

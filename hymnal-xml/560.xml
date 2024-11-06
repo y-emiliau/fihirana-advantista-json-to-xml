@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>560 - Let All Things Now Living</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>560</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let all things now living a song of thanksgiving<br/>To God the Creator triumphantly raise,<br/>Who fashioned and made us, protected and stayed us,<br/>Who guideth us on to the end of our days.<br/>His banners are o’er us,<br/>His light goes before us,<br/>A pillar of fire shining forth in the night,<br/>‘Til shadows have vanished and darkness is banished,<br/>as forward we travel from light into light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His law He enforces: the stars in their courses,<br/>The sun in His orbit, obediently shine;<br/>The hills and the mountains, the rivers and fountains,<br/>The deeps of the ocean proclaim Him divine,<br/>We too should be voicing our love and rejoicing,<br/>With glad adoration a song let us raise,<br/>‘Til all things now living unite in thanksgiving<br/>To God in the highest, hosanna and praise.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>264 - O for That Flame of Living Fire</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>264</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O for that flame of living fire<br/>Which shone so bright in saints of old;<br/>Which bade their souls to heaven aspire,<br/>Calm in distress, in danger bold!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where is that spirit, Lord, which dwelt<br/>In Abram’s breast, and sealed Him Thine?<br/>Which made Paul’s heart with sorrow melt,<br/>And glow with energy divine?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>That spirit which from age to age<br/>Proclaimed Thy love, and taught Thy ways?<br/>Brightened Isaiah’s vivid page,<br/>And breathed in David’s hallowed lays?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Is not Thy grace as mighty now<br/>As when Elijah felt its power?<br/>When glory beamed from Moses’ brow,<br/>Or Job endured the trying hour?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Remember, Lord, the ancient days;<br/>Renew Thy work, Thy grace restore;<br/>And while to Thee our hearts we raise,<br/>On us Thy Holy Spirit pour.</lines>
+    </verse>
+  </lyrics>
+</song>

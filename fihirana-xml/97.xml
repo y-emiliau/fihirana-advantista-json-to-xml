@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>IRIKO MBA HAMBARA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>97</ccliNo>
+    <authors>
+      <author>L. J. Raharijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Iriko mba hambara<br/>Sy ho ventesina<br/>Mamiko ny tantaran'ny<br/>Fanavotana.<br/>Ry Tompo sy Mpanjaka,<br/>Be voninahitra,<br/>Manaiky mba hizaka<br/>Latsa sy henatra.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Fitiavanao Mpamonjy<br/>No tiako holazaina,<br/>Fa izaho voavonjy<br/>Ry Tompo deraina.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fahorian- tsy hita lany<br/>No nozakainy re !<br/>Fa nameno ny tany<br/>Ny ota marobe.<br/>Kapoka ary ratra,<br/>Fanamavoana koa !<br/>Nataon'ny Ray nihatra<br/>Taminy avokoa !<br/>Fitiavanao Mpamonjy, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Koa raiso ho fanilo,<br/>Mba hanazava anao,<br/>'Lay voasatro-tsilo<br/>Nanome aim-baovao,<br/>Fa Izy efa nandresy,<br/>Tamin'ny rany soa ;<br/>Ny otanao nisesy,<br/>Novahany avokoa !<br/>Fitiavanao Mpamonjy, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

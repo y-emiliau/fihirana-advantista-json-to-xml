@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESOSY NO ANTOM-PIAINAKO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>510</ccliNo>
+    <authors>
+      <author>R. Rabenasolo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-PIAINAKO<br/>1<br/>Jesosy no antom-piainako,<br/>Hiraiko isan'andro.<br/>Miova ny fisainako<br/>Raha Jesosy no banjiniko.<br/>Atokako ho Azy avokoa<br/>Ny androko rehetra,<br/>Anjarako sy lovako<br/>Ilay Tompo Jeso, Mpamonjiko.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesosy no zava-drehetra,<br/>Tsy misy hafa intsony.<br/>Fitiavana tsy voafetra<br/>Nomeny avy any ambony.<br/>Atolotro manokana<br/>Ho Azy izao ny foko<br/>Anjarako sy lovako,<br/>Ilay Zanaka Lahitokana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesosy no iantsampazako<br/>Raha sendra fahoriana.<br/>Anilany tsy hialako<br/>Fa feno fifaliana.<br/>Fa tokiko sy heriko<br/>Jesosy Ilay Mpanavotro<br/>Anjarako sy lovako<br/>Ilay Jesosy antom-piainako.</lines>
+    </verse>
+  </lyrics>
+</song>

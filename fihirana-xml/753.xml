@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MBA RAHOVIANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>753</ccliNo>
+    <authors>
+      <author>R. Raveloson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mba rahoviana foana moa<br/>Hahazo fifaharana<br/>Ny fahoriana 'zay manjo<br/>Ka hisy fitsaharana ?<br/>Maso andrandra<br/>Tsy ho ela izao,<br/>Ho avy an-drahon-danitra<br/>Jesosy tia<br/>Ô ! mba avia<br/>Hamonjy hanavotra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Izao fiainantsika izao,<br/>Ny ranomaso tsy mandao,<br/>Ka fisentoana lava izao<br/>Ry velona ô, izao atao :<br/>'Ndeha mba fidio<br/>Kristy anio<br/>Hampionona izany fo.<br/>Ho avy indray<br/>Haka, kandray<br/>Hisava ny manjo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ô ! ry sakaiza, ory ve ?<br/>Handeha hatony Jeso tia<br/>Ka aza misalasala re<br/>Fa Izy miantso hoe : Avia !<br/>Famonjena<br/>Tsy terena,<br/>Hatolotra fa mandrosoa<br/>Ka matokia<br/>An'i Kristy<br/>Ho avy hitondra soa.</lines>
+    </verse>
+  </lyrics>
+</song>

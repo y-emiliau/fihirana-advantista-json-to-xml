@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>FANAHY VERY O, AVIA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>345</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fanahy very ô, avia !<br/>Jeso mbola tia.<br/>Indro ny tanany mitsotra<br/>Hanavotra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mpanota ô, avia ianao,<br/>Mibebaha izao.<br/>Ny ota 'zay ekena hadio<br/>Anio, anio.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mivesatra entana ô, avia<br/>Miantso ny Mesia.<br/>Ny otanao toa tafahoatra<br/>Voaisotra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O! ry fanahy manjoretra<br/>ANA, sasatra,<br/>Eo amin'ilay vokovoko<br/>Fiadanam-po.</lines>
+    </verse>
+  </lyrics>
+</song>

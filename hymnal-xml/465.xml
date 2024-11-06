@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>465 - I Heard the Voice of Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>465</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I heard the voice of Jesus say,<br/>“Come unto Me and rest;<br/>Lay down, thou weary one, lay down<br/>Thy head upon My breast.”<br/>I came to Jesus as I was,<br/>Weary and worn and sad;<br/>I found in Him a resting place,<br/>And He has made me glad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I heard the voice of Jesus say,<br/>“Behold, I freely give<br/>The living water; thirsty one,<br/>Stoop down and drink and live.”<br/>I came to Jesus, and I drank<br/>Of that life giving stream;<br/>My thirst was quench’d, my soul revived,<br/>And now I live in Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I heard the voice of Jesus say,<br/>“I am this dark world’s light;<br/>Look unto Me, thy morn shall rise,<br/>And all thy day be bright.”<br/>I looked to Jesus, and I found<br/>In Him my star, my sun;<br/>And in that light of life I’ll walk,<br/>Till trav’ling days are done.</lines>
+    </verse>
+  </lyrics>
+</song>

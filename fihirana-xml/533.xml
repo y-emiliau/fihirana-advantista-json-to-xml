@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AO AM-PONAY 'ZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>533</ccliNo>
+    <authors>
+      <author>(Tsy fantatra)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-PONAY 'ZAO<br/>1<br/>Ao am-ponay 'zao ny fanantenana<br/>Fa ho avy indray ny Tomponay.<br/>(Avy Izy izao)<br/>Inoanay 'reo teny fikasana.<br/>Nataony teto fahizay (teto fahizay)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Tsy ho ela intsony re<br/>Izahay hihira hoe :<br/>Haleloia, haleloia,<br/>Tonga ny Mpanjakanay !<br/>He, ny fonay 'zao,<br/>Faly manantena<br/>Ny fiavian'ny Tomponay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miandry Anao 'zahay, Jesosy tia.<br/>Faingàna mba handray anay.<br/>(Mba handray anay)<br/>Ny feonay miantso hoe : <<Avia.<br/>Ry Tompo sy Mpanjakanay>><br/>Tsy ho ela, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

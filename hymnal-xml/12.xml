@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>012 - Joyful, Joyful, We Adore Thee</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>12</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joyful, joyful, we adore Thee,<br/>God of glory, Lord of love;<br/>Hearts unfold like flow’rs before Thee,<br/>Hail Thee as the sun above.<br/>Melt the clouds of sin and sadness,<br/>Drive the dark of doubt away;<br/>Giver of immortal gladness,<br/>Fill us with the light of day!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All Thy works with joy surround Thee,<br/>Earth and heav’n reflect Thy rays,<br/>Stars and angels sing around Thee,<br/>Center of unbroken praise;<br/>Field and forest, vale and mountain,<br/>Bloss’ming meadow, flashing sea,<br/>Chanting bird and flowing fountain<br/>Call us to rejoice in Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou art giving and forgiving,<br/>Ever blessing, ever blest,<br/>Wellspring of the joy of living,<br/>Oceandepth of happy rest!<br/>Thou the father, Christ our Brother -<br/>All who live in love are Thine:<br/>Teach us how to love each other,<br/>Lift us to the joy divine.</lines>
+    </verse>
+  </lyrics>
+</song>

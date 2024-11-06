@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>253 - There's No Other Name Like Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>253</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s no other name like Jesus,<br/>‘Tis the dearest name we know,<br/>‘Tis the angel’s joy in heaven,<br/>‘Tis the Christian’s joy below.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sweet name, dear name,<br/>There’s no other name like Jesus;<br/>Sweet name, dear name,<br/>There’s no other name like Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There’s no other name like Jesus<br/>When the heart with grief is sad,<br/>There’s no other name like Jesus<br/>When the heart is free and glad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>‘Tis the hope that I shall see Him<br/>When in glory He appears,<br/>‘Tis the hope to hear His welcome<br/>That my fainting spirit cheers.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If He wills that I should labor<br/>In His vineyard day by day,<br/>Then ’tis well if only Jesus<br/>Blesses all I do or say.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If He wills that death’s cold finger<br/>Touch my feeble, mortal clay,<br/>Then ’tis well if only Jesus<br/>Is my dying trust and stay.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>483 - I Need Thee Every Hour</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>483</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I need thee every hour, most gracious Lord;<br/>no tender voice like thine can peace afford.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I need thee, O I need thee;<br/>every hour I need thee;<br/>O bless me now, my Savior, I come to thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need thee every hour; stay thou nearby;<br/>temptations lose their power when thou art nigh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I need thee every hour, in joy or pain;<br/>come quickly and abide, or life is vain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I need thee every hour; teach me thy will;<br/>and thy rich promises in me fulfill.</lines>
+    </verse>
+  </lyrics>
+</song>

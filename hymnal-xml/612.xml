@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>612 - Onward, Christian Soldiers!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>612</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Onward, Christian soldiers, marching as to war,<br/>with the cross of Jesus going on before.<br/>Christ, the royal Master, leads against the foe;<br/>forward into battle see his banners go!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Onward, Christian soldiers, marching as to war,<br/>with the cross of Jesus going on before.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Like a mighty army moves the church of God;<br/>brothers, we are treading where the saints have trod.<br/>We are not divided, all one body we,<br/>one in hope and doctrine, one in charity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Crowns and thrones my perish, kingdoms rise and wane,<br/>but the church of Jesus constant will remain.<br/>Gates of hell can never ‘gainst that church prevail;<br/>we have Christ’s own promise, and that cannot fail.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Onward then, ye people, join our happy throng,<br/>blend with ours your voices in the triumph song.<br/>Glory, laud, and honor unto Christ the King,<br/>this through countless ages men and angels sing.</lines>
+    </verse>
+  </lyrics>
+</song>

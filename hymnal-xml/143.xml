@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>143 - Silent Night, Holy Night</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>143</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Silent night! holy night!<br/>All is calm, all is bright<br/>Round yon virgin mother and Child,<br/>Holy Infant so tender and mild,<br/>Sleep in heavenly peace,<br/>sleep in heavenly peace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Silent night! holy night!<br/>Shepherds quake at the sight,<br/>glories stream from heaven afar,<br/>heavenly hosts sing Alleluia;<br/>Christ, the Savior is born,<br/>Christ, the Savior is born.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Silent night! holy night!<br/>Son of God, love’s pure light,<br/>Radiant beams from Thy holy face,<br/>with the dawn of redeeming grace,<br/>Jesus, Lord, at Thy birth,<br/>Jesus, Lord, at Thy birth.</lines>
+    </verse>
+  </lyrics>
+</song>

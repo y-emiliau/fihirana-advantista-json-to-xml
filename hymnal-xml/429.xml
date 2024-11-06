@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>429 - Jerusalem the Golden</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>429</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jerusalem the golden,<br/>With milk and honey blest,<br/>Beneath thy contemplation<br/>Sink heart and voice oppressed.<br/>I know not, O I know not<br/>What holy joys are there;<br/>What radiancy of glory,<br/>What bliss beyond compare.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They stand, those hall of Zion,<br/>All jubilant with song,<br/>And bright with many an angel,<br/>And all the martyr throng.<br/>The Prince is ever in them,<br/>The daylight is serene;<br/>The pastures of the blessed<br/>Are deck in glorious sheen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is the throne of David,<br/>And there, from care released,<br/>The shout of them that triumph,<br/>The song of them that feast;<br/>And they who, with their Leader,<br/>Have conquered in the fight,<br/>Forever and forever<br/>Are clad in robes of white.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O sweet and blessed country,<br/>The home of God’s elect!<br/>O sweet and blessed country,<br/>That eager hearts expect!<br/>Jesus, in mercy bring us<br/>To that dear land of rest;<br/>Who art, with God the Father,<br/>And Spirit, ever blest.</lines>
+    </verse>
+  </lyrics>
+</song>

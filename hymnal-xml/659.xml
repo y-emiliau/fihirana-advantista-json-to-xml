@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>659 - May the Grace of Christ Our Savior</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>659</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>May the grace of Christ our Savior<br/>And the Father’s boundless love,<br/>With the Holy Spirit’s favor,<br/>Rest upon them from above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thus may they abide in union<br/>With each other and the Lord,<br/>And possess, in sweet communion,<br/>Joys which earth cannot afford.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>298 - I Lay My Sins on Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>298</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I lay my sins on Jesus,<br/>The spotless Lamb of God;<br/>He bears them all, and frees us<br/>From the accursed load,<br/>From the accursed load.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I bring my guilt to Jesus,<br/>To wash my crimson stains<br/>White in His blood most precious<br/>Till not a stain remains,<br/>Till not a stain remains.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I lay my wants on Jesus,<br/>All fullness dwells in Him;<br/>He healeth my diseases<br/>He doth my soul redeem,<br/>He doth my soul redeem</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I long to be with Jesus,<br/>Meek, loving, lowly, mild;<br/>I long to be like Jesus<br/>The Father’s holy child,<br/>The Father’s holy child.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I long to be with Jesus<br/>Amid the heavenly throng,<br/>To sing with them His praises,<br/>And learn the angels’ song.<br/>And learn the angels’ song.</lines>
+    </verse>
+  </lyrics>
+</song>

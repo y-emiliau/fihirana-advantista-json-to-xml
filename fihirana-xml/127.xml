@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HO HAIKO VE</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>127</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ho haiko ve Jesosy ô !<br/>Hiala Aminao<br/>Hiara-mandeha<br/>Amin'izao tontolo izao ?<br/>Sahiko ve, lavitra Anao,<br/>'Lay fonao tia ?<br/>O, satriko re,<br/>Anilana doria, doria.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Ka na aiza na aiza, Jeso ô !<br/>Misy Anao.<br/>'Zaho sy Ianao, Jesosy ô !<br/>Tsy hifandao.<br/>O, sanatria,<br/>Izay hisaraka Aminao<br/>Fitia ho doria,<br/>Ry Jeso tia ka anjakao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ho reko ve Jesosy ô !<br/>'Lay feonao tia<br/>Miantso hoe mpanota,<br/>O ! avia, avia.<br/>Raha lavitra,<br/>Eny izaho lavitra Anao<br/>Mety manindao Jesosy ô,<br/>Mety ho lao.<br/>Ka na aiza na aiza, Jeso, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Endrey ny fo Jesosy ô !<br/>Raha tsy eo Ianao<br/>Loto sy lo<br/>Ny fahotana mifamaho.<br/>Sambatra, eny tretrika ao,<br/>Jesosy ô !<br/>Satria Ianao<br/>No monina ao am-poko ao.<br/>Ka na aiza na aiza, Jeso, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

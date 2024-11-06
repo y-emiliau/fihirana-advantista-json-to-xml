@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>O! RY NAMAKO AVIA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>480</ccliNo>
+    <authors>
+      <author>F. Ramanantsialonina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O ! ry namako avia<br/>'Ndeha isika hiara-dia<br/>Mahereza miomana,<br/>Atrakao ny lohanao.<br/>Fa na sarotra ny ady<br/>Mijoroa ho kiady<br/>He ! manàna fikasana,<br/>Ao Kanana lovanao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao ny Tompo mampahery,<br/>Olombery tiany<br/>Izy tena tsy mandao ;<br/>Vonona handray anao.<br/>Aza lavinao 'lay feo<br/>'Zany antso mba ekeo.<br/>Ka Jesosy no jereo.<br/>Dia handresy ianao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na dia sarotra ny dia,<br/>Aza ketraka ianao.<br/>Fa Jesosy zoky tia<br/>No mpiantoka anao.<br/>Ao ny lovanao ry mpino<br/>Ka ny lanitra banjino,<br/>Eny, kely sisa izao,<br/>Dia hiadana ianao.</lines>
+    </verse>
+  </lyrics>
+</song>

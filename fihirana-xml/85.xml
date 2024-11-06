@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HE NORATRAINA IANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>85</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He noratraina Ianao,<br/>Ka nolatsaina, ry Tompo Tsitoha.<br/>Ny dian-kapoka teo aminao<br/>No nanasitranana ny ratrako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha nohomboana Ianao,<br/>Indro nafoinao, hatolotra ahy<br/>Hitarika ny fiainako izao<br/>Natolotrao, Jeso ô, ny Fanahy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nefa tsy tana Ianao,<br/>Fa indro nitsangana Ilay Tompo soa<br/>Resy ny fasana, resy izao<br/>O ! fandresena nomena ahy koa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Any an-danitra, Jeso,<br/>'Lay Andriamanitra, Tompo Tsitoha.<br/>Izy mifona ho ahy izao,<br/>Hery sy fanantenana tokoa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tsy ho ela intsony re izao,<br/>Avy eny ambony, ho avy Jeso :<br/>O ! ny hafaliana raha ho avy Ianao,<br/>Haleloia, hitsenako Anao.</lines>
+    </verse>
+  </lyrics>
+</song>

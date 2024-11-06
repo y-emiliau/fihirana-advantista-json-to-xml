@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>301 - Near, Still Nearer</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>301</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nearer, still nearer,<br/>close to Thy heart,<br/>Draw me, my Savior,<br/>so precious Thou art;<br/>Fold me, O fold me<br/>close to Thy breast,<br/>Shelter me safe in<br/>that haven of rest,<br/>Shelter me safe in<br/>that haven of rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nearer, still nearer,<br/>nothing I bring,<br/>Nought as an offering<br/>to Jesus my King-<br/>Only my sinful<br/>now contrite heart,<br/>Grant me the cleansing<br/>Thy blood doth impart,<br/>Grant me the cleansing<br/>Thy blood doth impart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nearer, still nearer,<br/>Lord, to be Thine;<br/>Sin, with its follies,<br/>I gladly resign,<br/>All of its pleasures,<br/>pomp and its pride;<br/>Give me but Jesus,<br/>my Lord crucified,<br/>Give me but Jesus,<br/>my Lord crucified.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nearer, still nearer,<br/>while life shall last;<br/>Till safe in glory<br/>my anchor is cast;<br/>Through endless ages,<br/>ever to be,<br/>Nearer, my Savior,<br/>still nearer to Thee,<br/>Nearer, my Savior,<br/>still nearer to Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

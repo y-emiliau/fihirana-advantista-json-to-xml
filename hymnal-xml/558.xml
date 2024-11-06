@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>558 - For the Fruits of His Creation</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>558</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For the fruits of His creation, thanks be to God;<br/>For the gifts to every nation, thanks be to God;<br/>For the plowing, sowing, reaping,<br/>Silent growth while men are sleeping,<br/>Future needs in earth’s safe keeping, thanks be to God!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the just reward of labor, God’s will is done;<br/>In the hop we give our neighbor, God’s will is done;<br/>In our worldwide take of caring<br/>For the hungry and despairing,<br/>In the harvests men are sharing, God’s will is done.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For the harvests of His Spirit, thanks be to God;<br/>For the good all men inherit, thanks be to God;<br/>For the wonders that astound us,<br/>For the truths that still confound us,<br/>Most of all, that love has found us, thanks be to God!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MOA VE TSY HO LAZAIKO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>94</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moa ve tsy ho lazaiko<br/>Fa velona tokoa<br/>Fa velona Jesosy,<br/>Tantara tena soa.<br/>He maty mba hisolo,<br/>Nitondra ny heloko ;<br/>Kanefa izao nandresy.<br/>He ! velona.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Hobio,(hobio), hobio,(hobio)<br/>Vaovao mahafaly re.<br/>Torio, lazao, eny<br/>ambarao<br/>Jesosy velona.<br/>Hobio,(hobio), hobio,(hobio),<br/>Vaovao mahafaly re.<br/>Jesosy velona ao am-po<br/>O fantatro tokoa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny otako rehetra<br/>Voavelany tokoa ;<br/>Ny vesany manindry<br/>Nesoriny avokoa.<br/>Ny fiadanam-pony<br/>O, fahalalana soa !<br/>Atolony tontolo.<br/>He velona !<br/>Lazao,lazao sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny diako isan'andro<br/>Tantanany tokoa ;<br/>'Reo zava-mampahory<br/>Reseny avokoa.<br/>Raha sendra kivy aho<br/>Ka reraka ny fo,<br/>Bitsihiny mangina.<br/>He velona !<br/>Lazao, lazao, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tsy ahy irery mantsy<br/>Fa ho anao tokoa,<br/>Ry namako mahantra,<br/>Ho anao avokoa<br/>Ny vonjy efa vita,<br/>'Lay Paradisa soa,<br/>Anao tsy misy fetra,<br/>Fa velona.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Lazao, (lazao),<br/>lazao (lazao),<br/>Fa akaiky Izy 'zao.<br/>Torio, lazao, eny<br/>ambarao<br/>Jesosy avy re.<br/>Lazao, (lazao),<br/>lazao (lazao).<br/>Avy Izy haka anao.<br/>Hiseho eny an-danitra<br/>fa velona tokoa.</lines>
+    </verse>
+  </lyrics>
+</song>

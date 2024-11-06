@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>218 - When He Cometh</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>218</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When He cometh, when He cometh<br/>To make up His jewels,<br/>All His jewels, precious jewels,<br/>His loved and His own.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Like the stars of the morning,<br/>His bright crown adorning,<br/>They shall shine in their beauty,<br/>Bright gems for His crown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He will gather, He will gather<br/>The gems for His kingdom;<br/>All the pure ones, all the bright ones,<br/>His loved and His own.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Little children, little children,<br/>Who love their Redeemer,<br/>Are the jewels, precious jewels,<br/>His loved and His own.</lines>
+    </verse>
+  </lyrics>
+</song>

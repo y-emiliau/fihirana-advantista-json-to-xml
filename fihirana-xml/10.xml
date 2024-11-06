@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JEHOVAH NO MPIANDRY AHY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>10</ccliNo>
+    <authors>
+      <author>Jeanne Ratsirison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>SALAMO</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jehovah no miandry ahy,<br/>Mpiahy ny fanahy.<br/>Tsy misy atahorako<br/>Fa izy aroko.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jehovah no Mpitarika ahy<br/>Sady mpitondra ahy<br/>Amoron-dranon'aina re,<br/>Miala sasatra e.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jehovah no Mpitantana ahy<br/>Tsy misy mampanahy<br/>Na dia mamaky ny aloky<br/>Ny fahafatesana !</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jehovah no Mpiaro ahy<br/>Mamelatra ho ahy<br/>Latabatra eo imason'<br/>Ny fahavaloko.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jehovah no Mpanjakako<br/>Sady be indrafo.<br/>Hitoetra an-kianjanao doria<br/>No faniriako ety.</lines>
+    </verse>
+  </lyrics>
+</song>

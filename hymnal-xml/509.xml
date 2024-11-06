@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>509 - How Firm a Foundation</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>509</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How firm a foundation, ye saints of the Lord,<br/>is laid for your faith in his excellent word!<br/>What more can he say than to you he hath said,<br/>to you who for refuge to Jesus have fled?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>“Fear not, I am with thee, O be not dismayed,<br/>for I am thy God and will still give thee aid;<br/>I’ll strengthen and help thee, and cause thee to stand<br/>upheld by my righteous, omnipotent hand.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>“When through deep waters I call thee to go,<br/>the rivers of woe shall not thee overflow;<br/>for I will be with thee, thy troubles to bless,<br/>and sanctify to thee thy deepest distress.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>“When through fiery trials thy pathways shall lie,<br/>my grace, all-sufficient, shall be thy supply;<br/>the flame shall not hurt thee; I only design<br/>thy dross to consume, and thy gold to refine.”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>“The soul that on Jesus hath leaned for respose,<br/>I will not, I will not depart to His foes;<br/>That soul, though all hell should endeavor to shake,<br/>I’ll never, no never, no never forsake!”</lines>
+    </verse>
+  </lyrics>
+</song>

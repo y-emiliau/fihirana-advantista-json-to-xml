@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESO SAKAIZANAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>500</ccliNo>
+    <authors>
+      <author>Rainizafimanga</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeso Sakaizanay,<br/>sakaiza rahateo !<br/>Indreto izahay, vonjeo<br/>Fa be ny adinay.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Jeso Sakaizanay, (Jeso),<br/>sakaiza rahateo (Jeso),<br/>Indreto izahay, vonjeo<br/>Fa be ny adinay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeso Sakaizanay,<br/>sakaiza be fitia !<br/>Tariho izahay hanao<br/>Ny zava-tianao :<br/>Jeso, sns</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeso Sakaizanay,<br/>sakaiza tsy mandao !<br/>Na dia mpanota aza re<br/>Izahay mpanomponao :<br/>Jeso, sns</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeso Sakaizanay,<br/>sakaiza tsy mamoy,<br/>Na ory na finaritra<br/>Izahay ankehitrio :<br/>Jeso, sns</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jeso Sakaizanay,<br/>Omaly sy anio,<br/>Ka mbola ho Sakaizanay<br/>Mandrakizay doria :<br/>Jeso, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

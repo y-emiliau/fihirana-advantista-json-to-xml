@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>IZA MOA IRETO AVY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>141</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Iza moa ireto avy<br/>Amin-kery izao ?<br/>He mitafy hazavana<br/>Sy voninahitra ?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Avia, (avia) ô, avia,<br/>Faingàna Tompo ô,<br/>Miandry ny olonao<br/>Izay navotanao (izao).<br/>Ento, (ento) izahay<br/>Ho any Aminao<br/>hahita Ilay Mpanjakanay<br/>Am-boninahitra, (Amen !)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O ! derao, ry ondry vitsy,<br/>Asandrato ny feo,<br/>Ka satroy diadema<br/>'Lay efa tia anao.<br/>Avia, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lasa izao ny aizim-pito<br/>Nampahory tety ;<br/>Tonga ny mazavan'aina<br/>'Zay tsy ho tapitra.<br/>Avia, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Zao no hiranay : Hosana !<br/>Haleloia ! Amen !<br/>Hitsenanay an'i Jeso<br/>Izay Mpamonjinay.<br/>Avia, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

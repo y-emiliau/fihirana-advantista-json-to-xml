@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAHA NY FITSAPANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>397</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raha ny fitsapana<br/>No mamely re,<br/>Ka tsy mahatana,<br/>Fa malemy e!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Ray ô, akekezonao,<br/>Ô, vonjeo 'ty zanakao.<br/>Mba omeo ny hery<br/>Handreseko 'zao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha ny zava-poana<br/>No mitaona izao,<br/>Ka ny fo mirona,<br/>Toa handao Anao !<br/>Ray ô, akekezonao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>raha ny sitrapoko<br/>No mandà Anao ;<br/>Ka indro ny finoako<br/>Mila ho resy izao :<br/>Ray ô, akekezonao, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aza afoy mihintsy<br/>Re 'ty zanakao<br/>Aoka ho mahitsy<br/>Ny aleha izao.<br/>Ô, tantanonao ny dia<br/>Mandra-pahatonga ary.<br/>Any hiderako Anao<br/>'Lay Mpamonjy tia, Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

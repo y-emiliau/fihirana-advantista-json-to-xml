@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>017 - Lord of All Being, Throned Afar</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>17</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of all being, throned afar,<br/>Thy glory flames from sun and star;<br/>Center and soul of every sphere<br/>Yet to each loving heart how near!<br/>Yet to each loving heart how near!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sun of our life, Thy quickening ray<br/>Shed on our path the glow of day;<br/>Star of our hope, Thy softened light<br/>Cheers the long watches of the night,<br/>Cheers the long watches of the night.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our midnight is Thy smile withdrawn;<br/>Our noontide is Thy gracious dawn;<br/>Our rainbow arch, Thy mercy’s sign;<br/>All, save the clouds of sin, are Thine,<br/>All, save the clouds of sin, are Thine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord of all life, below, above<br/>Whose light is truth, whose warmth is love,<br/>Before Thy ever-blazing throne<br/>We ask no luster of our own,<br/>We ask no luster of our own.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Grant us Thy truth to make us free<br/>And kindling hearts that burn for Thee;<br/>Till all Thy living altars claim<br/>One holy light, one heavenly flame!<br/>One holy light, one heavenly flame.</lines>
+    </verse>
+  </lyrics>
+</song>

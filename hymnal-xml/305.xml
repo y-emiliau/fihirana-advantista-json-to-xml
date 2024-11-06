@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>305 - Give Me Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>305</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the morning, when I rise<br/>In the morning, when I rise<br/>In the morning, when I rise</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Give me Jesus.<br/>Give me Jesus,<br/>Give me Jesus.<br/>You can have all this world,<br/>Just give me Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dark mid-night was my cry,<br/>Dark mid-night was my cry,<br/>Dark midnight was my cry,<br/>Give me Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just about the break of day,<br/>Just about the break of day,<br/>Just about the break of day,<br/>Give me Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, when I come to die,<br/>Oh, when I come to die,<br/>Oh, when I come to die,<br/>Give me Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

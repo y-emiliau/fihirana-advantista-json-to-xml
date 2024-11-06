@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TOMPO MALALA, FENO HATSARANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>233</ccliNo>
+    <authors>
+      <author>J. Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tompo malala feno hatsarana,<br/>Tena irinay ny hahita Anao,<br/>O ! asehoy aminay hatrizao,<br/>:,: Ny herinao mahavonjy tokoa. :,:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tompo Tsitoha, Tompo tena tia,<br/>Mamboatra fonenan-tsoa tokoa,<br/>O ! aza avela, baboy avokoa<br/>:,: Mba ho Anao re ny fonay izao. :,:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tompo mahery, aza ela loatra<br/>Fa sasa-miandry Anao ny olonao<br/>O ! misehoa amin-kery izao.<br/>:,: Ianao irery no fiononanay. :,:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tompo, faingàna fa tsy mahatamana<br/>Ny tany izay onenanay izao,<br/>Irinay ny hitoetra aminao.<br/>:,: Anilanao, eo no honenanay. :,:</lines>
+    </verse>
+  </lyrics>
+</song>

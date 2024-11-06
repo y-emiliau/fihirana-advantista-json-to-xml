@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HIFIDY AHO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>622</ccliNo>
+    <authors>
+      <author>Vololomiamina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hifidy aho, hifidy aho,<br/>Hifidy aho<br/>Toe-piainana, hifidy aho<br/>Toe-piainana<br/>Tena kanto indrindra,<br/>Mendrika ny lanitra.<br/>Ô ! fahendrena,<br/>Hatsaram-panahy<br/>Ny fanompoana finoana.<br/>Hifidy aho, hifidy aho,<br/>Hifidy aho<br/>Toe-piainana, hifidy aho<br/>Toe-piainana<br/>Tena kanto indrindra,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hifidy aho, hifidy aho,<br/>Hifidy aho<br/>Toe-piainana, hifidy aho<br/>Toe-piainana<br/>Tena kanto indrindra,<br/>Mendrika ny lanitra.<br/>Ny fijoroana<br/>mba ho mahatoky,<br/>Fanaovan-tsoa, fankatoavana.<br/>Hifidy aho, hifidy aho,<br/>Hifidy aho<br/>Toe-piainana, hifidy aho<br/>Toe-piainana<br/>Tena kanto indrindra,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hifidy aho, hifidy aho,<br/>Hifidy aho<br/>Toe-piainana, hifidy aho<br/>Toe-piainana<br/>Tena kanto indrindra,<br/>Mendrika ny lanitra.<br/>Fahatokiana,<br/>Herim-po vaovao,<br/>Ny fahalalana ny onony.<br/>Hifidy aho, hifidy aho,<br/>Hifidy aho<br/>Toe-piainana, hifidy aho<br/>Toe-piainana<br/>Tena kanto indrindra,</lines>
+    </verse>
+  </lyrics>
+</song>

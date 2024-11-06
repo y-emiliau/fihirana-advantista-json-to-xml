@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>183 - I Will Sing of Jesus' Love</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>183</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I Will sing of Jesus love,<br/>Sing of Him,who first loved me;<br/>for He left bright worlds above,<br/>And died on Calvary.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will sing of Jesus love<br/>Endless praise my heart shall give;<br/>He has died that I might live<br/>I will sing His love to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O the depths of love divine!<br/>Earth or heaven can never know<br/>How that sin as dark as mine<br/>can be made as white as snow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nothing good for Him I’ve done;<br/>How could He such love bestow?<br/>Lord, I own my heart is won,<br/>help me now my love to show.</lines>
+    </verse>
+  </lyrics>
+</song>

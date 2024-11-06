@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>O, HENOY RE NY FEO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v2</verseOrder>
+    <ccliNo>314</ccliNo>
+    <authors>
+      <author>J. Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O ! henoy re ny feo<br/>Avy ao an-danitra,<br/>Hafatra manehoeho<br/>Nomen'Andriamanitra ;<br/>O ! henoy, ry vazan-tany,<br/>Ry vahoaka marobe,<br/>O, henoy, maneke.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Njay ny feo manao hoe :<br/><< Matahora Azy re,<br/>Indro fa mitsara Izy,<br/>'Lay Mpanjaka lehibe<br/>Aoka re ny sitrapony<br/>Hankatoavina tokoa,<br/>Tontosao avokoa >>.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Renao ve ? avy izao,<br/>Avy mba handray anao<br/>Kristy, 'Lay Mpamonjy tia<br/>Ry mpanota ô, henoy !<br/>Tapitra eo ny ady mafy<br/>Sy ny fisentoanao<br/>Mifalia hatrizao.</lines>
+    </verse>
+  </lyrics>
+</song>

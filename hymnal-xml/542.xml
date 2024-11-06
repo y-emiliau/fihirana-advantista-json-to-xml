@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>542 - Jesus, Friend So Kind</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>542</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Friend, so kind and gentle,<br/>Little ones we bring to Thee:<br/>Grant to them Thy dearest blessing,<br/>Let Thine arms around them be;<br/>Now enfold them in Thy goodness,<br/>From all danger keep them free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou who did receive the children<br/>To Thyself so tenderly,<br/>Give to all who teach and guide them<br/>Wisdom and humility.<br/>Vision true to keep them noble,<br/>Love to serve them faithfully.</lines>
+    </verse>
+  </lyrics>
+</song>

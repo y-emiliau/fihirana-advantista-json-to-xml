@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>156 - O Sacred Head Now Wounded</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>156</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O sacred Head, now wounded,<br/>with grief and shame weighed down,<br/>now scornfully surounded<br/>with thorns, thine only crown:<br/>how pale thou art with anguish,<br/>with sore abuse and scorn!<br/>How does that visage languish<br/>which once was bright as morn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What thou, my Lord, has suffered<br/>was all for sinners’ gain;<br/>mine, mine was the transgression,<br/>but thine the deadly pain.<br/>Lo, here I fall, my Savior!<br/>‘Tis I deserve thy place;<br/>look on me with thy favor,<br/>vouchsafe to me thy grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What language shall I borrow<br/>to thank thee, dearest friend,<br/>for this thy dying sorrow,<br/>thy pity without end?<br/>O make me thine forever;<br/>and should I fainting be,<br/>Lord, let me never, never<br/>outlive my love for thee.</lines>
+    </verse>
+  </lyrics>
+</song>

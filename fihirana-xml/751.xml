@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>'LAY JESOSY NO SAKAIZA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>751</ccliNo>
+    <authors>
+      <author>F. Ramanantsialonina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Lay Jesosy no sakaiza,<br/>Mahatoky tsy mandao.<br/>Fa nikolo sy nitaiza,<br/>Nanamboatra nanavao.<br/>Mahalala ny halemena<br/>Ka mananatra tokoa<br/>Fa Sakaiza tena tia,<br/>Sy Mpanarina ny dia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeso no sakaiza tsara,<br/>Sy Mpiaro ny fanahy.<br/>Izy ihany no anjara,<br/>Vonjy sy Mpanafaka ahy.<br/>He ! natsotrany ny sandry,<br/>Mba handray anao izao,<br/>Ka miadana sy mandry,<br/>'Zany eo anilanao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeso tena mahatoky,<br/>Ampy hiadananao.<br/>Mofo tena mahavoky,<br/>Ary tena tanjakao.<br/>Ô ! ry namako atolory<br/>Ny fiainanao izao,<br/>Aza ketraka akory<br/>Izy ampy ho anao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeso no Sakaiza hendry,<br/>Mpanalàlana anao<br/>'Lay Mpamonjy voatendry<br/>Mba hanavotra anao.<br/>Eny, ho avy tsy ela<br/>Mba handray anao izao.<br/>Miomàna sao tavela,<br/>Ka hanenina ianao.</lines>
+    </verse>
+  </lyrics>
+</song>

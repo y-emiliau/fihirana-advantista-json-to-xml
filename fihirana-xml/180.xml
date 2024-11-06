@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAISO NY FONAY FANAHY O!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>180</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FANAHY MASINA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raiso ny fonay, Fanahy ô,<br/>Amboary ho lapanao.<br/>Fitia sy hasoavanao<br/>Mba apetraho ao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Midina amin'ny herinao<br/>Ka hamasino izahay.<br/>Ka ny fiainanay hatokanao<br/>Ho tena an'ny Ray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny afonao hanadio ny fo<br/>Ho tonga sorona,<br/>Voatolotra ho Anao tokoa,<br/>Anao Mpamorona.<br/>Midina amin'ny, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Midina toy ny rivotra<br/>Mamelombelona<br/>hanehoanay ny avotra<br/>Amin'ny olona.<br/>Midina amin'ny, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>236 - I Love Thee</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>236</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love Thee, I love Thee,<br/>I love Thee, my Lord;<br/>I love Thee, my Savior,<br/>I love Thee, my God.<br/>I love Thee, I love Thee,<br/>and that Thou dost know;<br/>But how much I love Thee<br/>my actions will show.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m happy, I’m happy,<br/>O, wondrous account!<br/>My joys are immortal,<br/>I stand on the mount!<br/>I gaze on my treasure<br/>and long to be there,<br/>With Jesus and angels,<br/>and kindred so dear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Jesus, my Savior,<br/>with Thee I am blest,<br/>My life and salvation,<br/>my joy and my rest:<br/>Thy name be my theme,<br/>and Thy love be my song;<br/>Thy grace shall inspire<br/>both my heart and my tongue.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, who’s like my Savior?<br/>He’s Salem’s bright King;<br/>He smiles, and He loves me,<br/>and helps me to sing.<br/>I’ll praise Him, I’ll praise Him,<br/>with notes loud and clear<br/>While rivers of pleasure<br/>my spirit do cheer.</lines>
+    </verse>
+  </lyrics>
+</song>

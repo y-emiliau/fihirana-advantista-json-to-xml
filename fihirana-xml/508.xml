@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESOSY FAMONJENA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>508</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesosy ô, famonjena,<br/>Jereo ny ady ety.<br/>O ! reraka aho mitenena,<br/>Mpamonjy ô, midina, avia.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>(Fa aina)<br/>Aina hivelomako Ianao, Jeso,<br/>(Jesosy)<br/>Aina mitempo anatiko ao ny avotrao<br/>O ! sambatra aho<br/>tretrika tokoa<br/>Fa mitoetra eo aminao, Jeso.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesosy ô, mofon'aina,<br/>Antom-piainako Ianao.<br/>Ny foko he ! karankaina,<br/>Tondray Fanahy avy Aminao.<br/>Aina hivelomako, sns</lines>
+    </verse>
+  </lyrics>
+</song>

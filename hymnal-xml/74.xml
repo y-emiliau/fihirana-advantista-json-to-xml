@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>074 - Like a River Glorious</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>74</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Like a river glorious,<br/>is God’s perfect peace,<br/>Over all victorious,<br/>in its bright increase;<br/>Perfect, yet it floweth,<br/>fuller every day,<br/>Perfect, yet it groweth,<br/>deeper all the way.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Stayed upon Jehovah,<br/>hearts are fully blessed<br/>Finding, as He promised,<br/>perfect peace and rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hidden in the hollow<br/>of His blessed hand,<br/>Never foe can follow,<br/>never traitor stand;<br/>Not a surge of worry,<br/>not a shade of care,<br/>Not a blast of hurry<br/>touch the spirit there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every joy or trial<br/>falleth from above,<br/>Traced upon our dial<br/>by the Sun of Love;<br/>We may trust Him fully<br/>all for us to do.<br/>They who trust Him wholly<br/>find Him wholly true.</lines>
+    </verse>
+  </lyrics>
+</song>

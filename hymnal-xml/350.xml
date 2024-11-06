@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>350 - Blest Be the Tie That Binds</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>350</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blest be the tie that binds<br/>our hearts in Christian love;<br/>the fellowship of kindred minds<br/>is like to that above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Before our Father’s throne<br/>we pour our ardent prayers;<br/>our fears, our hopes, our aims are one,<br/>our comforts and our cares.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We share each other’s woes,<br/>our mutual burdens bear;<br/>and often for each other flows<br/>the sympathizing tear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When we asunder part,<br/>it gives us inward pain;<br/>but we shall still be joined in heart,<br/>and hope to meet again.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>528 - A Shelter in the Time of Storm</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>528</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord’s our Rock, in Him we hide,<br/>A shelter in the time of storm;<br/>Secure whatever ill betide,<br/>A shelter in the time of storm.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mighty Rock in a weary land,<br/>Cooling shade on the burning sand,<br/>Faithful guide for the pilgrim band—<br/>A shelter in the time of storm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A shade by day, defense by night,<br/>A shelter in the time of storm;<br/>No fears alarm, no foes afright,<br/>A shelter in the time of storm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The raging storms may round us beat,<br/>A shelter in the time of storm<br/>We’ll never leave our safe retreat,<br/>A shelter in the time of storm.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Rock divine, O Refuge dear,<br/>A Shelter in the time of storm;<br/>Be Thou our helper ever near,<br/>A Shelter in the time of storm.</lines>
+    </verse>
+  </lyrics>
+</song>

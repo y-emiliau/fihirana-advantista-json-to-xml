@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>372 - How Beauteous Are Their Feet</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>372</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How beauteous are their feet<br/>Who stand on Zion’s hill;<br/>Who bring salvation on their tongues,<br/>And words of peace reveal!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How charming is their voice,<br/>So sweet the tidings are:<br/>“Zion, behold thy Savior King;<br/>He reigns and triumphs here!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How happy are our ears,<br/>That hear the joyful sound<br/>Which kings and prophets waited for,<br/>And sought, but never found!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How blessed are our eyes,<br/>That see this heavenly light;<br/>Prophets and kings desired it long,<br/>But died without the sight!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The watchmen join their voice,<br/>And tuneful notes employ;<br/>Jerusalem breaks forth in songs,<br/>And deserts learn the joy.</lines>
+    </verse>
+  </lyrics>
+</song>

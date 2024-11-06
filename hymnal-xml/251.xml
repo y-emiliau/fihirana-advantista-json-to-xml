@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>251 - He Lives</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>251</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I serve a risen Savior,<br/>He’s in the world today;<br/>I know that He is living,<br/>whatever men may say;<br/>I see His hand of mercy,<br/>I hear His voice of cheer<br/>And just the time<br/>I need Him He’s always near.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He lives, He lives,<br/>Christ Jesus lives today!<br/>He walks with me<br/>and talks with me<br/>along life’s narrow way.<br/>He lives, He lives,<br/>salvation to impart!<br/>You ask me how I know He lives?<br/>He lives within my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In all the world around me<br/>I see His loving care,<br/>And tho’ my heart grows weary<br/>I never will despair;<br/>I know that He is leading<br/>thru all the stormy blast,<br/>The day of His appearing<br/>will come at last.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rejoice, rejoice, O Christian,<br/>lift up your voice and sing,<br/>Eternal hallelujahs<br/>to Jesus Christ the King!<br/>The hope of all who seek Him,<br/>the help of all who find,<br/>None other is so loving,<br/>so good and kind.</lines>
+    </verse>
+  </lyrics>
+</song>

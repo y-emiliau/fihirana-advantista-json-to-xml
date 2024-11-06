@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HE NY ANTSO MAFY IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>142</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He, ny antso mafy izao,<br/>Ô! Henoy, ô! Henoy !<br/>Avy Ilay Mpanjakanao,<br/>Eo an-drahona.<br/>Injay ny trômpetra,<br/>Ô! Henoy, ô! Henoy !<br/>Fa tonga ny fetra izay nandrasana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Nreto anjely marobe<br/>Ô! Henoy, ô! Henoy !<br/>No indray mihira hoe:<br/>Voninahitra !<br/>He, feo maharavo,<br/>Ô! Henoy, ô! Henoy !<br/>Nameno ny avo<br/>Eny an-danitra.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Avy izao ny Tomponao,<br/>Ô! henoy, ô! henoy !<br/>Moa faly ny fonao ?<br/>Mba lazao anio.<br/>Ekeo tsy terena<br/>Izy izao, Izy izao.<br/>Miomàna hitsena<br/>Azy am-po madio.</lines>
+    </verse>
+  </lyrics>
+</song>

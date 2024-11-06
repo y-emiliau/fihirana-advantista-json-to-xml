@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>200 - The Lord Is Coming</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>200</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is coming, let this be<br/>The herald note of jubilee;<br/>And when we meet and when we part<br/>The salutation from the heart.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The Lord is coming, let this be<br/>The herald note of jubilee,<br/>The herald note of jubilee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord is coming, sound it forth<br/>From east to west, from south to north;<br/>Speed on! Speed on the tidings glad,<br/>That none who love Him may be sad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The Lord is coming, let this be<br/>The herald note of jubilee,<br/>The herald note of jubilee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord is coming, swift and sure<br/>And all His judgements shall endure,<br/>And none can hope to escape His wrath,<br/>Who walk not in the narrow path.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The Lord is coming, let this be<br/>The herald note of jubilee,<br/>The herald note of jubilee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This earth, with her ten thousand wrongs<br/>Will soon be tuned to nobler songs;<br/>Our praise shall then, in realms of light,<br/>With all His universe unite.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The Lord is coming, let this be<br/>The herald note of jubilee,<br/>The herald note of jubilee.</lines>
+    </verse>
+  </lyrics>
+</song>

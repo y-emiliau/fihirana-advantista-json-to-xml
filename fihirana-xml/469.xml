@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY JESO KRISTY TOMPO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>469</ccliNo>
+    <authors>
+      <author>H. Rabehasy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Jeso Kristy Tompo,<br/>O ! ampio ny olonao !<br/>Ampianaro mba hanompo<br/>Sy hanao ny sitrakao ;<br/>Malemy aho re<br/>Ka omeo ny herinao<br/>Tsy hivily tsy hania<br/>Fa hanara-dia Anao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>O ! vonjeo, ô ! vonjeo,<br/>Ka tantano sy jereo ;<br/>Aza afoy izahay,<br/>Fa Ianao no avotray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny foko mba diovy,<br/>Ry Mpamonjy lehibe !<br/>Ka ambeno sy arovy,<br/>Sao dia very aho re :<br/>Iriko indrindra koa<br/>Ny hitombo sy hamoa,<br/>Ka ny voka-tsoa rehetra<br/>Ho Anao, ry Jeso ô !<br/>O ! vonjeo, sns</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mba raisona, ry Tompo !<br/>Ho Anao tokoa izao<br/>'zay anananay rehetra,<br/>Ka anarano fo izao,<br/>Fa maty Hianao<br/>Noho ny fitiavanao,<br/>Ka tsy hainao hadinoina<br/>Ny fitiavanao anay :<br/>O ! vonjeo, sns</lines>
+    </verse>
+  </lyrics>
+</song>

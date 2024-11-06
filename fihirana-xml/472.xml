@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HE MANOLO-TENA AHO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>472</ccliNo>
+    <authors>
+      <author>Dera Arson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He ! manolo-tena aho, Tompo ô.<br/>Mba ho Anao,<br/>Ho Anao mandrakizay.<br/>Ka ny andro sisa hiainako<br/>Homeko Anao, raiso, izao</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>O ! mba tohano Tompo ô<br/>(Tohano Tompo ô)Ny diako, ny voadiko<br/>('Zany, 'zany voadiko)<br/>Mba hanompo Anao<br/>('Zaho ta hanompo, ta hanompo Anao)<br/>Mandrakizay, mandrakizay<br/>(Ho mandrakizay).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ampy izay ny fiainana lasa<br/>'Zay nampalahelo Anao, ry Tompoko.<br/>Ka manomboka anio, Jeso ô,<br/>Ampio aho ho Anao.<br/>O ! mba tohano, sns</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aoka izay ny filalaovan-dratsy<br/>Nampisaraka ahy taminao ;<br/>Fa ny ho mpandova lanitra<br/>Iriko izao, Jesosy ô.<br/>O ! mba tohano, sns</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, ry Jesosiko be fitia<br/>Izay nifidy ahy ho ondrinao<br/>Mba tantano re izany dia,<br/>Ho tonga any aminao!.<br/>O ! mba tohano, sns</lines>
+    </verse>
+  </lyrics>
+</song>

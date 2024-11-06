@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>527 - From Every Stormy Wind</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>527</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From every stormy wind that blows,<br/>From every swelling tide of woes,<br/>There is a calm, a sure retreat:<br/>‘Tis found beneath the mercy seat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a place where Jesus sheds<br/>The oil of gladness on our heads,<br/>A place than all besides more sweet;<br/>It is the blood-bought mercy seat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a scene where spirits blend,<br/>Where friend holds fellowship with friend;<br/>Though sundered far, by faith they meet<br/>Around one common mercy seat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There, there, on angel’s wings we soar,<br/>And earthly cares molest no more,<br/>And heaven comes down our souls to greet,<br/>And glory crowns the mercy seat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ah! whither should we flee for aid,<br/>When tempted, desolate dismayed?<br/>Or how the hosts of sin defeat,<br/>Had suffering saints no mercy seat?</lines>
+    </verse>
+  </lyrics>
+</song>

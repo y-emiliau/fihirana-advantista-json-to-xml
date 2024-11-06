@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>104 - My Shepherd Will Supply My Need</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>104</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Shepherd will supply my need,<br/>Jehovah is His name.<br/>In pastures fresh He makes me feed<br/>Beside the living stream.<br/>He brings my wand’ring spirit back<br/>When I forsake His ways,<br/>And leads, me for His mercy’s sake,<br/>In paths of truth and grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I walk through the shades of death,<br/>Thy presence is my stay;<br/>A word of Thy supporting breath<br/>Drives all my fears away.<br/>Thy hand in sight of all my foes<br/>Doth still my table spread;<br/>My cup with blessings overflows,<br/>Thine oil anoints my head.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The sure provisions of my God<br/>Attend me all my days;<br/>O may Thy house be mine abode<br/>And all my work be praise.<br/>There would I find a settled rest<br/>While others go and come;<br/>No more a stranger or a guest,<br/>But like a child at home.</lines>
+    </verse>
+  </lyrics>
+</song>

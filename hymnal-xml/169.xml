@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>169 - Come, You Faithful</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>169</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, you faithful, raise the strain<br/>Of triumphant gladness;<br/>God has brought His people<br/>Now rejoice, Jerusalem,<br/>And with true affection<br/>Welcome in unwearied strains<br/>Jesus’resurrection.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‘Tis the spring of souls today;<br/>Christ has burst His prison<br/>From the frost and gloom of death<br/>light and life have risen<br/>All the winter of our sins,<br/>Long and dark, is flying<br/>From His ligth, to whom we give<br/>Thanks and praise undying.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>“Alleluia!” now we cry<br/>to our King immortal,<br/>Who, triumphant, burst the<br/>bars of the tomb’s dark portal<br/>“Alleluia!” with the Son,<br/>God the Father praising;<br/>“Alleluia!” yet again to<br/>the Spirit raising.</lines>
+    </verse>
+  </lyrics>
+</song>

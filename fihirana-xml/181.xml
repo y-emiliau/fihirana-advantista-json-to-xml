@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HE, INJAO MAMELOMBELONA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>181</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FANAHY MASINA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He injao mamelombelona ahy<br/>'Lay Fanahy Masina<br/>Avy amin'ny Ray.<br/>Mampitsiky mampifalifaly<br/>'Lay Fanahy Masina<br/>Avy amin'ny Ray.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Voromailala avy amin'ny Ray<br/>Ô ! aza miala<br/>Aza miala aminay.<br/>Ô ! mba fenoy ny fitiavanao<br/>Ka mba tahio ny fonay<br/>Ka mba tahio re, ry Ray,<br/>Tahio hidera Anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He, manova, eny manafay<br/>'Lay Fanahy Masina<br/>Avy amin'ny Ray.<br/>'Ndeha re ho hendry<br/>Ka handray<br/>'Lay Fanahy Masina<br/>Avy amin'ny Ray.<br/>Voromailala, sns</lines>
+    </verse>
+  </lyrics>
+</song>

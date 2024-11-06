@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>416 - The Judgment Has Set</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>416</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The judgment has set, the books have been opened;<br/>How shall we stand in that great day,<br/>When every thought, and word, and action,<br/>God, the righteous Judge, shall weigh?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How shall we stand in that great day?<br/>How shall we stand in that great day?<br/>Shall we be found before Him wanting?<br/>Or with our sins all washed away?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The work is begun with those who are sleeping,<br/>Soon will the living here be tried,<br/>Out of the books of God’s remembrance,<br/>His decision to abide.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, how shall we stand that moment of searching,<br/>When all our sins those books reveal?<br/>When from that court, each case decided,<br/>Shall be granted no appeal?</lines>
+    </verse>
+  </lyrics>
+</song>

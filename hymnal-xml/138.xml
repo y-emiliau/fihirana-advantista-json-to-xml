@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>138 - Rise Up, Shepherd, and Follow</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>138</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s a star in the east<br/>on Christmas morn.<br/>Rise up, shepherd, and follow.<br/>It will lead to the place<br/>and where the Savior’s born,<br/>Rise up, shepherd, and follow.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Leave your sheep and leave your lambs,<br/>Rise up, shepherd, and follow.<br/>Leave your ewes and leave your rams,<br/>Rise up, shepherd, and follow.<br/>Follow, follow,<br/>Rise up shepherd, and follow.<br/>Follow the star of Bethlehem,<br/>Rise up, shepherd, and follow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you take good heed<br/>to the angel’s words,<br/>Rise up, shepherd, and follow.<br/>You’ll forget your flocks,<br/>you’ll forget your herds,<br/>Rise up, shepherd, and follow.</lines>
+    </verse>
+  </lyrics>
+</song>

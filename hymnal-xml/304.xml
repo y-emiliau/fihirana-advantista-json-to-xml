@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>304 - Faith of Our Fathers</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>304</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Faith of our fathers, living still,<br/>In spite of dungeon, fire and sword;<br/>O how our hearts beat high with joy<br/>Whenever we hear that glorious Word!<br/>Faith of our fathers, holy faith!<br/>We will be true to thee till death.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our fathers, chained in prisons dark,<br/>Were still in heart and conscience free:<br/>How sweet would be their children’s fate.<br/>If they, like them, could die for thee!<br/>Faith of our fathers, holy faith!<br/>We will be true to thee till death.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Faith of our fathers, we will love<br/>Both friend and foe in all our strife;<br/>And preach Thee, too, as love knows how<br/>By kindly words and virtuous life.<br/>Faith of our fathers, holy faith!<br/>We will be true to thee till death.</lines>
+    </verse>
+  </lyrics>
+</song>

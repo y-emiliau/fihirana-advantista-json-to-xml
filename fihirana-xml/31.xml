@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MASINA INDRINDRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>31</ccliNo>
+    <authors>
+      <author>Rakotonjanahary</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Masina indrindra,<br/>Masina indrindra,<br/>Ka derainay,<br/>Derainay ho mandrakizay.<br/>Ny fonenan'ao ambony<br/>Sy ny mponona any koa<br/>Samy heninky ny hamasinanao<br/>'Zahay te hidera toy ireo anjely<br/>Ka mba ampianaro<br/>'Zay fanaon'ireo !<br/>Masina indrindra,<br/>Masina indrindra<br/>Ka derainay,<br/>Derainay ho mandrakizay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Marina indrindra,<br/>Marina indrindra<br/>Ka ekenay,<br/>Ekenay ho mandrakizay.<br/>He ! ny fitsarana ataonao<br/>Sy ny fotondran-drehetra<br/>Dia mitory ny fahamarinanao.<br/>Mba zavatra irinay ny hiovan'ny tany<br/>Ho tany anjakan'ny<br/>Hamarinanao<br/>Marina indrindra,<br/>Marina indrindra<br/>Ka ekenay,<br/>Ekenay ho mandrakizay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be fitia indrindra,<br/>Be fitia indrindra<br/>Ka tianay,<br/>Tianay ho mandrakizay.<br/>Fa ny zavatra rehetra,<br/>Dia ny hita sy tsy hita,<br/>Samy mahatsapa fitahiana.<br/>Na ny manan-teny,<br/>Na tsy manam-peo<br/>Dia manan-tarehy<br/>Te hisaotra Anao.<br/>Be fitia indrindra,<br/>Be fitia indrindra,<br/>Ka tianay,<br/>Tianay ho mandrakizay.<br/>Amen, Amen, Amen, Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

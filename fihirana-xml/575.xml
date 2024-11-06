@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>DIENY MBOLA ZAZA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>575</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dieny mbola zaza aho<br/>Sy mbola kely 'zao<br/>Dia hanolo-tena<br/>Ho Anao, ry Jeso soa<br/>Mamiko tokoa ny hankato Anao<br/>Koa tafio hery aho hanao<br/>'Zay sitrakao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tiako, ry Mpamonjy<br/>Ny miaraka aminao<br/>Toy ireo anjely<br/>'Zay fanirakirakao<br/>Sitrako tokoa<br/>hanao ny asanao<br/>Ka ny foko kely<br/>Dia ho fonenanao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ao Edena ambony<br/>Mihira avokoa<br/>Tsanta-karavoana<br/>Ho Anao, ry 'Layt Mesia<br/>Izaho dia kely,<br/>He ! fa mihira koa<br/>Anao, Zanak'ondry,<br/>Maty tany Kalvary.</lines>
+    </verse>
+  </lyrics>
+</song>

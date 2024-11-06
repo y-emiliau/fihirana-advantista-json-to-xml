@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>147 - Christ Upon the Mountain Peak</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>147</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ upon the mountain peak<br/>Stands alone in glory blazing;<br/>Let us, if we dare to speak,<br/>With the saints and angels praise Him:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluia, Alleluia, Alleluia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Trembling at His feet we saw<br/>Moses and Elijah speaking;<br/>All the prophets and the law<br/>Shout thro’ them their joyful greeting:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluia, Alleluia, Alleluia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Swift the cloud of glory came,<br/>God proclaiming in the thunder<br/>Jesus as His Son by name;<br/>Nations cry aloud in wonder!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluia, Alleluia, Alleluia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is God’s beloved Son:<br/>Law and prophets fade before Him;<br/>First and last, the only One,<br/>Let creation now adore Him.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluia, Alleluia, Alleluia.</lines>
+    </verse>
+  </lyrics>
+</song>

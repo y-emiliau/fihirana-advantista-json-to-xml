@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>ANDRO MALAZA SY MENDRIKA SOA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>225</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Andro malaza sy mendrika soa<br/>'Lay andro izay nitsaharan'ny Ray.<br/>Ny zavaboary he mifaly avokoa<br/>He ! faly fa hiala sasatra indray.<br/>Ry Zanahary, Tompo tia ô !<br/>Ampifalio izao ny fonay,<br/>Mba tsy hanary ny fombanao.<br/>Tsy hanadino ilay hatrizay,<br/>Ilay Sabata natao ho anay,<br/>Ilay tsangambaton'ny Ray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Andro tsy tontan'ny ela hatrizay<br/>Na dia natopan'ny onja aza izao.<br/>Andro natao hamantarana izay,<br/>Ireo vahoaka manaraka Anao.<br/>Ry Zanahary, Tompo tia ô !<br/>Ampifalio izao ny fonay,<br/>Mba tsy hanary ny fombanao.<br/>Tsy hanadino ilay hatrizay,<br/>Ilay Sabata amantarana anay,<br/>Ilay famantaran'ny Ray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O ! andro masina, kanto tokoa<br/>Mamirapiratry ny endrikao,<br/>Andraisanay fitahiana sy soa<br/>'Lay andro masina izay manavao<br/>Ry Zanahary, Tompo tia ô !<br/>Ampifalio izao ny fonay,<br/>Mba tsy hanary ny fombanao.<br/>Tsy hanadino ilay hatrizay,<br/>Ilay Sabata anamasinana anay,<br/>Sy manavao ny fonay.</lines>
+    </verse>
+  </lyrics>
+</song>

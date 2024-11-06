@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MIADY HOA ANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>93</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miady ho anao izao,<br/>Irery tao Getsemane,<br/>'Lay Tompo tena tia anao,<br/>mpanota, mijere !</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Ario (ny ota izao)<br/>Ny ota izao, (ario ny ota izao),<br/>Ario (ario)<br/>Andeha jereo ny Tomponao<br/>Dia mibebaha re anio.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mitondra latsa ho anao,<br/>Irery am-pitsaharana e<br/>'Lay Tompon-danitra izao,<br/>Mpanota, mijere.<br/>Ario, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He maty ho anao izao,<br/>Irery ao an'alim-be,<br/>Ny Tompo, moa fantatrao ?<br/>Mpanota, mijere.<br/>Ario, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Iriny aminao ny fo<br/>Mba hanjakany hatrizao,<br/>Hamboariny ho lapa soa,<br/>Moa foinao ve, lazao ?<br/>Ario, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

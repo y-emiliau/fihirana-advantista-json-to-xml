@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>413 - God Has Spoken by His Prophets</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>413</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God has spoken by His prophets,<br/>Spoken His unchanging Word,<br/>Each from age to age proclaiming<br/>God, the one, the righteous Lord.<br/>Mid the world’s despair and turmoil,<br/>One firm anchor holding fast;<br/>God is King, His throne eternal,<br/>God the first, and God the last.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God has spoken by Christ Jesus,<br/>Christ, the everlasting Son,<br/>Brightness of the Father’s glory,<br/>With the Father ever one;<br/>Spoken by the Word incarnate,<br/>God of God, ere time began,<br/>Light of light, to earth descending,<br/>Man, revealing God to man.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God yet speaks by His own Spirit<br/>Speaking to the hearts of men,<br/>In the age-long Word expounding<br/>God’s own message, now as then;<br/>Through the rise and fall of nations<br/>One sure faith yet standing fast,<br/>God is King, His Word unchanging,<br/>God the first, and God the last.</lines>
+    </verse>
+  </lyrics>
+</song>

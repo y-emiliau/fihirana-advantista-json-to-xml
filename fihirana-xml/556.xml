@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESOSY VE MIHAINO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>556</ccliNo>
+    <authors>
+      <author>A. Raoeliarijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>?<br/>1<br/>Jesosy ve mihaino,<br/>Jesosy ve mandre,Ka mety hamaly koa<br/>Ny sentompon'ireo 'Zay toa very<br/>Sy miady irery aty ?<br/>Mihaino ve Jeso, (Mamaly koa),<br/>Fantany ve 'zao vavako izao ?<br/>Ekeo fa mamaly<br/>Ny vavaka izay atao, Jeso.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesosy ve mahita Ary mijery koa <br/>Ny fahoriana eto ?<br/>Fantany ve 'zao ady<br/>Izay mila ahakivy eto 'zao ?<br/>Mahita ve Jeso, Mijery koa ?<br/>Ampiany ve 'reo olony 'reo<br/>Ekeo fa tsy mandao<br/>Izat te hiaraka Aminy, Jeso.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesosy ve akaiky Ary ho avy koa<br/>Fa efa trotraka sy Ana ka mety ho resy<br/>Ireo ondriny vitsy sisa ireo ?<br/>Akaiky ve Jeso Ho avy koa<br/>Hanafaka 'reo ondriny 'reo<br/>Minoa fa tsy ho ela<br/>Ho avy hanampy 'reo tokoa, Jeso.</lines>
+    </verse>
+  </lyrics>
+</song>

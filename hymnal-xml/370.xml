@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>370 - Christ for the World</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>370</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ for the world we sing,<br/>the world to Christ we bring,<br/>with loving zeal;<br/>the poor, and them that mourn,<br/>the faint and overborne,<br/>sinsick and sorrow-worn,<br/>whom Christ doth heal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ for the world we sing,<br/>the world to Christ we bring,<br/>with fervent prayer;<br/>the wayward and the lost,<br/>by restless passions tossed,<br/>redeemed at countless cost,<br/>from dark despair.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ for the world we sing,<br/>the world to Christ we bring,<br/>with joyful song;<br/>the newborn souls, whose days,<br/>reclaimed from error’s ways,<br/>inspired with hope and praise,<br/>to Christ belong.</lines>
+    </verse>
+  </lyrics>
+</song>

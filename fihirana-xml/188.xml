@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MISAOTRA ANAO IZAHAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>188</ccliNo>
+    <authors>
+      <author>J. Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY TENYN'ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Misaotra Anao 'zahay, ry Ray ô,<br/>Noho ny Teny Masinao to<br/>Tenin'ny aina, Teny tsara,<br/>Mamelombelona anay.<br/>Feno fitiavana tokoa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ampianaro hanova toetra<br/>Hanjary tena olom-baovao ;<br/>Ka ny Fanahy ampitoero,<br/>Hitari-dàlana anay<br/>Ho tonga any aminao</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny Teninao no sabatray e,<br/>Izay handresenay ilay ratsy,<br/>Fa tena hery, vatolampy<br/>'Zay azonay iankinana,<br/>Maharitra mandrakizay.</lines>
+    </verse>
+  </lyrics>
+</song>

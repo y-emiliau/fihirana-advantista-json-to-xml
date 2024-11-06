@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AINGAO NY HIRANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>432</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aingao ny herinao,<br/>Ry olon'ny Tompo,<br/>Fa hiakatra any Ziona izao.<br/>Samia mihira eram-po<br/>Ka fenoy hira vao<br/>Ny lapan'i Jeso.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Andeha ho any Ziona,<br/>Tanànan'Andriamanitra<br/>Andeha ho any Ziona,<br/>Tanàna mahasambatra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na dia ireo mandà<br/>Aoka hanandra-peo.<br/>Dia ny tsy mba mahalala<br/>Fa zanaka Mpanjaka ireo<br/>Aoka izy 'reo haneho<br/>Ny fifaliany eo<br/>Andeha ho any Ziona, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ziona, havoana<br/>Maneho hatsarana.<br/>Mialoha ny fotoana,<br/>Fotoana hahatrarana<br/>Ilay tanàna soa<br/>Volamena avokoa.<br/>Andeha ho any Ziona, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ny hira hanala<br/>Ny ranomasonao<br/>Aoka isika hahalala<br/>Fa mankany Ziona izao<br/>Tanàna tsra ery,<br/>Tsy toy ny hita ety.<br/>Andeha ho any Ziona, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

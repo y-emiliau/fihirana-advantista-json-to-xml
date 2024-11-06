@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TOERANA TONY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>198</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Toerana tony iray,<br/>Mangina tsara ery.<br/>Ao ny saiko tnen'ny Ray,<br/>Mandravaka azy koa<br/>'Reo felam-boninkazo soa<br/>Ka mamiratra ery.<br/>Eo no andaniako<br/>Fotoana mamiko,<br/>Migoka ny fitiavanay<br/>Rehefa avy eo<br/>Vonon-kanatrika ny asa<br/>Amim-pitiavana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Toerana masina<br/>Ity toerana ity,<br/>'Zay anatrehana ny Ray.<br/>Eto andraisana<br/>Sy anovozana tokoa<br/>Ny fitahian'ny Ray.<br/>Eto amokisana,<br/>Ampaherezana<br/>Ny saina sy fanahy koa<br/>Ka raha miala eto,<br/>Vonon-kanatrika ny asa<br/>Amim-pifaliana.</lines>
+    </verse>
+  </lyrics>
+</song>

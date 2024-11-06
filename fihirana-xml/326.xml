@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MODIA, MODIA, O RY MPANOTA O!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>326</ccliNo>
+    <authors>
+      <author>C. Borchgrevink</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Modia, modia, ô, ry mpanota ô !<br/>Tsy mba hitsangana va mba hiadananao ?<br/>Tsy handosiranao va izao fomba ratsy izao ?<br/>Indro mitady anao Andriamanitra,<br/>Ka ta hampiditra ano any an-danitra,<br/>Ka ta hampiditra ano any an-danitra !<br/>Moa tsy tianao va ny mba ho velona ?<br/>Koa dia aza mandà Azy mpamelona anao.<br/>Jesosy miantso anao, ka mba henoinao,<br/>Raiso ny tenniny izao, mba hamonjena anao,<br/>Raiso ny tenniny izao, mba hamonjena anao !</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>O ! ry mpanota miovà<br/>Fa ho sambatra tokoa,<br/>Raha mody ianao,<br/>Fa ho sambatra tokoa,<br/>Raha mody ianao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Modia, modia, ô, ry mpanota ô !<br/>Tsy mbola azonao va ny fiantsoany <br/>Sa ianao ta handà ny fitiavanay ?<br/>Mba mankanesa aty, indro mivoha izao<br/>Tranon'ny Rainao ery, ka mba hidironao<br/>O ! mba modia ianao, tranon'ny Rainao ery,<br/>O ! mba modia ianao, sao dia handatsa anao<br/>Ny fikirizanao :<br/>Koa katsaho izao ny voninahitra<br/>Efa miandry anao any an-danitra<br/>Efa miandry anao any an-danitra<br/>O ! ry mpanota, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

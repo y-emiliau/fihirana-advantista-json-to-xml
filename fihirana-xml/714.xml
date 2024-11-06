@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MAMELA HELOKA JESO TIA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>714</ccliNo>
+    <authors>
+      <author>Dera Arson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mamelà heloka,<br/>Mamelà heloka,<br/>Mamelà heloka,<br/>Ry Jeso Tompo tia<br/>Miantrà, miantrà, miantrà<br/>Jeso tia mamalia.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Fantatrao, fantatrao,<br/>(Ô ! fantatrao, ô, fantatrao,)<br/>Fantatrao Tompo ô,<br/>(Ô ! fantatrao, ry Tompo ô,)<br/>'Zay tena mahasoa<br/>Ny fanahiko re<br/>('Zay mahasoa, 'zay mahasoa, dia fantatrao)<br/>Mamelà, mamelà heloka, Jeso tia<br/>(Tompo ô mamelà heloka, Jeso tia)<br/>Mamelà heloka Jeso tia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He manatona anao (Oam)<br/>He, manatona anao (Oam)<br/>Fa hankaiza tokoa (Oam)<br/>Moa ry Jesosy tia (Oam)<br/>'Ty mpanota izay (Oam, oam, oam)<br/>Tsy mahavonjy tena ity (tena ity)<br/>Fantatrao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miady mafy tokoa<br/>Ka mitolona re<br/>Tsy ny sitrako ange<br/>'Zao tanteraka izao<br/>Ka vonjeo Tompo ô<br/>Mamelà Jeso tia<br/>Mamalia<br/>Fantatrao, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ô, afeno aminao (Oam)<br/>Ity foko ity (Oam)<br/>Tehirizo ho Anao (Oam)<br/>Ry Mpamonjiko ô (Oam)<br/>mamela heloka (Oam, oam, oam)<br/>Mitalaho aminao Jeso tia.<br/>Fantatrao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

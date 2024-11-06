@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>360 - From the Eastern Mountains</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>360</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the eastern mountains Pressing on they come,<br/>Wise men in their wisdom, To His humble home;<br/>Stirred by deep devotion, Hasting from afar,<br/>Ever journeying onward, Guided by a star.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There their Lord and Savior Meek and lowly,<br/>Wondrous light that led them Onward on their way,<br/>Ever now to lighten Nations from afar,<br/>As they journey homeward By that guiding star.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gather in the outcasts All who’ve gone astray,<br/>Throw Thy radiance o’er them, Guide them on their way;<br/>Those who never knew Thee, Those who’ve wandered far,<br/>Guide them by the brightness Of Thy guiding star.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Until every nation, Whether bond or free,<br/>‘Neath Thy starlit banner, Jesus follows thee.<br/>O’er the distant mountains To that heavenly home,<br/>Where no sin nor sorrow Evermore shall come.</lines>
+    </verse>
+  </lyrics>
+</song>

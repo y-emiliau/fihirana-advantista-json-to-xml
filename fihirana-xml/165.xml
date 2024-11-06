@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MIDERA SY MIHOBIA IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>165</ccliNo>
+    <authors>
+      <author>F. Ramanantsialonina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miderà sy mihobia izao,<br/>Ry namako.<br/>Efa hifarana ny adinao.<br/>Indro ny Kristinao.<br/>Kely sisa hanoloana ka ho tafahoana.<br/>Ilay Mpamonjy ahy sy anao.<br/>Avy ny Tomponao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Lay Kanana efa vonona<br/>Ho lovanao<br/>Hafaliana tsy hay tononina<br/>Izao no miandry anao<br/>Ireo anjely marobe<br/>No hanangona ny voavonjy.<br/>Hihoby re ny Fiangonana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fa ny eto dia miserana<br/>Mandalo koa.<br/>Ao tsy hisy fitserana<br/>fa maharavo fo.<br/>Miomàna 'zaho sy ianao<br/>Mba handao ny ety<br/>Ka handova ny Tanàna soa<br/>'Lay Paradisa ary.</lines>
+    </verse>
+  </lyrics>
+</song>

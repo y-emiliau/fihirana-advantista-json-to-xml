@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>308 - Wholly Thine</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>308</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I would be, dear Savior,<br/>wholly Thine;<br/>Teach me how, teach me how;<br/>I would do Thy will,<br/>O Lord, not mine;<br/>Help me, help me now.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wholly Thine, wholly Thine,<br/>Wholly Thine, this is my vow;<br/>Wholly Thine, wholly Thine,<br/>Wholly Thine, O Lord, just now.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What is worldly pleasure,<br/>wealth or fame,<br/>Without Thee, without Thee?<br/>I will leave them all<br/>for Thy dear Name,<br/>This my wealth shall be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As I cast earth’s<br/>transient joys behind,<br/>Come Thou near, come Thou near;<br/>In Thy presence<br/>all in all I find,<br/>’Tis my comfort here.</lines>
+    </verse>
+  </lyrics>
+</song>

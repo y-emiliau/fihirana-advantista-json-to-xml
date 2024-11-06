@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>492 - Like Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>492</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teach, me, Father, what to say;<br/>Teach me, Father, how to pray;<br/>Teach me all along the way<br/>How to be like Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I would be like Jesus,<br/>I would be like Jesus!<br/>Help me, Lord, to daily grow<br/>More and more like Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teach me as the days go by,<br/>Teach me not to reason why,<br/>Teach me that to do and die,<br/>Is to be like Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teach me that the time is short,<br/>Teach me how to live and work,<br/>Teach me that to never shirk<br/>Is to be like Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teach me how we may be one,<br/>Like the Father and the Son;<br/>And when all is overcome,<br/>I will be like Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

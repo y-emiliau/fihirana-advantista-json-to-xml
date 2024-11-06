@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MANATONA, RY MPANOTA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>343</ccliNo>
+    <authors>
+      <author>Ch. Rasoanaivo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Manatona, ry mpanota<br/>Ory, jamba, very koa !<br/>Ianao simban'ny ota,<br/>Indro ao ny Tompo soa ;<br/>Ry tsy mendrika ho vonjena,<br/>Misy 'zay miantra anao ;<br/>Fifaliam-be homena,<br/>Famelana helokao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mba henoy ny teny tsara<br/>'Zay lazaina aminao,<br/>Sao very ny anjara<br/>Soa tadiavinao ;<br/>Feno antra, mana-kery<br/>Jeso no mitaona anao ;<br/>Ka ny mino tsy ho very<br/>Manatona re izao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny miato tsy mba tsara<br/>Ny halainanao ario ;<br/>Sao helohin'ny Mpitsara<br/>Manatona re anio ;<br/>He ! miandry ny Mpamonjy<br/>Mba faingana ianao.<br/>Raha te ho voavonjy,<br/>Aza ela ianao.</lines>
+    </verse>
+  </lyrics>
+</song>

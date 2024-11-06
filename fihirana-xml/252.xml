@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESO O, AMPIANARO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>252</ccliNo>
+    <authors>
+      <author>Raobijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeso ô ! ampianaro<br/>Ny lalànao izahay<br/>Ka ny fonay hamasino ;<br/>Ahitsio ny fiainanay.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Eo aminao Jeso ô !<br/>No tsara ho anay<br/>(Soa tokoa, hery koa, aina vao)<br/>Raisonao<br/>O ! raiso re.<br/>(Ho Anao, raiso re 'zahay).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Afa-tahotra ny fonay,<br/>Raha ny fanahinao<br/>No miasa ho anay,<br/>Mandra-pahatonga anay.<br/>Eo aminao Jeso ô, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ianao no vatolampy<br/>Tanjona iononam-po.<br/>Eo fiarovana ampy<br/>hahatony 'zany fo.<br/>Eo aminao Jeso ô, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeso ô, Mpamonjy mora,<br/>Tomoera aminay.<br/>Isan'andro, isan'ora,<br/>O ! arovy izahay.<br/>Eo aminao Jeso ô, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

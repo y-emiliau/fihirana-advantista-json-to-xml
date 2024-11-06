@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>080 - O World of God</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>80</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O world of God, so vast and strange,<br/>Profound and wonderful and fair,<br/>Beyond the utmost reach of thought,<br/>But not beyond a Father’s care!<br/>We are not strangers on this earth<br/>Whirling amid the suns of space;<br/>We are God’s children, this our home,<br/>With those of every clime and race.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O world of man where life is lived,<br/>So strangely mingling joy and pain,<br/>So full of evil and of good,<br/>So needful that the god shall reign!<br/>It is this world that God has loved,<br/>And goodness was its Maker’s plan,<br/>The promise of God’s triumph is<br/>His coming in a Son of Man.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O world of time’s far-stretching years!<br/>There was a day when time stood still,<br/>A central moment when there rose<br/>A cross upon a cruel hill;<br/>In pain and death love’s power was seen,<br/>The mystery of time revealed,<br/>The wisdom of the ways of God,<br/>The grace through which man’s hurt is healed.</lines>
+    </verse>
+  </lyrics>
+</song>

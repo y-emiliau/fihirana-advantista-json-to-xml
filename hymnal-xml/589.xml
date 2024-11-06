@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>589 - Holy Spirit, Gracious Guest</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <ccliNo>589</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit, gracious guest,<br/>Hear and grant our heart’s request<br/>For that gift supreme and best:<br/>Holy heav’nly love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Faith that mountains could remove,<br/>Tongues of earth or heaven above,<br/>Knowledge, all things, empty prove<br/>If I have no love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though I as a martyr bleed,<br/>Give my goods the poor to feed,<br/>All is vain if love I need:<br/>Therefore give me love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Love is kind and suffers long,<br/>Love is pure and thinks no wrong,<br/>Love than death it self more strong:<br/>Therefore give us love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Prophecy will fade away,<br/>Melting in the light of day;<br/>Love will ever with us stay:<br/>Therefore give us love.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Faith and hope and love we see<br/>Joining hand in hand agree-<br/>But the greatest of the three,<br/>And the best is love.</lines>
+    </verse>
+  </lyrics>
+</song>

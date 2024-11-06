@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TONGA ETO AN-TRANONAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>43</ccliNo>
+    <authors>
+      <author>(Tsy fantatra)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tonga eto an-trano,<br/>Mivory izahay<br/>Hidera Anao<br/>Tonga eto an-trano,<br/>Mivory izahay<br/>Hidera Anao<br/>Tonga eto an-trano,<br/>Mivory izahay<br/>Hidera Anao Jeso<br/>Hidera Anao<br/>Hanompo  Anao, Jeso</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Efa nomenao ho ahy<br/>Ny fahamarinanao<br/>Ka afaka aho<br/>Efa nomenao ho ahy<br/>Ny fahamarinanao<br/>Ka afaka aho<br/>Efa nomenao ho ahy<br/>Ny fahamarinanao<br/>Ka afaka aho, Jeso<br/>Hidera Anao,<br/>Hanompo Anao, Jeso.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny ho velona ho Anao,<br/>Hiasa ho Anao<br/>No iriko izao<br/>Ny ho velona ho Anao,<br/>Hiasa ho Anao<br/>No iriko izao<br/>Ny ho velona ho Anao,<br/>Hiasa ho Anao<br/>No iriko izao, Jeso<br/>Hidera Anao,<br/>Hanompo Anao, Jeso.</lines>
+    </verse>
+  </lyrics>
+</song>

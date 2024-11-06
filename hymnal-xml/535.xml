@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>535 - I Am Trusting Thee, Lord Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>535</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am trusting Thee, Lord Jesus,<br/>Trusting only Thee;<br/>Trusting Thee for full salvation,<br/>Great and free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am trusting Thee for pardon;<br/>At Thy feet I bow;<br/>For Thy grace and tender mercy,<br/>Trusting now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am trusting Thee to guide me;<br/>Thou alone shalt lead;<br/>Every day and hour supplying<br/>All my need.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am trusting Thee, Lord Jesus;<br/>Never let me fall;<br/>I am trusting Thee forever,<br/>And for all.</lines>
+    </verse>
+  </lyrics>
+</song>

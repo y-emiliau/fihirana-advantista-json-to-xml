@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NA DIA MAIZINA NY DIA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>656</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na dia maizina ny dia<br/>Mitatao ny rahona,<br/>Misy toky tena azo antoka<br/>Dia Ilay Mpamonjy tia,<br/>Feno hasoavana<br/>Aminy ny maso no mifantoka</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Ao ambany elatrao no fiereko<br/>Raha mamely ny tafiotra mafy re<br/>Tsy matahotra aho izao<br/>Fa eo anilako Ianao,<br/>He ! mazava na ny ali-maizim-be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na dia mila hanafotra aza<br/>Ny onjan'ny famoizam-po,<br/>Misy tanjona azo amaharana,<br/>Vatolampy tsy ho rava :<br/>Kristy 'zay Mpamonjiko<br/>Aminy tsy misy atahorana.<br/>Ao ambany elatrao, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tsy mba misy izay ahiako<br/>Raha eo anilany,<br/>Izy re no manda ikirizako.<br/>He ! mandroso 'zao ny doako,<br/>Isan'andro arovany,<br/>Mandra-pahatonga am-pitsaharako.<br/>Ao ambany elatrao, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

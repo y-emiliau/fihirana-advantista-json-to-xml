@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>132 - O Come, All Ye Faithful</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>132</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O come, all ye faithful,<br/>joyful and triumphant,<br/>O come ye, O come ye to Bethlehem!<br/>Come and behold Him,<br/>born the King of angels!<br/>O come, let us adore Him,<br/>O come, let us adore Him,<br/>O come, let us adore Him,<br/>Christ, the Lord!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing, choirs of angels<br/>sing in exultation,<br/>O sing all ye citizens of heaven above!<br/>Glory to God,<br/>all glory in the highest!<br/>O come, let us adore Him,<br/>O come, let us adore Him,<br/>O come, let us adore Him,<br/>Christ, the Lord!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yea, Lord, we greet Thee,<br/>born this happy morning,<br/>Jesus, to Thee be all glory given;<br/>Word of the Father,<br/>now in flesh appearing!<br/>O come, let us adore Him,<br/>O come, let us adore Him,<br/>O come, let us adore Him,<br/>Christ, the Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

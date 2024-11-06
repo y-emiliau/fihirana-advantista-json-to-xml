@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY JEHOVAH Ô, HERIKO IANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>625</ccliNo>
+    <authors>
+      <author>Raymond B. Rakotondrainibe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>TANORA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry Jehovah ô, heriko ianao,<br/>Ry tokiko, mamiko tokoa,<br/>Ka tsy matahotra aho na manahiahy<br/>Fa Ianao manda fiarovako.<br/>2<br/>Na dia sarotra ny làlana aza,<br/>Ny herinao ianteherako.<br/>Misinda teo izany hasasarana,<br/>Endrika mirana no azo indray.<br/>3Raha toa manonja fatratra ny ety<br/>Na dia solafaka ianao,<br/>Ny Tomponao no banjono hatrany re<br/>Eo aminy, toky azo antoka.<br/>4<br/>Manomboka anio re, ry Tompo,<br/>Apetrako eo an-tananao,<br/>Ny tenako raiso, eny hamasino<br/>Ataovy mendrika ho lapanao.</lines>
+    </verse>
+  </lyrics>
+</song>

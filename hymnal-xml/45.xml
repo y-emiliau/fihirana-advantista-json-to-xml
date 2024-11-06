@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>045 - Open Now Thy Gates of Beauty</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>45</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Open now thy gates of beauty,<br/>Zion, let me enter there,<br/>Where my soul in joyful duty<br/>Waits for God Who answers prayer.<br/>Oh, how blessèd is this place,<br/>Filled with solace, light, and grace!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gracious God, I come before Thee,<br/>Come Thou also unto me;<br/>Where we find Thee and adore Thee,<br/>There a heav’n on earth must be.<br/>To my heart, oh, enter Thou,<br/>Let it be Thy temple now!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here Thy praise is gladly chanted,<br/>Here Thy seed is duly sown;<br/>Let my soul, where it is planted,<br/>Bring forth precious sheaves alone,<br/>So that all I hear may be<br/>Fruitful unto life in me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thou my faith increase and quicken,<br/>Let me keep Thy gift divine,<br/>Howsoe’er temptations thicken;<br/>May Thy Word still o’er me shine<br/>As my guiding star through life,<br/>As my comfort in my strife.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Speak, O God, and I will hear Thee,<br/>Let Thy will be done indeed;<br/>May I undisturbed draw near Thee<br/>While Thou dost Thy people feed.<br/>Here of life the fountain flows;<br/>Here is balm for all our woes.</lines>
+    </verse>
+  </lyrics>
+</song>

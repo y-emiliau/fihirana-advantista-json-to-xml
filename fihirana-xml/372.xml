@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MITSANGANA KA MIHAZAVA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>372</ccliNo>
+    <authors>
+      <author>L. J. Raharijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>:,: Mitsangàna ka mihazavà !   <br/>Mitsangàna ka mihazavà !<br/>Fa tonga ny fahazavanao<br/>Ary efa miposaka aminao :,:<br/>:,: Ny hazavan'i Jehovah        <br/>Miposaka aminao anio<br/>Fa aminao kosa<br/>No hiposahan'i Jehovah !<br/>Atopazy manodidina<br/>Ny masonao ka mba jereo. :,:<br/>Ny firenena rehetra<br/>Dia mankaty aminao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>:,: Mitsangàna ka mihazavà !   <br/>Mitsangàna ka mihazavà !<br/>Fa tonga ny fahazavanao<br/>Ary efa miposaka aminao :,:<br/>:,: Ny firenena rehetra<br/>Dia manantena anao anio<br/>Fa aminao kosa<br/>No hiposahan'i Jehovah !<br/>FA ianao no vavolombelona<br/>Mitondra ny<br/>Hazavan'i Jehovah. :,:<br/>Hitarika ny firenena<br/>Mba hahazo ny lova.</lines>
+    </verse>
+  </lyrics>
+</song>

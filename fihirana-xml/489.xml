@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY MIARAMILA ! MANDROSOA IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>489</ccliNo>
+    <authors>
+      <author>J. T. Price</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry miaramila ! mandrosoa izao,<br/>Kristy Kapiteny mialoha anao ;<br/>Ao aloha tafita,<br/>Loza, ratra be,<br/>Fitsaharana tsy misy<br/>Misikina re:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ry miaramila ! mandrosoa izao,<br/>Kristy Kapiteny mialoha anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Any lehy ratsy no manotrika,<br/>Any ny tsipika no milatsaka ;<br/>Tano ny finoana<br/>Ho ampinganao,<br/>Entonao ho fandresena<br/>Izao rehetra izao :<br/>Ry miaramila ! sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aza miamboho na miherika,<br/>Ao an-tratranao ny fiarovana ;<br/>Aza mba matahotra<br/>Fa sahia, fandrao<br/>Raha tsy mandresy<br/>Dia ho resy ianao ;<br/>Ry miaramila ! sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dia mandrosoa ianao izao,<br/>Ka miraisa-dia aminay ho ao<br/>Milofosa fatratra,<br/>Aza ketraka,<br/><< Miadia ady tsaran'ny finoana >><br/>Ry miaramila ! sns.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kristy Kapiteny tapitra ohatra<br/>Izy no mpiaro ny mpanafika ;<br/>Miankina aminy<br/>Mafy ianao,<br/>Ka aza mba ny tenanao<br/>No itokianao :<br/>Ry miaramila ! sns.</lines>
+    </verse>
+  </lyrics>
+</song>

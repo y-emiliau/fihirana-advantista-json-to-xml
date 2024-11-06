@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HANARAKA ANAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>457</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hanaraka Anao no iriko,<br/>Na aiza no alehanao,<br/>Jesoy, 'zay re no tiako :<br/>Handeha eo anilanao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Isan'andro sy isan'ora<br/>Ho Anao, ho Anao,<br/>Ka na iza no hanakora :<br/>Ho Anao, aminao.<br/>(Tsy hiala aminao).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hanaraka Anao mba hanompo ;<br/>Na aiza iantsoana,<br/>Ho tahaka Anao, er ry Tompo,<br/>Tsy kivy na sarotra atao.<br/>Isan'andro, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hanaraka Anao na dia mafy<br/>Ny adin'i Getsemane,<br/>Hiara-mandresy 'lay rafy<br/>Amim-pivavahana e !<br/>Isan'andro, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hanaraka Anao any ambony<br/>'Zay be voninahitra ary<br/>Ka tsy hahitana intsony<br/>Ny zava-mahory ety.<br/>Isan'andro, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

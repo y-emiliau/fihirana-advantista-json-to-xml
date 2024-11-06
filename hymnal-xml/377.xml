@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>377 - Go Forth, Go Forth With Christ</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>377</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Go forth, go forth with Christ,<br/>Who called you to this day,<br/>He who has led, will lead<br/>And keep you in His way:<br/>His word is fast, His promise sure<br/>To all who serve Him and endure.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Go forth, go forth with Christ,<br/>With purpose not your own,<br/>Each vict’ry you shall gain<br/>Through Him your Lord alone:<br/>To guard you in fidelity<br/>His Spirit shall your strength’ner be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Go forth, go forth with Christ,<br/>His Priesthood you shall share,<br/>Who bought us by His blood<br/>To be His servants here:<br/>Walk in the way your Savior trod,<br/>Go forth with Him, go forth with God.</lines>
+    </verse>
+  </lyrics>
+</song>

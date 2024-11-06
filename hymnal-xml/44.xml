@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>044 - Morning Has Broken</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>44</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Morning has broken like the first morning,<br/>Blackbird has spoken like the first bird.<br/>Praise for the singing!Praise for the morning!<br/>Praise for the springing fresh from the Word!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sweet the rain’s new fall sunlit from heaven,<br/>Like the first dewfall on the first grass.<br/>Praise for the sweetness of the wet garden,<br/>Sprung in completeness where His feet pass.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mine is the sunlight! Mine is the morning<br/>Born of the one light Eden saw play!<br/>Praise with elation, Praise every morning,<br/>God’s recreation of the new day!</lines>
+    </verse>
+  </lyrics>
+</song>

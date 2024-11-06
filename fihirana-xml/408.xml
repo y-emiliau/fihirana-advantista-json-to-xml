@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TSY MAHALALA NY AMPITSO AHO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>408</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tsy mahalala ny ampitso aho<br/>Fa ny andronay ihany no ahy.<br/>Jeso no ivelomako anio<br/>Sy mitari-dàlana ahy.<br/>Tsy mba fantatro ny ho avy ;<br/>Nefa kosa inoako izao<br/>'Lay miahy sy mahalala<br/>Izay mety alehako.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>'Zay hitranga rahampitso<br/>Dia tsy hay fantarina.<br/>Jeso Tompon'ny ho avy<br/>Izy no hitantana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raho-mainty mitatao,<br/>Entam-be mavesatra,<br/>Mitambaby an-tsorokao<br/>Amin-dray mandingana.<br/>Nefa ao Jesosy toky,<br/>Ampy anao ny heriny<br/>Hampisava ny aizina anio<br/>Hiantoka ny ho avy koa.<br/>'Zay hitranga rahampitso, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

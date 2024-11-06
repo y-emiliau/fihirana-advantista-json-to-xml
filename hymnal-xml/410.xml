@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>410 - Thy Broken Body, Gracious Lord</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>410</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thy broken body, gracious Lord,<br/>Is shadowed by this broken bread;<br/>The wine which in this cup is poured,<br/>Points to the blood which Thou hast shed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And while we meet together thus,<br/>We show that we are one in Thee;<br/>Thy precious blood was shed for us,<br/>Thy death, O Lord, hast set us free!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We have one hope that Thou wilt come,<br/>Thee in the air we wait to see;<br/>When Thou wilt give Thy saints a home,<br/>And we shall ever reign with Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

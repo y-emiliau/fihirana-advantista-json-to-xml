@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAHA HANENO NY TRÔMPETRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>157</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raha haneno ny trômpetra<br/>Eny an-drahona izao,<br/>Ka ho tapitra hatreo ny andro ety<br/>Moa ho vonona hitsena<br/>Ny Mpanjaka ve ianao,<br/>Sy handova ilay tanàna soa ary ?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Raha ho re (izao) ny fiantsoana<br/>Ka ho avy (re mba) hanoloana<br/>Ny voavotra rehetra,<br/>Moa va ho re ny anaranao izao ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha hatsangana amin-kery<br/>Ireo nodimandry re,<br/>Ka hitafy voninahitra izao ;<br/>Ary indreny miara-dia<br/>Ny voavonjy marobe,<br/>Moa va mba ho anisany ianao ?<br/>Raha ho re, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raha avy mba hijinja<br/>Ilay Tompom-bokatra,<br/>Ka hamory<br/>'Reo amboara tsara voa,<br/>Dia hampiditra azy ireny<br/>Mba ho any an-tsompitra,<br/>Moa va ianao ho isany tokoa ?<br/>Raha ho re, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O ! ry namako variana,<br/>Mety ho anio izao<br/>No ho avy Kristy,<br/>'Lay Mpanjaka re.<br/>Koa anio, anio izao ;<br/>Dia manatòna ianao<br/>Mba hiaraka amin'ireo marobe.<br/>Raha ho re ny fiantsoana<br/>Ka ho avy hanoloana,<br/>Ny voavotra rehetra,<br/>Mifalia fa ho re ny anaranao !</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>'ZAHO TE HO TIA ANAO TOKOA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>348</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Zaho te ho tia Anao tokoa,<br/>Te ho tia Anao, Jeso.<br/>Fa izany no ilain'ny fo,<br/>Ho tia Anao Jeso.<br/>Tsy mba misy ety an-tany<br/>'Zay mahafa-ô izao ;<br/>Ny iriko 'zao ihany :<br/>Jeso ho tia Anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Zaho te hanoa Anao tokoa,<br/>Te hanoa Anao, Jeso.<br/>'Zany re no fifalian'ny fo,<br/>Hanoa Anao, Jeso.<br/>Ny ota dia mampitomany,<br/>Zioga mampahory izao,<br/>Koa ny tiako izao ihany :<br/>Jeso, hanoa Anao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Zaho dia maniry ho faty koa<br/>Miaraka aminao, Jeso,<br/>Sy hitsangana indray tokoa<br/>Mba ho Anao, Jeso.<br/>Mamy indrindra re izany<br/>Tafakambana aminao ;<br/>Ny iriko 'zao ihany ;<br/>Jeso, ho tena Anao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Zaho te hiara-dia tokoa,<br/>Hiaraka aminao Jeso,<br/>Amin-dala-mora mafy koa,<br/>Tsy handao Anao, Jeso.<br/>Ny handroso hatrany hatrany<br/>No ekeko hatrizao,<br/>Mandra-pahatongako any,<br/>Jeso, anilanao.</lines>
+    </verse>
+  </lyrics>
+</song>

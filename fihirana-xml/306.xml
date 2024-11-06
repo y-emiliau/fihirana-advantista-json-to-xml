@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HE FITIAVAN-DEHIBE</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>306</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-DEHIBE<br/>1<br/>He ! fitiavan-dehibe !<br/>Moa fantatrao ?<br/>Miantso anao sy ahy re,<br/>Moa ve renao ?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Manatona izao anio<br/>Mba hodiovina, (anio).<br/>Ny fiainana mandrakizay fidio,<br/>Aza lavina.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Lay Tomponao sy ahy koa<br/>'Zao miantso izao ;<br/>Ny fony tena tia tokoa.<br/>O ! ekeonao.<br/>Manatona, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hariva izao ny andro aty<br/>Ka ho lasana,<br/>Madiva hiseho 'lay ary<br/>'Zay andrasanao.<br/>Manatona, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ny famonjena atolotra<br/>O ! mba raisonao ;<br/>Tsy ho ela dia ho fongotra<br/>'Zao rehetra izao.<br/>Manatona, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

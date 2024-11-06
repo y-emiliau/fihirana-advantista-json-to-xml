@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AMPIO, ANDRIAMANITRA Ô</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>791</ccliNo>
+    <authors>
+      <author>Ramambavola William</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ampio, Andriamanitra ô,<br/>Ireto zanakao,<br/>Fa malemy tsy mahatohitra<br/>Ny loza mitatao;<br/>Ianao irery ihany<br/>No azo itokiana,<br/>Fa raha ny eto an-tany<br/>Dia tanim-pijaliana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tohano am-pandehanana<br/>Fa mbola kely hery,<br/>Ry Jesosy be fitiavana,<br/>Mpamonjy ny ondry very;<br/>Tsy mba misy fifaliana<br/>Ny mihataka Aminao,<br/>Fa zary fijaliana<br/>‘Zao rehetra hita izao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Araiketo mafy orina<br/>Ny fiainanay,<br/>Ry Jesosy tsy misorona,<br/>Mpanjaka sady Ray;<br/>Raha mivily ka mania<br/>Te hisara-dalana,<br/>‘Lay Mpamonjy be fitia<br/>No tena Mpanalalana.</lines>
+    </verse>
+  </lyrics>
+</song>

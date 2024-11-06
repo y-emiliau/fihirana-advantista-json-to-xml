@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>411 - The Son of God Proclaim</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>411</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Son of God proclaim,<br/>The Lord of time and space;<br/>The God who bade the light break forth<br/>Now shines in Jesus’ face.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold His out stretched hands,<br/>Though all was in His power<br/>He took the towel and basin then,<br/>And serves us in this hour.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He, God’s creative word,<br/>The church’s Lord and head,<br/>Here bids us gather as His friends,<br/>And share His wine and bread.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord of life and death<br/>With wondering praise we sing;<br/>We break the bread at His command,<br/>And name Him God and King.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We take this cup in hope:<br/>For He, who gladly bore<br/>The shameful cross, is ris’n again,<br/>And reigns forevermore.</lines>
+    </verse>
+  </lyrics>
+</song>

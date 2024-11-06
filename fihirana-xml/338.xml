@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>O! RY MAHANTRA SY ORY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>338</ccliNo>
+    <authors>
+      <author>A. Emiliarison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O ! ry mahantra sy ory<br/>Jeso miantso anao<br/>Hividy ilay volamena voadio<br/>Mba hanan-karena ianao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Vohay, ô, vohay !<br/>(Vohay ny fo ! Vohay ny fo !)<br/>Vohay re honenan'i Jeso.<br/>Vohay ny fo anio tokoa !<br/>O ! mba vohay re ny fo<br/>(Vohay ny fo)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ry malahelo sy jamba,<br/>Jeso mitady anao.<br/>Nanomana odimaso izao<br/>Hampahiratra anao.<br/>Vohay ny fo, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mitanjaka ve ianao ?<br/>Vonona Jeso izao<br/>Hanome fitafy fotsy sy vao<br/>Tsy hisehoan'ny henatrao.<br/>Vohay ny fo, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tompo Jeso no mandona<br/>Ao am-ponao izao<br/>He ! miangavy, mifona ho anao.<br/>O ! mba vohay re ny fo.<br/>Vohay ny fo, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

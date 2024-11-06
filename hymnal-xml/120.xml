@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>120 - There's a Song in the Air</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>120</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s a song in the air!<br/>There’s a star in the sky!<br/>There’s a mother’s deep prayer<br/>And a baby’s low cry!<br/>And the star rains its fire<br/>while the beautiful sing,<br/>For the manger of Bethlehem<br/>cradles a King!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There’s a tumult of joy<br/>O’er the wonderful birth,<br/>For the virgin’s sweet boy<br/>Is the Lord of the earth.<br/>Aye! the star rains its fire<br/>while the beautiful sing,<br/>For the manger of Bethlehem<br/>cradles a King!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the light of that star<br/>Lie the ages impearled;<br/>And that song from afar<br/>Has swept over the world.<br/>Every hearth is aflame<br/>and the beautiful sing<br/>In the homes of the nations<br/>that Jesus is King!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We rejoice in the light,<br/>And we echo the song<br/>That comes down through the night<br/>From the heavenly throng.<br/>Aye! we shout to<br/>the lovely evangel they bring,<br/>And we greet in His cradle<br/>our Savior and King!</lines>
+    </verse>
+  </lyrics>
+</song>

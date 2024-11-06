@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>204 - Come, Thou Long Expected Jesus</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>204</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, thou long expected Jesus!<br/>born to set thy people free;<br/>from our fears and sins release us,<br/>let us find our rest in thee.<br/>Israel’s strength and consolation,<br/>hope of all the earth thou art;<br/>dear desire of every nation,<br/>joy of every longing heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Born thy people to deliver,<br/>born a child and yet a King,<br/>born to reign in us forever,<br/>now thy gracious kingdom bring.<br/>By thine own eternal spirit<br/>rule in all our hearts alone;<br/>by thine all sufficient merit,<br/>raise us to thy glorious throne.</lines>
+    </verse>
+  </lyrics>
+</song>

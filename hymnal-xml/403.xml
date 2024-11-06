@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>403 - Let Us Break Bread Together</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>403</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let us break bread together on our knees,<br/>let us break bread together on our knees.<br/>When I fall on my knees with my face to the rising sun,<br/>O Lord, have mercy on me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let us drink wine together on our knees,<br/>let us drink wine together on our knees.<br/>When I fall on my knees with my face to the rising sun,<br/>O Lord, have mercy on me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let us praise God together on our knees,<br/>let us praise God together on our knees.<br/>When I fall on my knees with my face to the rising sun,<br/>O Lord, have mercy on me.</lines>
+    </verse>
+  </lyrics>
+</song>

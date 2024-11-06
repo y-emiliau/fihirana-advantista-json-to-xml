@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>371 - Lift Him Up</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>371</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift Him up, ’tis He that bids you,<br/>Let the dying look and live;<br/>To all weary, thirsting sinners,<br/>Living waters will He give;<br/>And though once so meek and lowly,<br/>Yet the Prince of heaven was He;<br/>And the blind, who grope in darkness,<br/>Through the blood of Christ shall see.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lift Him up, the risen Savior,<br/>High amid the waiting throng;<br/>Lift Him up, ’tis He that speaketh,<br/>Now He bids you flee from wrong.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift Him up, this precious Savior,<br/>Let the multitude behold;<br/>They with willing hearts shall seek Him,<br/>He will draw them to His fold;<br/>They shall gather from the wayside,<br/>Hastening on with joyous feet,<br/>They shall bear the cross of Jesus,<br/>And shall find salvation sweet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lift Him up in all His glory,<br/>‘Tis the Son of God on high;<br/>Lift Him up, His love shall draw them,<br/>Eén the careless shall draw nigh;<br/>Let them hear again the story<br/>Of the cross, the death of shame;<br/>And from tongue to tongue repeat it;<br/>Mighty throngs shall bless His name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O then lift Him up in singing,<br/>Lift the Savior up in prayer;<br/>He, the glorious Redeemer,<br/>All the sins of men did bear;<br/>Yes, the young shall bow before Him,<br/>And the old their voices raise;<br/>All the deaf shall hear hosannah;<br/>And the dumb shall shout His praise.</lines>
+    </verse>
+  </lyrics>
+</song>

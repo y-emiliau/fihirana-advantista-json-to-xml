@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AN-TANANAO, RY RAY MALALA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>460</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>An-tananao, ry Ray malala,<br/>Ny fiainako tontolo izao<br/>Tazony aho tsy hiala,<br/>Ho mahatoky aminao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Na saro-dàlana na mora,<br/>Hanaraka Anao tokoa.<br/>Eny, isan'andro, isan'ora<br/>Ho eo an-tananao ny fo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He! fantatrao ny fahalemeko,<br/>Ny ady mafy 'zay manjo;<br/>Tsy takona aminao ny sento.<br/>Tohano ny finoako.<br/>Na saro-dàlana,sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raha toa lavitra ny fetra<br/>Ka kivy re 'ty zanakao,<br/>Tafio ny herinao rehetra,<br/>Hanohy indray ny dia izao.<br/>Na saro-dàlana,sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>An-tananao, ry Ray Tsitoha,<br/>Ny hasambarako ety ;<br/>Ho eo ihany raha hifoha.<br/>Handray ny lova soa ary !<br/>Na saro-dàlana,sns.</lines>
+    </verse>
+  </lyrics>
+</song>

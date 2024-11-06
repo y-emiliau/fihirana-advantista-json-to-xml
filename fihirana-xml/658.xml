@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAHA MANJENJENNA FOANA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>658</ccliNo>
+    <authors>
+      <author>R. Raterarivelo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raha nanjenjena foan<br/>Mila toky izany fo,<br/>Fa ny ora manoloana,<br/>No manjombona tokoa :</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>Indro ! Jeso (indro ! Jeso)<br/>Mitomany, (mitomany)<br/>Fa ny fony tia anao ;<br/>Eo anilanao hatrany<br/>Tsy miala na mandao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha misento sy misaona,<br/>Fa mamely ny manjo :<br/>Hasambarana mivaona,<br/>Hafaliana zary lo.<br/>Indro ! Jeso, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fa ny alom-pijaliana<br/>Fanafody mahasoa ;<br/>Ka omena zaza tiana,<br/>Mba hitombo sy hamoa.<br/>Indro ! Jeso, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

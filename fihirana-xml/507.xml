@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>AVIA RE RY TOMPO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>507</ccliNo>
+    <authors>
+      <author>Dera Arson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>:,: Avia re, ry Tompo,<br/>Avia mipetraha<br/>Fa izaho mana-kolazaina aminao.<br/>Avia re, mihainoa,<br/>Avia mipetraha<br/>Fa izaho te hiresaka aminao.<br/>Te hiresaka aminao. :,:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>:,: Indro efa akaikiko Ianao<br/>Ka tsy avelako intsony<br/>tsy avelako handeha intsony Ianao<br/>Raha tsy efa namonjy ahy.<br/>Ny faniriako lalina uindrindra izao<br/>dia ny mba hipetrahanao<br/>Eto anilako hatramin'izao<br/>Tompo ô, anilako mandrakizay. :,:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Indro efa akaikiko Ianao<br/>Ka tsy havelako intsony<br/>tsy havelako handalo intsony Ianao<br/>Fa honina ato amiko<br/>satria efa mitady ahy ela Ianao<br/>izao dia eto anilako<br/>tsy tiako hisaraka amiko Ianao<br/>Satria Ianao no zokiko (in-3)</lines>
+    </verse>
+  </lyrics>
+</song>

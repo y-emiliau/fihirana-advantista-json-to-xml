@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>O! MANDROSOA IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>341</ccliNo>
+    <authors>
+      <author>A. R. Marnoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O! mandrosoa izao<br/>Kristy miantso anao<br/>Hiaraka aminy<br/>Sy ho tantanany.<br/>Tiany tokoa sy maminy<br/>Izay miandany aminy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O! mandrosoa izao,<br/>Ialao ny hevitrao.<br/>Ianao ho mpandresy<br/>An'ady misesy<br/>Fa Izy no hiaro anao ;<br/>Ny fanahy hampahery anao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O! mandrosoa izao<br/>Hodioviny ianao<br/>Amin'ny rany soa<br/>Hahafahanao koa<br/>Hanaraka ny lalany<br/>Ka mba ho tonga zanany.</lines>
+    </verse>
+  </lyrics>
+</song>

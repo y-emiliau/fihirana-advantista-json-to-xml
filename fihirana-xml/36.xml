@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RY MPONINA AN-TANY ETY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>36</ccliNo>
+    <authors>
+      <author>F. Ramanantsialonina</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ry mponina an-tany ety<br/>O ! miondreha ka mifalia.<br/>Derao Andriamanitra,<br/>'Zay Tompo ao an-danitra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miankohofa tsara anio,<br/>Ao an-tempoly tadidio,<br/>Lazao ny hasoavany<br/>Ary ny voninahiny.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Midera ny Anaranao<br/>'Zahay, ry Tompo tokana,<br/>Ny hira sy Hosana koa<br/>Atolotray manokana</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ny zavatra rehetra izao<br/>Dia samy noforoninao<br/>Ka indro manambara re<br/>'Lay Zanahary Lehibe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ny haja, saotra aterinay<br/>Natokana ho Anao, ry Ray<br/>Sy Zanaka, Fanahy koa,<br/>'Zay tsy mba manam-paharoa.</lines>
+    </verse>
+  </lyrics>
+</song>

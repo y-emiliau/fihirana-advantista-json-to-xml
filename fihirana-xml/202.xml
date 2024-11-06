@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>JESOSY O ! TARIHONAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>202</ccliNo>
+    <authors>
+      <author>L. J. Raharijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(202-Ny fiangonanay : Fihirana Edisiona Vaovao fanao am-paosy)<br/>1<br/>Jesosy ô ! tarihonao<br/>Sy mba tsinjovy<br/>Ny Fiangonanay.<br/>Tantano ny Fanahinay<br/>Ho mendrika ny Anaranao !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesosy ô ! vimbinonao<br/>Mba hifankatia<br/>Ny fiangonanay ;<br/>Sokafinao ny molotray<br/>Hanandratra ny Anaranao !</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesosy ô ! raketonao<br/>Mba ho ao amin'ny<br/>Fiangonanay<br/>Ny Teny 'zay nambaranao,<br/>Hitari-dàlana anay.</lines>
+    </verse>
+  </lyrics>
+</song>

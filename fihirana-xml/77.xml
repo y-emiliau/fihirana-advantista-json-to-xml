@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TOMPO MALALA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>77</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tompo malala,<br/>'Ndrey ny fitiavanao !<br/>He! tsy nandala<br/>Na dia ny ainao.<br/>Nidi-pahoriana<br/>Tsy tandrify ho Anao ;<br/>Niari-pijaliana<br/>Mendrika ahy 'zao !</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jeso, Jeso,<br/>Tia ahy Ianao.<br/>Jeso, Jeso,<br/>'Zaho tia Anao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tompo malala,<br/>'Ndrey ny famindraponao !<br/>Zanaka adala<br/>Fa navelanao.<br/>Ota maro isa<br/>Efa vitako tety,<br/>Nefa Paradisa<br/>Miandry ahy ary !<br/>Jeso, Jeso, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tompo malala,<br/>'Zaho te ho mpianatrao<br/>Ka tsy hiala<br/>Eo an-tongotrao.<br/>Ampianaro ho tia<br/>Toy ny itiavanao,<br/>Ho mpanara-dia<br/>Mahatoky Anao.<br/>Jeso, Jeso, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tompo malala,<br/>Ento mody aho izao<br/>Amin'ny vala<br/>Ao an-danitra ao.<br/>Any hiderako<br/>'Zany fitiavanao<br/>Sady hahitako<br/>Ilay endrikao !<br/>Jeso, Jeso, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

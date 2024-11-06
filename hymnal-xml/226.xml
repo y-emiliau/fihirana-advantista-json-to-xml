@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>226 - Lift Up Your Heads</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>226</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift up your heads, ye mighty gates!<br/>Behold the King of glory waits;<br/>The King of kings is drawing near,<br/>The Savior of the world is here.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord is just, a helper tried;<br/>Mercy is ever at His side;<br/>His kingly crowns is holiness,<br/>His scepter, pity in distress.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O blest the land, the city blest,<br/>Where Christ the Ruler is confessed!<br/>O happy hearts and happy homes<br/>To whom this King in triumph comes!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fling wide the portals of your heart;<br/>Make it a temple, set apart<br/>From earthly use for heaven’s employ,<br/>Adorned with prayer, and love, and joy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Redeemer, come; I open wide<br/>My heart to Thee; here, Lord, abide.<br/>Let me Thy inner presence feel,<br/>Thy grace and love in me reveal.</lines>
+    </verse>
+  </lyrics>
+</song>

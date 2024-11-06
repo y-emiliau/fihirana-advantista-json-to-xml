@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>RAISO HO ANAO NY FOKO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <ccliNo>251</ccliNo>
+    <authors>
+      <author>J. Rajoely</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>NY FIANGONANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raiso ho Anao ny foko,<br/>Ry Jeso malalako ô,<br/>Mandrosoa fe he vohako ;<br/>Manjakà irery ao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hitanao ny ahi-dratsy<br/>'Zay mamaka lalina ao,<br/>Mba ongoty ka soloy<br/>Voninkazo tianao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny fitiavako rantsano<br/>Fa mirantsandrantsana be,<br/>Rantsana iray no tano,<br/>'Lay mifikitra aminao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mba tohano ny finoako<br/>Hirazonany aminao<br/>Ka ho hery hizakako<br/>Fitondrana sitrakao.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Enga ny fanantenana<br/>Fisantarako ny ary<br/>Mba tsy hanam-oiovana<br/>Mandra-pialako aty.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ny fiainako rehetra<br/>Amboary sy hatsarao<br/>Dia hamoa tsy misy fetra<br/>Mba ho voninahitrao.</lines>
+    </verse>
+  </lyrics>
+</song>

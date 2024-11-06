@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>556 - As Saints of Old</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>556</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As saints of old their first fruits brought<br/>Of orchard, flock, and field<br/>To God the giver all good,<br/>The source of bounteous yield;<br/>So we today first fruits would bring:<br/>The wealth of this good land,<br/>Of farm and market, shop and home,<br/>Of mind, and heart, and hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A world in need now summons us<br/>To labor, love, and give;<br/>To make our life an offering<br/>To God, that all may live.<br/>The Church of Christ is calling us<br/>To make the dream come true:<br/>A world redeemed by Christ-like love;<br/>All life in Christ made new.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In gratitude and humble trust<br/>We bring our best today,<br/>To serve Your cause and share Your love<br/>With all along life’s way.<br/>O God, who gave yourself to us<br/>In Jesus Christ Your Son,<br/>Teach us to give ourselves each day<br/>Until life’s work is done.</lines>
+    </verse>
+  </lyrics>
+</song>

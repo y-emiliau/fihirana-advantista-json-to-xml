@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>650 - Our Father, by Whose Name</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>650</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our Father,<br/>by whose name,<br/>All fatherhood is known,<br/>Who dost in love proclaimEach family Thine own,<br/>Bless Thou all parents,<br/>guarding well,<br/>With constant love as sentinel,<br/>The homes in which Thy people dwell.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Christ,<br/>Thyself a childWithin an earthly home,<br/>With heart still undefiled,<br/>Thou didst to manhood come;<br/>Our children bless, in every place,<br/>That they may all behold Thy face,<br/>And knowing Thee may grow in grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Spirit,<br/>who dost bindOur hearts in unity,<br/>Who teaches us to findThe love from self set free,<br/>In all our hearts such love increase,<br/>That every home, by this release,<br/>May be dwelling place of peace.</lines>
+    </verse>
+  </lyrics>
+</song>

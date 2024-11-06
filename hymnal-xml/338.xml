@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>338 - Redeemed!</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>338</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Redeemed, how I love to proclaim it!<br/>Redeemed by the blood of the Lamb;<br/>Redeemed thro’ His infinite mercy,<br/>His child, and forever, I am.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Redeemed, redeemed,<br/>Redeemed by the blood of the Lamb;<br/>Redeemed, how I love to proclaim it!<br/>His child and forever I am.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I think of my blessed Redeemer,<br/>I think of Him all the day long;<br/>I sing, for I cannot be silent;<br/>His love is the theme of my song.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know I shall see in His beauty<br/>The King in whose law I delight,<br/>Who lovingly guardeth my footsteps,<br/>And giveth me songs in the night.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MIZOTRA HO ANY ZIONA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>788</ccliNo>
+    <authors>
+      <author>Tantely Ravelomanantsoa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‘Ndeha isika ‘zay tia ny Ray,<br/>Haneho hafaliana;<br/>Hihira am-pifaliam-be,<br/>Hihira mafy mampiray,<br/>Ho re hatrany an-danitra<br/>‘Zao fiderana izao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mizotra ho any Ziona (isika)<br/>Ziona tsara tarehy, Ziona!<br/>Miakatra ho any isika,<br/>‘Lay tanàna tsara tarehy.<br/>(Ilay tanàna omen’ny Ray)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aza variana etỳ<br/>Tsy mahalala ny Ray;<br/>Fa mba ho tena zanaka<br/>Handova lanitra vaovao,<br/>Hitory hafaliana<br/>Ho fiainam-baovao.<br/>Mizotra ho any Ziona sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Havoana soa i Ziona,<br/>Miraki-java-tsoa,<br/>Mialoha ny hahatongavana<br/>Handova ilay tany soa,<br/>Tanàna mirenty tokoa<br/>Sy masina avokoa.<br/>Mizotra ho any Ziona sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Venteso ny fideranao,<br/>Ho ren’izao rehetra izao;<br/>Asandrato Imanoela,<br/>Derao ny famonjeny anao;<br/>Handeha am-patokiana<br/>Ho voninahiny.<br/>Mizotra ho any Ziona sns.</lines>
+    </verse>
+  </lyrics>
+</song>

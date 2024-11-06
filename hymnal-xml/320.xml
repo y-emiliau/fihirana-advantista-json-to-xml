@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>320 - Lord of Creation</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>320</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of creation,<br/>to you be all praise!<br/>Most mighty your working,<br/>most wondrous your ways!<br/>Your glory and might<br/>are beyond us to tell,<br/>And yet in the heart<br/>of the humble you dwell.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord of all power,<br/>I give you my will,<br/>In joyful obedience<br/>your tasks to fulfill.<br/>Your bondage is freedom;<br/>your service is song;<br/>And held in your keeping,<br/>my weakness is strong.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord of all wisdom,<br/>I give you my mind,<br/>Rich truth that surpasses<br/>man’s knowledge to find;<br/>What eye has not seen<br/>and what ear has not heard<br/>Is taught by your spirit<br/>and shines from your word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord of all being,<br/>I give you my all,<br/>If I ever disown you,<br/>I stumble and fall;<br/>But led in your service<br/>your word to obey,<br/>I’ll walk in your freedom<br/>to the end of the way.</lines>
+    </verse>
+  </lyrics>
+</song>

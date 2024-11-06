@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>TOMPO O, ANDRIAMANITRA TSITOHA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>56</ccliNo>
+    <authors>
+      <author>M. Randriamiandriray</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tompo ô,<br/>Andriamanitra Tsitoha<br/>(Tompo ô, Andriamanitra Tsitoha)<br/>Tompo ô,<br/>Andriamanitra Tsitoha<br/>Lehibe dia lehibe tokoa<br/>Ny Anaranao (Lehibe)<br/>Tompo ô,<br/>Andriamanitra Tsitoha<br/>Nahary izao rehetra izao.<br/>Tompo ô,<br/>Andriamanitra Tsitoha<br/>(Tompo ô, Andriamanitra Tsitoha)<br/>Tompo ô,<br/>Andriamanitra Tsitoha<br/>Lehibe dia lehibe tokoa<br/>Ny Anaranao<br/>Tompo ô, Andriamanitra<br/>Ianao (Ianao)<br/>No nahary (Ianao)<br/>Ianao no nahary<br/>Izao rehetra hita maso izao</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dera, saotra,<br/>No atolotray ho Anao<br/>(Dera, saotra, no atolotray ho Anao)<br/>Ho Anao, ry Tompo<br/>Andriamanitray<br/>Raiso Tompo ô<br/>Ny haja entinay ho Anao<br/>(Raiso Tompo ô)<br/>Tompo ô,<br/>Andriamanitra Tsitoha<br/>Nahary izao rehetra izao.<br/>Dera, saotra no atolotray <br/>Ho Anao<br/>(Dera, saotra no atolotray)<br/>Ho Anao<br/>Ry Tompo Andriamanitray<br/>Raiso, Tompo ô,<br/>Ny haja entinay ho Anao<br/>(Raiso Tompo ô)<br/>Tompo ô,<br/>Andriamanitra (Tompo ô)<br/>Ianao (Ianao) no nahary (Ianao)<br/>Ianao no nahary<br/>Izao rehetra hita maso izao.</lines>
+    </verse>
+  </lyrics>
+</song>

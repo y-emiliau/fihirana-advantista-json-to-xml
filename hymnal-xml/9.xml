@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>009 - Let All the World in Every Corner Sing</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>9</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let all the world in every corner sing,<br/>My God and King!<br/>The heavens are not too high,<br/>His praise may thither fly;<br/>The earth is not too low,<br/>His praises there may grow.<br/>Let all the world in every corner sing,<br/>My God and King!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let all the world in every corner sing,<br/>My God and King!<br/>The church with psalms must shout,<br/>No door can keep them out;<br/>But, above all, the heart<br/>must bear the longest part.<br/>Let all the world in every corner sing,<br/>My God and King!</lines>
+    </verse>
+  </lyrics>
+</song>

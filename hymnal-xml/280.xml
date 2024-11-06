@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>280 - Come, Ye Sinners</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>280</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, ye sinners poor and needy,<br/>Weak and wounded, sick and sore;<br/>Jesus ready stands to save you,<br/>Full of pity, love, and power.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will arise and go to Jesus,<br/>He will embrace me in His arms;<br/>In the arms of my dear Savior,<br/>O there are ten thousand charms.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come. ye thirsty, come, and welcome,<br/>God’s free bounty glorify;<br/>True belief and true repentance,<br/>Every grace that brings you nigh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let not conscience make you linger,<br/>Nor of fitness fondly dream;<br/>All the fitness He requireth<br/>Is to feel your need of Him.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lo! th’incarnate God, ascended,<br/>Pleads the merit of His blood;<br/>Venture on Him, venture wholly,<br/>Let no other trust intrude.</lines>
+    </verse>
+  </lyrics>
+</song>

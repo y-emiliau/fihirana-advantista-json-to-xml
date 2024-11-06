@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>263 - Fire of God, Thou Sacred Flame</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>263</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fire of God, Thou sacred flame,<br/>Spirit who in splendor came,<br/>Let Thy heat my soul refine<br/>Till it glows with love divine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Breath of God, that swept in power<br/>In the pentecostal hour,<br/>Holy Breath, be Thou in me<br/>Source of vital energy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Strength of God, Thy might within<br/>Conquers sorrow, pain, and sin:<br/>Fortify from evil’s art<br/>All the gateways of my heart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Truth of God, Thy piercing rays<br/>Penetrate my secret ways.<br/>May the light that shames my sin<br/>Guide me holier paths to win.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Love of God, Thy grace profound<br/>Knoweth neither age nor bound:<br/>Come, my heart’s own guest to be,<br/>Dwell forevermore in me.</lines>
+    </verse>
+  </lyrics>
+</song>

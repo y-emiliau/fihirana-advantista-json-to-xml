@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MISOSA MORA TSY MIATO (NY SAMBOKO)</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>768</ccliNo>
+    <authors>
+      <author>Moïse Randriamboavonjy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Misosa mora tsy miato<br/>Ity samboko<br/>Tsy matahotra re,<br/>Na dia lalina ny rano etỳ,<br/>Satria Jeso (satria Jeso)<br/>no mihazona (no mihazona)<br/>ny familian’ny samboko,<br/>(ny samboko)<br/>Izy no kapiteniko<br/>(sy kapiteniko)<br/>Atopatopan’ny onja<br/>Ity samboko<br/>Nefa tsy mba manahy,<br/>na ho fefika ao an-dalana ao<br/>Satria Jeso (satria Jeso)<br/>no mihazona (no mihazona)<br/>ny familian’ny samboko,<br/>(ny samboko)<br/>Izy no kapiteniko (sy kapiteniko)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ka na manonjanonja mafy sy mandrivotra ny lalana diaviko etỳ<br/>Dia tsy hatahotra aho<br/>satria eo Jeso (Tompoko)<br/>Na misamboaravoara mila hampivadi-po<br/>Ny alon-drano te hitelina, Jeso no eo ka ho tafita.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny harambato sy loza<br/>‘izay manemitra<br/>Tsy hamily ny dia<br/>‘zay hizoran’ity samboko,<br/>Satria Jeso (satria Jeso)<br/>no mihazona (no mihazona)<br/>ny familian’ny samboko, (ny samboko)<br/>Izy no kapiteniko (sy kapiteniko)<br/>‘Lay fitodiana, iriko hotratrarina<br/>Dia tsy maintsy hiantsonan’<br/>ity sambom-piainako,<br/>Satria Jeso (satria Jeso)<br/>no mihazona (no mihazona)<br/>ny familian’ny samboko,<br/>(ny samboko)<br/>Izy no kapiteniko (sy kapiteniko)<br/>Ka na manonjanonja mafy, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

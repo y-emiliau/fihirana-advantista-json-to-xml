@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HO AVY INDRAY KRISTY HANOME</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>777</ccliNo>
+    <authors>
+      <author>Rasolofoniaina Joseph</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ho avy indray Kristy<br/>hanome fiainana,<br/>Ho avy mba hanala<br/>ny fahoriana etỳ.<br/>Io no andrandraiko hatramin’izao,<br/>Ny fanantenako tsy miova<br/>ho doria,<br/>Miandry anao ny fo<br/>tsy sasatra tokoa,<br/>Hitako sahady ny lanitra.<br/>Omeo ahy anio ny herinao,<br/>Omeo ahy koa ny Fanahinao,<br/>Hahazo fandresena,<br/>Dia indro fa omena<br/>Satroboninahitra mandrakizay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ho avy indray ny Tompo<br/>amin-drahona,<br/>Miaraka amin’ny anjelin’ny lanitra.<br/>Sao variana loatra, jereo Jeso,<br/>Ny Mpanjaka be voninahitra tokoa;<br/>Ho avy tsy ho ela<br/>ny Mpamonjinao,<br/>Ho avy hanome hasambarana.<br/>Faly re ny fo, ho faly re,<br/>Sambatra aho, Jeso,<br/>tena sambatra e!<br/>Omena fandresena,<br/>hahazo ilay harena:<br/>Tany vaovao, fiainana ho doria!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miomàna ianao hitsena an’i Kristy,<br/>Miomàna re, izao ny ora farany;<br/>Ny androm-pahasoavana omena anao,<br/>Sao holavinao ny fitiavany izao;<br/>Miandry anao ny Tompo<br/>efa elabe,<br/>Miantso anao hiverina<br/>am-balany;<br/>Tia anao ny Tompo<br/>hatramin’izao,<br/>Eny, tia anao Izy an-danitra ao,<br/>Omena famonjena ianao<br/>izay nekena:<br/>Hasambarana fiana-<br/>mandrakizay.</lines>
+    </verse>
+  </lyrics>
+</song>

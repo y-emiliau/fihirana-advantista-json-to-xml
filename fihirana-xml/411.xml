@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HE! MATOKY AHO, TOMPO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>411</ccliNo>
+    <authors>
+      <author>J. A. Houlder</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FIAINANA KRISTIANA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He ! matoky aho, Tompo,<br/>Azoko ny teninao ;<br/>Teny soa mahafaly,<br/>Teny avy aminao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>:<br/>He ! matoky aho, Tompo,<br/>Azoko ny teninao ;<br/>Teny soa mahafaly,<br/>No omenao ahy izao</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tahotra aman'ahiahy<br/>Dia iraiko izao ;<br/>Fa nomenao toky aho<br/>Sady to ny teninao.<br/>He ! matoky aho, sns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Izay rehetra fahotana<br/>Entiko hesorinao ;<br/>Ianao no mahadio,<br/>Ka diovy aho izao.<br/>He ! matoky aho, sns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mahasasa, mahadio,<br/>Mahavonjy Ianao,<br/>Ka mandray sy mahatondra<br/>Tsara ho an-tranona.<br/>He ! matoky aho, sns.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jeso Tompo ! avy aho,<br/>Avy hankalaza Anao ;<br/>Raisonao re izay omeko :<br/>Vola, tena, aina koa.<br/>He ! matoky aho, sns.</lines>
+    </verse>
+  </lyrics>
+</song>

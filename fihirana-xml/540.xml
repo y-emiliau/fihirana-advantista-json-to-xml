@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>HIDERA AN'ANDRIAMANITRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>540</ccliNo>
+    <authors>
+      <author>D. Rasolonjatovo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FOTOANA SAMY HAFA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hidera an'Andriamanitra aho<br/>Raha vao maraina<br/>Fa Izy ihany re<br/>No azoko antenaina.<br/>Izay mandray ny fitarainako ao ambony<br/>Ka manome fiainan-tsambatra sy tony.<br/>Ny tanany mahery no mamonjy<br/>'Ty foko manirery sy milonjy.<br/>Ka na mitsoka aza ny tafiotra,<br/>Eny, hoderaiko ny anarany Tsitoha.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raha manakaiky<br/>Ny alim-be tsy hahitana,<br/>Ny foko falifaly<br/>Sady manantena<br/>'Lay fiadanany natolony ho ahy,<br/>Injao mamelombelona aina sy fanahy.<br/>na dia nilentika az ny hazavana,<br/>Jesosy irery no fanantenana<br/>Ka ho ventesiko hanako hatrany,<br/>Ny hirako hidera Anao, ry Ilay Tsitoha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na dia mamaky lohasahan-dranomaso,<br/>Ka toa mangeja irony loza sy ankaso<br/>Ny tanano, ry Tompo tia, no mampahery,<br/>Manandratra avo ity mpanompo saika very.<br/>Ka ho deraiko, eny ho deraiko<br/>Ilay fitiavanao 'zay antenaiko,<br/>Ny famonjena izay natolotra ahy<br/>No hiderako Anao ry Tompon'ny fanahy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O ! indro tazako eo an-kazo fijaliana<br/>Ny satro-tsilo sy ilay rany mikoriana,<br/>Ilay fitiavany manolo-pamonjena,<br/>No iandrasako ny satro-diadema.<br/>Ka hoderaiko, eny ho deraiko<br/>Ilay fitiavam-be izay lalaiko,<br/>O ! hafaliana tsy haiko lazaina<br/>Hahita Anao, ry Tompo<br/>Haleloia, Amena.</lines>
+    </verse>
+  </lyrics>
+</song>

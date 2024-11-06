@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>INDRO JESO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>137</ccliNo>
+    <authors>
+      <author>Raobijaona</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>JESOSY KRISTY</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Indro Jeso, Tompon'ny aina,<br/>Tsy ho ela dia avy indray ;<br/>Koa hatanjaho ny fo sy saina<br/>Akaiky izao ny Ray.<br/>Fonenana mahasambatra<br/>Isiam-piadanam-be<br/>Lova soa maharitra,<br/>Voninahi-dehibe.<br/>Eny, tsy ho ela,<br/>'Zao andrasantsika izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Indro Jeso Toky sy Hery,<br/>Mivonona ho avy indray<br/>Haka ny Azy amin-kery<br/>Ho eo amin'ny Ray.<br/>Ho sambatra, ho tretrika koa<br/>Izay manaiky, mankatò.<br/>Fa ny olo-marina<br/>Ary ny mahitsy fo,<br/>Eny tsy ho ela,<br/>Dia ho raisin'i Jeso.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Indro Jeso, tsy ho ela intsony,<br/>Hamaly soa sy hanome<br/>Ireo mpanompo mahatoky :<br/>Fahasambaram-be<br/>O ! mifalia sy miravoa<br/>Fa hisokatra ny lanitra.<br/>Andrandrao ny masonao,<br/>Indro ny Mpampakatra.<br/>Eny tsy ho ela,<br/>Avy handray anao tokoa.</lines>
+    </verse>
+  </lyrics>
+</song>

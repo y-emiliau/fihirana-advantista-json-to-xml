@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>NY TANY SY NY LANITRA</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>678</ccliNo>
+    <authors>
+      <author>Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>OLON-TOKANA - OLON-DROA - RODOBE</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ny tany sy ny lanitra<br/>Ny zavaboary<br/>Nataon'ANDRIAMANITRA<br/>Mitory Ilay Mpahary<br/>Feno fahendrena be sy hery<br/>'Zay tsy takatry ny saina.<br/>'Reo kintana mamiratra,<br/>Manemitra ny habakabaka,<br/>Milaza fa Andriamanitra<br/>Irery ihany no mpanapaka.<br/>Miara-midera ny fitiavanao izahay,<br/>Jehovah Masina ô,<br/>Mpanao izao rehetra izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny lohasaha mavana,<br/>Ny tendrombohitra avo,<br/>Na ny tanety ngazana<br/>Dia samy ravoravo,<br/>Ka midera mafy koa,<br/>Fa hendry Ilay namorona ny tany,<br/>'Reo voronkely tsara feo<br/>INdray miredona mihira re,<br/>Tsy misy 'zay mitoreo ireo.<br/>Ny biby kely sy lehibe<br/>Miara-midera ny fitiavanao,<br/>Izahay Jehovah Masina ô,<br/>Mpanao izao rehetra izao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Irinay koa izao, ry Ray,<br/>Hiaraka hitory,<br/>Ny fitiavanao anay<br/>Fa tsy hatoritory.<br/>Ianao namorona<br/>Anay hitovy endrika aminao,<br/>Ka dia midera izahay<br/>Manda ny didy masinao, ry Ray<br/>Navotanao mba ho zanakao<br/>Ka sotra, dera no atolotray<br/>Ny fonay tontolo sy herinay koa<br/>Entinay hanompo sy ho tia,<br/>Anao mandrakizay doria.</lines>
+    </verse>
+  </lyrics>
+</song>

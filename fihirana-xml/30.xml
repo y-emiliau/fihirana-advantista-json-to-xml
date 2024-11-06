@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MIDERA ANAO 'ZAHAY RY RAY</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>30</ccliNo>
+    <authors>
+      <author>Rajoelison</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>ANDRIAMANITRA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Midera Anao 'zahay ry Ray,<br/>Fa be ny voninahitrao.<br/>Isaoranay mandrakizay<br/>Noho ny fitiavanao<br/>Noho ny fitiavanao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ny tany sy ny lanitra<br/>Manandratra ny herinao,<br/>Nataonao hahafinaritra,<br/>Sy hahasoa ny zanakao<br/>Sy hahasoa ny zanakao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ny ala maitso mavana,<br/>Havoana, lohasaha koa,<br/>Ny rahona sy ny avana<br/>Dia manambara Anao tokoa<br/>Dia manambara Anao tokoa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Endrey ny lahitokanao<br/>natolotrao hisolo anay,<br/>Hanananay anjara izao<br/>An-danitra rahatrizay<br/>An-danitra rahatrizay.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dia raisona, ry Tompo tia,<br/>Ny hiranay midera Anao<br/>'Zay santatry ny ho doria<br/>Hasandratray ambony ao<br/>Hasandratray ambony ao.</lines>
+    </verse>
+  </lyrics>
+</song>

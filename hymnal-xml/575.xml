@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>575 - Let Your Heart Be Broken</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <ccliNo>575</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let your heart be broken for a world in need:<br/>Feed the mouths that hunger, soothe the wounds that bleed,<br/>Give the cup of water and the loaf of bread<br/>Be the hands of Jesus, serving in His stead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here on earth applying principles of love,<br/>Visible expression - God still rules above<br/>Living illustration of the Living Word<br/>To the minds of all who’ve Never seen or heard.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blest to be a blessing privileged to care,<br/>Challenged by the need apparent everywhere.<br/>Where mankind is wanting, fill the vacant place.<br/>Be the means through which the Lord reveals His grace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Add to your believing deeds that prove it true,<br/>Knowing Christ as Savior, make Him Master, too.<br/>Follow in His footsteps, go where He has trod;<br/>In the world’s great trouble risk yourself for God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let your heart be tender and your vision clear;<br/>See mankind as God sees, serve Him far and near.<br/>Let your heart be broken by a brother’s pain;<br/>Share your rich resources, give and give again.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:31:45">
+  <properties>
+    <titles>
+      <title>470 - There's Sunshine in My Soul Today</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>470</ccliNo>
+    <authors>
+      <author>UNKNOWN</author>
+    </authors>
+    <songbooks>
+      <songbook name="SDA Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>UNKNOWN</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s sunshine in my soul today,<br/>More glorious and bright<br/>Than glows in any earthly sky,<br/>For Jesus is my light.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O there’s sunshine, blessed sunshine,<br/>When the peaceful, happy moments roll<br/>When Jesus shows His smiling face<br/>There is sunshine in the soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There’s music in my soul today,<br/>A carol to my King,<br/>And Jesus, listening, can hear<br/>The songs I cannot sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There’s springtime in my soul today,<br/>For when the Lord is near,<br/>The dove of peace sings in my heart,<br/>The flowers of grace appear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Theres gladness in my soul today,<br/>And hope, and praise, and love,<br/>For blessings which He gives me now,<br/>For joys “laid up” above.</lines>
+    </verse>
+  </lyrics>
+</song>

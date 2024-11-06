@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:30:38">
+  <properties>
+    <titles>
+      <title>MITSANGANA IZAO</title>
+    </titles>
+    <copyright>2024</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>369</ccliNo>
+    <authors>
+      <author>Rabarijoël</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fihirana Advantista"/>
+    </songbooks>
+    <themes>
+      <theme>FITORIANA NY FILAZANTSARA</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mitsangana izao,<br/>Ry Ziona sambatra ô ;<br/>'Zay mitondra teny soa,<br/>Teny mampionona,<br/>Miakara an-kavoana,<br/>Asandrato ny feonao ;<br/>Asandrato izao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O ! ry Jerosalema,<br/>Iraka Andriamanitra,<br/>Ambarao hanako mafy<br/>Eram-pirenena izao<br/>Teny soa mahafaly,<br/>Tenin'Andriamanitra.<br/>Ambarao hatrizao.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeso, Mpanjakanao,<br/>Heni-boninahitra,<br/>Indro Izy fa miseho<br/>Eo an-drahon-danitra.<br/>Tonga mba hamaly soa<br/>Sy hitondra ny azy koa<br/>Miomàna izao.</lines>
+    </verse>
+  </lyrics>
+</song>
