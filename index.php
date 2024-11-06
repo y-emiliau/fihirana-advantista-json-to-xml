@@ -68,8 +68,11 @@ function insertTopic($topic, $connection) {
 
 function insertSong($song, $connection) {
     $id = $song->id;
+
+    $no = ($id < 10 ? "00" : ($id < 100 ? "0" : "")) . $id;
+    
     $number = $song->numero;
-    $title = $song->titre;
+    $title = $no . " - " . $song->titre;
     $author_id = $song->auteur_id;
     $tonality = $song->tonalite;
     $topic_id = $song->theme_id;
