@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:58:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:03">
   <properties>
     <titles>
       <title>089 - NY FAMONJEN'I JESO</title>
@@ -25,7 +25,7 @@
       <lines>Ny famonjen'i Jeso anao,<br/>'Zay vitany tao Gologota,<br/>Moa ve ekenao am-po madio<br/>Fa ampy ho fiainanao ?<br/>Ekeo ! ekeo ! ny fitiavany<br/>Fa tsy mba mamitaka.<br/>'Ty fitiavana masina,<br/>Ekeo ! ekeo ! ho anao.</lines>
     </verse>
     <verse name="v3">
-      <lines>Ny famonjena 'zay vitanao<br/>Ho raisiko an-tsitrapo,<br/>Ry Jeso , Ilay Mpanjakako,<br/><<Fitiavana tsy ho lo>><br/>Ekeko, eny, ekeko izao :<br/>Fahafahana atolotrao,<br/>Jeso ô ! ventesiko, ho Anao<br/>Ny <<Eny>> 'zay Masina.</lines>
+      <lines>Ny famonjena 'zay vitanao<br/>Ho raisiko an-tsitrapo,<br/>Ry Jeso , Ilay Mpanjakako,<br/>&lt;&lt;Fitiavana tsy ho lo&gt;&gt;<br/>Ekeko, eny, ekeko izao :<br/>Fahafahana atolotrao,<br/>Jeso ô ! ventesiko, ho Anao<br/>Ny &lt;&lt;Eny&gt;&gt; 'zay Masina.</lines>
     </verse>
   </lyrics>
 </song>

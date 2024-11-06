@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:59:00">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:04">
   <properties>
     <titles>
       <title>688 - JESOSY MPIANDRY TSARA</title>
@@ -28,7 +28,7 @@
       <lines>Jesosy Mpiandry tsara<br/>Maty ho solonao.<br/>Mba hanome anjara<br/>Sy lova ho anao.<br/>Fainagàna sasa-miandry<br/>'Lay Tompo mora fo<br/>Indro mamelatra sandry<br/>Handray anao tokoa.<br/>Miantso anao, sns.</lines>
     </verse>
     <verse name="v3">
-      <lines>Aza misalasala<br/>Fa misy bibidia.<br/>Devoly mpankahala<br/>Mikendry 'reo mpania.<br/>Jesosy 'Lay Mpiandry tia<br/>Miantso hoe : <<Avia>> !<br/>Vonon-kanolotra anao<br/>Ny famonjeny izao.<br/>Miantso anao, sns.</lines>
+      <lines>Aza misalasala<br/>Fa misy bibidia.<br/>Devoly mpankahala<br/>Mikendry 'reo mpania.<br/>Jesosy 'Lay Mpiandry tia<br/>Miantso hoe : &lt;&lt;Avia&gt;&gt; !<br/>Vonon-kanolotra anao<br/>Ny famonjeny izao.<br/>Miantso anao, sns.</lines>
     </verse>
   </lyrics>
 </song>

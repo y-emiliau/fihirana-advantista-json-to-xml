@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:58:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:03">
   <properties>
     <titles>
       <title>206 - O ! HENOY NY ANTSON'NY MPAMONJY SOA</title>
@@ -19,10 +19,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>O ! henoy<br/>Ny antson'ny Mpamonjy soa :<br/><<Ny ampahafolony re ento,<br/>Mamin'ny fanatitra an-tsitrapo,<br/>Ho ao an-tempolin'i Jeso.>></lines>
+      <lines>O ! henoy<br/>Ny antson'ny Mpamonjy soa :<br/>&lt;&lt;Ny ampahafolony re ento,<br/>Mamin'ny fanatitra an-tsitrapo,<br/>Ho ao an-tempolin'i Jeso.&gt;&gt;</lines>
     </verse>
     <verse name="c1">
-      <lines>:<br/><<Ka tsapao amin'izany Aho<br/>Dia ho hitanareo tokoa,<br/>Handrotsa-pitahiana Aho<br/>Dia ho vanona sy tsara ny voa.>></lines>
+      <lines>:<br/>&lt;&lt;Ka tsapao amin'izany Aho<br/>Dia ho hitanareo tokoa,<br/>Handrotsa-pitahiana Aho<br/>Dia ho vanona sy tsara ny voa.&gt;&gt;</lines>
     </verse>
     <verse name="v2">
       <lines>Hoy indray ny Tompo amintsika izao :<br/>Ny fanatitra izay omena<br/>Dia ho famonjena ireo namanao<br/>Ary koa ny firenena.<br/>Ka tsapao amin'izany, sns.</lines>

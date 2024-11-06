@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:58:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:03">
   <properties>
     <titles>
       <title>183 - RY FANAHY MASINA O!</title>
@@ -19,7 +19,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Ry Fanahy Masina ô,<br/>'Zay Mpitari-dalana,<br/>Asehoy anay Jeso,<br/>Hany lala-marina.<br/>Manantena Anao 'zahay<br/>Mba hitantana anay,<br/>Hiantso hoe : <<Avia aty ! >><br/>O ! tazano Kalvary.</lines>
+      <lines>Ry Fanahy Masina ô,<br/>'Zay Mpitari-dalana,<br/>Asehoy anay Jeso,<br/>Hany lala-marina.<br/>Manantena Anao 'zahay<br/>Mba hitantana anay,<br/>Hiantso hoe : &lt;&lt;Avia aty ! &gt;&gt;<br/>O ! tazano Kalvary.</lines>
     </verse>
     <verse name="v2">
       <lines>Hitoeranao anie,<br/>Ho fonena-masinao,<br/>'Zao nyh fonay meloka e,<br/>Rehefa nodiovinao.<br/>O ! reseo ny tahotray,<br/>Aoka ho sahy izahay,<br/>Irak'i Jesosy tia,<br/>Maty teny Kalvary.</lines>

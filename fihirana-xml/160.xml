@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:58:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:03">
   <properties>
     <titles>
       <title>160 - EFA NAMPIOMANA AHY SY ANAO KRISTY</title>
@@ -19,13 +19,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Efa nampiomana ahy sy ianao Kristy :<br/><<Indro avy faingana Aho>>.<br/>Hojinjaina sy hotsaraina ny olona ety,<br/><<Indro avy faingana Aho>>.<br/>Ary eto amiko ny famaliako,<br/><<Indro avy faingana Aho>>.<br/>Hamaliako ireo nanao na tsia ny sitrako,<br/><<Indro avy faingana Aho>>.</lines>
+      <lines>Efa nampiomana ahy sy ianao Kristy :<br/>&lt;&lt;Indro avy faingana Aho&gt;&gt;.<br/>Hojinjaina sy hotsaraina ny olona ety,<br/>&lt;&lt;Indro avy faingana Aho&gt;&gt;.<br/>Ary eto amiko ny famaliako,<br/>&lt;&lt;Indro avy faingana Aho&gt;&gt;.<br/>Hamaliako ireo nanao na tsia ny sitrako,<br/>&lt;&lt;Indro avy faingana Aho&gt;&gt;.</lines>
     </verse>
     <verse name="c1">
-      <lines>:<br/><<Indro avy faingana Aho>>.<br/>Hamaly ny asanao<br/><<Indro avy faingana Aho>>.<br/>Miomàna ianao.</lines>
+      <lines>:<br/>&lt;&lt;Indro avy faingana Aho&gt;&gt;.<br/>Hamaly ny asanao<br/>&lt;&lt;Indro avy faingana Aho&gt;&gt;.<br/>Miomàna ianao.</lines>
     </verse>
     <verse name="v2">
-      <lines>Sambatra izay manasa ny akanjony<br/><<Indro avy faingana Aho>>.<br/>Lanitra no valin'asa 'zay ho azony,<br/><<Indro avy faingana Aho>>.<br/>Vetivety, kely sisa dia hifarana eo<br/><<Indro avy faingana Aho>>.<br/>Ka anjely alin-kisa no hanandram-peo,<br/><<Indro avy faingana Aho>>.<br/>Indro, sns.</lines>
+      <lines>Sambatra izay manasa ny akanjony<br/>&lt;&lt;Indro avy faingana Aho&gt;&gt;.<br/>Lanitra no valin'asa 'zay ho azony,<br/>&lt;&lt;Indro avy faingana Aho&gt;&gt;.<br/>Vetivety, kely sisa dia hifarana eo<br/>&lt;&lt;Indro avy faingana Aho&gt;&gt;.<br/>Ka anjely alin-kisa no hanandram-peo,<br/>&lt;&lt;Indro avy faingana Aho&gt;&gt;.<br/>Indro, sns.</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:58:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:03">
   <properties>
     <titles>
       <title>418 - NANANAN-TROSA AHO E</title>
@@ -19,10 +19,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>-TROSA AHO<br/>1<br/><< nananan-trosa aho e :<br/>Nefa tsy nahaonitra >><br/><< Trosa ohatrinona moa re ? >><br/><< Tsy fantatrao, mavesatra >>.</lines>
+      <lines>-TROSA AHO<br/>1<br/>&lt;&lt; nananan-trosa aho e :<br/>Nefa tsy nahaonitra &gt;&gt;<br/>&lt;&lt; Trosa ohatrinona moa re ? &gt;&gt;<br/>&lt;&lt; Tsy fantatrao, mavesatra &gt;&gt;.</lines>
     </verse>
     <verse name="c1">
-      <lines>:<br/>Hoatrinona, ry Tompo ô !<br/>No onintry ny avotra<br/>handoavanao ny trosako ?<br/><< Mpanota ô ! fitiavana >></lines>
+      <lines>:<br/>Hoatrinona, ry Tompo ô !<br/>No onintry ny avotra<br/>handoavanao ny trosako ?<br/>&lt;&lt; Mpanota ô ! fitiavana &gt;&gt;</lines>
     </verse>
     <verse name="v2">
       <lines>Jeso niady mba ho ahy<br/>Irery tao Getsemane,<br/>Niaritra hanafaka ahy.<br/>Hoatrinona ? mavesatra e !<br/>Hoatrinona, ry Tompo, sns.</lines>
@@ -31,7 +31,7 @@
       <lines>'Lay hazo fijaliana<br/>'zay nilatsahan'ny ranao,<br/>Moa azoko onerana ?<br/>Hoatrinona, Tompo, lazao ?<br/>Hoatrinona, ry Tompo, sns.</lines>
     </verse>
     <verse name="v4">
-      <lines>Jesosy ô ! fitiavam-be<br/>Nandoavanao ny trosako.<br/>Ampio aho hanao hoe :<br/><< Ho tiako koa Jesosiko >><br/>Hoatrinona, ry Tompo, sns.</lines>
+      <lines>Jesosy ô ! fitiavam-be<br/>Nandoavanao ny trosako.<br/>Ampio aho hanao hoe :<br/>&lt;&lt; Ho tiako koa Jesosiko &gt;&gt;<br/>Hoatrinona, ry Tompo, sns.</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:58:59">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:04">
   <properties>
     <titles>
       <title>608 - FAHINY FONY AHO MBOLA ZAZA</title>
@@ -19,10 +19,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Fahiny fony aho mbola zaza<br/>Hariva vao mitsaha-milalao.<br/>Nanaraka ny làla-mahazatra<br/>Tsy ela dia ny antso no injao :<br/><<Modia fa hisakafo izao<br/>Hariva ny andro.<br/>Modia fa antsoin'ny renina.>><br/>Dia nody ihany aho.</lines>
+      <lines>Fahiny fony aho mbola zaza<br/>Hariva vao mitsaha-milalao.<br/>Nanaraka ny làla-mahazatra<br/>Tsy ela dia ny antso no injao :<br/>&lt;&lt;Modia fa hisakafo izao<br/>Hariva ny andro.<br/>Modia fa antsoin'ny renina.&gt;&gt;<br/>Dia nody ihany aho.</lines>
     </verse>
     <verse name="v2">
-      <lines>Indray andro tan-tsisin'ny fandriany<br/>Raha niara-nandohalika izahay,<br/>Dia toa nandre feo miantso koa i Neny<br/>Feo to miantso avy amin'ny Ray :<br/><<Modia fa hisakafo izao<br/>Hariva ny andro.<br/>Modia fa antsoin'ny renina.>><br/>Dia nody ihany aho.</lines>
+      <lines>Indray andro tan-tsisin'ny fandriany<br/>Raha niara-nandohalika izahay,<br/>Dia toa nandre feo miantso koa i Neny<br/>Feo to miantso avy amin'ny Ray :<br/>&lt;&lt;Modia fa hisakafo izao<br/>Hariva ny andro.<br/>Modia fa antsoin'ny renina.&gt;&gt;<br/>Dia nody ihany aho.</lines>
     </verse>
     <verse name="v3">
       <lines>Misy sakafo voavoatra sy tsara<br/>Izay miandry ahy sy anao.<br/>Ny Tompo Jesosy no manambara<br/>Fa hiara-misakafo aminao.<br/>Modia fa ora mety izao<br/>Hariva ny andro<br/>Modia antsoin'ny Tomponao<br/>Raiso ny akanjo.</lines>

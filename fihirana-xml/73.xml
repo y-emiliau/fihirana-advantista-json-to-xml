@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:58:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:03">
   <properties>
     <titles>
       <title>073 - TOA MANJOMBONA</title>
@@ -22,7 +22,7 @@
       <lines>Toa manjombona, toa manirery<br/>Ilay sahan'i Getsemane,<br/>Tao Jesosy, 'Lay Tompo mahery,<br/>Nitaraina nivavaka hoe :</lines>
     </verse>
     <verse name="c1">
-      <lines>:<br/><<Mba esory amiko, re raha azo atao,<br/>Izao kapoaka mangidy izao ;<br/>Nefa aoka, ry Ray, izay sitraponao<br/>Fa tsy ny ahy re no atao.>></lines>
+      <lines>:<br/>&lt;&lt;Mba esory amiko, re raha azo atao,<br/>Izao kapoaka mangidy izao ;<br/>Nefa aoka, ry Ray, izay sitraponao<br/>Fa tsy ny ahy re no atao.&gt;&gt;</lines>
     </verse>
     <verse name="v2">
       <lines>He mangina tsy misy miteny<br/>Ao an-tsahan'i Getsemane<br/>Fa ny hany mba re feo malemy<br/>Dia Jesosy mivavaka hoe :<br/>Mba esory amiko, sns.</lines>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:58:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:03">
   <properties>
     <titles>
       <title>154 - TOY INONA ALINA IZAO</title>
@@ -19,13 +19,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><<Toy inona alina izao,<br/>Ry mpiambina ô, mba lazao.<br/>Moa efa miseho ve ?<br/>'Reo famantarana be ? >> <br/><<Ry mpandeha trotraka,<br/>Indro fa miposaka<br/>Ny maraina vaovao.<br/>Ka moa ve vonona ianao ? >></lines>
+      <lines>&lt;&lt;Toy inona alina izao,<br/>Ry mpiambina ô, mba lazao.<br/>Moa efa miseho ve ?<br/>'Reo famantarana be ? &gt;&gt; <br/>&lt;&lt;Ry mpandeha trotraka,<br/>Indro fa miposaka<br/>Ny maraina vaovao.<br/>Ka moa ve vonona ianao ? &gt;&gt;</lines>
     </verse>
     <verse name="v2">
-      <lines><< Toy inona alina izao,<br/>Ry mpiambina ô, mba lazao.<br/>Efa nisandratra ve<br/>Ilay kintan-dehibe,<br/>Hanambara inona ? >><br/><<Ry mpandeha mionona :<br/>Avy Jeso Tomponao.<br/>Ka moa ve vonona ianao ? >></lines>
+      <lines>&lt;&lt; Toy inona alina izao,<br/>Ry mpiambina ô, mba lazao.<br/>Efa nisandratra ve<br/>Ilay kintan-dehibe,<br/>Hanambara inona ? &gt;&gt;<br/>&lt;&lt;Ry mpandeha mionona :<br/>Avy Jeso Tomponao.<br/>Ka moa ve vonona ianao ? &gt;&gt;</lines>
     </verse>
     <verse name="v3">
-      <lines><< Toy inona alina izao,<br/>Ry mpiambina ô, mba lazao.<br/>Mba efa mazava ve<br/>Sa mbola maizina be ? >><br/><<Ry mpandeha matokia :<br/>Avy Jeso, mifalia.<br/>Atrakao ny lohanao,<br/>Aoka ho vonona ianao. >></lines>
+      <lines>&lt;&lt; Toy inona alina izao,<br/>Ry mpiambina ô, mba lazao.<br/>Mba efa mazava ve<br/>Sa mbola maizina be ? &gt;&gt;<br/>&lt;&lt;Ry mpandeha matokia :<br/>Avy Jeso, mifalia.<br/>Atrakao ny lohanao,<br/>Aoka ho vonona ianao. &gt;&gt;</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:58:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:03">
   <properties>
     <titles>
       <title>090 - MISAOTRA ANAO 'ZAHAY</title>
@@ -22,7 +22,7 @@
       <lines>Misaotra Anao 'zahay, ry Ray,<br/>Noho ny Teninao<br/>'Zay nampiseho taminay<br/>Ny fitiavanao, (ry Ray).<br/>Na betsaka ny helokay<br/>Teo anatrehanao, (ry Ray).<br/>Dia Kristy 'lay Mpisolonay,<br/>Nifona taminao.</lines>
     </verse>
     <verse name="v2">
-      <lines>Mitebiteby fatratra<br/>Sy kivy mafy koa,<br/>Tsy nanana halahatra<br/>Fa meloka tokoa (izahay) ;<br/>Kanefa injao ny Zanakao<br/>Fa mitaraina hoe (ho anay) :<br/><<Ry Ray malala, avelao<br/>Ny helony anie>>.</lines>
+      <lines>Mitebiteby fatratra<br/>Sy kivy mafy koa,<br/>Tsy nanana halahatra<br/>Fa meloka tokoa (izahay) ;<br/>Kanefa injao ny Zanakao<br/>Fa mitaraina hoe (ho anay) :<br/>&lt;&lt;Ry Ray malala, avelao<br/>Ny helony anie&gt;&gt;.</lines>
     </verse>
     <verse name="v3">
       <lines>Atolotray an-tsitrapo,<br/>Am-pitiavana,<br/>Ny fonay sy ny saina koa<br/>Ka aza lavina (tokoa).<br/>Ny sitrapo sy didinao<br/>No ankatoavinay (indray)<br/>Ny herin'ny Fanahinao<br/>Ataovy aminay.</lines>

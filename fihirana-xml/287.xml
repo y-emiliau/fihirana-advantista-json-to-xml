@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:58:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:03">
   <properties>
     <titles>
       <title>287 - EFA MADIVA HIFARANA</title>
@@ -25,7 +25,7 @@
       <lines>Tsy vita mora ny famonjena ;<br/>Kanefa kosa indro omena.<br/>Raiso anio dia ho tsapanao<br/>Fa sarobidy tokoa ianao.<br/>Ny lanitra no ho lovanao,<br/>Ny fahoriana tsy ho fantatrao (Valio re)?<br/>Moa sitrakao ve ny ho tafita ?<br/>Ekeo ny famonjena efa vita.</lines>
     </verse>
     <verse name="v3">
-      <lines>Mila finoana ny famonjena,<br/>Safidinao fa tsy terena.<br/>Ilaina koa ny faharetanao.<br/>O ! aza kivy, ho mpandresy ianao.<br/>Hifarana izao rehetra izao,<br/>Hitsangana tokoa ianao (Hidera).<br/>Ka hanansra-peo sy hankalaza :<br/><<Indro fa tonga Ilay nandrasana.>></lines>
+      <lines>Mila finoana ny famonjena,<br/>Safidinao fa tsy terena.<br/>Ilaina koa ny faharetanao.<br/>O ! aza kivy, ho mpandresy ianao.<br/>Hifarana izao rehetra izao,<br/>Hitsangana tokoa ianao (Hidera).<br/>Ka hanansra-peo sy hankalaza :<br/>&lt;&lt;Indro fa tonga Ilay nandrasana.&gt;&gt;</lines>
     </verse>
   </lyrics>
 </song>

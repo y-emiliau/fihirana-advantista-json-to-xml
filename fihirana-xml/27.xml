@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:58:57">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:03">
   <properties>
     <titles>
       <title>027 - AVIA RY VAZAN-TANY O!</title>
@@ -28,7 +28,7 @@
       <lines>Avia, ry voavonjy ô !<br/>Ka mifalia avokoa,<br/>Fa afa-doza ianareo ;<br/>Miraisa feo ka mihirà,<br/>Derao, derao fa mendrika<br/>Ilay nanavotra anareo.<br/>Derao, derao fa mendrika<br/>Ilay nanavotra anareo.</lines>
     </verse>
     <verse name="v4">
-      <lines>Avia, ry olom-bery ô !<br/>Izay mandre ny teny soa<br/>Hoe : < Manatona Ahy izao >>,<br/>Anio ny Tompo mba fidio ;<br/>Ny fitiavany valio ;<br/>Ny fiderany koa hirao.<br/>Ny fitiavany valio ;<br/>Ny fiderany koa hirao.</lines>
+      <lines>Avia, ry olom-bery ô !<br/>Izay mandre ny teny soa<br/>Hoe : &lt; Manatona Ahy izao &gt;&gt;,<br/>Anio ny Tompo mba fidio ;<br/>Ny fitiavany valio ;<br/>Ny fiderany koa hirao.<br/>Ny fitiavany valio ;<br/>Ny fiderany koa hirao.</lines>
     </verse>
   </lyrics>
 </song>

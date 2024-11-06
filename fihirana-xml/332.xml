@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:58:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:03">
   <properties>
     <titles>
       <title>332 - FENO ADIDY VE NY FONAO</title>
@@ -22,7 +22,7 @@
       <lines>Feno adidy ve ny fonao<br/>Ka tavela ny Tompo ?<br/>Ataonao mosalahy ny vavaka<br/>Sa vonona ny fonao<br/>Handray voninahitra<br/>Raha tonga anio ny Tomponao ?<br/>Irinao ve ny hahita ny Tomponao<br/>Amin'ny fiverenany e ?<br/>Iainanao ve <br/>'Zay lazain'ny vavanao ?<br/>Tena tianao ho tonga ve Jeso ?</lines>
     </verse>
     <verse name="v2">
-      <lines>Ianao miantso <<avia Jeso>> ;<br/>Nefa raha tonga Izy anio,<br/>Sao dia haneso anao ny tavany,<br/>Noho ireo ota maro maminao <br/>Ka tsy voadio,<br/>Ho henatrao mandrakizay doria.<br/>Irinao ve ny hiavian'Ilay Tomponao,<br/>Efa vonona ve ianao ?<br/>Ny ataonao ve toy izay torianao ?<br/>Tena tianao ho tonga ve Jeso ?</lines>
+      <lines>Ianao miantso &lt;&lt;avia Jeso&gt;&gt; ;<br/>Nefa raha tonga Izy anio,<br/>Sao dia haneso anao ny tavany,<br/>Noho ireo ota maro maminao <br/>Ka tsy voadio,<br/>Ho henatrao mandrakizay doria.<br/>Irinao ve ny hiavian'Ilay Tomponao,<br/>Efa vonona ve ianao ?<br/>Ny ataonao ve toy izay torianao ?<br/>Tena tianao ho tonga ve Jeso ?</lines>
     </verse>
   </lyrics>
 </song>

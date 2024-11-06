@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:58:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:03">
   <properties>
     <titles>
       <title>400 - TSY FANTATRAO ANIO</title>
@@ -31,7 +31,7 @@
       <lines>Na dia mandrahona anio ;<br/>Izaho Masoandronao,<br/>Ny lanitra dia mbola hadio<br/>Ary hazava aminao.<br/>Apetrako aminao tokoa, sns.</lines>
     </verse>
     <verse name="v4">
-      <lines><< Rehefa hazava aminao<br/>Ny fitondrako mahasoa,<br/>Dia ho fisaorana izao<br/>Ary hameno ny fonao. >><br/>Apetrako aminao tokoa, sns.</lines>
+      <lines>&lt;&lt; Rehefa hazava aminao<br/>Ny fitondrako mahasoa,<br/>Dia ho fisaorana izao<br/>Ary hameno ny fonao. &gt;&gt;<br/>Apetrako aminao tokoa, sns.</lines>
     </verse>
   </lyrics>
 </song>

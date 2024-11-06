@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T11:59:00">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-11-06T19:00:04">
   <properties>
     <titles>
       <title>653 - ALINA NY ANDRO</title>
@@ -22,10 +22,10 @@
       <lines>Alina ny andro 'iay sambokely<br/>Natopatopan'ny onja izao ;<br/>Ny rivo-doza koa dia namely,<br/>Ô ! fahoriana, Jesosy tsy tao.<br/>Indro anefa, fa nisy mazava<br/>Nanelatrelatra tampoka e !<br/>Toy ny endrika izay nampisava<br/>Ny horohoron'ilay alim-be.</lines>
     </verse>
     <verse name="v2">
-      <lines>'Njao reny tsara, na mafy ny onja,<br/>Feo nampitony ny fon'izy ireo ;<br/>Tsy be akory, indraim-bava monja :<br/>'Zaho ihany, todiho, jereo !<br/><<Tompo malala asaivo mankeny 'ty mpianatrao>><br/>Hoy ny anankiray.<br/><<Avia hoy ny valin'ny teny,<br/>Miantoraha eo an-tsandrin'ny Ray>>.</lines>
+      <lines>'Njao reny tsara, na mafy ny onja,<br/>Feo nampitony ny fon'izy ireo ;<br/>Tsy be akory, indraim-bava monja :<br/>'Zaho ihany, todiho, jereo !<br/>&lt;&lt;Tompo malala asaivo mankeny 'ty mpianatrao&gt;&gt;<br/>Hoy ny anankiray.<br/>&lt;&lt;Avia hoy ny valin'ny teny,<br/>Miantoraha eo an-tsandrin'ny Ray&gt;&gt;.</lines>
     </verse>
     <verse name="v3">
-      <lines>Nefa niahotra fa mafy loatra<br/>Ny fisafaoky ny ranobe :<br/><<Tompo vonjeo fa tsy afa-manoatra,<br/>Ny sandrinao, ô, ahinjiro re !>><br/>Avy hatrany, tsy nijery foana,<br/>Ilay Mpamonjy nandray azy 'zao :<br/>Nahoana re no dia kely finoana,<br/>Niahanahana re ianao ?>></lines>
+      <lines>Nefa niahotra fa mafy loatra<br/>Ny fisafaoky ny ranobe :<br/>&lt;&lt;Tompo vonjeo fa tsy afa-manoatra,<br/>Ny sandrinao, ô, ahinjiro re !&gt;&gt;<br/>Avy hatrany, tsy nijery foana,<br/>Ilay Mpamonjy nandray azy 'zao :<br/>Nahoana re no dia kely finoana,<br/>Niahanahana re ianao ?&gt;&gt;</lines>
     </verse>
     <verse name="v4">
       <lines>Tompo tsy miova, ny fiainako koa<br/>Toa dia mahery manonja izao :<br/>He ! loza maro indray mahavoa<br/>Mila hanafotra 'lay tianao.<br/>Ampaherezo fa kely finoana ;<br/>Tazony mafy an-tananao re<br/>Raha sendra kivy, ô, aza hadinoina<br/>Rarao ny onja, savao ny alim-be.</lines>

@@ -232,8 +232,7 @@ function createXMLSong($number, $xml) {
     }
     $filepath = $directory . '/' . $number . '.xml';
     $file = fopen($filepath, 'w');
-    $xml = str_replace("&lt;" ,"<", $xml);
-    $xml = str_replace("&gt;" ,">", $xml);
+    $xml = str_replace("&lt;br/&gt;" ,"<br/>", $xml);
     $xml = str_replace("&#13;" ,"", $xml);
     $xml = str_replace("–" ,"-", $xml);
     
