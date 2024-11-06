@@ -1,7 +1,7 @@
 <?php
 
 $hostname = 'localhost';
-$username = 'root';
+$username = 'developa';
 $password = '';
 $database = 'malagasy_adventist_hymnal';
 
