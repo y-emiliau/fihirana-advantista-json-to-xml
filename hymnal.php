@@ -165,7 +165,7 @@ function createXML($connection) {
 
         $songbooksD = $docD->createElement('songbooks');
         $songbookD = $docD->createElement('songbook');
-        $songbookD->setAttribute('name', htmlspecialchars('Fihirana Advantista'));
+        $songbookD->setAttribute('name', htmlspecialchars('SDA Hymnal'));
         $songbooksD->appendChild($songbookD);
         $propertiesD->appendchild($songbooksD);
 
